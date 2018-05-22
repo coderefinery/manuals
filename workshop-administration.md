@@ -30,6 +30,8 @@ Please improve these notes with issues and pull requests.
 - Mention GitLab service
 - Brief program walkthru
 - Mention that all material is online and CC-BY-SA
+- Welcome contributions to the material (issues or pull requests)
+- Advertise opportunities to contribute as helper or instructor at future workshops
 - Explain teaching style and sticky notes visual feedback
 - Encourage (optional) session feedback (one aspect you enjoyed, one aspect we need to improve)
 - Announce that there will be a 6 months feedback that will take 5 minutes time to complete
