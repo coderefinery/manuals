@@ -48,38 +48,6 @@ Please improve these notes with issues and pull requests.
 - Encourage sharing links and asking also in shared document
 - Collect lunch options in shared document
 
-# Before each lesson
-
-- Move you `.bashrc` and `.gitconfig` files to somewhere else before
-  you begin.  You want your environment to match the student's as
-  closely as possible.
-
-- Create a nice, large shell window with good contrast on the screen.
-  Beware of colorized text, such as the red in "git diff".
-
-- Make sure the text is more than large enough - people are not just
-  reading, but struggling to find the important parts.
-
-- Show your shell history in a separate window, so that students can
-  see the last few commands you ran without scanning through all of
-  the output.
-
-  - Easy method: Set `PROMPT_COMMAND="history -a"` and in another
-    window, run `tail f -n 0 ~/.bash_history`.  Show a few lines of
-    the tail window at the top of the screen, above your main shell
-    window.  This method doesn't work in subshells, ssh, etc. but is
-    simple and effective.
-
-  - Advanced method: In your main demonstration window, run `script`
-    to record files.  In the history window, run this `tail` command
-    which prints just the command out of the history.  Note that the
-    regex is rather fragile adn it seems the printing starts on the
-    second line only.
-
-    - `script -f demos.out`
-    - `tail -n 0 -f demos.out | awk '{ if (match($0,/^[^@]+@[^$]+[$][^ ]+ (.*)/,m)) print m[1] }'`
-    - `tail -n 0 -f demos.out | egrep --line-buffered '^[^@ ]+@[^$]+\$'`  (more robust, but shows the whole prompt)
-
 # During workshop
 
 - Keep up interactive feel by encouraging and asking questions
