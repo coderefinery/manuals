@@ -44,27 +44,31 @@ do."
 
 A manual is reference, a tutorial builds a cognitive model.  If you
 can build the cognitive model, tell them the "why", students may be
-able to refer to the manuals themselves.
+able to refer to the manuals themselves.  Teaching should be more
+tutorial, with good links to manuals (it can also explicitly teach
+how to use the manuals).
 
 
 ## Planning
 
 - Do some planning, and *document it* - the design process helps
-  others to teach and modify.  At least put it in the README.
+  others to teach and modify.  At least put it in the README.  (this
+  is the **designer/maintainer's guide**)
 - Make learner personas: what is your target audience?
 - Decide learning objectives based on the personas: high-level end
   goals.  What students get out, not what they do.
-- Also make a *guide* for teaching, "if you want to present this, do
-  this" - can be combined with planning material, but there's a
-  difference between lesson design and how to teach.
+- Also make a *guide* for teaching (**instructor's guide**), "if you
+  want to present this, do this".
   - How much preparation is needed?  Is it enough to know the topic
     and have read the material?
   - Things to prepare before the presentation.  Does anything need to
     be set up?
-  - Practical notes on presenting
-  - Are there solutions to exercises somewhere?  Are they needed?
+  - Practical notes on presenting.
+  - Are there solutions to exercises somewhere?  Are they needed?u
   - Include some pre-assessment questions which can be asked at the
     beginning.
+  - Perhaps you should do this at the end, but at least starting the
+    instructor's guide at the beginning will frame your writing.
 
 
 ## Writing
@@ -79,6 +83,8 @@ exercises.
   should you care and why is this cool?
 - This should also be at the start and end of each section: not what
   or how, but why?
+- Part of this is also having a **student's guide**, so that
+  people independently studying can know how to follow the material.
 - It's OK to have more material than can be presented or than people
   should know, but *label things well*, including *labeling the difficulty*.
   - In the beginning, what sections are expected to be taught in
@@ -89,6 +95,7 @@ exercises.
 Plan for mixed abilities.  It's OK to have optional (basic) and
 advanced sections, as long as they are clearly labeled.
 
+Once you are done, update maintainer's and instructor's guides.
 
 ## Exercise types
 
@@ -142,3 +149,29 @@ More conceptual:
   - Human dimension
   - Caring
   - Learning how to learn
+
+
+## Reviewing existing lessons
+Are you trying to improve/maintain a lesson that already exists?
+This section is for you.
+
+Always start with the big picture: does it make sense?
+
+- Instructor's guide (see topics above)
+  - What sections should be taught for what audiences
+  - Common pitfalls
+- Student's guide and framing.
+- Exercises labeled with difficulty, optional, etc.
+- Are the intros emotionally motivating enough?
+- Read the intro and conclusion to every section/episode.
+  - Do they make sense in order?
+  - Are they motivating/wrapping up well enough?
+- After you're done analyzing, is there anything in the maintainer's
+  guide you need to update?
+
+After the above, do the details.  Remember the guides still.
+
+Before you start major refactoring and rewriting, think if it makes
+sense.  Have you figured out why it's the way it is based on the
+instructor's guide?  If you do a big refactoring, make sure you update
+the maintainer's guide!
