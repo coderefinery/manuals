@@ -8,13 +8,15 @@ teaching, it's not all intuition.  Many citations are included.
 
 This page contains a summary of the most important points.  The point
 is that one can quickly refer to this before writing a new lesson or
-teaching a course.
+teaching a course.  The article [Ten quick tips for creating an
+effective lesson](https://doi.org/10.1371/journal.pcbi.1006915) is
+also a good summary of the main lesson design points of this book.
 
 Useful appendices:
 * [Backwards lesson design
   template](http://teachtogether.tech/en/template/)
 * [Checklist for events](http://teachtogether.tech/en/events/)
-* []
+
 
 ## Ch1: Introduction
 * **Novice = no good mental model of what they are learning**, "not even
