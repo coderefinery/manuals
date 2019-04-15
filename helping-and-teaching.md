@@ -6,11 +6,11 @@
 
 As a helper, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
 
-- Read through the Instructor Guide for the Lessons (ask instructors if you do
-  not know where to find them)
+- Read through the instructor guides for the lessons (ask instructors if you do
+  not know where to find them).
 - Be ready to introduce yourself in one or two sentences: think about what you
   would like to convey as helpers to the classroom. How did (or does)
-CodeRefinery help you?
+  CodeRefinery help you?
 
 
 ## Tips for helping during the workshop
@@ -39,7 +39,6 @@ As a helper, you have a crucial role during workshops:
 
 
 ### Things you should not do in a workshop
-
 
 - Criticize certain programs, operating systems, or GUI applications, or
   learners who use them. (Excel, Windows, etc.)
