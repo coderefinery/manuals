@@ -154,11 +154,11 @@ itself](http://teachtogether.tech/en/classroom/).
   intrinsic motivation.  Drivers of intrinsic motivation: a)
   competence, b) autonomy, c) relatedness (connection to others).
 * Consider usefulness and time to master.  Focus on useful and fast.
-  Useful = *authentic tasks*, things people will actualyl use.
+  Useful = *authentic tasks*, things people will actually use.
 * Avoid demotivation: for adults, a) unpredictability, b)
   indifference, c) unfairness.  Specific examples: a) contemptuous
   attitude, b) saying existing skills are worthless, c) complex or
-  detailded technical discussion, d) pretending you know more than
+  detailed technical discussion, d) pretending you know more than
   they do, e) the word "just" as in, it's "just easy", f) software
   installation problems, g) giving impossible challenges to fail at to
   try to learn something, if not understanding.
