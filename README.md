@@ -8,6 +8,8 @@
   easy to write your lessons.
 - [In-class checklist](presenting.md)
 
+
 ## Other
-- [Summary of the book Teaching Teach
-  Together](teaching-tech-together.md) ([the actual book is online](http://teachtogether.tech/))
+
+- [Summary of the book Teaching Teach Together](teaching-tech-together.md)
+  ([the actual book is online](http://teachtogether.tech/))
