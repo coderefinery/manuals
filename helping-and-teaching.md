@@ -40,6 +40,12 @@ As a helper, you have a crucial role during workshops:
 
 ### Things you should not do in a workshop
 
+- Take over the learner's keyboard. It is rarely a good idea to type anything
+  for your learners and it can be demotivating for the learner because it
+  implies you don't think they can do it themselves or that you don't want to
+  wait for them. It also wastes a valuable opportunity for them to develop muscle
+  memory and other skills that are essential for independent work.  Instead, try
+  to have a sticky note pad and pen and write the commands that they should type.
 - Criticize certain programs, operating systems, or GUI applications, or
   learners who use them. (Excel, Windows, etc.)
 - Talk contemptuously or with scorn about any tool. Regardless of its
@@ -68,12 +74,6 @@ As a helper, you have a crucial role during workshops:
   convenient, students will ask.  If you are sitting in the back, student's
   wont.  Students rarely try to get your attention from across the room if you
   don't look ready.
-- Take over the learner's keyboard. It is rarely a good idea to type anything
-  for your learners and it can be demotivating for the learner because it
-  implies you don't think they can do it themselves or that you don't want to
-  wait for them. It also wastes a valuable opportunity for them to develop muscle
-  memory and other skills that are essential for independent work.  Instead, try
-  to have a sticky note pad and pen and write the commands that they should type.
 
 
 # From helper to instructor
