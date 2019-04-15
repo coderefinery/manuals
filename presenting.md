@@ -1,22 +1,23 @@
+
+
 # Lesson presentation hints.
 
 This is a checklist/hints on what to do when standing up and giving a
-presentation... more local than the [workshop administration
-page](workshop-administration.md).
+presentation.
 
 
 ## Before each lesson
 
 ### Non-technical
 
-- Remember: sticky notes, water, extra whiteboard markers, 
+- Remember: sticky notes, water, extra whiteboard markers.
 
 - Make your text large enough to be seen in the back, then bigger.
   Make your voice loud enough to be heard in the back, then louder.
 
 - As people are coming in, encourage them to sit next to someone with
   a similar operating system - then, when helping each other, the
-  un-important differences are minimized.
+  unimportant differences are minimized.
 
 - By the same token, don't allow people to sit alone: ask everyone to
   set next to at least one other person.  That way, people can help
@@ -24,9 +25,10 @@ page](workshop-administration.md).
 
 - Set up feedback system (chat, questions, etc)
 
+
 ### Technical
 
-- Move you `.bashrc` and `.gitconfig` files to somewhere else before
+- Move your `.bashrc` and `.gitconfig` files to somewhere else before
   you begin.  You want your environment to match the student's as
   closely as possible.
 
@@ -42,7 +44,7 @@ page](workshop-administration.md).
 If you are doing live shell work, you will have commands and output
 all interleaved.  Have a separate window that shows recent commands
 only, without output.  The simple way is `PROMPT_COMMAND="history -a"`
-and then `tail -f .bashrc`, but this: doesn't capture ssh, subshells,
+and then `tail -f .bashrc`, but this doesn't capture ssh, subshells,
 and only shows the command after it is completed.
 
 Also check the [shell exporter by
@@ -117,8 +119,8 @@ tail -f -n 0 ~/fish_history | sed -u -e s'/- cmd:/ \>/'
 
 ## During the lessons
 
-- Helpers can read [the helping and teaching
-  guide](helping-and-teaching.md).  Encourage helpers to stand and be
+- Helpers can read [the helping and teaching guide](helping-and-teaching.md).
+  Encourage helpers to stand and be
   constantly walking around, people rarely flag helpers from across
   the room.
 - Encourage the use of sticky notes.  They can also be used for
@@ -130,6 +132,19 @@ tail -f -n 0 ~/fish_history | sed -u -e s'/- cmd:/ \>/'
   out a command to type, write it instead.
 - If appropriate for your topic, create a cumulative
   cheatsheet/diagram on the board as you are presenting.
+
+
+### Stick to the material
+
+- Don't try to show everything, show less, but show it clearly.
+- Try not to deviate from the material. Rather influence the material before you teach.
+  If you show something that is not in the material, it may confuse participants. Of course
+  it is good to react to questions but make clear that you then deviate from the script
+  and be explicit about whether participants should follow what you do or only watch.
+- If you want to show some extra steps, show them at the end of an exercise block to not
+  "mess up" the exercise half-way and change it with respect to the material.
+- It is good to mention an anecdote or two but don't overdo it: Anecdotes have the risk
+  to introduce new jargon and be very niche and relate to only few participants.
 
 
 ## Wrap up

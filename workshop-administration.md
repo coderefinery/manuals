@@ -1,4 +1,3 @@
-Please improve these notes with issues and pull requests.
 
 
 # Pre-workshop
@@ -6,7 +5,7 @@ Please improve these notes with issues and pull requests.
 - Announce registration
 - Email persons who registered to notify-me form
 - Maintain waiting list if needed
-- Make sure schedule makes sense and that instructors know session durations
+- Workshop coordinator organizes a call with all instructors and helpers to discuss the schedule to leave no doubts about timing
 - Send out install instructions one week ahead, also ask those without Eduroam to speak up
 - Organize sticky notes
 - Organize catering
@@ -15,9 +14,11 @@ Please improve these notes with issues and pull requests.
 - Prepare a shared Google doc with global write permissions, consider creating a memorable short-link
 
 
-# Repositories that require --force clean-up before the sessions
+# Create exercise repositories
 
-- Collaborative Git requires resetting https://github.com/coderefinery/centralized-workflow-exercise and https://github.com/coderefinery/forking-workflow-exercise
+- Collaborative Git and documentation lessons require exercise repositories to
+  be set up. For this follow the instructor guides in the lesson material.
+
 
 # As people arrive
 
@@ -26,27 +27,11 @@ Please improve these notes with issues and pull requests.
   system if they have no preference, since they will face similar
   problems.
 
+
 # Introduction talk
 
-- Welcome
-- Quick background on CodeRefinery and NeIC
-- Brief presentation of instructors and helpers
-- Brief presentation of participants
-- Installation issues?
-- Mention GitLab service
-- Brief program walkthru
-- Mention that all material is online and CC-BY-SA
-- Welcome contributions to the material (issues or pull requests)
-- Advertise opportunities to contribute as helper or instructor at future workshops
-- Explain teaching style and sticky notes visual feedback
-- Encourage (optional) session feedback (one aspect you enjoyed, one aspect we need to improve)
-- Announce that there will be a 6 months feedback that will take 5 minutes time to complete
-- Check access to electricity
-- Check wireless connectivity
-- Announce coffee breaks (if any)
-- Encourage social media but give participants option to not appear anywhere
-- Encourage sharing links and asking also in shared document
-- Collect lunch options in shared document
+- See https://github.com/coderefinery/workshop-intro
+
 
 # During workshop
 
@@ -60,12 +45,11 @@ Please improve these notes with issues and pull requests.
 - Encourage optional feedback at the end of each day on sticky notes
 - Create GitHub issues for points which are confusing or problematic
 
+
 # At the end of workshop
 
 - Give credit to those who contributed and helped
-- Indicate that we distribute certificates upon request (email and/or paper snail mail)
-- Point participants to Twitter and support/discussion channels
-- Mention Nordic RSE community
+- Use https://github.com/coderefinery/workshop-outro
 
 
 # Post-workshop
