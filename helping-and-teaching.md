@@ -36,6 +36,10 @@ As a helper, you have a crucial role during workshops:
 - As we said, you don't have to know everything, just like learners don't
   necessarily know everything (we don't know everything, either).  It's more
   important to be responsive and work together.
+- Stand up and walk around, try to make rounds by everyone.  If you are
+  convenient, students will ask.  If you are sitting in the back, student's
+  wont.  Students rarely try to get your attention from across the room if you
+  don't look ready.
 
 
 ### Things you should not do in a workshop
@@ -66,14 +70,6 @@ As a helper, you have a crucial role during workshops:
   learner that they do not have some required pre-knowledge of the material you
   are teaching, that they don't belong at the workshop, and it may prevent them
   from asking questions in the future.
-
-
-### During the workshop, practically.
-
-- Stand up and walk around, try to make rounds by everyone.  If you are
-  convenient, students will ask.  If you are sitting in the back, student's
-  wont.  Students rarely try to get your attention from across the room if you
-  don't look ready.
 
 
 # From helper to instructor
