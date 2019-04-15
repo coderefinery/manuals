@@ -126,13 +126,14 @@ advanced sections, as long as they are clearly labeled.
 
 Once you are done, update maintainer's and instructor's guides.
 
+
 ## Exercise types
 
 The main point of different exercises types is to have some which have
 lower cognitive load on the learner than just "do it from scratch yourself".
 
 One of your other primary goals should be to make your exercises
-*relevant*.  Abstract will lead to disconnection, but if they relate
+*relevant*.  Abstract will lead to disconnection. Connect the exercises
 to the real world.  Also, can you tell a complete story with
 exercises?
 
@@ -168,6 +169,7 @@ More conceptual:
 
 
 ## Reference material
+
 - Bloom's taxonomy: hierarchical skill levels
   - Remembering
   - Understanding
@@ -185,6 +187,7 @@ More conceptual:
 
 
 ## Reviewing existing lessons
+
 Are you trying to improve/maintain a lesson that already exists?
 This section is for you.
 
@@ -209,3 +212,6 @@ Before you start major refactoring and rewriting, think if it makes
 sense.  Have you figured out why it's the way it is based on the
 instructor's guide?  If you do a big refactoring, make sure you update
 the maintainer's guide!
+
+Before you embark on a big refactoring step, please pitch your idea
+in a GitHub issue and collect feedback from others.
