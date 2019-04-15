@@ -1,22 +1,23 @@
+
+
 # Lesson presentation hints.
 
 This is a checklist/hints on what to do when standing up and giving a
-presentation... more local than the [workshop administration
-page](workshop-administration.md).
+presentation.
 
 
 ## Before each lesson
 
 ### Non-technical
 
-- Remember: sticky notes, water, extra whiteboard markers, 
+- Remember: sticky notes, water, extra whiteboard markers.
 
 - Make your text large enough to be seen in the back, then bigger.
   Make your voice loud enough to be heard in the back, then louder.
 
 - As people are coming in, encourage them to sit next to someone with
   a similar operating system - then, when helping each other, the
-  un-important differences are minimized.
+  unimportant differences are minimized.
 
 - By the same token, don't allow people to sit alone: ask everyone to
   set next to at least one other person.  That way, people can help
@@ -24,9 +25,10 @@ page](workshop-administration.md).
 
 - Set up feedback system (chat, questions, etc)
 
+
 ### Technical
 
-- Move you `.bashrc` and `.gitconfig` files to somewhere else before
+- Move your `.bashrc` and `.gitconfig` files to somewhere else before
   you begin.  You want your environment to match the student's as
   closely as possible.
 
@@ -42,7 +44,7 @@ page](workshop-administration.md).
 If you are doing live shell work, you will have commands and output
 all interleaved.  Have a separate window that shows recent commands
 only, without output.  The simple way is `PROMPT_COMMAND="history -a"`
-and then `tail -f .bashrc`, but this: doesn't capture ssh, subshells,
+and then `tail -f .bashrc`, but this doesn't capture ssh, subshells,
 and only shows the command after it is completed.
 
 Also check the [shell exporter by
@@ -117,8 +119,8 @@ tail -f -n 0 ~/fish_history | sed -u -e s'/- cmd:/ \>/'
 
 ## During the lessons
 
-- Helpers can read [the helping and teaching
-  guide](helping-and-teaching.md).  Encourage helpers to stand and be
+- Helpers can read [the helping and teaching guide](helping-and-teaching.md).
+  Encourage helpers to stand and be
   constantly walking around, people rarely flag helpers from across
   the room.
 - Encourage the use of sticky notes.  They can also be used for
