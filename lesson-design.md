@@ -8,6 +8,7 @@ made](teaching-tech-together.md) or [the actual
 book](http://teachtogether.tech/).  The article [Ten quick tips for creating an
 effective lesson](https://doi.org/10.1371/journal.pcbi.1006915) is
 also a good summary of the main points.
+Finally, the [Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/) gives practical information on how to design a new lesson and covers the entire lesson life-cycle with a good overview of the lesson release timeline.
 
 This doesn't replace your own knowledge in doing the actual teaching
 part.  Instead, the first half gives pointers on making sure your
