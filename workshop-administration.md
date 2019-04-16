@@ -44,6 +44,9 @@
 - Give participants some time to also experiment (do not rush the classroom through exercises)
 - Encourage optional feedback at the end of each day on sticky notes
 - Create GitHub issues for points which are confusing or problematic
+- Take active part even in the lessons you're not teaching, e.g. by asking 
+  questions and (politely) interject with clarifications when you think 
+  something is confusing to the learners
 
 
 # At the end of workshop
