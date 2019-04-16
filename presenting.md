@@ -30,7 +30,7 @@ presentation.
 
 - Move your `.bashrc` and `.gitconfig` files to somewhere else before
   you begin.  You want your environment to match the student's as
-  closely as possible.
+  closely as possible. Consider setting `export PS1="\w $ "` in terminal.
 
 - Create a nice, large shell window with good contrast on the screen.
   Beware of colorized text, such as the red in "git diff".
@@ -123,15 +123,18 @@ tail -f -n 0 ~/fish_history | sed -u -e s'/- cmd:/ \>/'
   Encourage helpers to stand and be
   constantly walking around, people rarely flag helpers from across
   the room.
-- Encourage the use of sticky notes.  They can also be used for
-  voting, e.g. red/green for two answers of a multiple choice
-  question, red=need help, green=I am done with the solution.
+- Encourage the use of sticky notes (red=need help, green=I am done with the 
+  solution). They can also be used for voting, e.g. red/green for two 
+  answers of a multiple choice question.
 - Don't touch the learner's keyboard!  This is very hard to do, since
   it's only natural to want to get things done quickly.  The best idea
   we have is to have a pen and sticky notes, when it's hard to spell
   out a command to type, write it instead.
 - If appropriate for your topic, create a cumulative
   cheatsheet/diagram on the board as you are presenting.
+- Take advantage of the mistakes/typos you make when teaching! 
+  When you do a mistake and get an error message and realize what you did wrong,
+  explain what happened since this can offer valuable insights to learners.
 
 
 ### Stick to the material
