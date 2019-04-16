@@ -92,7 +92,7 @@ If you have been helping out at a CodeRefinery workshop, you are most likely
 familiar with our [lessons](https://coderefinery.org/lessons/). 
 
 - Are there any lessons you would prefer to teach? 
-- Do you need any inputs from codeRefinery to get the confidence to teach a CodeRefinery workshop?
+- Do you need any inputs from CodeRefinery to get the confidence to teach a CodeRefinery workshop?
 
 Do not hesitate to [contact us](https://coderefinery.org/contact/) and let us
-know you are willing to teach Carpentries and/or CodeRefinery workshops!
+know you are willing to teach CodeRefinery workshops!
