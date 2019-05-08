@@ -137,17 +137,17 @@ tail -f -n 0 ~/fish_history | sed -u -e s'/- cmd:/ \>/'
   explain what happened since this can offer valuable insights to learners.
 
 
-### Stick to the material
+### Try to stick to the material
 
 - Don't try to show everything, show less, but show it clearly.
-- Try not to deviate from the material. Rather influence the material before you teach.
-  If you show something that is not in the material, it may confuse participants. Of course
-  it is good to react to questions but make clear that you then deviate from the script
+- Try not to completely deviate from the material. Ideally, rather influence the material before you teach.
+  Of course it is good to react to questions and to adapt the material to the audience, so sometimes an excursion can be very useful,
+  but make clear that you then deviate from the script
   and be explicit about whether participants should follow what you do or only watch.
-- If you want to show some extra steps, show them at the end of an exercise block to not
+- If you want to show some extra steps in the terminal, show them perhaps at the end of an exercise block to not
   "mess up" the exercise half-way and change it with respect to the material.
-- It is good to mention an anecdote or two but don't overdo it: Anecdotes have the risk
-  to introduce new jargon and be very niche and relate to only few participants.
+- It is good to mention an anecdote or two but be careful about mentioning too much new jargon which
+  only very few participants may relate to.
 
 
 ## Wrap up
