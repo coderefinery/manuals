@@ -7,7 +7,7 @@
 - Maintain waiting list if needed
 - Workshop coordinator organizes a call with all instructors and helpers to discuss the schedule to leave no doubts about timing
 - Send out practical information, including installation instructions, 2-3 week ahead. Also ask those without Eduroam to speak up. 
-  [Here is a template](templates/templates/practical-info-to-participants.txt)
+  [Here is a template](templates/practical-info-to-participants.txt)
 - Organize sticky notes
 - Organize catering
 - Organize extension cables if needed
