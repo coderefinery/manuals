@@ -41,6 +41,12 @@ presentation.
 
 ## Screencasting
 
+Set an easily-viewable prompt.  Colors may be good, or if not have a
+newline (don't little minimal color and no spacing between commands,
+it is hard to parse what's a command and what's an output.)  The
+minimum is `export PS1='\n\w \$ '`.  With color is `export
+PS1='\n\[\e[0;36m\]\w \$\[\e[0m\] '`.
+
 If you are doing live shell work, you will have commands and output
 all interleaved.  Have a separate window that shows recent commands
 only, without output.  The simple way is `PROMPT_COMMAND="history -a"`
