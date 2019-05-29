@@ -128,6 +128,19 @@ advanced sections, as long as they are clearly labeled.
 Once you are done, update maintainer's and instructor's guides.
 
 
+## Introduction (and conclusion)
+
+The introduction is the first thing people hear, and needs special
+thought.  Don't start with a cold open, just going straight to the
+topic ("what" or "how").  Instead, have some careful motivation
+("why").  It could be especially good to talk about what is wrong with
+the current state of affairs and what reasons for improvement there
+are.  Then start talking about what the improvements are.
+
+Conclusion should remind people about why this is cool and discuss
+what comes next.
+
+
 ## Exercise types
 
 The main point of different exercises types is to have some which have
