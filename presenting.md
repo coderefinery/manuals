@@ -92,6 +92,10 @@ tail -n 0 -f demos.out | awk '{ if (match($0,/^[$] (.*)/,m)) print m[1] }'
 
 # used for the fish shell (note: untested)
 tail -f -n 0 ~/fish_history | sed -u -e s'/- cmd:/ \>/'
+
+# used for zsh shell (put this into a script file)
+clear >$(tty)
+tail -n 0 -f ~/.zsh_history | awk -F\; 'NF!=1{printf("\n%s",$NF)}NF==1{printf("n %s ",$1)}'
 ```
 
 
