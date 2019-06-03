@@ -23,6 +23,10 @@ presentation.
   set next to at least one other person.  That way, people can help
   each other.
 
+- Have a pen and paper next to you.  When you notice problems in the
+  material, write it down right away during breaks in the type-along
+  parts.
+
 - Set up feedback system (chat, questions, etc)
 
 
