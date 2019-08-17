@@ -52,32 +52,56 @@ minimum is `export PS1='\n\w \$ '`.  With color is `export
 PS1='\n\[\e[0;36m\]\w \$\[\e[0m\] '`.
 
 If you are doing live shell work, you will have commands and output
-all interleaved.  Have a separate window that shows recent commands
-only, without output.  The simple way is `PROMPT_COMMAND="history -a"`
-and then `tail -f .bashrc`, but this doesn't capture ssh, subshells,
-and only shows the command after it is completed.
+all interleaved, which makes it hard to follow what you actually
+typed.  Have a separate window that shows recent commands only,
+without output.  Arrange your screen so there is the main window and
+the smaller "history" window.  The history window runs the tail
+commands and can be used as a reference for what you just did.
+
 
 Also check the [shell exporter by
 sabryr](https://github.com/Sabryr/Teaching-aids), which copies recent
 history to a remote server.
 
-Arrange your screen so there is the main window and the "history"
-window.  The history window runs the tail commands and can be used
-as a reference for what you just did.
+**Simple**: The simple way is `PROMPT_COMMAND="history -a"` and then
+`tail -f -n0 ~/.bash_history`, but this doesn't capture ssh,
+subshells, and only shows the command after it is completed.
 
-**Easy method**: Set `PROMPT_COMMAND = "history -a"` and in another window, run `tail
--f -n 0 ~/.bash_history`  (these commands have not been checked).  Show a
-few lines of the tail window at the top of the screen, above your main
-shell window.  Now, the students can see your last few commands, even
-if they scroll off the screen and without having to search for your
-prompt.  The disadvantage is that the prompt is only written after the
-command terminates.
+**Better (bash)**: This prints the output before the command is run,
+instead of after.  Tail with `tail -f ~/demos.out`.
 
-**Advanced**: Below are more advanced commands.  These might work but needs
+```
+BASH_LOG=~/demos.out
+bash_log_commands () {
+    # https://superuser.com/questions/175799
+    [ -n "$COMP_LINE" ] && return  # do nothing if completing
+    [[ "$PROMPT_COMMAND" =~ "$BASH_COMMAND" ]] && return # don't cause a preexec for $PROMPT_COMMAND
+    local this_command=`HISTTIMEFORMAT= history 1 | sed -e "s/^[ ]*[0-9]*[ ]*//"`;
+    echo "$this_command" >> "$BASH_LOG"
+}
+trap 'bash_log_commands' DEBUG
+```
+
+**Better (zsh)**: This works like above, with zsh.  Tail with `tail -f
+~/demos.out`.
+
+```
+preexec() { echo $1 >> ~/demos.out }
+```
+
+**Better (fish)**: This works like above, but for fish.  Tail with
+`tail -f ~/demos.out`.
+
+```
+function cmd_log --on-event fish_preexec ; echo "$argv" >> ~/demos.out  ; end
+```
+
+**Obselete**: The below commands rely on recording your entire session
+using `script`, and then dynamically following the output.  This
+allows you to track commands even in subshells/over ssh, but introduce
+a lot of other errors in corner cases.  These might work but needs
 debugging (there are lots of complexities in extracting out the right
-parts), but will get commands as soon as they are run and also will
-capture commands if you `ssh` to somewhere else, etc.  Note: this
-begins working after the second line you type, somehow.
+parts).  Note: some of these ignore the first line you type.
 
 ```
 script -f demos.out
@@ -93,7 +117,9 @@ tail -n 0 -f demos.out | awk '{ if (match($0,/^[^@]+@[^$]+[$][^ ]* (.*)/,m)) pri
 
 # Prompt is $ ' alone on a line.
 tail -n 0 -f demos.out | awk '{ if (match($0,/^[$] (.*)/,m)) print m[1] }'
+```
 
+```
 # used for the fish shell (note: untested)
 tail -f -n 0 ~/fish_history | sed -u -e s'/- cmd:/ \>/'
 
