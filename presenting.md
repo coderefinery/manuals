@@ -149,6 +149,9 @@ tail -n 0 -f ~/.zsh_history | awk -F\; 'NF!=1{printf("\n%s",$NF)}NF==1{printf("n
 - Take advantage of the mistakes/typos you make when teaching! 
   When you do a mistake and get an error message and realize what you did wrong,
   explain what happened since this can offer valuable insights to learners.
+- Ask "do you do X?" where X is what you are teaching.  Instead, ask
+  "how do you do Y?".  The first question implies something you are
+  doing wrong, the second is open-ended.
 
 
 ### Try to stick to the material
