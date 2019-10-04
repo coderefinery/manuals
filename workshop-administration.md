@@ -24,8 +24,8 @@ but they make sure that nothing gets forgotten.
 
 # Create exercise repositories
 
-- Collaborative Git and documentation lessons require exercise repositories to
-  be set up. For this follow the instructor guides in the lesson material.
+- The collaborative Git lesson requires exercise repositories to
+  be set up. For this follow the instructor guide in the lesson material.
 
 
 # As people arrive
