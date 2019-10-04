@@ -28,10 +28,10 @@ but they make sure that nothing gets forgotten.
   be set up. For this follow the instructor guide in the lesson material.
 
 
-# As people arrive
+# As participants arrive
 
-- Emphasize to people that you need to sit with someone - don't work alone.
-- Try to have people sit next to someone with a similar operating
+- Emphasize to participants that you need to sit with someone - don't work alone.
+- Try to have participants sit next to someone with a similar operating
   system if they have no preference, since they will face similar
   problems.
 
@@ -47,7 +47,7 @@ but they make sure that nothing gets forgotten.
 - Keep time
 - For presentations which have shell commands, create a
   cheatsheet/reference on the board in real time.
-- Remind people about sticky notes.
+- Remind participants about sticky notes.
 - Make sure we take regular breaks (at least a short break each hour)
 - Give participants some time to also experiment (do not rush the classroom through exercises)
 - Encourage optional feedback at the end of each day on sticky notes
