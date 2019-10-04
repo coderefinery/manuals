@@ -1,6 +1,6 @@
 
 
-# Diverse operation manuals, all licensed [CC-BY-SA](LICENSE)
+# Diverse operation manuals, all licensed [CC-BY](LICENSE)
 
 - [Workshop administration](workshop-administration.md)
 - [Helper's guide](helping-and-teaching.md)
