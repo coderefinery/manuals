@@ -1,5 +1,12 @@
 
 
+# Select a workhop coordinator
+
+One or two persons coordinate the workshop preparation and debrief. This does
+not mean that they do all the work - they are encouraged to delegate tasks -
+but they make sure that nothing gets forgotten.
+
+
 # Pre-workshop
 
 - Announce registration
