@@ -24,7 +24,7 @@
 # As people arrive
 
 - Emphasize to people that you need to sit with someone - don't work alone.
-- Try to have people sit next to someone with a simliar operating
+- Try to have people sit next to someone with a similar operating
   system if they have no preference, since they will face similar
   problems.
 
