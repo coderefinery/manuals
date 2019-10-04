@@ -7,6 +7,13 @@ not mean that they do all the work - they are encouraged to delegate tasks -
 but they make sure that nothing gets forgotten.
 
 
+# Other documents and references
+
+- Internal documentation with instructions on how to set up
+  a registration page: https://drive.google.com/drive/u/0/folders/1NTLSq0b0Y5xBTGPbUmBX-UPO9gjPDOvj
+- Workshop organization overview: https://github.com/orgs/coderefinery/projects/4
+
+
 # Pre-workshop
 
 - Announce registration
