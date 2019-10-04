@@ -6,7 +6,7 @@
 - Email persons who registered to notify-me form
 - Maintain waiting list if needed
 - Workshop coordinator organizes a call with all instructors and helpers to discuss the schedule to leave no doubts about timing
-- Send out practical information, including installation instructions, 2-3 week ahead. Also ask those without Eduroam to speak up. 
+- Send out practical information, including installation instructions, 2-3 week ahead. Also ask those without Eduroam to speak up.
   [Here is a template](templates/practical-info-to-participants.txt)
 - Organize sticky notes
 - Organize catering
@@ -45,8 +45,8 @@
 - Give participants some time to also experiment (do not rush the classroom through exercises)
 - Encourage optional feedback at the end of each day on sticky notes
 - Create GitHub issues for points which are confusing or problematic
-- Take active part even in the lessons you're not teaching, e.g. by asking 
-  questions and (politely) interject with clarifications when you think 
+- Take active part even in the lessons you're not teaching, e.g. by asking
+  questions and (politely) interject with clarifications when you think
   something is confusing to the learners
 
 
