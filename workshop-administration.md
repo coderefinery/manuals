@@ -1,30 +1,74 @@
 
 
+# Select a workhop coordinator
+
+One or two persons coordinate the workshop preparation and debrief. This does
+not mean that they do all the work - they are encouraged to delegate tasks -
+but they make sure that nothing gets forgotten.
+
+
+# Other documents and references
+
+- Internal documentation with instructions on how to set up
+  a registration page: https://drive.google.com/drive/u/0/folders/1NTLSq0b0Y5xBTGPbUmBX-UPO9gjPDOvj
+- Workshop organization overview: https://github.com/orgs/coderefinery/projects/4
+
+
 # Pre-workshop
 
-- Announce registration
+First steps:
+- Assemble a team of 3 instructors
+- Reserve dates (coordinate this with the instructors)
+- Reserve room
+- Select a workshop coordinator
+- Workshop coordinator creates a ticket with a checklist on https://github.com/orgs/coderefinery/projects/4 and takes it (self-assigns)
+
+Set up workshop page:
+- Create a workshop page on https://github.com/coderefinery/coderefinery.org
+- Create a registration form following https://drive.google.com/drive/u/0/folders/1NTLSq0b0Y5xBTGPbUmBX-UPO9gjPDOvj
+- Open and test registration
+
+Announcing the workshop:
+- Twitter
 - Email persons who registered to notify-me form
-- Maintain waiting list if needed
-- Workshop coordinator organizes a call with all instructors and helpers to discuss the schedule to leave no doubts about timing
-- Send out practical information, including installation instructions, 2-3 week ahead. Also ask those without Eduroam to speak up. 
-  [Here is a template](templates/practical-info-to-participants.txt)
+- Use local mailing lists and all channels possible
+
+Distribute the work:
+- Make sure lessons are distributed
+- Recruit helpers
+
+Prepare practicals:
+- Order catering (coffee, tea, water, fruit, something sweet, etc.)
 - Organize sticky notes
-- Organize catering
 - Organize extension cables if needed
 - Organize alternative wireless for those without Eduroam (if any)
+
+Keep communication with participants:
+- Remind registered participants that they are either expected to show up or to cancel participation
+- Maintain waiting list if needed
+- Make sure we have enough pre-survey answers
+- Close registration on the workshop page
+
+1-2 weeks before the workshop:
+- Workshop coordinator organizes a call with all instructors and helpers to discuss the schedule to leave no doubts about timing. Also
+  discuss the survey results.
+- Send out practical information, including installation instructions, 2-3 week ahead. Also ask those without Eduroam to speak up.
+  [Here is a template](templates/practical-info-to-participants.txt)
+
+Right before the workshop starts:
 - Prepare a shared Google doc with global write permissions, consider creating a memorable short-link
 
 
 # Create exercise repositories
 
-- Collaborative Git and documentation lessons require exercise repositories to
-  be set up. For this follow the instructor guides in the lesson material.
+- The collaborative Git lesson requires exercise repositories to
+  be set up. For this follow the instructor guide in the lesson material.
 
 
-# As people arrive
+# As participants arrive
 
-- Emphasize to people that you need to sit with someone - don't work alone.
-- Try to have people sit next to someone with a simliar operating
+- Emphasize to participants that you need to sit with someone - don't work alone.
+- Try to have participants sit next to someone with a similar operating
   system if they have no preference, since they will face similar
   problems.
 
@@ -40,13 +84,13 @@
 - Keep time
 - For presentations which have shell commands, create a
   cheatsheet/reference on the board in real time.
-- Remind people about sticky notes.
+- Remind participants about sticky notes.
 - Make sure we take regular breaks (at least a short break each hour)
 - Give participants some time to also experiment (do not rush the classroom through exercises)
 - Encourage optional feedback at the end of each day on sticky notes
 - Create GitHub issues for points which are confusing or problematic
-- Take active part even in the lessons you're not teaching, e.g. by asking 
-  questions and (politely) interject with clarifications when you think 
+- Take active part even in the lessons you're not teaching, e.g. by asking
+  questions and (politely) interject with clarifications when you think
   something is confusing to the learners
 
 
