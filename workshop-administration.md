@@ -9,9 +9,9 @@ but they make sure that nothing gets forgotten.
 
 # Other documents and references
 
-- Internal documentation with instructions on how to set up
-  a registration page: https://drive.google.com/drive/u/0/folders/1NTLSq0b0Y5xBTGPbUmBX-UPO9gjPDOvj
 - Workshop organization overview: https://github.com/orgs/coderefinery/projects/4
+- Instructions on how to set up a registration page: [indico-workshop-management.md](indico-workshop-management.md)
+- Email templates for workshop communication (to be migrated this repo): [CR Google drive/manuals/email-templates/](https://drive.google.com/drive/folders/0B3i0ZRReqpSxTXpGUVVTbmtuX0k)
 
 
 # Pre-workshop
@@ -25,7 +25,7 @@ First steps:
 
 Set up workshop page:
 - Create a workshop page on https://github.com/coderefinery/coderefinery.org
-- Create a registration form following https://drive.google.com/drive/u/0/folders/1NTLSq0b0Y5xBTGPbUmBX-UPO9gjPDOvj
+- Create a registration form following [indico-workshop-management.md](indico-workshop-management.md).
 - Open and test registration
 
 Announcing the workshop:
