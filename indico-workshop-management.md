@@ -23,7 +23,7 @@ To create a new workshop page, it is easiest to clone a previous event. This cop
    - Click “Edit” on the “General settings”
    - Update the registration form name and both the fields “Contact info” and “List of recipients” with your own email address to get notifications on new registrations. 
    - **Waiting list:**
-   - *To implement a waiting list, we use moderated registrations and confirm all registrations up to max capacity (eg. 40). Registrations after that up to maximum number of participants (eg. 60) are left unconfirmed and an email is sent to registrant that he/she is on the waiting list. Now we have waiting list of 60 - 40 = 20.*
+   - *Indico doesn't have an actual waiting list functionality. To implement a waiting list, we use moderated registrations and confirm all registrations up to max capacity (eg. 40). Registrations after that up to maximum number of participants (eg. 60) are left unconfirmed and an email is sent manually from Indico to the registrant that he/she is on the waiting list. Now we have a waiting list of size 60 - 40 = 20.*
    - Activate “Moderated” which will require each registration to be approved.
    - Set maximum number of participants (after which registration is closed), Click “Save”. This should be *room capacity* + *waiting list size*.
 ### Import survey
