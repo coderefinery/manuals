@@ -1,6 +1,6 @@
-# Guide on how to use Indico for managing workshops 
+# Guide on how to use Indico for managing workshops
 
-We use the NeIC Indico service, https://indico.neic.no/, so you need to create an account at https://indico.neic.no/login/ 
+We use the NeIC Indico service, https://indico.neic.no/, so you need to create an account at https://indico.neic.no/login/
 
 Radovan, Thor, and Sabry are managers of the CodeRefinery category in indico.neic.no and will need to grant you permissions to create event pages.
 
@@ -15,13 +15,13 @@ To create a new workshop page, it is easiest to clone a previous event. This cop
 - For “What should be cloned”, select “ACLs and protection settings” and “Registration forms”. Click “Next”
 - Confirm category “CodeRefinery”, and click Next
 - Select the start date and time of the workshop, click Next.
-- You are now on the cloned event page (confirm that the event number changed), and you should start updating the information. 
+- You are now on the cloned event page (confirm that the event number changed), and you should start updating the information.
 ### Update copied event information
 - Update the Title, Description, Date, Time, Room, Venue and Address fields by clicking the pen symbols on the right.
-- Click “Registration” from the left-hand menu, and confirm that there’s a registration form. 
+- Click “Registration” from the left-hand menu, and confirm that there’s a registration form.
 - Click the “Manage” button on the “List of registration forms”,
    - Click “Edit” on the “General settings”
-   - Update the registration form name and both the fields “Contact info” and “List of recipients” with your own email address to get notifications on new registrations. 
+   - Update the registration form name and both the fields “Contact info” and “List of recipients” with your own email address to get notifications on new registrations.
    - **Waiting list:**
    - *Indico doesn't have an actual waiting list functionality. To implement a waiting list, we use moderated registrations and confirm all registrations up to max capacity (eg. 40). Registrations after that up to maximum number of participants (eg. 60) are left unconfirmed and an email is sent manually from Indico to the registrant that he/she is on the waiting list. Now we have a waiting list of size 60 - 40 = 20.*
    - Activate “Moderated” which will require each registration to be approved.
@@ -39,6 +39,6 @@ To create a new workshop page, it is easiest to clone a previous event. This cop
 - Go to the Registration page from the left-hand menu, and click “Manage”.
 - It will say “Registrations are not open yet”. Click “Start now” to open for registrations.
 - Click the blue “Switch to display view” on the top left.
-- Confirm that both the “Surveys” and “Registration” links can be seen. 
+- Confirm that both the “Surveys” and “Registration” links can be seen.
 - Click both links to do a test registration
 - Once you manage to test-register, update the workshop webpage, and announce via Twitter.

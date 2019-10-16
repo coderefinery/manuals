@@ -26,11 +26,11 @@ First steps:
 Set up workshop page:
 - Import the template at https://github.com/coderefinery/template-workshop-webpage to your username
   or the coderefinery organization, and name it like "2019-10-16-somecity".
-- Update the required fields in `index.md` and push the commits. 
+- Update the required fields in `index.md` and push the commits.
   The page should now be served at *username.github.io/2019-10-16-somecity/*.
 - If the workshop should be listed on https://coderefinery.org:
   - (Fork and) clone https://github.com/coderefinery/coderefinery.org
-  - Under `coderefinery.org/_workshops/`, add a file named like `2019-10-16-somecity.md` which contains 
+  - Under `coderefinery.org/_workshops/`, add a file named like `2019-10-16-somecity.md` which contains
     the fields permalink, city and dates. For example:
     ```
     ---

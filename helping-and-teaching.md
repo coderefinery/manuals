@@ -27,9 +27,9 @@ please mention it to one of instructors.
 
 As a helper, you have a crucial role during workshops:
 
-- Encourage learners to learn from each other. 
+- Encourage learners to learn from each other.
 - Acknowledge that some of the material can be difficult and that they will
-  learn more working together. 
+  learn more working together.
 - Acknowledge when learners are confused and raise it to the instructors.
   Understanding why learners are confused provides useful feedback for
   instructors. You should be our eyes and ears.
@@ -89,9 +89,9 @@ participate, and influence.
 ## What knowledge is needed?
 
 If you have been helping out at a CodeRefinery workshop, you are most likely
-familiar with our [lessons](https://coderefinery.org/lessons/). 
+familiar with our [lessons](https://coderefinery.org/lessons/).
 
-- Are there any lessons you would prefer to teach? 
+- Are there any lessons you would prefer to teach?
 - Do you need any inputs from CodeRefinery to get the confidence to teach a CodeRefinery workshop?
 
 Do not hesitate to [contact us](https://coderefinery.org/contact/) and let us

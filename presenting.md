@@ -163,8 +163,8 @@ tail -n 0 -f ~/.zsh_history | awk -F\; 'NF!=1{printf("\n%s",$NF)}NF==1{printf("n
   Encourage helpers to stand and be
   constantly walking around, people rarely flag helpers from across
   the room.
-- Encourage the use of sticky notes (red=need help, green=I am done with the 
-  solution). They can also be used for voting, e.g. red/green for two 
+- Encourage the use of sticky notes (red=need help, green=I am done with the
+  solution). They can also be used for voting, e.g. red/green for two
   answers of a multiple choice question.
 - Don't touch the learner's keyboard!  This is very hard to do, since
   it's only natural to want to get things done quickly.  The best idea
@@ -172,7 +172,7 @@ tail -n 0 -f ~/.zsh_history | awk -F\; 'NF!=1{printf("\n%s",$NF)}NF==1{printf("n
   out a command to type, write it instead.
 - If appropriate for your topic, create a cumulative
   cheatsheet/diagram on the board as you are presenting.
-- Take advantage of the mistakes/typos you make when teaching! 
+- Take advantage of the mistakes/typos you make when teaching!
   When you do a mistake and get an error message and realize what you did wrong,
   explain what happened since this can offer valuable insights to learners.
 - Ask "do you do X?" where X is what you are teaching.  Instead, ask
