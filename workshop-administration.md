@@ -24,7 +24,22 @@ First steps:
 - Workshop coordinator creates a ticket with a checklist on https://github.com/orgs/coderefinery/projects/4 and takes it (self-assigns)
 
 Set up workshop page:
-- Create a workshop page on https://github.com/coderefinery/coderefinery.org
+- Import the template at https://github.com/coderefinery/template-workshop-webpage to your username
+  or the coderefinery organization, and name it like "2019-10-16-somecity".
+- Update the required fields in `index.md` and push the commits. 
+  The page should now be served at *username.github.io/2019-10-16-somecity/*.
+- If the workshop should be listed on https://coderefinery.org:
+  - (Fork and) clone https://github.com/coderefinery/coderefinery.org
+  - Under `coderefinery.org/_workshops/`, add a file named like `2019-10-16-somecity.md` which contains 
+    the fields permalink, city and dates. For example:
+    ```
+    ---
+    permalink: https://username.github.io/2019-10-16-city/
+    city: Somecity
+    dates: October 16-18, 2019
+    ---
+    ```
+  - send a pull request with your new file.
 - Create a registration form following [indico-workshop-management.md](indico-workshop-management.md).
 - Open and test registration
 
