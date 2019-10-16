@@ -24,7 +24,6 @@ which needs to be manually imported as a json file.
 - Select the start date and time of the workshop, click "Clone".
 - You are now on the cloned event page (confirm that the event number changed), and you should start updating the information.
 
-
 ### Update copied event information
 
 - Update the Title, Description, Date, Time, Room, Venue and Address fields by clicking the pen symbols on the right.
@@ -37,6 +36,34 @@ which needs to be manually imported as a json file.
    - Activate “Moderated” which will require each registration to be approved.
    - Set maximum number of participants (after which registration is closed), this should be *room capacity* + *waiting list size*. Click "Save".
 
+#### More information about the registration process
+
+- The Description field in the general settings should contain additional information about the registration process:
+   ```
+   Welcome to the registration page for the CodeRefinery instructor training workshop in Stockholm!
+
+   To complete your registration, you need to:
+
+   1) Enter your registration details by clicking the "Apply now" button below.
+   2) Fill in the pre-workshop survey by clicking the "Fill out the survey" button below.
+
+   Confirmation email
+   After filling out the registration form you will receive an automatic confirmation email but please note that your registration is only tentative until we confirm it with another (human-written) email which should happen typically within a week.
+
+   Waiting list
+   We maintain a waiting list for seats but this is currently not automatic so we need this short time buffer to manually confirm participants and inform those who are on the waiting list.
+
+   First come, first serve
+   The seats are assigned on a first come first serve basis but we need to also make sure that registered participants are affiliated with a Nordic academic institution since the course is free for participants and financed by the Nordic e-Infrastructure Collaboration (unless this is an event outside of Nordics funded by a different organization).
+
+   Cancellation
+   We ask confirmed participants who are not able to participate at the course they have signed up for, to inform us as soon as possible so that people on the waiting list can take the vacant seat.
+
+   Questions?
+   If you have any questions about your registration status, please write to support@coderefinery.org.
+
+   Looking forward to seeing you at the workshop!
+   ```
 
 ### Import survey
 
@@ -58,3 +85,4 @@ which needs to be manually imported as a json file.
 - Confirm that both the “Surveys” and “Registration” links can be seen.
 - Click both links to do a test registration
 - Once you manage to test-register, update the workshop webpage, and announce via Twitter.
+
