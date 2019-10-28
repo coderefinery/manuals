@@ -16,9 +16,11 @@ but they make sure that nothing gets forgotten.
 ## Other documents and references
 
 - Workshop organization overview: https://github.com/orgs/coderefinery/projects/4
-- Instructions on how to set up a registration page: [indico-workshop-management.md](indico-workshop-management.md)
-- Email templates for workshop communication (to be migrated this repo): [CR Google drive/manuals/email-templates/](https://drive.google.com/drive/folders/0B3i0ZRReqpSxTXpGUVVTbmtuX0k)
-
+- Instructions on how to set up a registration page in Indico (for NeIC affiliated staff): 
+  [indico-workshop-management.md](indico-workshop-management.md)
+- Email templates for workshop communication:
+  - [1-2 weeks before workshop starts](practical-info-to-participants.txt)
+  - [advertising workshop via private communication](templates/advertising-workshop.txt)
 
 ## Pre-workshop
 
