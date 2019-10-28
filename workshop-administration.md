@@ -1,20 +1,26 @@
 
+# Organizing a CodeRefinery workshop
 
-# Select a workhop coordinator
+Anyone can organize a CodeRefinery workshop and teach the CodeRefinery lessons which are 
+licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
+However, making it a successful workshop requires careful planning and preparation. Here we will go 
+through practical aspects of organizing a workshop. 
+
+## Select a workhop coordinator
 
 One or two persons coordinate the workshop preparation and debrief. This does
 not mean that they do all the work - they are encouraged to delegate tasks -
 but they make sure that nothing gets forgotten.
 
 
-# Other documents and references
+## Other documents and references
 
 - Workshop organization overview: https://github.com/orgs/coderefinery/projects/4
 - Instructions on how to set up a registration page: [indico-workshop-management.md](indico-workshop-management.md)
 - Email templates for workshop communication (to be migrated this repo): [CR Google drive/manuals/email-templates/](https://drive.google.com/drive/folders/0B3i0ZRReqpSxTXpGUVVTbmtuX0k)
 
 
-# Pre-workshop
+## Pre-workshop
 
 First steps:
 - Assemble a team of 3 instructors
@@ -74,13 +80,13 @@ Right before the workshop starts:
 - Prepare a shared Google doc with global write permissions, consider creating a memorable short-link
 
 
-# Create exercise repositories
+## Create exercise repositories
 
 - The collaborative Git lesson requires exercise repositories to
   be set up. For this follow the instructor guide in the lesson material.
 
 
-# As participants arrive
+## As participants arrive
 
 - Emphasize to participants that you need to sit with someone - don't work alone.
 - Try to have participants sit next to someone with a similar operating
@@ -88,12 +94,12 @@ Right before the workshop starts:
   problems.
 
 
-# Introduction talk
+## Introduction talk
 
 - See https://github.com/coderefinery/workshop-intro
 
 
-# During workshop
+## During workshop
 
 - Keep up interactive feel by encouraging and asking questions
 - Keep time
@@ -109,13 +115,13 @@ Right before the workshop starts:
   something is confusing to the learners
 
 
-# At the end of workshop
+## At the end of workshop
 
 - Give credit to those who contributed and helped
 - Use https://github.com/coderefinery/workshop-outro
 
 
-# Post-workshop
+## Post-workshop
 
 - Process and distribute feedback
 - Debrief with instructors
