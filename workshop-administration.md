@@ -6,7 +6,7 @@ licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
 However, making it a successful workshop requires careful planning and preparation. Here we will go 
 through practical aspects of organizing a workshop. 
 
-## Select a workhop coordinator
+## Select a workshop coordinator
 
 One or two persons coordinate the workshop preparation and debrief. This does
 not mean that they do all the work - they are encouraged to delegate tasks -
@@ -22,20 +22,30 @@ but they make sure that nothing gets forgotten.
   - [1-2 weeks before workshop starts](practical-info-to-participants.txt)
   - [advertising workshop via private communication](templates/advertising-workshop.txt)
 
-## Pre-workshop
+## Before the workshop
 
-First steps:
-- Assemble a team of 3 instructors
+#### First steps
+
+- Recruit instructors - having at least 3 instructors is highly recommended.
+- Find 1-2 workshop helpers [with an appropriate background](https://coderefinery.org/workshop-requirements/#helpers).
 - Reserve dates (coordinate this with the instructors)
 - Reserve room
 - Select a workshop coordinator
 - Workshop coordinator creates a ticket with a checklist on https://github.com/orgs/coderefinery/projects/4 and takes it (self-assigns)
 
-Set up workshop page:
+#### Lecture room
+
+- Start looking for an appropriate lecture room early.
+- See this [list of requirements](https://coderefinery.org/workshop-requirements/#lecture-room) for 
+  the lecture room.
+
+#### Set up workshop page
+
 - Import the template at https://github.com/coderefinery/template-workshop-webpage to your username
   or the coderefinery organization, and name it like "2019-10-16-somecity".
 - Update the required fields in `index.md` and push the commits.
   The page should now be served at *username.github.io/2019-10-16-somecity/*.
+- If the workshop will be customized to the needs of a particular audience, modify the schedule accordingly.
 - If the workshop should be listed on https://coderefinery.org:
   - (Fork and) clone https://github.com/coderefinery/coderefinery.org
   - Under `coderefinery.org/_workshops/`, add a file named like `2019-10-16-somecity.md` which contains
@@ -51,35 +61,50 @@ Set up workshop page:
 - Create a registration form following [indico-workshop-management.md](indico-workshop-management.md).
 - Open and test registration
 
-Announcing the workshop:
+#### Announcing the workshop
+
 - Twitter
 - Email persons who registered to notify-me form
 - Use local mailing lists and all channels possible
 
-Distribute the work:
-- Make sure lessons are distributed
-- Recruit helpers
+For self-organized workshops:
+- Write an email to support@coderefinery.org to get a pre-workshop survey link and registration form on 
+  [https://indico.neic.no](https://indico.neic.no)
 
-Prepare practicals:
+
+#### Distribute the work
+
+- Make sure lessons are distributed
+
+#### Prepare practicals
+
 - Order catering (coffee, tea, water, fruit, something sweet, etc.)
 - Organize sticky notes
 - Organize extension cables if needed
 - Organize alternative wireless for those without Eduroam (if any)
 
-Keep communication with participants:
+#### Communication with participants
+
+- Send out practical information, including installation instructions, around 2 weeks ahead. 
+  [Here is a template](https://github.com/coderefinery/manuals/blob/master/templates/practical-info-to-participants.txt).
+- Emphasize that all software should be installed before the workshop starts, and point out 
+  the [configuration problems and solutions](https://coderefinery.github.io/installation/troubleshooting/).
 - Remind registered participants that they are either expected to show up or to cancel participation
+- Also ask those without Eduroam to speak up.
 - Maintain waiting list if needed
 - Make sure we have enough pre-survey answers
 - Close registration on the workshop page
 
-1-2 weeks before the workshop:
+#### 1-2 weeks before the workshop
+
 - Workshop coordinator organizes a call with all instructors and helpers to discuss the schedule to leave no doubts about timing. Also
   discuss the survey results.
-- Send out practical information, including installation instructions, 2-3 week ahead. Also ask those without Eduroam to speak up.
-  [Here is a template](templates/practical-info-to-participants.txt)
+- Point helpers (and instructors) to the [tips for helpers](helping-and-teaching.md).
 
-Right before the workshop starts:
-- Prepare a shared Google doc with global write permissions, consider creating a memorable short-link
+#### Right before the workshop starts
+
+- Prepare a shared Google doc or https://hackmd.io with global write permissions, 
+  consider creating a memorable short-link (e.g. bit.ly)
 
 
 ## Create exercise repositories
