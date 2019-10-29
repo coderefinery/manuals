@@ -135,7 +135,9 @@ For self-organized workshops:
 - Remind participants about sticky notes.
 - Make sure we take regular breaks (at least a short break each hour)
 - Give participants some time to also experiment (do not rush the classroom through exercises)
-- Encourage optional feedback at the end of each day on sticky notes
+- Encourage optional feedback at the end of each day or end of each lesson 
+  on sticky notes. Process the feedback immediately and adjust your teaching 
+  (pace etc) accordingly
 - Create GitHub issues for points which are confusing or problematic
 - Take active part even in the lessons you're not teaching, e.g. by asking
   questions and (politely) interject with clarifications when you think
