@@ -58,22 +58,36 @@ about.  For example, don't say "here are some shell commands", but
 "aren't you tired of copying all of these files one by one... check
 out the shell... once you know it, you will really feel at home.  Here
 are some typical things you might do.".  Intrinsic motivators include
-sense of agency (being able to do things themselves), competence
+**sense of agency** (being able to do things themselves), **competence**
 (usefulness of what they are doing, feeling they know something), and
-relatedness (doing things that others are doing).
+**relatedness** (doing things that others are doing).
 
 A manual is reference, a tutorial builds a cognitive model.  If you
-can build the cognitive model, tell them the "why", students may be
-able to refer to the manuals themselves.  Teaching should be more
+can build the cognitive model and tell them the "why", students may be
+able to refer to the manuals themselves and become self-sufficient.
+Thus, teaching should be more of a
 tutorial, with good links to manuals (it can also explicitly teach
 how to use the manuals).
 
 Perhaps a related point is inclusiveness: make sure there's not some
-"in" crowd.  Perhaps the best description I have seen: don't have a
-model that some people are missing something, but that others had the
+"in" crowd.  Perhaps the best description I have seen: don't assume
+that some people are missing something, but that others have had the
 fortune of learning it earlier.  This may not matter in a purely
 factual lesson design, but if you are trying to make things
-intrinsically or emotionally appealing, it matters more.
+intrinsically or emotionally appealing, it is essential.
+
+## Who is the audience?
+
+Making the **learner personas** are essential to making a good lesson,
+even if you think you know who you are teaching to.  This is because
+it grounds you into what your audience already knows (or doesn't know)
+and what they are interested in.
+
+You also have different ways people can refer to the material:
+- In a class, with an instructor guiding them
+- Reading along by themselves
+- In a class, being much more advanced than others, so that they skip
+  ahead and do advanced material themselves.
 
 
 ## Planning
@@ -103,15 +117,15 @@ intrinsically or emotionally appealing, it matters more.
 
 ## Writing
 
-Not much here yet, mostly just follow the "backwards lesson design"
+There is not much here yet, mostly just follow the "backwards lesson design"
 above.  The hardest part is coming up with good exercises, so our
-practical advice is to mix and max from the two taxonomies at the
+practical advice is to mix and match from the two taxonomies at the
 bottom and the exercise types.  Try to think of diverse types of
 exercises.
 
-- Make sure you include the emotional starting point at the top - why
+- Make sure you include the emotional starting point at the beginning - why
   should you care and why is this cool?
-- This should also be at the start and end of each section: not what
+- This should also be at the start and end of each section: not just what
   or how, but why?
 - Part of this is also having a **student's guide**, so that
   people independently studying can know how to follow the material.
@@ -138,24 +152,34 @@ the current state of affairs (give a good, simple example) and why it
 should be improved.  Then start talking about what the improvements
 are.
 
+Ideally, the introduction should serve as an self-contained abstract
+of your material.  If you need to teach your lesson in only 10% of the
+time you have, can you use just the introduction to do it?
+
 Conclusion should remind people about why this is cool and discuss
 what comes next.
 
 
 ## Exercise types
 
-The main point of different exercises types is to have some which have
-lower cognitive load on the learner than just "do it from scratch yourself".
+Not every exercise has to be an amazing hand-on example.  It's mixing
+with smaller, more conceptual things to reduce the cognitive load and
+be able to have more frequent exercises.
 
 One of your other primary goals should be to make your exercises
 *relevant*.  Abstract will lead to disconnection. Connect the exercises
 to the real world.  Also, can you tell a complete story with
-exercises?
+exercises?  (Remember, in backwards lesson design, the exercises
+form the story of the lesson.)
 
-Remember that not every exercise has to be long.  Try to have more
-frequent short exercises to get immediate feedback.
+Remember that not every exercise has to be long.  Try to have
+frequent short exercises to get immediate feedback, with some long
+ones.
 
-Basic:
+When you are stuck thinking "how can I make an exercise that covers X",
+think of these for inspiration:
+
+Basic types:
 - Multiple choice (easy to get feedback via a classroom tool - try to
   design each wrong answer so that it identifies a specific
   misconception).
@@ -183,7 +207,9 @@ More conceptual:
 - Matching problem: two sets of Q/A, match them.
 
 
-## Reference material
+### Learning taxonomies
+
+When stuck trying to think of exercise types, think through these
 
 - Bloom's taxonomy: hierarchical skill levels
   - Remembering
@@ -206,7 +232,7 @@ More conceptual:
 Are you trying to improve/maintain a lesson that already exists?
 This section is for you.
 
-Always start with the big picture: does it make sense?
+### Short review
 
 - Instructor's guide (see topics above)
   - What sections should be taught for what audiences
@@ -220,6 +246,15 @@ Always start with the big picture: does it make sense?
   - Are they motivating/wrapping up well enough?
 - After you're done analyzing, is there anything in the maintainer's
   guide you need to update?
+
+
+### Medium review
+
+### Refactorings
+
+
+Always start with the big picture: does it make sense?
+
 
 After the above, do the details.  Remember the guides still.
 
