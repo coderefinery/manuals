@@ -176,8 +176,10 @@ Remember that not every exercise has to be long.  Try to have
 frequent short exercises to get immediate feedback, with some long
 ones.
 
-When you are stuck thinking "how can I make an exercise that covers X",
-think of these for inspiration:
+When you are stuck thinking "how can I make an exercise that covers
+X", think of these for inspiration.  Not every exercise has to be an
+sophisticated hands-on thing, so don't be afraid to use different
+types:
 
 Basic types:
 - Multiple choice (easy to get feedback via a classroom tool - try to
@@ -207,9 +209,8 @@ More conceptual:
 - Matching problem: two sets of Q/A, match them.
 
 
-### Learning taxonomies
-
-When stuck trying to think of exercise types, think through these
+Thinking through the learning taxonomies also helps to come up with
+diverse types of exercises:
 
 - Bloom's taxonomy: hierarchical skill levels
   - Remembering
@@ -227,41 +228,3 @@ When stuck trying to think of exercise types, think through these
   - Learning how to learn
 
 
-## Reviewing existing lessons
-
-Are you trying to improve/maintain a lesson that already exists?
-This section is for you.
-
-### Short review
-
-- Instructor's guide (see topics above)
-  - What sections should be taught for what audiences
-  - Common pitfalls
-- Student's guide and framing.
-- Exercises labeled with difficulty, optional, etc.
-- Are the intros intrinsically motivating enough?  Does it promote an
-  emotional connection to existing problems?
-- Read the intro and conclusion to every section/episode.
-  - Do they make sense in order?
-  - Are they motivating/wrapping up well enough?
-- After you're done analyzing, is there anything in the maintainer's
-  guide you need to update?
-
-
-### Medium review
-
-### Refactorings
-
-
-Always start with the big picture: does it make sense?
-
-
-After the above, do the details.  Remember the guides still.
-
-Before you start major refactoring and rewriting, think if it makes
-sense.  Have you figured out why it's the way it is based on the
-instructor's guide?  If you do a big refactoring, make sure you update
-the maintainer's guide!
-
-Before you embark on a big refactoring step, please pitch your idea
-in a GitHub issue and collect feedback from others.
