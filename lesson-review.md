@@ -82,6 +82,10 @@ Student reference guide:
   area and get an idea of what is supposed to happen and why.
 - Update the student's reference guide as you are going through the
   details.
+- Remove duplicate or unnecessary information when possible.  Things
+  are always added, rarely removed.  Shorter is usually better.  If
+  something shouldn't be removed, perhaps mark it as advanced or
+  optional.
 
 
 ## Major Refactorings
