@@ -76,6 +76,7 @@ fortune of learning it earlier.  This may not matter in a purely
 factual lesson design, but if you are trying to make things
 intrinsically or emotionally appealing, it is essential.
 
+
 ## Who is the audience?
 
 Making the **learner personas** are essential to making a good lesson,
@@ -123,6 +124,12 @@ practical advice is to mix and match from the two taxonomies at the
 bottom and the exercise types.  Try to think of diverse types of
 exercises.
 
+Exercise design is the time it is most useful to be with others to do
+brainstorming, so we highly recommend discussing with others at this
+point.  Because exercises are used to set the overall outline of the
+lesson, this also gives people a say in the overall outline - in a
+very concrete way.
+
 - Make sure you include the emotional starting point at the beginning - why
   should you care and why is this cool?
 - This should also be at the start and end of each section: not just what
@@ -137,7 +144,9 @@ exercises.
     basic sections that can be skipped for that reason.
 
 Plan for mixed abilities.  It's OK to have optional (basic) and
-advanced sections, as long as they are clearly labeled.
+advanced sections, as long as they are clearly labeled.  Mainly, don't
+have people think that you are uncoordinated because you are skipping
+advanced sections.
 
 Once you are done, update maintainer's and instructor's guides.
 
@@ -160,7 +169,7 @@ Conclusion should remind people about why this is cool and discuss
 what comes next.
 
 
-## Exercise types
+## Thinking of exercises
 
 Not every exercise has to be an amazing hand-on example.  It's mixing
 with smaller, more conceptual things to reduce the cognitive load and
@@ -176,8 +185,13 @@ Remember that not every exercise has to be long.  Try to have
 frequent short exercises to get immediate feedback, with some long
 ones.
 
+Good exercises are the most important factor in a good lesson.  Even
+if you are preparing the rest of the lesson mostly alone, consider a
+good long brainstorming session to go from "list of topics to cover"
+to "sequence of exercises".
+
 When you are stuck thinking "how can I make an exercise that covers
-X", think of these for inspiration.  Not every exercise has to be an
+X", think of the lists below inspiration.  Not every exercise has to be an
 sophisticated hands-on thing, so don't be afraid to use different
 types:
 
@@ -212,7 +226,8 @@ More conceptual:
 Thinking through the learning taxonomies also helps to come up with
 diverse types of exercises:
 
-- Bloom's taxonomy: hierarchical skill levels
+- Bloom's taxonomy: hierarchical skill levels (can you help students
+  to "grow a level"?):
   - Remembering
   - Understanding
   - Applying
