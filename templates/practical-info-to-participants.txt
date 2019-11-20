@@ -1,20 +1,41 @@
 Dear all,
 
-The CodeRefinery CITY workshop on DATE is approaching! The location and schedule is available on the workshop webpage: URL
+The CodeRefinery CITY workshop on DATE is approaching! The location and schedule
+is available on the workshop webpage: URL
 
-If it turns out that you cannot attend, please let us know as soon as possible so that we can offer your seat to someone on the waiting list.
+If it turns out that you cannot attend, please let us know as soon as possible
+so that we can offer your seat to someone on the waiting list.
 
-You are expected to install some software on your laptops before the workshop starts. Please visit the workshop webpage (URL) and go through each tool under "Software requirements", and install whatever you're missing before the workshop starts. Note that you also need a couple of accounts (GitHub and Read the Docs). Note that each of these tools/accounts can easily be removed/deactivated after the workshop, if you so wish (see https://coderefinery.github.io/installation/#instructions-for-removing-accounts).
+You are expected to install some software on your laptops before the workshop
+starts. Please visit the workshop webpage (URL) and go through each tool under
+"Software requirements", and install whatever you're missing before the workshop
+starts. Note that you also need a couple of accounts (GitHub and Read the Docs).
+Note that each of these tools/accounts can easily be removed/deactivated after
+the workshop, if you so wish (see
+https://coderefinery.github.io/installation/#instructions-for-removing-accounts).
 
-Don't hesitate to get in touch (support@coderefinery.org) if you run into any installation problems. We also maintain a list of common installation issues that can occur at https://coderefinery.github.io/installation/troubleshooting/ 
+Don't hesitate to get in touch (support@coderefinery.org) if you run into any
+installation problems. We also maintain a list of common installation issues
+that can occur at https://coderefinery.github.io/installation/troubleshooting/
 
-If you haven't already filled the pre-workshop survey, please do that soon since it helps us with workshop preparation. You can find it at: URL
+If you haven't already filled the pre-workshop survey, please do that soon since
+it helps us with workshop preparation. You can find it at: URL
 
-The workshop will have a strong focus on version control with Git. Some of you are already somewhat familiar with Git, but not all. While we will be starting from the basics, we will be progressing quickly so it's useful if you spend 10-20 minutes to read up on the basic idea of Git. For this purpose, we have prepared this "refresher" material: https://coderefinery.github.io/git-refresher/ 
+The workshop will have a strong focus on version control with Git. Some of you
+are already somewhat familiar with Git, but not all. While we will be starting
+from the basics, we will be progressing quickly so it's useful if you spend
+10-20 minutes to read up on the basic idea of Git. For this purpose, we have
+prepared this "refresher" material:
+https://coderefinery.github.io/git-refresher/
 
-Please have a look at this material before the workshop starts. Note that it also contains important Git configuration steps which all of you should go through before the workshop starts, to save valuable time during the workshop.
+Please have a look at this material before the workshop starts. Note that it
+also contains important Git configuration steps which all of you should go
+through before the workshop starts, to save valuable time during the workshop.
 
-CodeRefinery strives to follow the Code of Conduct developed by The Carpentries organisation. Please have a look at https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html so that we all are aware of how to treat each other respectfully.
+CodeRefinery strives to follow the Code of Conduct developed by The Carpentries
+organisation. Please have a look at
+https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html so that
+we all are aware of how to treat each other respectfully.
 
 Don't hesitate to get in touch if you have any questions!
 
