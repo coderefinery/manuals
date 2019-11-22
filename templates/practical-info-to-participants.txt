@@ -11,8 +11,7 @@ starts. Please visit the workshop webpage (URL) and go through each tool under
 "Software requirements", and install whatever you're missing before the workshop
 starts. Note that you also need a couple of accounts (GitHub and Read the Docs).
 Note that each of these tools/accounts can easily be removed/deactivated after
-the workshop, if you so wish (see
-https://coderefinery.github.io/installation/accounts/#instructions-for-removing-accounts).
+the workshop, if you so wish (see https://coderefinery.github.io/installation/accounts/).
 
 Don't hesitate to get in touch (support@coderefinery.org) if you run into any
 installation problems. We also maintain a list of common installation issues
