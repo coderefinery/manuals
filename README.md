@@ -7,6 +7,10 @@
 - [Lesson design checklist and guide](lesson-design.md), to make it
   easy to write your lessons.
 - [In-class checklist](presenting.md)
+- [Guide on how to use Indico](indico-workshop-management.md)
+- [Writing technical docs](tech-docs.md)
+- [Online training manual](online-training.md)
+- [Lesson review](lesson-review.md)
 
 
 ## Other
