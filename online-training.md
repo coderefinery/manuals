@@ -19,14 +19,16 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
   Computer microphone might not be enough since audio quality will depend on
   instructor's head angle and proximity to screen.
 
+
 ### Zoom-specific installations instructions sent out before workshop/lesson
-  - Recommend to install Zoom app. Browser is possible but more limited
-  - Test-launch zoom and test microphone, speaker and camera (lower left corner buttons)
-  - Instruct participants to watch a zoom introduction (TODO: insert link),
-    and play around with zoom.us/test to get acquainted with interface.
-  - Optional: set up virtual background
-  - "During the workshop, you might be asked by a helper to share your screen.
-    Make sure to keep private information away from the screen you share."
+
+- Recommend to install Zoom app. Browser is possible but more limited
+- Test-launch zoom and test microphone, speaker and camera (lower left corner buttons)
+- Instruct participants to watch a zoom introduction (TODO: insert link),
+  and play around with zoom.us/test to get acquainted with interface.
+- Optional: set up virtual background
+- "During the workshop, you might be asked by a helper to share your screen.
+  Make sure to keep private information away from the screen you share."
 
 
 ### Contingency plans
@@ -37,6 +39,7 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
 - Learners might occasionally experience lag and temporary
   network hickups. This makes it particularly important to
   speak slowly and repeat important topics.
+
 
 ### Breakout rooms
 
@@ -57,6 +60,7 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
   broadcast a message into all groups.
 - When the host/co-hosts end a breakout room session, participants in groups
   have 60 seconds to finish before the session terminates.
+
 
 ### Exercises
 
