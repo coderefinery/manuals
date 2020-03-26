@@ -24,7 +24,7 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
 
 - Allow time at the beginning of the session to debug video/audio and to
   arrange windows. This takes few minutes so better do not start with teaching
-  from minute 1.
+  from minute 1.  Plan for an early 5-minute break to debug this.
 - We cannot assume that all Zoom participants have the same and up to date
   client and some clients do not contain "sticky notes" feedback or a button to
   raise hands so agree with participants on signals (e.g. typing `\hand` in the
