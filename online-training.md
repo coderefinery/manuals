@@ -13,20 +13,56 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
   - Decide instructor and backup-instructor in case of network issues
   - Decide helpers. One helper should be responsible for monitoring
     Zoom, i.e. the chat window, hand-raising and other feedback
-
 - TODO: set up pre-lesson polling? (zoom feature) Maybe unnecessary in view of pre-workshop survey
 - Instructors and helpers should use a reliable camera and microphone.
   Computer microphone might not be enough since audio quality will depend on
   instructor's head angle and proximity to screen.
 
+
+
+### At the beginning of the session
+
+- Allow time at the beginning of the session to debug video/audio and to
+  arrange windows. This takes few minutes so better do not start with teaching
+  from minute 1.  Plan for an early 5-minute break to debug this.
+- We cannot assume that all Zoom participants have the same and up to date
+  client and some clients do not contain "sticky notes" feedback or a button to
+  raise hands so agree with participants on signals (e.g. typing `\hand` in the
+  chat window seems to be standard).-
+
+
+### Recording of sessions
+
+If you plan on recording and publishing the session, prepare in advance so that
+you don't have a difficult editing job later.
+Make sure that you (or users) don't show any personal or confidential information.
+Think about what happens if users speak: do you ask for permission to publish
+in advance (maybe encouraging people not to), or edit it out later (taking
+your time later).
+
+If you plan to record the session, make sure that everybody is aware that the
+sessions is recorded, informed about how the recording will be used, and gives
+consent to be recorded:
+https://support.zoom.us/hc/en-us/articles/360026909191-Consent-to-be-Recorded
+
+In Zoom it's important to start recording in the form you want the video to be
+in (e.g. start recording when screen is shared so that it stays there):
+https://support.zoom.us/hc/en-us/articles/360025561091-Recording-layouts
+
+Set screen background to black. We saw a glitch in Zoom which caused the
+background image to flash above the screen, if it was pure black it would be
+less distracting.
+
+
 ### Zoom-specific installations instructions sent out before workshop/lesson
-  - Recommend to install Zoom app. Browser is possible but more limited
-  - Test-launch zoom and test microphone, speaker and camera (lower left corner buttons)
-  - Instruct participants to watch a zoom introduction (TODO: insert link),
-    and play around with zoom.us/test to get acquainted with interface.
-  - Optional: set up virtual background
-  - "During the workshop, you might be asked by a helper to share your screen.
-    Make sure to keep private information away from the screen you share."
+
+- Recommend to install Zoom app. Browser is possible but more limited
+- Test-launch zoom and test microphone, speaker and camera (lower left corner buttons)
+- Instruct participants to watch a zoom introduction (TODO: insert link),
+  and play around with zoom.us/test to get acquainted with interface.
+- Optional: set up virtual background
+- "During the workshop, you might be asked by a helper to share your screen.
+  Make sure to keep private information away from the screen you share."
 
 
 ### Contingency plans
@@ -37,6 +73,7 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
 - Learners might occasionally experience lag and temporary
   network hickups. This makes it particularly important to
   speak slowly and repeat important topics.
+
 
 ### Breakout rooms
 
@@ -58,6 +95,7 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
 - When the host/co-hosts end a breakout room session, participants in groups
   have 60 seconds to finish before the session terminates.
 
+
 ### Exercises
 
 - Just like in a regular workshop, demonstrations and type-along sessions
@@ -71,3 +109,10 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
 - Polling can be used as formative assessment questions. The host creates
   a poll based on a lesson template and requests learners to answer.
   (TODO: polling seems not available in kth-se zoom subscription)
+
+
+### Breaks
+
+Following an online event can be even more tiring than a physical event and
+therefore also during online sessions we need to plan for breaks as we would
+for an in-person event.
