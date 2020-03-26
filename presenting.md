@@ -67,8 +67,8 @@ history to a remote server.
 `tail -f -n0 ~/.bash_history`, but this doesn't capture ssh,
 subshells, and only shows the command after it is completed.
 
-**Better yet still simple**: Many Software Carpentry instructors use 
-[this script](https://github.com/rgaiacs/swc-shell-split-window), 
+**Better yet still simple**: Many Software Carpentry instructors use
+[this script](https://github.com/rgaiacs/swc-shell-split-window),
 which sets the prompt, splits the terminal window using tmux and displays command history
 in the upper panel. Requirement: [tmux](https://github.com/tmux/tmux/wiki)
 

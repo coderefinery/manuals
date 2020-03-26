@@ -1,10 +1,10 @@
 
 # Organizing a CodeRefinery workshop
 
-Anyone can organize a CodeRefinery workshop and teach the CodeRefinery lessons which are 
+Anyone can organize a CodeRefinery workshop and teach the CodeRefinery lessons which are
 licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
-However, making it a successful workshop requires careful planning and preparation. Here we will go 
-through practical aspects of organizing a workshop. 
+However, making it a successful workshop requires careful planning and preparation. Here we will go
+through practical aspects of organizing a workshop.
 
 ## Select a workshop coordinator
 
@@ -16,7 +16,7 @@ but they make sure that nothing gets forgotten.
 ## Other documents and references
 
 - Workshop organization overview: https://github.com/orgs/coderefinery/projects/4
-- Instructions on how to set up a registration page in Indico (for NeIC affiliated staff): 
+- Instructions on how to set up a registration page in Indico (for NeIC affiliated staff):
   [indico-workshop-management.md](indico-workshop-management.md)
 - Email templates for workshop communication:
   - [1-2 weeks before workshop starts](templates/practical-info-to-participants.txt)
@@ -36,7 +36,7 @@ but they make sure that nothing gets forgotten.
 #### Lecture room
 
 - Start looking for an appropriate lecture room early.
-- See this [list of requirements](https://coderefinery.org/workshop-requirements/#lecture-room) for 
+- See this [list of requirements](https://coderefinery.org/workshop-requirements/#lecture-room) for
   the lecture room.
 
 #### Set up workshop page
@@ -68,7 +68,7 @@ but they make sure that nothing gets forgotten.
 - Use local mailing lists and all channels possible
 
 For self-organized workshops:
-- Write an email to support@coderefinery.org to get a pre-workshop survey link and registration form on 
+- Write an email to support@coderefinery.org to get a pre-workshop survey link and registration form on
   [https://indico.neic.no](https://indico.neic.no)
 
 
@@ -85,9 +85,9 @@ For self-organized workshops:
 
 #### Communication with participants
 
-- Send out practical information, including installation instructions, around 2 weeks ahead. 
+- Send out practical information, including installation instructions, around 2 weeks ahead.
   [Here is a template](https://github.com/coderefinery/manuals/blob/master/templates/practical-info-to-participants.txt).
-- Emphasize that all software should be installed before the workshop starts, and point out 
+- Emphasize that all software should be installed before the workshop starts, and point out
   the [configuration problems and solutions](https://coderefinery.github.io/installation/troubleshooting/).
 - Remind registered participants that they are either expected to show up or to cancel participation
 - Also ask those without Eduroam to speak up.
@@ -103,7 +103,7 @@ For self-organized workshops:
 
 #### Right before the workshop starts
 
-- Prepare a shared Google doc or https://hackmd.io with global write permissions, 
+- Prepare a shared Google doc or https://hackmd.io with global write permissions,
   consider creating a memorable short-link (e.g. bit.ly)
 
 
@@ -135,8 +135,8 @@ For self-organized workshops:
 - Remind participants about sticky notes.
 - Make sure we take regular breaks (at least a short break each hour)
 - Give participants some time to also experiment (do not rush the classroom through exercises)
-- Encourage optional feedback at the end of each day or end of each lesson 
-  on sticky notes. Process the feedback immediately and adjust your teaching 
+- Encourage optional feedback at the end of each day or end of each lesson
+  on sticky notes. Process the feedback immediately and adjust your teaching
   (pace etc) accordingly
 - Create GitHub issues for points which are confusing or problematic
 - Take active part even in the lessons you're not teaching, e.g. by asking
