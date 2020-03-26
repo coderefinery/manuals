@@ -13,11 +13,22 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
   - Decide instructor and backup-instructor in case of network issues
   - Decide helpers. One helper should be responsible for monitoring
     Zoom, i.e. the chat window, hand-raising and other feedback
-
 - TODO: set up pre-lesson polling? (zoom feature) Maybe unnecessary in view of pre-workshop survey
 - Instructors and helpers should use a reliable camera and microphone.
   Computer microphone might not be enough since audio quality will depend on
   instructor's head angle and proximity to screen.
+
+
+
+### At the beginning of the session
+
+- Allow time at the beginning of the session to debug video/audio and to
+  arrange windows. This takes few minutes so better do not start with teaching
+  from minute 1.
+- We cannot assume that all Zoom participants have the same and up to date
+  client and some clients do not contain "sticky notes" feedback or a button to
+  raise hands so agree with participants on signals (e.g. typing `\hand` in the
+  chat window seems to be standard).-
 
 
 ### Recording of sessions
@@ -91,3 +102,10 @@ less distracting.
 - Polling can be used as formative assessment questions. The host creates
   a poll based on a lesson template and requests learners to answer.
   (TODO: polling seems not available in kth-se zoom subscription)
+
+
+### Breaks
+
+Following an online event can be even more tiring than a physical event and
+therefore also during online sessions we need to plan for breaks as we would
+for an in-person event.
