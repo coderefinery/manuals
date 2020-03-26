@@ -33,6 +33,13 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
 
 ### Recording of sessions
 
+If you plan on recording and publishing the session, prepare in advance so that
+you don't have a difficult editing job later.
+Make sure that you (or users) don't show any personal or confidential information.
+Think about what happens if users speak: do you ask for permission to publish
+in advance (maybe encouraging people not to), or edit it out later (taking
+your time later).
+
 If you plan to record the session, make sure that everybody is aware that the
 sessions is recorded, informed about how the recording will be used, and gives
 consent to be recorded:
