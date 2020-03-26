@@ -15,5 +15,5 @@
 
 ## Other
 
-- [Summary of the book Teaching Teach Together](teaching-tech-together.md)
+- [Summary of the book "Teaching Teach Together"](teaching-tech-together.md)
   ([the actual book is online](http://teachtogether.tech/))
