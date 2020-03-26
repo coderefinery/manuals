@@ -20,6 +20,22 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
   instructor's head angle and proximity to screen.
 
 
+### Recording of sessions
+
+If you plan to record the session, make sure that everybody is aware that the
+sessions is recorded, informed about how the recording will be used, and gives
+consent to be recorded:
+https://support.zoom.us/hc/en-us/articles/360026909191-Consent-to-be-Recorded
+
+In Zoom it's important to start recording in the form you want the video to be
+in (e.g. start recording when screen is shared so that it stays there):
+https://support.zoom.us/hc/en-us/articles/360025561091-Recording-layouts
+
+Set screen background to black. We saw a glitch in Zoom which caused the
+background image to flash above the screen, if it was pure black it would be
+less distracting.
+
+
 ### Zoom-specific installations instructions sent out before workshop/lesson
 
 - Recommend to install Zoom app. Browser is possible but more limited
