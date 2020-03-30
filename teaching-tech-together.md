@@ -162,7 +162,7 @@ itself](http://teachtogether.tech/en/classroom/).
   they do, e) the word "just" as in, it's "just easy", f) software
   installation problems, g) giving impossible challenges to fail at to
   try to learn something, if not understanding.
-* Consider accessibilty and inclusivity - consider things are harder
+* Consider accessibility and inclusivity - consider things are harder
   for others, try to understand diversity of backgrounds.
 
 ## Ch11: Teaching online
