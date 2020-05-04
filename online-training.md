@@ -7,6 +7,8 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
 ### Preparation
 
 - Schedule the meeting/webinar in the online Zoom system
+- use waiting rooms to mitigate "Zoom crashing"
+- do not auto-mute participants' microphones, as this also happens when you enter breakout rooms.
 - Decide roles:
   - Decide the Zoom host and co-hosts
   - Use panelists? (Zoom webinar feature)
