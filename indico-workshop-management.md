@@ -86,3 +86,13 @@ which needs to be manually imported as a json file.
 - Click both links to do a test registration
 - Once you manage to test-register, update the workshop webpage, and announce via Twitter.
 
+
+### Exporting registrations
+
+- Go to the Registration page from the left-hand menu, and click “Registrations” which 
+  takes you to the list of registrations..
+- Click the check-box on the menu just above the list of registrations and select "All".
+- Click on "Export" from the top menu, select "CSV" and choose a download directory.
+- You can use the [read_csv.py](./scripts/read_csv.py) to parse the CSV file and print 
+  selected fields, e.g. email addresses to be used in sending out information to 
+  participants.
