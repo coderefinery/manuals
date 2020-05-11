@@ -28,7 +28,7 @@ which needs to be manually imported as a json file.
 
 - Update the Title, Description, Date, Time, Room, Venue and Address fields by clicking the pen symbols on the right.
 - Click “Registration” from the left-hand menu, and confirm that there’s a registration form, probably with a wrong title.
-- Click the “Manage” button on the “List of registration forms”,
+- Click the “Manage” button on the “List of registrations”,
    - Click “Edit” on the “General settings”
    - Update the registration form name and both the fields “Contact info” and “List of recipients” with your own email address to get notifications on new registrations.
    - **Waiting list:**
