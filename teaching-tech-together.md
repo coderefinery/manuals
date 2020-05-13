@@ -206,4 +206,4 @@ together)
 
 
 ## Ch16: Why I teach
-([A note from the author](http://teachtogether.tech/en/finale/))
+([A note from the author](http://teachtogether.tech/#s:finale))
