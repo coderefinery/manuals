@@ -1,13 +1,29 @@
 # Online training manual
 
+Also please read our [lessons learned](https://coderefinery.org/blog/2020/04/14/first-online-workshop/).
+
 This manual covers general guidelines for conducting online
 training as well as specific tips on using [Zoom](https://zoom.us/).
+
+
+### For the instructors
+
+If you have an old spare laptop, connect to the call as a second "you" and you can
+watch and verify your screensharing and fontsize to avoid "Am I sharing the screen?
+Hopefully you see what I see."
+
+
+### How to avoid "Zoom bombing"
+
+- Either set a password or use waiting rooms
+- Share connection details only with participants and helpers, not on the web
+- Disable file transfer
+- Disable "Allow removed participants to rejoin"
 
 
 ### Preparation
 
 - Schedule the meeting/webinar in the online Zoom system
-- use waiting rooms to mitigate "Zoom crashing"
 - do not auto-mute participants' microphones, as this also happens when you enter breakout rooms.
 - Decide roles:
   - Decide the Zoom host and co-hosts
@@ -15,11 +31,15 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
   - Decide instructor and backup-instructor in case of network issues
   - Decide helpers. One helper should be responsible for monitoring
     Zoom, i.e. the chat window, hand-raising and other feedback
+- Co-hosts, breakout rooms and feedback controls need to be enabled (on
+  website) before the meeting starts. If options are reconfigured, the meeting
+  may need to be ended and restarted for them to take effect.
+- Create enough breakout rooms at the beginning since this cannot be easily changed during the meeting.
 - TODO: set up pre-lesson polling? (zoom feature) Maybe unnecessary in view of pre-workshop survey
 - Instructors and helpers should use a reliable camera and microphone.
   Computer microphone might not be enough since audio quality will depend on
   instructor's head angle and proximity to screen.
-
+- Workshop owner creates a HackMD which will be used for collaborative note taking.
 
 
 ### At the beginning of the session
@@ -31,6 +51,7 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
   client and some clients do not contain "sticky notes" feedback or a button to
   raise hands so agree with participants on signals (e.g. typing `\hand` in the
   chat window seems to be standard).-
+- We demonstrate how HackMD works and use it in an ice-breaker (roll call or asking a questions).
 
 
 ### Recording of sessions
@@ -86,6 +107,8 @@ less distracting.
   where only the number of groups is selected and the distribution into
   groups is automatic, or manual setup where the host/co-hosts distribute
   learners into groups.
+- Host needs to move helpers, co-hosts cannot enter rooms on their own.
+- Somebody asking for help gets assigned to a room together with a helper.
 - TODO: is it possible to create breakout room for only some participants,
   leaving other learners unaffected? This is crucial for helping participants
   during exercises who have raised their hand. Need to test this
@@ -118,3 +141,8 @@ less distracting.
 Following an online event can be even more tiring than a physical event and
 therefore also during online sessions we need to plan for breaks as we would
 for an in-person event.
+
+
+### More resources
+
+- https://foundation.mozilla.org/en/blog/tips-make-your-zoom-gatherings-more-private/
