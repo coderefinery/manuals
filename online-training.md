@@ -6,6 +6,13 @@ This manual covers general guidelines for conducting online
 training as well as specific tips on using [Zoom](https://zoom.us/).
 
 
+### For the instructors
+
+If you have an old spare laptop, connect to the call as a second "you" and you can
+watch and verify your screensharing and fontsize to avoid "Am I sharing the screen?
+Hopefully you see what I see."
+
+
 ### Preparation
 
 - Schedule the meeting/webinar in the online Zoom system
