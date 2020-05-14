@@ -1,5 +1,7 @@
 # Online training manual
 
+Also please read our [lessons learned](https://coderefinery.org/blog/2020/04/14/first-online-workshop/).
+
 This manual covers general guidelines for conducting online
 training as well as specific tips on using [Zoom](https://zoom.us/).
 
@@ -19,7 +21,6 @@ training as well as specific tips on using [Zoom](https://zoom.us/).
 - Instructors and helpers should use a reliable camera and microphone.
   Computer microphone might not be enough since audio quality will depend on
   instructor's head angle and proximity to screen.
-
 
 
 ### At the beginning of the session
