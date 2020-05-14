@@ -13,10 +13,17 @@ watch and verify your screensharing and fontsize to avoid "Am I sharing the scre
 Hopefully you see what I see."
 
 
+### How to avoid "Zoom bombing"
+
+- Either set a password or use waiting rooms
+- Share connection details only with participants and helpers, not on the web
+- Disable file transfer
+- Disable "Allow removed participants to rejoin"
+
+
 ### Preparation
 
 - Schedule the meeting/webinar in the online Zoom system
-- use waiting rooms to mitigate "Zoom crashing"
 - do not auto-mute participants' microphones, as this also happens when you enter breakout rooms.
 - Decide roles:
   - Decide the Zoom host and co-hosts
