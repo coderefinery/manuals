@@ -24,6 +24,9 @@ Hopefully you see what I see."
   - Decide instructor and backup-instructor in case of network issues
   - Decide helpers. One helper should be responsible for monitoring
     Zoom, i.e. the chat window, hand-raising and other feedback
+- Co-hosts, breakout rooms and feedback controls need to be enabled (on
+  website) before the meeting starts. If options are reconfigured, the meeting
+  may need to be ended and restarted for them to take effect.
 - TODO: set up pre-lesson polling? (zoom feature) Maybe unnecessary in view of pre-workshop survey
 - Instructors and helpers should use a reliable camera and microphone.
   Computer microphone might not be enough since audio quality will depend on
