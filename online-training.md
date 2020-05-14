@@ -28,6 +28,7 @@ Hopefully you see what I see."
 - Instructors and helpers should use a reliable camera and microphone.
   Computer microphone might not be enough since audio quality will depend on
   instructor's head angle and proximity to screen.
+- Workshop owner creates a HackMD which will be used for collaborative note taking.
 
 
 ### At the beginning of the session
