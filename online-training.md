@@ -27,6 +27,7 @@ Hopefully you see what I see."
 - Co-hosts, breakout rooms and feedback controls need to be enabled (on
   website) before the meeting starts. If options are reconfigured, the meeting
   may need to be ended and restarted for them to take effect.
+- Create enough breakout rooms at the beginning since this cannot be easily changed during the meeting.
 - TODO: set up pre-lesson polling? (zoom feature) Maybe unnecessary in view of pre-workshop survey
 - Instructors and helpers should use a reliable camera and microphone.
   Computer microphone might not be enough since audio quality will depend on
@@ -99,6 +100,8 @@ less distracting.
   where only the number of groups is selected and the distribution into
   groups is automatic, or manual setup where the host/co-hosts distribute
   learners into groups.
+- Host needs to move helpers, co-hosts cannot enter rooms on their own.
+- Somebody asking for help gets assigned to a room together with a helper.
 - TODO: is it possible to create breakout room for only some participants,
   leaving other learners unaffected? This is crucial for helping participants
   during exercises who have raised their hand. Need to test this
