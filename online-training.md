@@ -126,3 +126,8 @@ less distracting.
 Following an online event can be even more tiring than a physical event and
 therefore also during online sessions we need to plan for breaks as we would
 for an in-person event.
+
+
+### More resources
+
+- https://foundation.mozilla.org/en/blog/tips-make-your-zoom-gatherings-more-private/
