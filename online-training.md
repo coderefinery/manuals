@@ -40,6 +40,7 @@ Hopefully you see what I see."
   client and some clients do not contain "sticky notes" feedback or a button to
   raise hands so agree with participants on signals (e.g. typing `\hand` in the
   chat window seems to be standard).-
+- We demonstrate how HackMD works and use it in an ice-breaker (roll call or asking a questions).
 
 
 ### Recording of sessions
