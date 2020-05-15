@@ -77,7 +77,7 @@ chat window.
 ## How to signal a technical problem or that you got stuck
 
 If you hit a technical problem or got stuck somewhere in an exercise
-or type-along, please let us know:
+or type-along, please let us know with the red circle symbol:
 
 <img src="img/problem.png" width="400"/>
 
