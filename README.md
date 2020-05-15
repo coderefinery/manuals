@@ -23,6 +23,7 @@ All material within this repository is licensed [CC-BY](LICENSE).
 - [Helper's guide](helping-and-teaching.md)
 - [In-class checklist](presenting.md)
 - [Online training manual](online-training.md)
+- [Zoom mechanics and signals](zoom-mechanics.md)
 - [Summary of the book "Teaching Teach Together"](teaching-tech-together.md)
   ([the actual book is online](http://teachtogether.tech/))
 
