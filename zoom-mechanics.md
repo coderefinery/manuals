@@ -15,9 +15,12 @@
 ## How to mute and unmute
 
 In lower left corner of the client you an unmute yourself if you want to say
-something but please keep your microphone muted otherwise:
+something but please keep your microphone muted in the main room:
 
 <img src="img/unmute.png" width="700"/>
+
+If you are in a quiet place, staying unmuted in breakout rooms is reasonable.
+We encourage discussion in breakout rooms.
 
 
 ## Please use your real name (instead of a system default username)
