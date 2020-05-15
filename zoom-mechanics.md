@@ -2,6 +2,15 @@
 
 # Zoom mechanics and controls
 
+- [How to mute and unmute](#how-to-mute-and-unmute)
+- [Please use your real name (instead of a system default username)](#please-use-your-real-name-instead-of-a-system-default-username)
+- [Indicate in your name if you are in a team and/or if you are a helper](#indicate-in-your-name-if-you-are-in-a-team-andor-if-you-are-a-helper)
+- [How to signal if you are away from keyboard](#how-to-signal-if-you-are-away-from-keyboard)
+- [How to signal when you completed a task successfully](#how-to-signal-when-you-completed-a-task-successfully)
+- [How to ask a question](#how-to-ask-a-question)
+- [How to signal a technical problem or that you got stuck](#how-to-signal-a-technical-problem-or-that-you-got-stuck)
+- [How to give feedback on the speed](#how-to-give-feedback-on-the-speed)
+
 
 ## How to mute and unmute
 
