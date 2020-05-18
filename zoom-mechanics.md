@@ -71,7 +71,9 @@ If you want to ask a question please use the "hand" symbol:
 <img src="img/hand.jpg" width="400"/>
 
 If this symbol is not present in your Zoom client, you can type "\hand" in the
-chat window.
+chat window:
+
+<img src="img/chat.jpg" width="800"/>
 
 
 ## How to signal a technical problem or that you got stuck
