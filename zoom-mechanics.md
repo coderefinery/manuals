@@ -2,9 +2,6 @@
 
 # Zoom mechanics and controls
 
-This is licensed under [CC-BY](https://github.com/coderefinery/manuals/blob/master/LICENSE)
-and we encourage and appreciate reuse, modifications, and contributions.
-
 - [How to mute and unmute](#how-to-mute-and-unmute)
 - [Please use your real name (instead of a system default username)](#please-use-your-real-name-instead-of-a-system-default-username)
 - [Indicate in your name if you are in a team and/or if you are a helper](#indicate-in-your-name-if-you-are-in-a-team-andor-if-you-are-a-helper)
@@ -100,3 +97,8 @@ Breakout Room" (bottom right):
 
 There are also signals for faster and slower and with this you can indicate to
 us whether we should adjust the speed.
+
+---
+
+This is licensed under [CC-BY](https://github.com/coderefinery/manuals/blob/master/LICENSE)
+and we encourage and appreciate reuse, modifications, and contributions.
