@@ -97,3 +97,8 @@ Breakout Room" (bottom right):
 
 There are also signals for faster and slower and with this you can indicate to
 us whether we should adjust the speed.
+
+---
+
+This is licensed under [CC-BY](https://github.com/coderefinery/manuals/blob/master/LICENSE)
+and we encourage and appreciate reuse, modifications, and contributions.
