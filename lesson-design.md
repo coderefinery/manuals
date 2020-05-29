@@ -23,7 +23,7 @@ to do, design exercises to measure it, then fill in the gaps with
 teaching.  You can see [their
 summary](http://teachtogether.tech/en/template/).  The steps are:
 
-1. Brainstorm what you want to cover
+1. Brainstorm what you want to cover.
 2. Create or reuse learner personas - understand who you want to
    teach.  What do they care about?  Perhaps as important is what they
    don't care about: make sure that you don't go too in depth too
