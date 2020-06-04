@@ -17,6 +17,9 @@ Also, everyone can have a more equal share of time.
 - Please keep the link private during the workshop, since since
   security is "editable by those who have the link".
 
+- You can use `[name=YOURNAME]`, to name yourself.  We *will* leave
+  these in unless they are negative comments.
+
 
 ## Basic controls
 
@@ -34,8 +37,8 @@ Also, everyone can have a more equal share of time.
 ## Asking questions
 
 Always ask questions and add new sections at the very bottom (unless
-you are answering to something old).  You can also answer and comment
-on other questions, too.
+you are answering to something old, but we don't look up that much).
+You can also answer and comment on other questions, too.
 
 
 Other hints:
@@ -43,5 +46,6 @@ Other hints:
 - Please leave some blank lines at the bottom
 
 - It can be quite demanding to follow the HackMD closely.  Keep an eye
-  on it, but consider how distracted you may get from the course.
-
+  on it, but consider how distracted you may get from the course.  For
+  things beyond the scope of the course, we may come back and answer
+  later.
