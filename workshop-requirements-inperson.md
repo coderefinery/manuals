@@ -1,5 +1,8 @@
 ## Workshop requirements - in person
 
+This checklist is for the pre-planning phase of in-person CodeRefinery
+workshops: where you are deciding if you can host one and what room to
+use.  Let us know about the items on this list when you contact us.
 
 ## Lecture room
 
