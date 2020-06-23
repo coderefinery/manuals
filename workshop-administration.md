@@ -27,7 +27,7 @@ but they make sure that nothing gets forgotten.
 #### First steps
 
 - Recruit instructors - having at least 3 instructors is highly recommended.
-- Find 1-2 workshop helpers [with an appropriate background](https://coderefinery.org/workshop-requirements/#helpers).
+- Find 1-2 workshop helpers [with an appropriate background](workshop-requirements.md).
 - Reserve dates (coordinate this with the instructors)
 - Reserve room
 - Select a workshop coordinator
@@ -36,7 +36,7 @@ but they make sure that nothing gets forgotten.
 #### Lecture room
 
 - Start looking for an appropriate lecture room early.
-- See this [list of requirements](https://coderefinery.org/workshop-requirements/#lecture-room) for
+- See this [list of requirements](workshop-requirements.md) for
   the lecture room.
 
 #### Set up workshop page
