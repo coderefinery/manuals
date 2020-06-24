@@ -1,23 +1,24 @@
-
-
-# Diverse operation manuals
+# CodeRefinery operation manuals
 
 All material within this repository is licensed [CC-BY](LICENSE).
 
 
-### Workshop preparation
+```{toctree}
+:caption: Workshop preparation
+:maxdepth: 1
 
-- [Workshop basic requirements (in person)](workshop-requirements-inperson.md) (checklist)
-- [Workshop administration](workshop-administration.md) (reference)
-- [Guide on how to use Indico](indico-workshop-management.md) (reference)
+Workshop basic requirements (in person) (checklist) <workshop-requirements-inperson.md>
+Workshop administration (reference) <workshop-administration.md>
+Guide on how to use Indico (reference) <indico-workshop-management.md>
+```
 
+```{toctree}
+:caption: Lesson development
+:maxdepth: 1
 
-### Lesson development
-
-- [Lesson design checklist and guide](lesson-design.md), to make it
-  easy to write your lessons. (tutorial, reference)
-- [Lesson review](lesson-review.md) (checklist)
-
+Lesson design tutorial and reference <lesson-design.md>
+Lesson review checklist <lesson-review.md>
+```
 
 ### Helper training
 
