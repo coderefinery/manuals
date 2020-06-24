@@ -7,7 +7,7 @@ All material within this repository is licensed [CC-BY](LICENSE).
 
 ### Workshop preparation
 
-- [Workshop basic requirements (in person)][workshop-requirements.md]
+- [Workshop basic requirements (in person)](workshop-requirements.md)
 - [Workshop administration](workshop-administration.md)
 - [Guide on how to use Indico](indico-workshop-management.md)
 
