@@ -1,7 +1,7 @@
 # Tips for helpers
 
-See also: <breakout-rooms-helping.md> for information on how to manage
-online breakout rooms.
+See also: [breakout-rooms-helping.md](breakout-rooms-helping.md) for
+information on how to manage online breakout rooms.
 
 
 ## Preparing to help
