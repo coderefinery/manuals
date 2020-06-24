@@ -76,6 +76,18 @@ For self-organized workshops:
 
 - Make sure lessons are distributed
 
+#### Preparing lessons
+
+- Go through the lesson material you will be teaching and think about how you
+  intend to teach it, and how much time you will be spending on each episode.
+- Are there any unsolved issues that you can fix?
+- Go through the instructor guides of the lessons you will be teaching.
+  - Review the intended learning outcomes, and try to keep these in mind while teaching.
+  - Try to memorize the typical pitfalls and common questions.
+- Go through the [lesson presentation hints](https://github.com/coderefinery/manuals/blob/master/presenting.md).
+- Go through the [helping and teaching guide](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md),
+  and request all helpers to go through it too.
+
 #### Prepare practicals
 
 - Order catering (coffee, tea, water, fruit, something sweet, etc.)
@@ -124,10 +136,16 @@ For self-organized workshops:
 ## Introduction talk
 
 - See https://github.com/coderefinery/workshop-intro
+- Have a 10 minute ice-breaker session where participants and instructors introduce themselves
+  and either describe their research in 2-3 sentences or what they hope to get out of the workshop.
 
 
 ## During workshop
 
+- While teaching, keep [these tips](https://github.com/coderefinery/manuals/blob/master/workshop-administration.md#during-workshop) in mind
+- Don't start off with tech details, say why this is important.
+- Try to [stick to the material](https://github.com/coderefinery/manuals/blob/master/presenting.md#try-to-stick-to-the-material),
+  although some excursions are useful.
 - Keep up interactive feel by encouraging and asking questions
 - Keep time
 - For presentations which have shell commands, create a
@@ -142,6 +160,8 @@ For self-organized workshops:
 - Take active part even in the lessons you're not teaching, e.g. by asking
   questions and (politely) interject with clarifications when you think
   something is confusing to the learners
+- [Wrap up](https://github.com/coderefinery/manuals/blob/master/presenting.md#wrap-up),
+  say what you taught and why, and what comes next.
 
 
 ## At the end of workshop
@@ -152,6 +172,12 @@ For self-organized workshops:
 
 ## Post-workshop
 
-- Process and distribute feedback
+- Process and distribute feedback to co-instructors and others (e.g. type up in shared document)
 - Debrief with instructors
 - Process certificate requests
+
+## [Post-workshop survey](https://github.com/coderefinery/post-workshop-survey)
+
+To measure the long-term impact of CodeRefinery workshops it's useful to send out a
+post-workshop survey. This survey can identify which topics taught in workshops are
+particularly useful and which have less benefits for the participants.
