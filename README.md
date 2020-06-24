@@ -22,7 +22,7 @@ All material within this repository is licensed [CC-BY](LICENSE).
 ### Helper training
 
 - [Helper's guide](helping-and-teaching.md)
-- [How helpers manage breakout rooms](breakout-rooms-groups-help.md)
+- [How helpers manage breakout rooms](breakout-rooms-helping.md)
 
 ### Teaching
 
