@@ -14,13 +14,18 @@
 
 ## How to mute and unmute
 
-In lower left corner of the client you an unmute yourself if you want to say
-something but please keep your microphone muted in the main room:
+In lower left corner of the client you can mute and unmute yourself.
 
 <img src="img/unmute.jpg" width="700"/>
 
-If you are in a quiet place, staying unmuted in breakout rooms is reasonable.
-We encourage discussion in breakout rooms.
+In the *main room* during lectures, it is best to keep your microphone
+muted in the main room unless you want to say something.  It's OK to
+unmute and speak up.
+
+If you are in a quiet place, it's best to stay unmuted in breakout
+rooms and during discussions.  This will make discussion much
+smoother - a quiet environment or headset microphone helps with the
+flow a lot.
 
 
 ## Please use your real name (instead of a system default username)
