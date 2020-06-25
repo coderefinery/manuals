@@ -20,22 +20,30 @@ Lesson design tutorial and reference <lesson-design.md>
 Lesson review checklist <lesson-review.md>
 ```
 
-### Helper training
+```{toctree}
+:caption: Helper training
+:maxdepth: 1
 
-- [Helper's guide](helping-and-teaching.md) (tutorial)
-- [How helpers manage breakout rooms](breakout-rooms-helping.md) (tutorial)
+Helper's guide (tutorial) <helping-and-teaching.md>
+How helpers manage breakout rooms (tutorial) <breakout-rooms-helping.md>
+```
 
-### Teaching
+```{toctree}
+:caption: Teaching
+:maxdepth: 1
 
-- [In-class checklist](presenting.md) (checklist)
-- [Online training manual](online-training.md) (tutorial, reference)
-- [Zoom mechanics and signals](zoom-mechanics.md) (tutorial for learners)
-- [Icebreaker question ideas](icebreakers.md) (reference)
-- [Hackmd mechanics](hackmd-mechanics.md) (tutorial for learners)
-- [Summary of the book "Teaching Teach Together"](teaching-tech-together.md)
-  ([the actual book is online](http://teachtogether.tech/)) (reference)
+In-class checklist (checklist) <presenting.md>
+Online training manual (tutorial, reference) <online-training.md>
+Zoom mechanics and signals (tutorial for learners) <zoom-mechanics.md>
+Icebreaker question ideas (reference) <icebreakers.md>
+Hackmd mechanics (tutorial for learners) <hackmd-mechanics.md>
+Summary of the book "Teaching Teach Together" (reference) <teaching-tech-together.md>
+```
 
 
-### Writing documentation
+```{toctree}
+:caption: Writing documentation
+:maxdepth: 1
 
-- [Writing technical docs](tech-docs.md) (reference)
+Writing technical docs (reference) <tech-docs.md>
+```
