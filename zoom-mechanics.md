@@ -98,6 +98,15 @@ Breakout Room" (bottom right):
 There are also signals for faster and slower and with this you can indicate to
 us whether we should adjust the speed.
 
+
+## Zoom doesn't have to fullscreen when someone shares their screen.
+
+By default, when someone shares their screen, Zoom goes into
+fullscreen mode.  This can be inconvenient when you need to see
+multiple windows at once.  You can disable this with Settings → Screen
+Share → "Enter full screen when participants share".
+
+
 ---
 
 This is licensed under [CC-BY](https://github.com/coderefinery/manuals/blob/master/LICENSE)
