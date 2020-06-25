@@ -74,7 +74,7 @@ As a helper, you have a crucial role during workshops:
   from asking questions in the future.
 
 
-# From helper to instructor
+## From helper to instructor
 
 You have been a helper at a CodeRefinery workshop and it was a great experience
 for you so you are willing to take an active part to CodeRefinery?
@@ -88,7 +88,7 @@ https://coderefinery.zulipchat.com: you can listen in, follow certain threads,
 participate, and influence.
 
 
-## What knowledge is needed?
+### What knowledge is needed?
 
 If you have been helping out at a CodeRefinery workshop, you are most likely
 familiar with our [lessons](https://coderefinery.org/lessons/).
