@@ -1,6 +1,6 @@
 # CodeRefinery operation manuals
 
-All material within this repository is licensed [CC-BY](LICENSE).
+All material within this repository is licensed [CC-BY](LICENSE.md).
 
 
 ```{toctree}

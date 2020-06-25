@@ -1,3 +1,7 @@
+---
+orphan: true
+---
+
 # Post-workshop survey
 
 ## First email

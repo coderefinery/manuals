@@ -93,6 +93,6 @@ which needs to be manually imported as a json file.
   takes you to the list of registrations..
 - Click the check-box on the menu just above the list of registrations and select "All".
 - Click on "Export" from the top menu, select "CSV" and choose a download directory.
-- You can use the [read_csv.py](./scripts/read_csv.py) to parse the CSV file and print 
+- You can use the [read_csv.py](https://github.com/coderefinery/manuals/blob/master/scripts/read_csv.py) to parse the CSV file and print 
   selected fields, e.g. email addresses to be used in sending out information to 
   participants.
