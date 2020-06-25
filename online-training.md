@@ -6,14 +6,14 @@ This manual covers general guidelines for conducting online
 training as well as specific tips on using [Zoom](https://zoom.us/).
 
 
-### For the instructors
+## For the instructors
 
 If you have an old spare laptop, connect to the call as a second "you" and you can
 watch and verify your screensharing and fontsize to avoid "Am I sharing the screen?
 Hopefully you see what I see."
 
 
-### How to avoid "Zoom bombing"
+## How to avoid "Zoom bombing"
 
 - Either set a password or use waiting rooms
 - Share connection details only with participants and helpers, not on the web
@@ -21,7 +21,7 @@ Hopefully you see what I see."
 - Disable "Allow removed participants to rejoin"
 
 
-### Preparation
+## Preparation
 
 - Schedule the meeting/webinar in the online Zoom system
 - do not auto-mute participants' microphones, as this also happens when you enter breakout rooms.
@@ -42,7 +42,7 @@ Hopefully you see what I see."
 - Workshop owner creates a HackMD which will be used for collaborative note taking.
 
 
-### At the beginning of the session
+## At the beginning of the session
 
 - Allow time at the beginning of the session to debug video/audio and to
   arrange windows. This takes few minutes so better do not start with teaching
@@ -54,7 +54,7 @@ Hopefully you see what I see."
 - We demonstrate how HackMD works and use it in an ice-breaker (roll call or asking a questions).
 
 
-### Recording of sessions
+## Recording of sessions
 
 If you plan on recording and publishing the session, prepare in advance so that
 you don't have a difficult editing job later.
@@ -77,7 +77,7 @@ background image to flash above the screen, if it was pure black it would be
 less distracting.
 
 
-### Zoom-specific installations instructions sent out before workshop/lesson
+## Zoom-specific installations instructions sent out before workshop/lesson
 
 - Recommend to install Zoom app. Browser is possible but more limited
 - Test-launch zoom and test microphone, speaker and camera (lower left corner buttons)
@@ -98,7 +98,7 @@ less distracting.
   speak slowly and repeat important topics.
 
 
-### Breakout rooms
+## Breakout rooms
 
 - Breakout rooms can be used both by helpers to assist individual
   learners during an exercise, or for multiple learners working on
@@ -121,7 +121,7 @@ less distracting.
   have 60 seconds to finish before the session terminates.
 
 
-### Exercises
+## Exercises
 
 - Just like in a regular workshop, demonstrations and type-along sessions
   should be interspersed with frequent exercises
@@ -136,13 +136,13 @@ less distracting.
   (TODO: polling seems not available in kth-se zoom subscription)
 
 
-### Breaks
+## Breaks
 
 Following an online event can be even more tiring than a physical event and
 therefore also during online sessions we need to plan for breaks as we would
 for an in-person event.
 
 
-### More resources
+## More resources
 
 - https://foundation.mozilla.org/en/blog/tips-make-your-zoom-gatherings-more-private/

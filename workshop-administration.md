@@ -24,7 +24,7 @@ but they make sure that nothing gets forgotten.
 
 ## Before the workshop
 
-#### First steps
+### First steps
 
 - Recruit instructors - having at least 3 instructors is highly recommended.
 - Find 1-2 workshop helpers [with an appropriate background](workshop-requirements-inperson.md).
@@ -33,13 +33,13 @@ but they make sure that nothing gets forgotten.
 - Select a workshop coordinator
 - Workshop coordinator creates a ticket with a checklist on https://github.com/orgs/coderefinery/projects/4 and takes it (self-assigns)
 
-#### Lecture room
+### Lecture room
 
 - Start looking for an appropriate lecture room early.
 - See this [list of requirements](workshop-requirements-inperson.md) for
   the lecture room.
 
-#### Set up workshop page
+### Set up workshop page
 
 - Import the template at https://github.com/coderefinery/template-workshop-webpage to your username
   or the coderefinery organization, and name it like "2019-10-16-somecity".
@@ -61,7 +61,7 @@ but they make sure that nothing gets forgotten.
 - Create a registration form following [indico-workshop-management.md](indico-workshop-management.md).
 - Open and test registration
 
-#### Announcing the workshop
+### Announcing the workshop
 
 - Twitter
 - Email persons who registered to notify-me form
@@ -72,11 +72,11 @@ For self-organized workshops:
   [https://indico.neic.no](https://indico.neic.no)
 
 
-#### Distribute the work
+### Distribute the work
 
 - Make sure lessons are distributed
 
-#### Preparing lessons
+### Preparing lessons
 
 - Go through the lesson material you will be teaching and think about how you
   intend to teach it, and how much time you will be spending on each episode.
@@ -88,14 +88,14 @@ For self-organized workshops:
 - Go through the [helping and teaching guide](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md),
   and request all helpers to go through it too.
 
-#### Prepare practicals
+### Prepare practicals
 
 - Order catering (coffee, tea, water, fruit, something sweet, etc.)
 - Organize sticky notes
 - Organize extension cables if needed
 - Organize alternative wireless for those without Eduroam (if any)
 
-#### Communication with participants
+### Communication with participants
 
 - Send out practical information, including installation instructions, around 2 weeks ahead.
   [Here is a template](https://github.com/coderefinery/manuals/blob/master/templates/practical-info-to-participants.txt).
@@ -107,13 +107,13 @@ For self-organized workshops:
 - Make sure we have enough pre-survey answers
 - Close registration on the workshop page
 
-#### 1-2 weeks before the workshop
+### 1-2 weeks before the workshop
 
 - Workshop coordinator organizes a call with all instructors and helpers to discuss the schedule to leave no doubts about timing. Also
   discuss the survey results.
 - Point helpers (and instructors) to the [tips for helpers](helping-and-teaching.md).
 
-#### Right before the workshop starts
+### Right before the workshop starts
 
 - Prepare a shared Google doc or https://hackmd.io with global write permissions,
   consider creating a memorable short-link (e.g. bit.ly)
