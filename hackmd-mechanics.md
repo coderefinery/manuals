@@ -45,6 +45,9 @@ Other hints:
 
 - Please leave some blank lines at the bottom
 
+- Please don't "select all", it highlights for everyone and adds a
+  risk of losing data (there are periodic backups, but not instant).
+
 - It can be quite demanding to follow the HackMD closely.  Keep an eye
   on it, but consider how distracted you may get from the course.  For
   things beyond the scope of the course, we may come back and answer
