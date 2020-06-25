@@ -53,3 +53,9 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 master_doc = 'README'
+
+html_context = {'display_github': True,
+                'github_user': 'coderefinery',
+                'github_repo': 'manuals',
+                'github_version': 'master/',
+               }
