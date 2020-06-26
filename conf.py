@@ -61,3 +61,8 @@ html_context = {'display_github': True,
                 'github_repo': 'manuals',
                 'github_version': 'master/',
                }
+
+epub_basename='CodeRefineryManuals'
+latex_documents = [
+    (master_doc, 'CodeRefineryManuals.tex', project, author, 'manual')
+    ]

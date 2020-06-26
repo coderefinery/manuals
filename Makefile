@@ -11,6 +11,24 @@ BUILDDIR      = _build
 default: html
 	true
 
+# Install dependenciences for gh-pages.  This is only intended for CI,
+# but is put here instead of in the Actions file to avoid locking us
+# in to the github actions formats.
+gh-pages-dependencies:
+	apt install texlive-latex-recommended \
+	    texlive-fonts-recommended \
+            texlive-latex-extra \
+            latexmk
+# Do all required building for gh-pages, copy the site to
+# _build/gh-pages.
+gh-pages: dirhtml singlehtml latexpdf epub
+	mkdir -p _build/gh-pages/
+	mkdir -p _build/gh-pages/_builds/
+	rsync -a _build/dirhtml/ _build/gh-pages/
+	rsync -a _build/singlehtml/ _build/gh-pages/_builds/singlehtml/
+	rsync -a _build/epub/CodeRefineryManuals.epub _build/gh-pages/_builds/
+	rsync -a _build/latex/CodeRefineryManuals.pdf _build/gh-pages/_builds/
+
 # Put it first so that "make" without argument is like "make help".
 help:
 	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)

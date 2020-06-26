@@ -47,3 +47,8 @@ Summary of the book "Teaching Teach Together" (reference) <teaching-tech-togethe
 
 Writing technical docs (reference) <tech-docs.md>
 ```
+
+
+Download this guide as [single-page HTML](https://coderefinery.github.io/manuals/_builds/singlehtml/),
+[pdf](https://coderefinery.github.io/manuals/_builds/CodeRefineryManuals.pdf), or
+[epub](https://coderefinery.github.io/manuals/_builds/CodeRefineryManuals.epub).
