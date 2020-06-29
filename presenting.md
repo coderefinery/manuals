@@ -1,6 +1,4 @@
-
-
-# Lesson presentation hints.
+# Lesson presentation hints
 
 This is a checklist/hints on what to do when standing up and giving a
 presentation.

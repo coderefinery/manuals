@@ -1,40 +1,54 @@
+# CodeRefinery operation manuals
+
+All material within this repository is licensed [CC-BY](LICENSE.md).
 
 
-# Diverse operation manuals
+```{toctree}
+:caption: Workshop preparation
+:maxdepth: 1
 
-All material within this repository is licensed [CC-BY](LICENSE).
+Workshop basic requirements (in person) (checklist) <workshop-requirements-inperson.md>
+Workshop administration (reference) <workshop-administration.md>
+Guide on how to use Indico (reference) <indico-workshop-management.md>
+```
+
+```{toctree}
+:caption: Lesson development
+:maxdepth: 1
+
+Lesson design tutorial and reference <lesson-design.md>
+Lesson review checklist <lesson-review.md>
+```
+
+```{toctree}
+:caption: Helper training
+:maxdepth: 1
+
+Helper's guide (tutorial) <helping-and-teaching.md>
+How helpers manage breakout rooms (tutorial) <breakout-rooms-helping.md>
+```
+
+```{toctree}
+:caption: Teaching
+:maxdepth: 1
+
+In-class checklist (checklist) <presenting.md>
+Online training manual (tutorial, reference) <online-training.md>
+Zoom mechanics and signals (tutorial for learners) <zoom-mechanics.md>
+Icebreaker question ideas (reference) <icebreakers.md>
+Hackmd mechanics (tutorial for learners) <hackmd-mechanics.md>
+Summary of the book "Teaching Teach Together" (reference) <teaching-tech-together.md>
+```
 
 
-### Workshop preparation
+```{toctree}
+:caption: Writing documentation
+:maxdepth: 1
 
-- [Workshop basic requirements (in person)](workshop-requirements-inperson.md) (checklist)
-- [Workshop administration](workshop-administration.md) (reference)
-- [Guide on how to use Indico](indico-workshop-management.md) (reference)
-
-
-### Lesson development
-
-- [Lesson design checklist and guide](lesson-design.md), to make it
-  easy to write your lessons. (tutorial, reference)
-- [Lesson review](lesson-review.md) (checklist)
+Writing technical docs (reference) <tech-docs.md>
+```
 
 
-### Helper training
-
-- [Helper's guide](helping-and-teaching.md) (tutorial)
-- [How helpers manage breakout rooms](breakout-rooms-helping.md) (tutorial)
-
-### Teaching
-
-- [In-class checklist](presenting.md) (checklist)
-- [Online training manual](online-training.md) (tutorial, reference)
-- [Zoom mechanics and signals](zoom-mechanics.md) (tutorial for learners)
-- [Icebreaker question ideas](icebreakers.md) (reference)
-- [Hackmd mechanics](hackmd-mechanics.md) (tutorial for learners)
-- [Summary of the book "Teaching Teach Together"](teaching-tech-together.md)
-  ([the actual book is online](http://teachtogether.tech/)) (reference)
-
-
-### Writing documentation
-
-- [Writing technical docs](tech-docs.md) (reference)
+Download this guide as [single-page HTML](https://coderefinery.github.io/manuals/_builds/singlehtml/),
+[pdf](https://coderefinery.github.io/manuals/_builds/CodeRefineryManuals.pdf), or
+[epub](https://coderefinery.github.io/manuals/_builds/CodeRefineryManuals.epub).
