@@ -1,6 +1,7 @@
 # CodeRefinery operation manuals
 
-All material within this repository is licensed [CC-BY](LICENSE.md).
+This site contains various manuals about CodeRefinery workshops and
+teaching/lesson development in general.
 
 
 ```{toctree}
@@ -12,6 +13,7 @@ Workshop administration (reference) <workshop-administration.md>
 Guide on how to use Indico (reference) <indico-workshop-management.md>
 ```
 
+
 ```{toctree}
 :caption: Lesson development
 :maxdepth: 1
@@ -20,6 +22,7 @@ Lesson design tutorial and reference <lesson-design.md>
 Lesson review checklist <lesson-review.md>
 ```
 
+
 ```{toctree}
 :caption: Helper training
 :maxdepth: 1
@@ -27,6 +30,7 @@ Lesson review checklist <lesson-review.md>
 Helper's guide (tutorial) <helping-and-teaching.md>
 How helpers manage breakout rooms (tutorial) <breakout-rooms-helping.md>
 ```
+
 
 ```{toctree}
 :caption: Teaching
@@ -52,3 +56,5 @@ Writing technical docs (reference) <tech-docs.md>
 Download this guide as [single-page HTML](https://coderefinery.github.io/manuals/_builds/singlehtml/),
 [pdf](https://coderefinery.github.io/manuals/_builds/CodeRefineryManuals.pdf), or
 [epub](https://coderefinery.github.io/manuals/_builds/CodeRefineryManuals.epub).
+
+All material within this repository is licensed [CC-BY](LICENSE.md).
