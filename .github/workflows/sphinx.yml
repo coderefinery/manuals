@@ -32,6 +32,11 @@ jobs:
     - name: Sphinx Build
       run:
          make gh-pages
+    - name: debug information
+      run: |
+        echo ${{ github.event_name }}
+        echo ${{ github.ref }}
+        echo ${{ github }}
     - name: Deploy to gh-pages
       uses: peaceiris/actions-gh-pages@v3
       if: ${{ github.event_name == 'push' && github.ref == 'master' }}
