@@ -40,6 +40,11 @@ Always ask questions and add new sections at the very bottom (unless
 you are answering to something old, but we don't look up that much).
 You can also answer and comment on other questions, too.
 
+Since we plan to publish the questions and answers later as part
+of the workshop page, we recommend to not use any names. You can indicate
+your own name to make it easier to discuss more during the workshop but
+then always use this form: `[name=Myname]`. This makes it easier for
+us to automatically remove all names before publishing the notes.
 
 Other hints:
 
