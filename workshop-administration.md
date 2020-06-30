@@ -136,7 +136,6 @@ For self-organized workshops:
   - [ ] (online) prepare Zoom link or (in-person) book lecture room
   - [ ] announce (twitter, notify-me, mailing lists)
   - [ ] team of instructors complete
-  - [ ] team of helpers complete
   - [ ] workshop website up
   - [ ] lessons distributed
   - [ ] prepare lessons
@@ -144,6 +143,7 @@ For self-organized workshops:
   - [ ] (in-person) prepare practicals (coffee/tea, sticky notes, extension cacles)
   - [ ] (online) Zoom roles distributed
   - [ ] registration open
+  - [ ] team of helpers complete
   - [ ] registration closed
   - [ ] enough pre-survey answers
   - [ ] install instructions sent
