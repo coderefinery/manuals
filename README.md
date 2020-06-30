@@ -8,6 +8,8 @@ teaching/lesson development in general.
 :caption: Learners
 :maxdepth: 1
 
+how-to-attend-online.md
+how-to-attend-inpreson.md
 Zoom mechanics and signals (tutorial for learners) <zoom-mechanics.md>
 Hackmd mechanics (tutorial for learners) <hackmd-mechanics.md>
 ```
