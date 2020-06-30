@@ -147,7 +147,7 @@ For self-organized workshops:
   - [ ] registration closed
   - [ ] enough pre-survey answers
   - [ ] install instructions sent
-  - [ ] pre-workshop briefing held
+  - [ ] pre-workshop briefing held, helper training
   - [ ] survey results shared with co-instructors/helpers
   ```
 
