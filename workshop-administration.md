@@ -125,6 +125,32 @@ For self-organized workshops:
   be set up. For this follow the instructor guide in the lesson material.
 
 
+## Workshop preparation checklist
+
+- This checklist can be set up as an issue under 
+  https://github.com/coderefinery/coderefinery.org/ or on another 
+  repository to keep track of the progress
+  ```
+  - [ ] reserve dates
+  - [ ] decide workshop organizer
+  - [ ] (online) prepare Zoom link or (in-person) book lecture room
+  - [ ] announce (twitter, notify-me, mailing lists)
+  - [ ] team of instructors complete
+  - [ ] team of helpers complete
+  - [ ] workshop website up
+  - [ ] lessons distributed
+  - [ ] prepare lessons
+  - [ ] create exercise repositories
+  - [ ] (in-person) prepare practicals (coffee/tea, sticky notes, extension cacles)
+  - [ ] (online) Zoom roles distributed
+  - [ ] registration open
+  - [ ] registration closed
+  - [ ] enough pre-survey answers
+  - [ ] install instructions sent
+  - [ ] pre-workshop briefing held
+  - [ ] survey results shared with co-instructors/helpers
+  ```
+
 ## As participants arrive
 
 - Emphasize to participants that you need to sit with someone - don't work alone.
