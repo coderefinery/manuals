@@ -1,8 +1,10 @@
 # HackMD mechanics and controls
 
-Hackmd is a syncing text editor online.  We use it to answer questions
-and provide feedback without interrupting the main flow of the room.
-Also, everyone can have a more equal share of time.
+Hackmd is a real-time text editor online.  We use it to:
+* **answer questions and provide other information** without
+  interrupting the main flow of the room.
+* provide everyone with a **more equal opportunity to ask questions**.
+* **create notes** which will be archived, for your later reference.
 
 
 ## Privacy
@@ -17,8 +19,9 @@ Also, everyone can have a more equal share of time.
 - Please keep the link private during the workshop, since since
   security is "editable by those who have the link".
 
-- You can use `[name=YOURNAME]`, to name yourself.  We *will* leave
-  these in unless they are negative comments.
+- You can use `[name=YOURNAME]`, to name yourself.  We *will* remove
+  all names (but not the comments) before archiving the notes (use
+  this format to make it easy for us).
 
 
 ## Basic controls
