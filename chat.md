@@ -28,6 +28,8 @@ should do is join some more streams, depending on your interest.  Join
 more streams by clicking gear icon by the steams list on the left side
 on that chat, then selecting what you are interested in.**
 
+![Gear icon to join a stream](img/chat--join-stream.png)
+
 CodeRefinery streams:
 * **#general**: Any topic and random chat (including for the other
   projects below)
