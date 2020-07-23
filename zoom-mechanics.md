@@ -1,15 +1,5 @@
-
-
 # Zoom mechanics and controls
 
-- [How to mute and unmute](#how-to-mute-and-unmute)
-- [Please use your real name (instead of a system default username)](#please-use-your-real-name-instead-of-a-system-default-username)
-- [Indicate in your name if you are in a team and/or if you are a helper](#indicate-in-your-name-if-you-are-in-a-team-andor-if-you-are-a-helper)
-- [How to signal if you are away from keyboard](#how-to-signal-if-you-are-away-from-keyboard)
-- [How to signal when you completed a task successfully](#how-to-signal-when-you-completed-a-task-successfully)
-- [How to ask a question](#how-to-ask-a-question)
-- [How to signal a technical problem or that you got stuck](#how-to-signal-a-technical-problem-or-that-you-got-stuck)
-- [How to give feedback on the speed](#how-to-give-feedback-on-the-speed)
 
 
 ## How to mute and unmute
@@ -54,14 +44,17 @@ If you are a helper, please indicate also:
 This makes it easier for the workshop organizers to manage breakout rooms.
 
 
-## How to signal if you are away from keyboard
+## Indicating your status
+
+
+### How to signal if you are away from keyboard
 
 Please select the "clock" symbol if you are away or otherwise busy:
 
 ![Away from keyboard clock button](img/clock.jpg)
 
 
-## How to signal when you completed a task successfully
+### How to signal when you completed a task successfully
 
 We will sometimes ask you to signal to us once you have successfully completed
 an exercise or type-along step. You can do this using the green check symbol:
@@ -69,7 +62,7 @@ an exercise or type-along step. You can do this using the green check symbol:
 ![Green yes under participant list](img/green.jpg)
 
 
-## How to ask a question
+### How to ask a question
 
 If you want to ask a question please use the "hand" symbol:
 
@@ -81,7 +74,7 @@ chat window:
 ![chat button at bottom of screen](img/chat.jpg)
 
 
-## How to signal a technical problem or that you got stuck
+### How to signal a technical problem or that you got stuck
 
 If you hit a technical problem or got stuck somewhere in an exercise
 or type-along, please let us know with the red circle symbol:
@@ -98,13 +91,16 @@ Breakout Room" (bottom right):
 ![Join Breakout Room button at bottom of screen](img/problem-breakout.jpg)
 
 
-## How to give feedback on the speed
+### How to give feedback on the speed
 
 There are also signals for faster and slower and with this you can indicate to
 us whether we should adjust the speed.
 
 
-## Zoom doesn't have to fullscreen when someone shares their screen.
+## Other points
+
+
+### Zoom doesn't have to fullscreen when someone shares their screen.
 
 By default, when someone shares their screen, Zoom goes into
 fullscreen mode.  This can be inconvenient when you need to see
