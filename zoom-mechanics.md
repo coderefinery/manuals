@@ -16,7 +16,7 @@
 
 In lower left corner of the client you can mute and unmute yourself.
 
-<img src="img/unmute.jpg" width="700"/>
+![unmute in lower left corner](img/unmute.jpg)
 
 In the *main room* during lectures, it is best to keep your microphone
 muted in the main room unless you want to say something.  It's OK to
@@ -32,24 +32,24 @@ flow a lot.
 
 Click on "Participants" (bottom, middle):
 
-<img src="img/participants.jpg" width="800"/>
+![participants list button at bottom](img/participants.jpg)
 
 You can rename yourself by clicking the blue "Rename" next to your name:
 
-<img src="img/rename1.jpg" width="400"/>
+![rename yourself button in participant list](img/rename1.jpg)
 
-<img src="img/rename2.jpg" width="800"/>
+![rename yourself example](img/rename2.jpg)
 
 
 ## Indicate in your name if you are in a team and/or if you are a helper
 
 If you are part of a team, please indicate your team name or number like this:
 
-<img src="img/myteam.jpg" width="400"/>
+![team name in your Zoom name](img/myteam.jpg)
 
 If you are a helper, please indicate also:
 
-<img src="img/myteam-helper.jpg" width="400"/>
+![team name+helper in zoom name](img/myteam-helper.jpg)
 
 This makes it easier for the workshop organizers to manage breakout rooms.
 
@@ -58,7 +58,7 @@ This makes it easier for the workshop organizers to manage breakout rooms.
 
 Please select the "clock" symbol if you are away or otherwise busy:
 
-<img src="img/clock.jpg" width="400"/>
+![Away from keyboard clock button](img/clock.jpg)
 
 
 ## How to signal when you completed a task successfully
@@ -66,19 +66,19 @@ Please select the "clock" symbol if you are away or otherwise busy:
 We will sometimes ask you to signal to us once you have successfully completed
 an exercise or type-along step. You can do this using the green check symbol:
 
-<img src="img/green.jpg" width="400"/>
+![Green yes under participant list](img/green.jpg)
 
 
 ## How to ask a question
 
 If you want to ask a question please use the "hand" symbol:
 
-<img src="img/hand.jpg" width="400"/>
+![Raise hand under participant list](img/hand.jpg)
 
 If this symbol is not present in your Zoom client, you can type "\hand" in the
 chat window:
 
-<img src="img/chat.jpg" width="800"/>
+![chat button at bottom of screen](img/chat.jpg)
 
 
 ## How to signal a technical problem or that you got stuck
@@ -86,7 +86,7 @@ chat window:
 If you hit a technical problem or got stuck somewhere in an exercise
 or type-along, please let us know with the red circle symbol:
 
-<img src="img/problem.jpg" width="400"/>
+![No button on participant list](img/problem.jpg)
 
 We will then probably ask you to unmute and briefly describe the problem and then based
 on the problem and timing we may assign you into a separate virtual room with a helper where
@@ -95,7 +95,7 @@ they can resolve the problem.
 Once we have assigned you a helper we will ask you and the helper to "Join
 Breakout Room" (bottom right):
 
-<img src="img/problem-breakout.jpg" width="800"/>
+![Join Breakout Room button at bottom of screen](img/problem-breakout.jpg)
 
 
 ## How to give feedback on the speed
