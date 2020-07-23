@@ -59,6 +59,12 @@ Lesson review checklist <lesson-review.md>
 Writing technical docs (reference) <tech-docs.md>
 ```
 
+```{toctree}
+:caption: About CodeRefinery
+:maxdepth: 1
+
+Chat <chat.md>
+```
 
 Download this guide as [single-page HTML](https://coderefinery.github.io/manuals/_builds/singlehtml/),
 [pdf](https://coderefinery.github.io/manuals/_builds/CodeRefineryManuals.pdf), or
