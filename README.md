@@ -65,6 +65,7 @@ Writing technical docs (reference) <tech-docs.md>
 
 Chat <chat.md>
 Contributing <contributing.md>
+The project <the-project.md>
 ```
 
 Download this guide as [single-page HTML](https://coderefinery.github.io/manuals/_builds/singlehtml/),
