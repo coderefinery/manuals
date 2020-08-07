@@ -4,7 +4,7 @@
 
 CodeRefinery began as a Nordic e-Infrastructure Collaboration (NeIC)
 based off of some previous workshops at the KTH, Stockholm.  The first
-round of funding was from 2017 - 2019, and a second round is going from
+round of funding was from 2016 - 2019, and a second round is going from
 2019-2022.  Thus, so far, it has always had some paid staff (each up
 to 0.5 full-time equivalent of their primary jobs).  Most of these
 staff are from some sort of computing center.
