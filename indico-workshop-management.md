@@ -1,7 +1,7 @@
 # Guide on how to use Indico for managing workshops
 
-We use the NeIC Indico service, https://indico.neic.no/, so you need to create
-an account at https://indico.neic.no/login/.
+We use the NeIC Indico service, <https://indico.neic.no/>, so you need to create
+an account at <https://indico.neic.no/login/>.
 
 Radovan, Thor, and Sabry are managers of the CodeRefinery category in
 indico.neic.no and will need to grant you permissions to create event pages.
@@ -15,7 +15,7 @@ which needs to be manually imported as a json file.
 
 ### Copy basics from latest event
 
-- Visit https://indico.neic.no/, and click CodeRefinery which takes you to https://indico.neic.no/category/5/.
+- Visit <https://indico.neic.no/>, and click CodeRefinery which takes you to <https://indico.neic.no/category/5/>.
 - Click the latest workshop event. You might need to show "events in the future" to see the latest event.
 - Go to admin mode (click the pen symbol on top toolbar, “Switch to the management area of this event”).
 - Click the “Clone” button, and select “Clone Once”. Click “Next” button.
@@ -68,7 +68,7 @@ which needs to be manually imported as a json file.
 ### Import survey
 
 - Now click “Surveys” from the left hand menu. You will now import the standard pre-workshop survey from a json file.
-- Go to https://github.com/coderefinery/pre-workshop-survey and clone the repository.
+- Go to <https://github.com/coderefinery/pre-workshop-survey> and clone the repository.
 - Go back to the Indico Surveys page, and click “Create survey”
 - Name the survey “Pre-workshop survey”, enable the option “Anonymous submissions” and disable “Only logged-in users”. Click “Save”.
 - Back on the “Surveys” page, click “Manage” on the newly created “Pre-workshop-survey” survey.
