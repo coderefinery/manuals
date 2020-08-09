@@ -15,7 +15,7 @@ but they make sure that nothing gets forgotten.
 
 ## Other documents and references
 
-- Workshop organization overview: https://github.com/orgs/coderefinery/projects/4
+- Workshop organization overview: <https://github.com/orgs/coderefinery/projects/4>
 - Instructions on how to set up a registration page in Indico (for NeIC affiliated staff):
   [indico-workshop-management.md](indico-workshop-management.md)
 - Email templates for workshop communication:
@@ -31,7 +31,7 @@ but they make sure that nothing gets forgotten.
 - Reserve dates (coordinate this with the instructors)
 - Reserve room
 - Select a workshop coordinator
-- Workshop coordinator creates a ticket with a checklist on https://github.com/orgs/coderefinery/projects/4 and takes it (self-assigns)
+- Workshop coordinator creates a ticket with a checklist on <https://github.com/orgs/coderefinery/projects/4> and takes it (self-assigns)
 
 ### Lecture room
 
@@ -41,13 +41,13 @@ but they make sure that nothing gets forgotten.
 
 ### Set up workshop page
 
-- Import the template at https://github.com/coderefinery/template-workshop-webpage to your username
+- Import the template at <https://github.com/coderefinery/template-workshop-webpage> to your username
   or the coderefinery organization, and name it like "2019-10-16-somecity".
 - Update the required fields in `index.md` and push the commits.
   The page should now be served at *username.github.io/2019-10-16-somecity/*.
 - If the workshop will be customized to the needs of a particular audience, modify the schedule accordingly.
-- If the workshop should be listed on https://coderefinery.org:
-  - (Fork and) clone https://github.com/coderefinery/coderefinery.org
+- If the workshop should be listed on <https://coderefinery.org>:
+  - (Fork and) clone <https://github.com/coderefinery/coderefinery.org>
   - Under `coderefinery.org/_workshops/`, add a file named like `2019-10-16-somecity.md` which contains
     the fields permalink, city and dates. For example:
     ```
@@ -115,7 +115,7 @@ For self-organized workshops:
 
 ### Right before the workshop starts
 
-- Prepare a shared Google doc or https://hackmd.io with global write permissions,
+- Prepare a shared Google doc or <https://hackmd.io> with global write permissions,
   consider creating a memorable short-link (e.g. bit.ly)
 
 
@@ -128,7 +128,7 @@ For self-organized workshops:
 ## Workshop preparation checklist
 
 - This checklist can be set up as an issue under 
-  https://github.com/coderefinery/coderefinery.org/ or on another 
+  <https://github.com/coderefinery/coderefinery.org/> or on another
   repository to keep track of the progress
   ```
   - [ ] reserve dates
@@ -161,7 +161,7 @@ For self-organized workshops:
 
 ## Introduction talk
 
-- See https://github.com/coderefinery/workshop-intro
+- See <https://github.com/coderefinery/workshop-intro>
 - Have a 10 minute ice-breaker session where participants and instructors introduce themselves
   and either describe their research in 2-3 sentences or what they hope to get out of the workshop.
 
@@ -193,7 +193,7 @@ For self-organized workshops:
 ## At the end of workshop
 
 - Give credit to those who contributed and helped
-- Use https://github.com/coderefinery/workshop-outro
+- Use <https://github.com/coderefinery/workshop-outro>
 
 
 ## Post-workshop
