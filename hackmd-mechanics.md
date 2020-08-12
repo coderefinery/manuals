@@ -1,6 +1,6 @@
 # HackMD mechanics and controls
 
-Hackmd is a real-time text editor online.  We use it to:
+[Hackmd](https://hackmd.io) is a real-time text editor online.  We use it to:
 * **answer questions and provide other information** without
   interrupting the main flow of the room.
 * provide everyone with a **more equal opportunity to ask questions**.
