@@ -6,6 +6,13 @@ accept any random contributions: feel free to make any kind of
 If you aren't sure you are ready for more, you can always lurk
 (passively watch our community) and join when you feel the time is right.
 
+These manuals (and in general, other guides we have) describe the
+past, not (only) the future.  They are made so that new people can
+know what we have done in the past, so they can work on the future.
+
+A good way to get started is to take the lead of some workshop (doing
+it like it was before), then do it again with your own improvements.
+
 ## How to watch and communicate
 
 - Join CodeRefinery chat, give comments or submit emoji reactions to
