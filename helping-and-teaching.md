@@ -8,6 +8,7 @@ information on how to manage online breakout rooms.
 
 As a helper, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
 
+- If you aren't sure if you can be a helper: you probably can be one!
 - Read through the instructor guides for the lessons (ask instructors if you do
   not know where to find them).
 - Be ready to introduce yourself in one or two sentences: think about what you
