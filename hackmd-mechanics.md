@@ -60,3 +60,9 @@ Other hints:
   on it, but consider how distracted you may get from the course.  For
   things beyond the scope of the course, we may come back and answer
   later.
+
+## Don't get overwhelmed
+
+There can be a flood of information on HackMD.  Scan for what is
+important, then if you would like come back later.  But it is
+important to keep checking it.
