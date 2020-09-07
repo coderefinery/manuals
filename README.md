@@ -3,6 +3,9 @@
 This site contains various manuals about CodeRefinery workshops and
 teaching/lesson development in general.
 
+These pages document past history, but they don't dictate future.
+They are a starting point: feel free to be adventurous.
+
 
 ```{toctree}
 :caption: Learners
