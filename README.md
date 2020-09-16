@@ -42,6 +42,7 @@ Workshop administration (reference) <workshop-administration.md>
 Online training manual (tutorial, reference) <online-training.md>
 Guide on how to use Indico (reference) <indico-workshop-management.md>
 Icebreaker question ideas (reference) <icebreakers.md>
+Workshp video editing (tutorial) <video-editing>
 ```
 
 ```{toctree}
