@@ -113,7 +113,19 @@ options).
 
 * This is a prototype channel description you can copy::
 
-    (TODO)
+    git-intro 1/2, CodeRefinery 25.may-4.jun 2020 day 1
+
+    Day 1: git-intro: LINK-TO-LESSON
+
+    Part of a series of video recordings of the CodeRefinery workshop,
+    25.may-4.june.  CodeRefinery teaches intermediate software
+    development skills to researchers in the Nordics.
+
+    Workshop page: LINK-TO-WORKSHOP
+    Q&A for day 1: LINK-TO-HACKMD
+
+    (table of contents below)
+
 
 * Create a **table of contents** (can be done later, after uploading).
   This divides the videos into chapters, with clickable links in the
@@ -128,3 +140,5 @@ options).
 
   You may want to ask someone for help with this, since it can take
   some time to go through the videos.
+
+  Example with table of contents: https://youtu.be/r1tF2x5OLNA
