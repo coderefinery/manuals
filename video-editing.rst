@@ -2,13 +2,64 @@ Video editing
 =============
 
 The purpose of this page is to give video processing volunteers a
-starting point.  (It also has some for workshop organizers).
+starting point.  (It also has some hints for workshop organizers).
 
 For some of our online lessons, we release videos on YouTube.  This is
 not necessarily for brand new people to watch and learn the material
 (though they may), but especially for people who attended the workshop
 to review what they saw.  As such, it's more important to get them
 published fast, than make them perfect.
+
+
+What we want
+------------
+
+Our workshops consist of lectures, demo, and exercises in breakout
+rooms.  We record the main Zoom room, and also livestream the main
+room via Twitch.  We would like the video of the workshop to be
+processed so that it can be released on YouTube.  This should not be a
+major production: it is more useful to those who want to review what
+they saw in person, rather than a new person watching.
+
+We will provide the following:
+
+* Raw video files (probably two copies one recorded from Zoom and one
+  from Twitch - so there is a backup.)
+* List of lessons (= final videos) and which raw files contain them
+  and when.
+* List of instructors
+
+We want out:
+
+* One processed video file per lesson.
+* With irrelevant breaks removed.
+* Without any video from learners.  We use Zoom so that learners
+  should not appear in the stream, but we can't be sure it works so
+  this needs to be checked.
+
+The rough process is:
+
+* Load up the right video files in the editor.
+* Find the start of the lesson (hint: look for a change of
+  instructor - ask us if you need help!) and cut off the stuff before.
+* Watch through the videos.  Most of the lecture parts are fairly
+  standard and can be fast-forwarded through (it's rare for a
+  learner's picture to appear here).
+* Cut out the idle time during breaks.
+* In exercise sessions, learners go to breakout rooms, which are not
+  recorded.  This part can be cut out, *but* sometimes the instructor
+  stays in the main room to do the exercises for the stream.
+
+* Don't be too precise.  We aren't trying to make a masterpiece to end
+  all masterpieces, but a something for those who were at the workshop
+  to refer back to.  So:
+
+  * Imprecise start/stop/break times are fine
+  * Other random off-topic chat is fine
+  * Voices of learners is fine and expected
+  * **Video** of learners is **not ok** (really, this is the only
+    thing that needs care).
+
 
 
 
