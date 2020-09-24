@@ -44,10 +44,8 @@ However, for an interactive workshop you do need to take part to get
 the most of out it, and our workshops are targeted to that.  If you
 read this page and the workshop prerequisites, you should be OK.
 
-On the other hand, the magic of online events is that anyone can take
-part.  We sometimes have ways for non-interactive participants to take
-part, such as a public stream or recording.  This will be developed
-more later.
+*Don't do multiple meetings*, *reserve the entire timeslots on your
+calendar*, *attend every session*, *do the preparation*.
 
 
 
@@ -121,6 +119,40 @@ pre-workshop session for installation, go there if needed.
 If all else fails, join the workshop stream well in advance and ask
 for help then.  Usually, there will be enough time to get ready for
 the day.
+
+
+
+## Live streaming
+
+If you join by live streaming, things are a little bit more
+complicated since you don't go to breakout rooms.  But we think it is
+still pretty good:
+
+* **Take the workshop seriously anyway.**  We take the streaming
+  experience seriously so that you can.  Reserve time, have a good
+  workspace, etc.  See "take the workshop seriously" above.
+
+* **You can ask questions via the HackMD**, which is the same way we
+  ask people to ask during the workshop.  If you register for Twitch,
+  you can use the **Twitch chat** for small comments, too.
+
+* **Form a team anyway in your own meeting.** You learn more from your
+  colleagues than you do from us, so take advantage.  Get one "helper"
+  for your team, start your own video call, watch the stream together,
+  and during the exercise times, work together.  We will be clear
+  about our timing, so that you can coordinate your team.  (Of course,
+  you can always follow individually)
+
+* **Announcements and updates**: Follow
+  [@coderefine](https://twitter.com/coderefine) on Twitter for news.
+
+* Come to an in-person workshop sometime: The stream is good, but
+  can't replace the experience and individual help you get in person.
+  Sign up on the [notify me
+  list](https://coderefinery.org/workshops/upcoming/#notify-me) to
+  hear about what comes next.
+
+
 
 
 
