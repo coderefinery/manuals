@@ -22,6 +22,7 @@ Hackmd mechanics (tutorial for learners) <hackmd-mechanics.md>
 :caption: Helpers
 :maxdepth: 1
 
+Helper's intro (tutorial) <helper-intro.md>
 Helper's guide (tutorial) <helping-and-teaching.md>
 How helpers manage breakout rooms (tutorial) <breakout-rooms-helping.md>
 ```
