@@ -1,7 +1,7 @@
 # HackMD mechanics and controls
 
 [Hackmd](https://hackmd.io) is a real-time text editor online.  We use it to:
-* **answer questions and provide other information** without
+* As a threaded chat, to **answer questions and provide other information** without
   interrupting the main flow of the room.
 * provide everyone with a **more equal opportunity to ask questions**.
 * **create notes** which will be archived, for your later reference.
@@ -9,10 +9,10 @@
 
 ## Privacy
 
-- Assume the HackMD is public and published: you never
-  need to put your name there.
+- Assume the HackMD is **public and published: you never
+  need to put your name there**.
 
-- The HackMD will be published on the website afterwards.  We will
+- The HackMD will be **published on the website afterwards**.  We will
   remove all non-instructors names, but it's easier if you don't add
   it at the start.
 
@@ -39,9 +39,8 @@
 
 ## Asking questions
 
-Always ask questions and add new sections at the very bottom (unless
-you are answering to something old, but we don't look up that much).
-You can also answer and comment on other questions, too.
+**Always ask questions and add new sections at the very bottom**.
+You can also answer and comment on older questions, too.
 
 Since we plan to publish the questions and answers later as part
 of the workshop page, we recommend to not use any names. You can indicate
@@ -60,6 +59,7 @@ Other hints:
   on it, but consider how distracted you may get from the course.  For
   things beyond the scope of the course, we may come back and answer
   later.
+
 
 ## Don't get overwhelmed
 
