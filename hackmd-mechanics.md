@@ -7,23 +7,6 @@
 * **create notes** which will be archived, for your later reference.
 
 
-## Privacy
-
-- Assume the HackMD is **public and published: you never
-  need to put your name there**.
-
-- The HackMD will be **published on the website afterwards**.  We will
-  remove all non-instructors names, but it's easier if you don't add
-  it at the start.
-
-- Please keep the link private during the workshop, since since
-  security is "editable by those who have the link".
-
-- You can use `[name=YOURNAME]`, to name yourself.  We *will* remove
-  all names (but not the comments) before archiving the notes (use
-  this format to make it easy for us).
-
-
 ## Basic controls
 
 - At the top (left or right), you can switch between **view**,
@@ -66,3 +49,20 @@ Other hints:
 There can be a flood of information on HackMD.  Scan for what is
 important, then if you would like come back later.  But it is
 important to keep checking it.
+
+
+## Privacy
+
+- Assume the HackMD is **public and published: you never
+  need to put your name there**.
+
+- The HackMD will be **published on the website afterwards**.  We will
+  remove all non-instructors names, but it's easier if you don't add
+  it at the start.
+
+- Please keep the link private during the workshop, since since
+  security is "editable by those who have the link".
+
+- You can use `[name=YOURNAME]`, to name yourself.  We *will* remove
+  all names (but not the comments) before archiving the notes (use
+  this format to make it easy for us).
