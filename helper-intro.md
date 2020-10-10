@@ -49,8 +49,6 @@ know this):
 
 - [HackMD mechanics](hackmd-mechanics)
 - [Zoom mechanics](zoom-mechanics)
-- Not bad to read hints on [how to attend
+- It is not bad to read hints on [how to attend
   online](how-to-attend-online) or [how to attend
-  in-person](how-to-attend-inperson).
-
-
+  in-person](how-to-attend-inperson), but you learn this in class.
