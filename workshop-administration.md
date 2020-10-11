@@ -6,6 +6,21 @@ licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
 However, making it a successful workshop requires careful planning and preparation. Here we will go
 through practical aspects of organizing a workshop.
 
+## Email templates
+
+A collection of email templates:
+
+```{toctree}
+:maxdepth: 1
+:glob: true
+
+templates/*
+```
+
+When adding new ones, add to an existing page (make a new section)
+or.  Try to avoid too much markdown formatting, so that a rendered
+version can be copied to plain text email easily still.
+
 ## Select a workshop coordinator
 
 One or two persons coordinate the workshop preparation and debrief. This does
@@ -19,8 +34,8 @@ but they make sure that nothing gets forgotten.
 - Instructions on how to set up a registration page in Indico (for NeIC affiliated staff):
   [indico-workshop-management.md](indico-workshop-management.md)
 - Email templates for workshop communication:
-  - [1-2 weeks before workshop starts](https://github.com/coderefinery/manuals/blob/master/templates/practical-info-to-participants.txt)
-  - [advertising workshop via private communication](https://github.com/coderefinery/manuals/blob/master/templates/advertising-workshop.txt)
+  - [1-2 weeks before workshop starts](templates/practical-info-to-participants)
+  - [advertising workshop via private communication](templates/advertising-workshop)
 
 ## Before the workshop
 
@@ -98,7 +113,7 @@ For self-organized workshops:
 ### Communication with participants
 
 - Send out practical information, including installation instructions, around 2 weeks ahead.
-  [Here is a template](https://github.com/coderefinery/manuals/blob/master/templates/practical-info-to-participants.txt).
+  [Here is a template](templates/practical-info-to-participants).
 - Emphasize that all software should be installed before the workshop starts, and point out
   the [configuration problems and solutions](https://coderefinery.github.io/installation/troubleshooting/).
 - Remind registered participants that they are either expected to show up or to cancel participation

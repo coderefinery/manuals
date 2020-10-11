@@ -1,3 +1,5 @@
+# Advertising workshop
+
 Dear Professor X,
 
 My name is NAME and I work as a XXX in YYY. I'm contacting you now to spread the word about a workshop which I am co-organizing in LOCATION together with the CodeRefinery project (http://coderefinery.org/) organized under the NeIC organization. I found your contact information via ZZZ...
