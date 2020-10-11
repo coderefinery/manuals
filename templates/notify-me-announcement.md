@@ -1,3 +1,5 @@
+# Notify-me announcement
+
 Dear all,
 
 You are receiving this email because you have previously signed up for the "notify-me" list to get updates 

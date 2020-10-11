@@ -1,3 +1,5 @@
+# Practical info, in-person
+
 Dear all,
 
 The CodeRefinery CITY workshop on DATE is approaching! The location and schedule

@@ -1,3 +1,5 @@
+# Practical info (online)
+
 Dear all,
 
 The online CodeRefinery workshop $TITLE is approaching! It will take place on $DATE at $START - $END in Zoom room $ZOOMID.
