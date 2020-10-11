@@ -39,7 +39,7 @@ and if you can't find it then `#general` is good).
 We have these things we recommend you read in advance (don't worry,
 we'll go over them in helper training):
 
-- [Helping-and-teaching](Basics of being a good, motivating helper)
+- [Basics of being a good, motivating helper](helping-and-teaching)
 - [How breakout rooms work](breakout-rooms-helping)
 
 
