@@ -6,6 +6,21 @@ licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
 However, making it a successful workshop requires careful planning and preparation. Here we will go
 through practical aspects of organizing a workshop.
 
+## Email templates
+
+A collection of email templates:
+
+```{toctree}
+:maxdepth: 1
+:glob: true
+
+templates/*
+```
+
+When adding new ones, add to an existing page (make a new section)
+or.  Try to avoid too much markdown formatting, so that a rendered
+version can be copied to plain text email easily still.
+
 ## Select a workshop coordinator
 
 One or two persons coordinate the workshop preparation and debrief. This does
