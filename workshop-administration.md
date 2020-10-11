@@ -34,8 +34,8 @@ but they make sure that nothing gets forgotten.
 - Instructions on how to set up a registration page in Indico (for NeIC affiliated staff):
   [indico-workshop-management.md](indico-workshop-management.md)
 - Email templates for workshop communication:
-  - [1-2 weeks before workshop starts](https://github.com/coderefinery/manuals/blob/master/templates/practical-info-to-participants.txt)
-  - [advertising workshop via private communication](https://github.com/coderefinery/manuals/blob/master/templates/advertising-workshop.txt)
+  - [1-2 weeks before workshop starts](templates/practical-info-to-participants)
+  - [advertising workshop via private communication](templates/advertising-workshop)
 
 ## Before the workshop
 
@@ -113,7 +113,7 @@ For self-organized workshops:
 ### Communication with participants
 
 - Send out practical information, including installation instructions, around 2 weeks ahead.
-  [Here is a template](https://github.com/coderefinery/manuals/blob/master/templates/practical-info-to-participants.txt).
+  [Here is a template](templates/practical-info-to-participants).
 - Emphasize that all software should be installed before the workshop starts, and point out
   the [configuration problems and solutions](https://coderefinery.github.io/installation/troubleshooting/).
 - Remind registered participants that they are either expected to show up or to cancel participation
