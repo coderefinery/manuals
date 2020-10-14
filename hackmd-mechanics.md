@@ -9,6 +9,11 @@
 
 ## Basic controls
 
+```{figure} img/hackmd--controls.png
+
+This may look slightly different on mobile devices and small windows.
+```
+
 - At the top (left or right), you can switch between **view**,
   **edit**, and **split view and edit** modes.
 
@@ -24,6 +29,11 @@
 
 **Always ask questions and add new sections at the very bottom**.
 You can also answer and comment on older questions, too.
+
+```{figure} img/hackmd--questions.png
+
+Questions and answers in bullet points
+```
 
 Since we plan to publish the questions and answers later as part
 of the workshop page, we recommend to not use any names. You can indicate
