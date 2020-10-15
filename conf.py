@@ -29,6 +29,7 @@ author = 'The CodeRefinery team'
 # ones.
 extensions = [
     'myst_parser',
+    'sphinx_rtd_theme_ext_color_contrast',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
