@@ -72,6 +72,8 @@ opened).
 - Put that task and a link to the part of the lesson in the hackmd.
 - Clearly say how long each breakout session will be (make sure it's
   long enough)
+- Clearly say if things in the future will depend on this exercise (is
+  someone completely lost if they don't make it to the end.  Halfway?)
 - Try to make breakout sessions longer:
     - imagine a 5 minute overhead for each session, getting people
       there, deciding who does what, acquainted with what they need to
@@ -82,6 +84,7 @@ opened).
 As a helper, if anything is unclear to you, it is very unclear to
 others. Speak up and ask!
 
+(breakout-helpers)=
 
 ## Helpers in breakout rooms
 
@@ -91,15 +94,15 @@ work on the exercises together.*
 
 - You can always start by greeting people and asking how the lesson is
   going
+- Encourage people to turn on cameras
 - You can use chat within breakout rooms: Chat to "Everyone" in a
   breakout room only means people in that room.
 - There are several strategies below.  Combine as needed - read the
   room and see what they want, but do provide encouragement to do
   something.
-- If you need help, there is "Ask for help" in the meeting controls.
-  Click that, and the host will send someone.  You can also write the
-  request (with more details) on the hackmd, someone should be
-  watching it and relay it to the host.
+- If you need extra help, write it in the HackMD, someone should be
+  watching it and relay it to the host.  Other helpers will try to
+  visit your rooms periodically, anyway.
 - Watch the time and try to keep things moving.  If some debugging
   takes to long, it's reasonable to ask for another helper who might
   have seen the problem.
@@ -107,6 +110,12 @@ work on the exercises together.*
       time, let's come back"
     - Or, ask for an expert helper to come by and maybe answer
       quickly, or break off to work on a solution.
+
+```{figure} img/breakout--exercises.png
+Example of HackMD during a breakout session.  a) clear description of
+topics of the exercises.  b) breakout room status.  c) as always,
+questions at the bottom.
+```
 
 There are several strategies you can use to run your breakout room:
 
