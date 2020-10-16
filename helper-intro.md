@@ -3,7 +3,8 @@
 Thanks for being a CodeRefinery helper!  Helpers allow CodeRefinery to
 scale to many more people than we could otherwise handle.  You'll be
 in a breakout room with around 5 people, guide them through the
-course, and call us when more help is needed.  You'll also learn to be
+course, keep time, and call us when more help is needed.  You'll also
+learn to be
 a more effective teacher and mentor.
 
 As a helper, you are expected to:
@@ -40,7 +41,8 @@ We have these things we recommend you read in advance (don't worry,
 we'll go over them in helper training):
 
 - [Basics of being a good, motivating helper](helping-and-teaching)
-- [How breakout rooms work](breakout-rooms-helping)
+- {ref}`How breakout rooms work <breakout-helpers>`, focused on
+  sections for helpers.
 
 
 You'll learn these during the workshop so *you don't need to read
