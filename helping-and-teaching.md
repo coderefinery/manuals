@@ -73,29 +73,3 @@ As a helper, you have a crucial role during workshops:
   learner that they do not have some required pre-knowledge of the material you
   are teaching, that they don't belong at the workshop, and it may prevent them
   from asking questions in the future.
-
-
-## From helper to instructor
-
-You have been a helper at a CodeRefinery workshop and it was a great experience
-for you so you are willing to take an active part to CodeRefinery?
-
-We are welcoming everybody to the CodeRefinery Community and strongly encourage
-and support you if you are willing to teach CodeRefinery workshop.
-
-We use [Zulip](https://zulipchat.com/) to discuss within our team and
-community. We discuss in the open and you can join us on
-https://coderefinery.zulipchat.com: you can listen in, follow certain threads,
-participate, and influence.
-
-
-### What knowledge is needed?
-
-If you have been helping out at a CodeRefinery workshop, you are most likely
-familiar with our [lessons](https://coderefinery.org/lessons/).
-
-- Are there any lessons you would prefer to teach?
-- Do you need any inputs from CodeRefinery to get the confidence to teach a CodeRefinery workshop?
-
-Do not hesitate to [contact us](https://coderefinery.org/contact/) and let us
-know you are willing to teach CodeRefinery workshops!

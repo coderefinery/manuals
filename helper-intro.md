@@ -54,3 +54,29 @@ know this):
 - It is not bad to read hints on [how to attend
   online](how-to-attend-online) or [how to attend
   in-person](how-to-attend-inperson), but you learn this in class.
+
+
+## From helper to instructor
+
+You have been a helper at a CodeRefinery workshop and it was a great experience
+for you so you are willing to take an active part to CodeRefinery?
+
+We are welcoming everybody to the CodeRefinery Community and strongly encourage
+and support you if you are willing to teach CodeRefinery workshop.
+
+We use [Zulip](https://zulipchat.com/) to discuss within our team and
+community. We discuss in the open and you can join us on
+<https://coderefinery.zulipchat.com>: you can listen in, follow certain threads,
+participate, and influence.  {doc}`Read more about how Zulipchat works<chat>`
+
+
+### What knowledge is needed?
+
+If you have been helping out at a CodeRefinery workshop, you are most likely
+familiar with our [lessons](https://coderefinery.org/lessons/).
+
+- Are there any lessons you would prefer to teach?
+- Do you need any inputs from CodeRefinery to get the confidence to teach a CodeRefinery workshop?
+
+Do not hesitate to [contact us](https://coderefinery.org/contact/) and let us
+know you are willing to teach CodeRefinery workshops!
