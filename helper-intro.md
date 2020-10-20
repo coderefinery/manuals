@@ -58,17 +58,15 @@ know this):
 
 ## From helper to instructor
 
-You have been a helper at a CodeRefinery workshop and it was a great experience
-for you so you are willing to take an active part to CodeRefinery?
+If you enjoy being a helper, would you like to upgrade to a more
+active role in CodeRefinery, or become an instructor?  We welcome
+everyone to the CodeRefinery community and want to expand our network
+of workshops and instructors.
 
-We are welcoming everybody to the CodeRefinery Community and strongly encourage
-and support you if you are willing to teach CodeRefinery workshop.
-
-We use [Zulip](https://zulipchat.com/) to discuss within our team and
-community. We discuss in the open and you can join us on
-<https://coderefinery.zulipchat.com>: you can listen in, follow certain threads,
-participate, and influence.  {doc}`Read more about how Zulipchat works<chat>`
-
+Our chat is the primary place to join future plans, and is all
+open. Join at <https://coderefinery.zulipchat.com>: you can listen in,
+follow certain threads, participate, and influence.  {doc}`Read more
+about how Zulipchat works<chat>`
 
 ### What knowledge is needed?
 

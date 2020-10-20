@@ -1,7 +1,7 @@
 # Tips for helpers
 
-See also: [breakout-rooms-helping.md](breakout-rooms-helping.md) for
-information on how to manage online breakout rooms.
+This page contains the most important general hints for helpers for
+helpers.  See the {doc}`helper-intro` for more.
 
 
 ## Preparing to help
@@ -9,8 +9,11 @@ information on how to manage online breakout rooms.
 As a helper, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
 
 - If you aren't sure if you can be a helper: you probably can be one!
-- Read through the instructor guides for the lessons (ask instructors if you do
-  not know where to find them).
+- We try to make each exercise self-explanatory, but if you do one
+  thing, scan over the exercises and understand the general point of
+  each of them.
+- Read through the instructor guides for the lessons (there should be
+  a link at the top or sidebar of each lesson).
 - Be ready to introduce yourself in one or two sentences: think about what you
   would like to convey as helpers to the classroom. How did (or does)
   CodeRefinery help you?
@@ -73,3 +76,10 @@ As a helper, you have a crucial role during workshops:
   learner that they do not have some required pre-knowledge of the material you
   are teaching, that they don't belong at the workshop, and it may prevent them
   from asking questions in the future.
+
+
+## See also
+
+* Carpentries instructor training
+* {doc}`Teaching Tech Together <teaching-tech-together>` chapters 8,
+  9, 10.
