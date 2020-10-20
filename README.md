@@ -32,7 +32,8 @@ How helpers manage breakout rooms (tutorial) <breakout-rooms-helping.md>
 :caption: Instructors
 :maxdepth: 1
 
-In-class checklist (checklist) <presenting.md>
+Lesson presentation hints (checklist) <presenting.md>
+instructor-tech-setup
 Summary of the book "Teaching Teach Together" (reference) <teaching-tech-together.md>
 ```
 
