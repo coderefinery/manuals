@@ -1,7 +1,7 @@
 # Tips for helpers
 
-See also: [breakout-rooms-helping.md](breakout-rooms-helping.md) for
-information on how to manage online breakout rooms.
+This page contains the most important general hints for helpers for
+helpers.  See the {doc}`helper-intro` for more.
 
 
 ## Preparing to help
@@ -9,8 +9,11 @@ information on how to manage online breakout rooms.
 As a helper, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
 
 - If you aren't sure if you can be a helper: you probably can be one!
-- Read through the instructor guides for the lessons (ask instructors if you do
-  not know where to find them).
+- We try to make each exercise self-explanatory, but if you do one
+  thing, scan over the exercises and understand the general point of
+  each of them.
+- Read through the instructor guides for the lessons (there should be
+  a link at the top or sidebar of each lesson).
 - Be ready to introduce yourself in one or two sentences: think about what you
   would like to convey as helpers to the classroom. How did (or does)
   CodeRefinery help you?
@@ -75,27 +78,9 @@ As a helper, you have a crucial role during workshops:
   from asking questions in the future.
 
 
-## From helper to instructor
+## See also
 
-You have been a helper at a CodeRefinery workshop and it was a great experience
-for you so you are willing to take an active part to CodeRefinery?
-
-We are welcoming everybody to the CodeRefinery Community and strongly encourage
-and support you if you are willing to teach CodeRefinery workshop.
-
-We use [Zulip](https://zulipchat.com/) to discuss within our team and
-community. We discuss in the open and you can join us on
-<https://coderefinery.zulipchat.com>: you can listen in, follow certain threads,
-participate, and influence.  {doc}`Read more about how Zulipchat works<chat>`
-
-
-### What knowledge is needed?
-
-If you have been helping out at a CodeRefinery workshop, you are most likely
-familiar with our [lessons](https://coderefinery.org/lessons/).
-
-- Are there any lessons you would prefer to teach?
-- Do you need any inputs from CodeRefinery to get the confidence to teach a CodeRefinery workshop?
-
-Do not hesitate to [contact us](https://coderefinery.org/contact/) and let us
-know you are willing to teach CodeRefinery workshops!
+* Carpentries instructor training
+* {doc}`Teaching Tech Together <teaching-tech-together>` chapters 8,
+  9, 10.
+  
