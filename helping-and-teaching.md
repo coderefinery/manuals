@@ -83,3 +83,4 @@ As a helper, you have a crucial role during workshops:
 * Carpentries instructor training
 * {doc}`Teaching Tech Together <teaching-tech-together>` chapters 8,
   9, 10.
+  
