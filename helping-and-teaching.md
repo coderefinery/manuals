@@ -85,8 +85,8 @@ and support you if you are willing to teach CodeRefinery workshop.
 
 We use [Zulip](https://zulipchat.com/) to discuss within our team and
 community. We discuss in the open and you can join us on
-https://coderefinery.zulipchat.com: you can listen in, follow certain threads,
-participate, and influence.
+<https://coderefinery.zulipchat.com>: you can listen in, follow certain threads,
+participate, and influence.  {doc}`Read more about how Zulipchat works<chat>`
 
 
 ### What knowledge is needed?
