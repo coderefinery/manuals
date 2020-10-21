@@ -162,6 +162,7 @@ Strategy 3:
       Nothing wrong with this.
 
 
+
 ## Expert helpers
 
 There's not much difference between a helper and expert helper, but we
@@ -181,7 +182,7 @@ difficult problem.
     - You also always have the option "Leave breakout room" (if in a
       room) or "Join your assigned room" (if in main room and assigned
       one).
-- Your role is to switch between breakout rooms and check up on them.
+- **Your role is to switch between breakout rooms and check up on them.**
     - e.g. join room 1, take a look/ask how it is, then join room 2,
       then 3, then back to 1, and repeat.
     - Of course, stay in one longer, if it's needed.
@@ -191,7 +192,7 @@ difficult problem.
   join and catch up with the same rooms (this promotes familiarity).
     - E.g. A rotates between rooms 1-3, B gets rooms 4-7, C gets rooms
       8-11.
-- Make sure to watch the HackMD for helper requests, this could help
+- **Make sure to watch the HackMD for helper requests**, this could help
   you decide which room to jump to next.  Comment when you are heading
   there.
 

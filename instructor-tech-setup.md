@@ -1,19 +1,48 @@
 # Instructor technical setup
 
-## Technical
+## Terminal usage
 
 - Move your `.bashrc` and `.gitconfig` files to somewhere else before
   you begin.  You want your environment to match the student's as
-  closely as possible. Consider setting `export PS1="\w $ "` in terminal.
+  closely as possible. Consider setting `export PS1="\w $ "` in
+  terminal (see below for more).
 
 - Create a nice, large shell window with good contrast on the screen.
   Beware of colorized text, such as the red in "git diff".
 
+- Don't clear terminal often (or ever)
+
+## Screen sharing
+
+You have to assume the smallest screen from learners and plan for that.
+
+- Learners have a small screen, and need room for their own terminals
+  and web browser open, too.  A big screen or multiple monitors is
+  special.
 - Make sure the text is more than large enough - people are not just
-  reading, but struggling to find the important parts.
+  reading, but struggling to find the important parts while the.
+- Sharing a 1920x1080 screen is not a good idea: you need to make all
+  the text size large so that learners can scale it down, but pixels
+  are wasted.
+- Sharing a single window would be good, but usually you need more
+  than one.
+- Zoom now has a "share portion of screen" (Screen sharing → Advanced
+  → Share a portion of the screen).
+- Our latest idea is:
+  - Share a vertical part of the screen, for example half of your
+    screen.
+  - If you have a FullHD 1920x1080 screen, maybe even a smaller
+    portion than that.
+
+When streaming/recording: **Never stop sharing a screen, ask someone
+else to take it over**.
+There is a chance that the view goes to "gallery view" in the
+recording or stream, which makes video editing harder or disrupts
+learner privacy.
 
 
-## Screencasting
+
+## Terminal history window
 
 Set an easily-viewable prompt.  Colors may be good, or if not have a
 newline (don't little minimal color and no spacing between commands,
@@ -21,13 +50,14 @@ it is hard to parse what's a command and what's an output.)  The
 minimum is `export PS1='\n\w \$ '`.  With color is `export
 PS1='\n\[\e[0;36m\]\w \$\[\e[0m\] '`.
 
+### Terminal history for learners
+
 If you are doing live shell work, you will have commands and output
 all interleaved, which makes it hard to follow what you actually
 typed.  Have a separate window that shows recent commands only,
 without output.  Arrange your screen so there is the main window and
 the smaller "history" window.  The history window runs the tail
 commands and can be used as a reference for what you just did.
-
 
 Also check the [shell exporter by
 sabryr](https://github.com/Sabryr/Teaching-aids), which copies recent
