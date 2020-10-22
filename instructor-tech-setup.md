@@ -101,6 +101,23 @@ preexec() { echo $1 >> ~/demos.out }
 function cmd_log --on-event fish_preexec ; echo "$argv" >> ~/demos.out  ; end
 ```
 
+**Better (tmuxp)**: This will save some typing. [TmuxP](https://tmuxp.git-pull.com/) is a Python program (`pip install tmuxp`) that gives you programmable `tmux` sessions. One configuration that works (in this case for `fish` shell):
+
+```yaml
+session_name: demo
+windows:
+  - window_name: demo
+    layout: main-horizontal
+    options:
+      main-pane-height: 7
+    panes:
+      - shell_command:
+          - touch /tmp/demo.history
+          - tail -f /tmp/demo.history
+      - shell_command:
+          - function cmd_log --on-event fish_preexec ; echo "$argv" >> /tmp/demo.history  ; end
+```
+
 **Obselete**: The below commands rely on recording your entire session
 using `script`, and then dynamically following the output.  This
 allows you to track commands even in subshells/over ssh, but introduce
