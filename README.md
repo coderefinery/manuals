@@ -29,9 +29,13 @@ How helpers manage breakout rooms (tutorial) <breakout-rooms-helping.md>
 
 
 ```{toctree}
-:caption: Instructors
+:caption: Instructors and staff
 :maxdepth: 1
 
+instructor-intro
+hackmd-helper
+expert-helpers
+host
 Lesson presentation hints (checklist) <presenting.md>
 instructor-tech-setup
 Summary of the book "Teaching Teach Together" (reference) <teaching-tech-together.md>

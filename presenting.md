@@ -78,8 +78,14 @@ presentation.  Also see :doc:`instructor-tech-setup`.
   "how do you do Y?".  The first question implies something you are
   doing wrong, the second is open-ended.
 
+## Exercise sessions
 
-### Try to stick to the material
+- What to do during exercise sessions
+- **never stop sharing screen**, ask someone else to share instead.
+- Always go over the lesson with someone else the day before.
+
+
+## Try to stick to the material
 
 - Don't try to show everything, show less, but show it clearly.
 - Try not to completely deviate from the material. Ideally, rather influence the material before you teach.
