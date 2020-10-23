@@ -162,6 +162,7 @@ Strategy 3:
       Nothing wrong with this.
 
 
+(experts-breakout-rooms)=
 
 ## Expert helpers
 
