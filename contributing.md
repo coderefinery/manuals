@@ -1,7 +1,8 @@
 # Contributing to CodeRefinery
 
 CodeRefinery is an open-source project.  All our work is open, and we
-accept any random contributions: feel free to make any kind of 
+accept any type of contributions: there is a lot more instructing to
+running workshops.
 
 If you aren't sure you are ready for more, you can always lurk
 (passively watch our community) and join when you feel the time is right.
@@ -15,7 +16,7 @@ it like it was before), then do it again with your own improvements.
 
 ## How to watch and communicate
 
-- Join CodeRefinery chat, give comments or submit emoji reactions to
+- Join {doc}`CodeRefinery chat <chat>`, give comments or submit emoji reactions to
   show how you feel about things.  Most things are announced only
   through zulipchat.
 - Watch GitHub repositories to get notified of issues and pull
@@ -59,6 +60,11 @@ giving some concrete plans will help people:
 
 ### Instructor
 
+.. seealso::
+
+	{doc}`instructor-intro`
+
+
 As an instructor, you become an expert in CodeRefinery materials by
 continual co-working with CodeRefinery staff.  You will really be able
 to help all of your staff
@@ -72,6 +78,10 @@ started.
 
 
 ### Helper
+
+.. seealso::
+
+	{doc}`helper-intro`
 
 As a helper, you have less demands outside of workshops, but you get
 to become very familiar with CodeRefinery material.  You especially
@@ -114,7 +124,9 @@ a maintainer.
 
 Hang out in the chat and help others, provide advice to others, give
 feedback of our ideas.  Lurk in all of our other activities and decide
-if you want to do more later.
+if you want to do more later.  Help us advertise workshops, get
+helpers, get learners, do outreach.  Perhaps start showing up as an
+expert helper sometimes.
 
 Example time commitment: ???
 
