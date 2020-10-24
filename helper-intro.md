@@ -66,7 +66,7 @@ of workshops and instructors.
 Our chat is the primary place to join future plans, and is all
 open. Join at <https://coderefinery.zulipchat.com>: you can listen in,
 follow certain threads, participate, and influence.  {doc}`Read more
-about how Zulipchat works<chat>`
+about how Zulipchat works <chat>`
 
 ### What knowledge is needed?
 
