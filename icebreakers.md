@@ -15,6 +15,10 @@ before you do this - maybe you just ask for information about
 backgrounds without names.
 
 
+## Other references
+
+* <https://museumhack.com/list-icebreakers-questions/>
+
 
 ## Relevant to workshop
 
