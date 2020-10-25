@@ -1,3 +1,5 @@
+# Looking for helpers
+
 This was part of a SNIC training newsletter. Saving it so that we can reuse
 in future:
 
