@@ -3,7 +3,7 @@ in future:
 
 ```
 Engage as a tutor on the CodeRefinery online workshop, Nov 17-19 and 24-26,
-9:00-12:30
+9:00-12:00
 
 Engage in the successful CodeRefinery workshop program, by becoming a tutor for
 the exercise sessions and discussion groups.  If you have been to a
