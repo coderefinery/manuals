@@ -1,15 +1,18 @@
 # Contributing to CodeRefinery
 
 CodeRefinery is an open-source project.  All our work is open, and we
-accept any type of contributions: there is a lot more instructing to
-running workshops.
+accept any type of contributions: there is a lot more than instructing
+to run a successful workshop.
 
-If you aren't sure you are ready for more, you can always lurk
-(passively watch our community) and join when you feel the time is right.
+If you aren't sure you are ready for more, you can always {doc}`lurk
+in the chat <chat>`
+(passively watch our community) and become more active when you feel
+the time is right.
 
 These manuals (and in general, other guides we have) describe the
 past, not (only) the future.  They are made so that new people can
-know what we have done in the past, so they can work on the future.
+know what we typically have done, so they can work on the future (even
+if it's different).
 
 A good way to get started is to take the lead of some workshop (doing
 it like it was before), then do it again with your own improvements.
