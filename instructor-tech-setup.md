@@ -118,6 +118,14 @@ windows:
           - function cmd_log --on-event fish_preexec ; echo "$argv" >> /tmp/demo.history  ; end
 ```
 
+**Windows PowerShell**: In [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/),
+a split can be made by pressing `CTRL+SHIFT+=`. Then, in one of the splits, the following
+PowerShell command will start tracking the shell history:
+```
+Get-Content (Get-PSReadlineOption).HistorySavePath -Wait
+```
+Unfortunately, this only shows commands after they have been executed.
+
 **Obselete**: The below commands rely on recording your entire session
 using `script`, and then dynamically following the output.  This
 allows you to track commands even in subshells/over ssh, but introduce
