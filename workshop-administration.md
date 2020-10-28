@@ -36,6 +36,7 @@ but they make sure that nothing gets forgotten.
 - Email templates for workshop communication:
   - [1-2 weeks before workshop starts](templates/practical-info-to-participants)
   - [advertising workshop via private communication](templates/advertising-workshop)
+  - [looking for helpers](templates/looking-for-helpers)
 
 ## Before the workshop
 
