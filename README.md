@@ -36,6 +36,7 @@ instructor-intro
 hackmd-helper
 expert-helpers
 host
+workshop-prep-call
 Lesson presentation hints (checklist) <presenting.md>
 instructor-tech-setup
 Summary of the book "Teaching Teach Together" (reference) <teaching-tech-together.md>
