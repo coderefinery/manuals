@@ -1,4 +1,4 @@
-# Workshop instructor preparation
+# Workshop preparation meeting
 
 Each workshop should have a preparation call among instructors,
 experts, hosts, etc.  This is separate from the [helper training
