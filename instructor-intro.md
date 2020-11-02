@@ -77,6 +77,8 @@ rarely alone.  This is one way of looking at it:
   incremental improvements.  But, you don't have to (and in some
   sense, it's good if they stabilize some more).
 
+* Especially go over the examples when preparing.
+
 * Have a chat with someone else (probably another instructor or
   experienced helper) before teaching.  We encourage this for
   everyone, even experienced instructors, to better transfer knowledge
@@ -88,3 +90,36 @@ rarely alone.  This is one way of looking at it:
   lessons, but two people teach all parts of the same lesson by
   turning it into a discussion between the two instructors.  TODO:
   produce information on this.
+
+
+
+## Top issues new instructors face
+
+- Breaks are not negotiable, minimum 10 minutes.
+
+- Breakout sessions too short.  Make them as long as possible, don't
+  expect to come back for new intro, then go back.
+
+- People will accomplish less than you expect.  Expect learners to be 5
+  times slower than you, at best!
+
+- All the other tools and stuff will go wrong.  Try to not bring in a
+  dependency when you don't need it.
+
+- Trying to accomplish too much: it's OK to cut out and adapt to the
+  audience.  Have a reserve session at the end you prepare, but are
+  ready to skip.
+
+- Explaining how, but not why.
+
+- Running out of time to making your environment match the
+  learner's.
+
+- Running out of time to set up good screen sharing practices
+  (terminal history, portion of screen, remote history) in advance.
+
+- Assuming learners remember what they have already learned, or know
+  the prerequisites.  Or have stuff installed and configured.
+
+- Not managing expectations: learners think that you will accomplish
+  everything, and feel sad when you don't.
