@@ -8,6 +8,21 @@ keep people on track.
 
 Below, (*) = important.
 
+
+
+## Most things to edit (everyone)
+
+Make it easy to post after the course and consistent to follow:
+
+* Tag all names with `[name=XXX]` (so they can be removed later),
+  remove other personal data or make it obvious.
+* Add in information on exercises (new section for them, link, end
+  time, what to accomplish)
+* Make a logical section structure (`#` for title, `##` for sections,
+  `###` for episodes, etc. - or what makes sense)
+
+
+
 ## General HackMD practices
 
 Keep it formatted well:
@@ -120,7 +135,20 @@ We are on a 10 minute break until xx:10
 ## Lesson 2
 https://coderefinery.github.io/lesson-2/
 
-
-
-
 ```
+
+## Posting HackMD to website
+
+HackMD should be posted sooner rather than later, and hopefully the
+steps above will make it easy to do so quickly.  You could wait a few
+hours, to allow any remaining questions to be asked an answered.
+
+- Download as markdown
+- Remove any private links at the top
+- Adjust headings so that they are reasonable
+- Look for private info and remove it
+  - Search document for `[name=???]`  (change to `[name=staff]` or
+    `[name=learner]`)
+  - Any names not tagged with `[name=]`
+  - usernames in URLs
+  - private links
