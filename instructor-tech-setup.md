@@ -40,6 +40,71 @@ There is a chance that the view goes to "gallery view" in the
 recording or stream, which makes video editing harder or disrupts
 learner privacy.
 
+### Screen share examples
+
+Discuss the benefits and disadvantages of each of these
+
+```{figure} img/instructor-tech-setup/screenshare-fullhd.png
+:width: 75%
+
+A FullHD 1920x1080 screen shared.
+```
+
+```{figure} img/instructor-tech-setup/screenshare-vertical.png
+:width: 50%
+
+A vertical screen layout shared.  Note the extra shell history at the
+top.  The web browser is at the bottom, because the Zoom toolbar can
+cover the bottom bit.
+```
+
+```{figure} img/instructor-tech-setup/screenshare-jupyter.png
+:width: 50%
+
+A sort-of GUI (Jupyter) shared vertically.
+```
+
+```{figure} img/instructor-tech-setup/screenshare-rsh.png
+:width: 75%
+
+This isn't a screenshare from CodeRefinery, but may be instructive.
+Note the horizontal layout and shell history at the bottom right.
+```
+
+
+### Screen layout: learners
+
+```{figure} img/instructor-tech-setup/learner-largescreen.png
+:width: 75%
+
+Learner with a large screen, Zoom in dual-monitor mode so that the
+instructur pictures are not shown.  Screenshare is on the left side,
+HackMD at bottom left, terminal and web browser on the right.
+```
+
+```{figure} img/instructor-tech-setup/learner-normal.png
+:width: 75%
+
+A learner with a single large screen (Zoom in "single monitor mode").
+Instructor screen share at right, learner stuff at left.
+```
+
+```{figure} img/instructor-tech-setup/learner-small.png
+:width: 75%
+
+A learner with a particularly small screen.  Instructur screenshare at
+left, your windows at right.
+```
+
+## Screen layout: instructors
+
+```{figure} img/instructor-tech-setup/instructor.png
+:width: 75%
+
+Vertical instructor setup.  Zoom is sharing a portion of the left
+side, the right side is free for following HackMD, chat, etc.
+```
+
 
 
 ## Terminal history window
