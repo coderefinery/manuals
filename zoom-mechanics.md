@@ -110,13 +110,18 @@ us whether we should adjust the speed.
 
 ## Other points
 
-
 ### Zoom doesn't have to fullscreen when someone shares their screen.
 
 By default, when someone shares their screen, Zoom goes into
 fullscreen mode.  This can be inconvenient when you need to see
 multiple windows at once.  You can disable this with Settings → Screen
 Share → "Enter full screen when participants share".
+
+### Dual monitor mode
+
+You can set the configuration option "dual monitor mode", which is
+really more like "dual window mode": one window for screen sharing,
+one for the people.  It might be useful even with only one screen.
 
 
 ---
