@@ -68,3 +68,6 @@ epub_basename='CodeRefineryManuals'
 latex_documents = [
     (master_doc, 'CodeRefineryManuals.tex', project, author, 'manual')
     ]
+
+# https://github.com/sphinx-contrib/emojicodes/pull/22/files
+latex_engine = 'xelatex'
