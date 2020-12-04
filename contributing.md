@@ -21,7 +21,8 @@ it like it was before), then do it again with your own improvements.
 
 - Join {doc}`CodeRefinery chat <chat>`, give comments or submit emoji reactions to
   show how you feel about things.  Most things are announced only
-  through zulipchat.
+  through the chat.  You can even {ref}`express opinions and vote
+  there <vote>`.
 - Watch GitHub repositories to get notified of issues and pull
   requests.  Anyone can watch any repository.
 

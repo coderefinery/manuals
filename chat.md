@@ -80,10 +80,56 @@ You can make topical private streams for groups that significantly
 overlap with our community.  Currently, Zulip admins can't add
 themselves or others to private streams.
 
+
 ## Clients
 
 Zulipchat can be used in a web browser, there's a desktop app, mobile
 apps, and even a terminal client installable using ``pip``.
+
+
+
+(voting)=
+
+## Reacting and voting
+
+We want everyone to take part in chat and express their thoughts, but
+of course people don't want to give pointless agreeing replies (but
+you can always welcome to do that, too).  So, we encourage everyone to
+use reactions in cases they want to express agreement/disagreement but
+not so much they want to send a message.  Common reactions you might
+see are 👍, 👎 (thumbs up/down, agree with general sentiment), 🐙
+(`:octopus:`, awesome/amazing/ace), and well, plenty more that are
+obvious.
+
+We also use reactions to express some idea of a more concrete
+**vote**, to empower people to take an action (otherwise, it is
+difficult to get a decision on anything).  This is not formal or
+necessarily binding (so it's not really a vote), but a useful
+intermediate system for a young project.  If you see a message
+proposing something and you want to say, in no uncertain terms, "I
+think you should do that" or not, let us know by the following:
+
+* ↔️ (+0, `:left_right:`: I see this and am neutral.
+* 🔼, 🔽 (+1, -1, `:upvote:`, `:downvote:`) or similar: I
+   agree/disagree with this.
+* ⏬, ⏫ (+2, -2, `:double_up:`, `:double_down:`): I agree/disagree
+   with this and am willing to work on making it happen/finding an
+   alternative.
+
+If you want to do something, ask for opinions, and a reasonable time
+later it seems the sentiment is positive, consider yourself empowered
+to do it.  If you are voting, feel free to be creative with emojis or
+numbers, but realize that other reactions may not be so explicit.  Note
+that if you are negative, you should explain why or alternatives,
+otherwise your opinion may not be weighted so much.  The person doing
+the thing decides what to do (and this is open source: we find a way
+for everyone to do what they need to do).
+
+Do you think you aren't important enough to vote?  That's wrong,
+because we are usually interested in the thoughts of outsiders.  We
+can see who voted and use that to weight our decision if needed.
+
+
 
 ## Privacy
 

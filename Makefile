@@ -17,7 +17,9 @@ default: html
 gh-pages-dependencies:
 	apt install texlive-latex-recommended \
 	    texlive-fonts-recommended \
+	    texlive-fonts-extra \
             texlive-latex-extra \
+	    texlive-xetex \
             latexmk
 # Do all required building for gh-pages, copy the site to
 # _build/gh-pages.
