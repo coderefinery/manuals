@@ -42,6 +42,13 @@ instructor-tech-setup
 Summary of the book "Teaching Teach Together" (reference) <teaching-tech-together.md>
 ```
 
+```{toctree}
+:caption: Online teaching
+:maxdepth: 1
+online/index
+```
+
+
 
 ```{toctree}
 :caption: Workshop organizers
