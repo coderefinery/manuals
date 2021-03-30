@@ -30,6 +30,7 @@ author = 'The CodeRefinery team'
 extensions = [
     'myst_parser',
     'sphinx_rtd_theme_ext_color_contrast',
+    'sphinx_togglebutton',
     'sphinx_coderefinery_branding',
 ]
 
