@@ -141,7 +141,7 @@ Basics
       low 20s.  For example, 23 is the default and looks good for all
       practical purposes.
 
-   Real-time messaging protocal (RTMP)
+   Real-time messaging protocol (RTMP)
       A common protocol for live
       streaming.  It is proprietary, but was later opened and is now
       one of the main standards.
