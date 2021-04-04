@@ -2,33 +2,37 @@ Team teaching
 =============
 
 Listening to someone talk is boring.  Listening to a discussion is
-much less so.  "team teaching" can mean many things, but in this case we
+much less so.  "Team teaching" can mean many things, but in this case we
 are referring to **two instructors are both actively
 involved in lecturing at the same time**, as some sort of conversation
-between them.
+between them.  It is a form of co-teaching.
 
 When it works well, it makes a lecture much more dynamic and
-engaging, and reduces the load for each person to plan everything.
-The difficulty is that it's our nature to keep talking, making a
-conversation difficult.
+engaging, and reduces the load for each person to plan everything
+because you can rely on two minds to do it live.
+The difficulty is that it's our nature to keep talking while teaching,
+making a conversation difficult.
 
 
 
 Basics
 ------
 
-We can't claim to know the best way to do this, but we have seen ways
+We can't claim to know the best way to do this yet, but we have seen ways
 that work and don't work.
 
 The basic idea is that you want to keep a constant *conversation*
-going.  This can be a mutual discussion, or one person asking
-questions and the other answering.
+going.  This can be a mutual discussion, one person explaining big
+concepts and one the details, one person asking
+questions and the other answering, or some other combination.
 
-There is less need to prepare every single thing, since you can rely
+There is less need for the instructors to prepare every single thing,
+since you can rely
 on the wisdom of the group to get you through most problematic
-situations.  In fact, this is good, because you can things go
-wrong and discuss how to solve them (and still not get delayed, since
-two minds are much better than on×2).
+situations.  In fact, this is good, because then your learners will
+see things go slightly wrong and your live solutions (and still not
+fall too much behind the schedule, since
+two minds are much faster at debugging than one).
 
 With more than one person, there is a risk of seeming uncoordinated
 when the team starts talking to decide what to do next.  This is not
@@ -47,8 +51,8 @@ Hints
 -----
 
 We can't tell you what works best for you.  But here are some ideas
-that might help you frame the possibilities to let you discuss and
-plan your role.
+that might help you frame the vocabulary and possibilities so that you
+can discuss what you want to do.
 
 - Roles
 
@@ -62,6 +66,13 @@ plan your role.
   - **Equal presenters** can work, but how do you avoid things
     dragging on too long since you both are waiting for the other, or
     keep restating the same things?
+  - In a host/presenter system, if you have unequal skill levels,
+    either role could be the more advanced person.  If the host is
+    more advance, it is more on the side of "Host is walking the
+    presenter through the material".  If the presenter is more
+    advanced, it is more on the side of "Host is interviewing
+    presenter to learn how it works as the presenter demos".
+
 
 - Of course, there are other roles in a workshop.
 
@@ -74,7 +85,7 @@ plan your role.
 
 - If you ever go off-plan, that's OK.  You can discuss during the
   lecture so the audience can know what you are doing and why.  You
-  *want* to adjust to the audience more.
+  *want* to adjust to the audience more than you usually would.
 
 - Two people works well.  With three, it's hard to allow everyone to
   speak equally and people tend to jump on top of each other in the
@@ -84,7 +95,9 @@ plan your role.
 
 - Of course, it helps to have a good plan of what you are going to
   do.  But if only one person knows that plan, this strategy can still
-  work, especially if that person is the host.
+  work, especially if that person is the host.  If the presenter makes
+  the detailed plan, it should be provided to the host (with suggested
+  timings) so the host can guide the presenter through the material.
 
 - The less preparation you have, the more useful it is to strictly
   define the roles of each person (to ensure someone is in charge of
@@ -99,18 +112,20 @@ Preparation
 
 This is one proposed model for preparing for co-teaching:
 
-- Talk with your co-teachers.  These hints assume a two-person team.
+- Talk with your co-teacher.  These hints assume a two-person team.
 - Decide what material will be covered, overall timing, strategy, etc.
 - Divide up the material.  In each section, decide the host and the
   presenter.
 - Decide who will be the director for each part.  Perhaps a good idea
   is to keep it consistent: the host is always the director.
-- At least one person prepares the outline (order things are
-  covered).  Either host or presenter could prepare it.
+- At least one person prepares the outline (the order of topics to be
+  presented).  Either host or presenter could prepare it.
 - Run as above.  In the typical arrangement, host asks questions to
   bring up each point in order.  The presenter could also be the one
   who moves from topic to topic, so that host is asking questions.
 
 Then, just go!  Don't worry if it's not perfect, if either person
 wonders what to do next, just pause some or ask the other.  This
-imperfection is what makes it more dynamic and exciting.
+imperfection is what makes it more dynamic and exciting, and in almost
+all cases the audience has been impressed with the co-teaching
+strategy, even if it's not perfect.
