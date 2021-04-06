@@ -1,7 +1,7 @@
 Team teaching
 =============
 
-Listening to someone talk is boring.  Listening to a discussion is
+Listening to only one person talk can be boring.  Listening to a discussion is
 much less so.  "Team teaching" can mean many things, but in this case we
 are referring to **two instructors are both actively
 involved in lecturing at the same time**, as some sort of conversation
@@ -38,7 +38,7 @@ With more than one person, there is a risk of seeming uncoordinated
 when the team starts talking to decide what to do next.  This is not
 all bad, it makes the show seem interactive.  But if it happens too
 much, it becomes noticeable.  You could adopt a principle which exists
-in many domains: at any time, only one person and only one person is
+in many domains: at any time, only one person is
 in control.  Implemented in team teaching, it becomes: *you explicitly
 know who is in control* (the **director**).  *This person is
 responsible for understanding the audience and checking with other
