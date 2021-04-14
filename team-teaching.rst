@@ -31,9 +31,12 @@ since you can rely
 on the wisdom of the group to get you through areas you haven't
 perfectly prepared.  In fact, this is good, because then your learners will
 see things go slightly wrong and your live debugging.
+Still it can be useful to agree with your co-instructor on the choreography
+of your session (more about this below).
 
 We propose two basic models, but of course there is a constant
 continuum.
+And in either model it can be good to switch roles every 20-30 minutes.
 
 
 
@@ -148,6 +151,11 @@ This is one proposed model for preparing for team teaching:
   should be comfortable with it (and could even do it mostly alone),
   everyone can give comments and make sure to read it at least once.
 - Run as above.
+- you don't need to plan every step in detail but it can be useful to prepare
+  the session together and step through the choreography (e.g. "now I will show
+  this and then give you the screen and then ask you to do this ... you will
+  lead this 20 minute block and then I will lead that 20 minute block and
+  please ask me questions while I present X").
 
 Then, just go!  Don't worry if it's not perfect, if either person
 wonders what to do next, just pause some or ask the other.  This
