@@ -8,7 +8,12 @@ keep people on track.
 
 Below, (*) = important.
 
+## Before the workshop
 
+* Create a new hackmd for the workshop
+* make sure that **editing is enabled for anyone without login**
+* Add workshop information, links to the workshop page and material 
+and an example question and answer to the top of the hackmd (see below)
 
 ## Most things to edit (everyone)
 
