@@ -3,16 +3,16 @@
 This page is more targeted to online workshops, but could be relevant
 to in-person too.
 
-As a helper, you are what can make a breakout room / group work very
+As an exercise leader, you are what can make a breakout room / group work very
 good or just normal.  This is a lot of responsibility and isn't easy,
 but it's also not that complex: you aren't expected to know
 everything, but instead focus on the flow.  Our guidelines below
 should make it doable for everyone.
 
 Here, we give some hints on making the most of breakout rooms.  This
-is especially targeted towards helpers.
+is especially targeted towards exercise leaders/helpers.
 
-* A **helper** has basic knowledge and keeps one breakout room going.
+* An **exercise leader** has basic knowledge and keeps one breakout room going.
 
 * A **expert helper/instructor** is someone who knows material well,
   possibly an instructor.  They tend to move around helping different
@@ -21,11 +21,11 @@ is especially targeted towards helpers.
 
 ## Background: hierarchical workshops to scale
 
-Traditionally, a workshops has instructors and helpers, but the
+Traditionally, a workshops has instructors and exercise leaders/helpers, but the
 capacity is limited by instructors, so we are limited to ~30-40 people
 at most.  Then, we tried to scale to larger numbers: even up to 100
-people.  For this, we have to rely on *helpers* a lot more, to run a
-breakout room.  A helper does not have to be an expert in the
+people.  For this, we have to rely on *exercise leaders* a lot more, to run a
+breakout room.  An exercise leader does not have to be an expert in the
 material, but should be able to keep things flowing.
 
 
@@ -38,7 +38,7 @@ room as long as we can, but we give no promises and will rearrange as
 needed when people can't attend.
 
 We sometimes allow people to register as teams: you bring learners and
-a helper together, with the hope that you can keep working together
+an exercise leader together, with the hope that you can keep working together
 afterwards.
 
 
@@ -51,7 +51,7 @@ main room and breakout sessions.
   work on something independently as an exercise.**
 - You can try to plan the lesson so that more of it gets pushed to the
   breakout session, and the main room is mostly discussion.  Since
-  each room has a helper, this works a bit better than in in-person
+  each room has an exercise leader, this works a bit better than in in-person
   workshops
   - This doesn't work so well for all lessons.  Especially the more
     basic lessons don't work so well
@@ -81,14 +81,14 @@ opened).
     - 10 minutes is quite short, 20 minutes is best.
     - Can you say less and let people discover it for themselves?
 
-As a helper, if anything is unclear to you, it is very unclear to
+As an exercise leader, if anything is unclear to you, it is very unclear to
 others. Speak up and ask!
 
 (breakout-helpers)=
 
-## Helpers in breakout rooms
+## Exercise leaders in breakout rooms
 
-As a breakout room helper, your main task is to *keep people talking
+As an exercise leader in a breakout room, your main task is to *keep people talking
 and interacting, understand their difficulties, and encourage them to
 work on the exercises together.*
 
@@ -101,10 +101,10 @@ work on the exercises together.*
   room and see what they want, but do provide encouragement to do
   something.
 - If you need extra help, write it in the HackMD, someone should be
-  watching it and relay it to the host.  Other helpers will try to
+  watching it and relay it to the host. Expert helpers/instructors will try to
   visit your rooms periodically, anyway.
 - Watch the time and try to keep things moving.  If some debugging
-  takes to long, it's reasonable to ask for another helper who might
+  takes to long, it's reasonable to ask for another exercise leader/expert helper who might
   have seen the problem.
     - If any one problem takes too long, it's OK to say "we don't have
       time, let's come back"
@@ -120,7 +120,7 @@ questions at the bottom.
 There are several strategies you can use to run your breakout room:
 
 Strategy 1:
-- **Helpers ask someone to share the screen and go through the exercise.**
+- **Exercise leader asks someone to share the screen and go through the exercise.**
 - You can encourage the others to guide the one who is sharing the
   screen. Or let the person go on her/his own pace.
     - I joke "The person who shares the screen has the easiest job,
@@ -166,7 +166,7 @@ Strategy 3:
 
 ## Expert helpers
 
-There's not much difference between a helper and expert helper, but we
+There's not much difference between a exercise leader and expert helper, but we
 envision this role standing by and jumping into rooms when there's a
 difficult problem.
 
@@ -193,7 +193,7 @@ difficult problem.
   join and catch up with the same rooms (this promotes familiarity).
     - E.g. A rotates between rooms 1-3, B gets rooms 4-7, C gets rooms
       8-11.
-- **Make sure to watch the HackMD for helper requests**, this could help
+- **Make sure to watch the HackMD for expert helper requests**, this could help
   you decide which room to jump to next.  Comment when you are heading
   there.
 

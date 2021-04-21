@@ -24,8 +24,8 @@ We mainly have expert helpers for large workshops.
   differences between them?  Questions which we should bring up in the
   main room?
 
-* Monitor if any helpers need extra help or training.  Should we
-  improve our helper training?
+* Monitor if any exercise leaders need extra help or training.  Should we
+  improve our exercise leader training?
 
 Other reference:
 

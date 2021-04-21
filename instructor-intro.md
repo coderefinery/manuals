@@ -27,7 +27,7 @@ Reading here: the other pages in the section, see sidebar.
 * {doc}`presenting`
 * {doc}`instructor-tech-setup`
 
-Also read the helper information
+Also read the exercise leader information
 * {doc}`helping-and-teaching` - general on motivation
 * {doc}`breakout-rooms-helping` - read about how to prepare for
   breakout rooms and the role of expert helpers
@@ -39,7 +39,7 @@ Reading elsewhere:
 
 
 
-## From helper to more
+## From exercise leader/helper to more
 
 Here is one possible pathway from learner to (whatever else).  This is
 an *idea* for a pathway but by no means a requirement - you can join
@@ -47,7 +47,7 @@ at whatever step you like, and steps don't have to happen in order.
 Maybe you are interested in some or the other.  There are also roles
 completely outside of this pathway.
 
-* After being a learner, you come back as a helper.
+* After being a learner, you come back as an exercise leader/helper.
 * When you have a solid understanding of all materials, you may join
   as an expert helper.
 * You begin co-teaching episodes with someone else
@@ -80,7 +80,7 @@ rarely alone.  This is one way of looking at it:
 * Especially go over the examples when preparing.
 
 * Have a chat with someone else (probably another instructor or
-  experienced helper) before teaching.  We encourage this for
+  expert helper) before teaching.  We encourage this for
   everyone, even experienced instructors, to better transfer knowledge
   among each other and stay up to date with the latest developments.
 
