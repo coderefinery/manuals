@@ -34,7 +34,7 @@ more information, see the :doc:`online teaching guide <online/index>`.
 Basics
 ------
 
-.. admonition:: Basic A/V concepts
+.. admonition:: Basic audio/video glossary
    :class: dropdown
 
    Open Broadcasting Software (OBS)
@@ -116,10 +116,11 @@ Basics
       devices).  Mainstream personal computers tend to have enough
       power to decode anything, so this isn't a major consideration.
 
-   variable bitrate
+   variable bitrate (VBR)
       Encoding method where instantaneous bitrate varies depending on
       how much information is needed at each instantaneous point of
-      time, to encode the complexity of the current scene.
+      time, to encode the complexity of the current scene.  In x264,
+      this is usually done as "CRF".
 
    latency
       Time delay between two events.  In a livestream, time delay
@@ -225,12 +226,23 @@ File → Settings → Stream
 File → Settings → Output
     Here, you configure streaming/recording output parameters.
 
-    Streaming: 2500 Kbps, other options don't matter so much, defaults
-    should be fine.
+    If you use **Simple**, you pretty much can't go wrong.  If you are
+    mainly screensharing and don't have much action video, you can
+    make the bitrate much lower, for example 2500 Kbps.  The slower
+    "encoder preset" is, the more CPU power that will be spent to get
+    that quality, so the less space it will use.  The better your CPU
+    is, the slower you can make it; "fast" to "slow" are reasonable.
+
+    If you use **advanced** you have more options:
+
+    Streaming: Rate control=CBR, 2500 Kbps, other options don't matter
+    so much, defaults should be fine.  You can search for
+    recommendations online, but realize that most others stream
+    high-action games so their settings are much higher than you need.
 
     Recording: Recording format, mp4 (mkv would be better, but we need
     to check that it can be uploaded to common sites). Encoder=x264,
-    Rate control=CRF,  CRF=22, Keyframe interval=auto, CPU
+    Rate control=CRF, CRF=22, Keyframe interval=auto, CPU
     preset=medium (or slower, for better CPUs)
     (slower=use more CPU to do better
     encoding, either higher quality or lower bitrate.  Veryfast--Slow
@@ -294,9 +306,10 @@ Common types of sources (scene elements) include:
 
 The sources themselves can be moved around graphically, which is good for
 setting things up.  When there are more demanding needs, the source
-transformation can be edited for more precise control.  There are
-source *filters*, which can do video transformations.  Some sources
-can be cropped in the source-specific config as well.
+transformation can be edited for more precise control (right click on
+source in preview → edit transformation).  There are
+source *filters*, which can do video effects such as removing a color.
+Some sources can be cropped in the source-specific config as well.
 
 
 
@@ -305,8 +318,8 @@ Audio configuration
 
 Audio configuration is simpler than video configuration, since there
 are fewer different sources.  On the other hand, it is harder to
-see what is going on so it is easier to make loops and harder to tune
-it perfectly.
+see what is going on (no preview) so it is harder to adjust it
+perfectly, and easier to cause problems like loops.
 
 The main concept is that your computer may have different input and
 output sound devices ("cards").  For example, I can output sound from
@@ -317,7 +330,8 @@ way to see and configure what is going on under the hood.
 There are two types of audio inputs:
 
 * **Microphones**, obviously recording from a microphone.
-* **Monitors**, recording what is currently being played on another
+* **Monitors** (as in, monitor a sound card), recording what is
+  currently being played on another
   sound card.  This is what is used to capture audio from a remote
   meeting, such as Zoom.
 
