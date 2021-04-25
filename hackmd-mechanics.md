@@ -6,6 +6,7 @@
 * provide everyone with a **more equal opportunity to ask questions**.
 * **create notes** which will be archived, for your later reference.
 
+You do not need to login/create an account to be able to edit the document.
 
 ## Basic controls
 

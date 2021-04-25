@@ -19,12 +19,12 @@ Hackmd mechanics (tutorial for learners) <hackmd-mechanics.md>
 
 
 ```{toctree}
-:caption: Helpers
+:caption: Exercise leaders
 :maxdepth: 1
 
-Helper's intro (tutorial) <helper-intro.md>
-Helper's guide (tutorial) <helping-and-teaching.md>
-How helpers manage breakout rooms (tutorial) <breakout-rooms-helping.md>
+Exercise leader's intro (tutorial) <helper-intro.md>
+Exercise leader's guide (tutorial) <helping-and-teaching.md>
+How exercise leaders manage breakout rooms (tutorial) <breakout-rooms-helping.md>
 ```
 
 

@@ -1,17 +1,17 @@
-# Helper introduction
+# Exercise leader introduction
 
-Thanks for being a CodeRefinery helper!  Helpers allow CodeRefinery to
+Thanks for being a CodeRefinery exercise leader!  Helpers allow CodeRefinery to
 scale to many more people than we could otherwise handle.  You'll be
 in a breakout room with around 5 people, guide them through the
 course, keep time, and call us when more help is needed.  You'll also
 learn to be
 a more effective teacher and mentor.
 
-As a helper, you are expected to:
+As an exercise leader, you are expected to:
 
 - Show a positive, motivating attitude to learners.
 
-- Come to a one-hour "helper training" before the workshop.
+- Come to a one-hour "Exercise leader training" before the workshop.
 
 - Prerequisites: Have been to a CodeRefinery before and used git some
   since then, or have a bit more some experience with git (branching,
@@ -24,7 +24,7 @@ As a helper, you are expected to:
 
 ## Helper training
 
-During this time, we will talk about the role of the helper during the
+During this time, we will talk about the role of the exercise leader during the
 workshop and answer any open questions you may have.  We'll go through
 the material below.
 
@@ -38,11 +38,11 @@ and if you can't find it then `#general` is good).
 ## Reading
 
 We have these things we recommend you read in advance (don't worry,
-we'll go over them in helper training):
+we'll go over them in exercise leader training):
 
 - [Basics of being a good, motivating helper](helping-and-teaching)
 - {ref}`How breakout rooms work <breakout-helpers>`, focused on
-  sections for helpers.
+  sections for exercise leaders.
 
 
 You'll learn these during the workshop so *you don't need to read
@@ -56,9 +56,9 @@ know this):
   in-person](how-to-attend-inperson), but you learn this in class.
 
 
-## From helper to instructor
+## From exercise leader/helper to instructor
 
-If you enjoy being a helper, would you like to upgrade to a more
+If you enjoy being an exercise leader, would you like to upgrade to a more
 active role in CodeRefinery, or become an instructor?  We welcome
 everyone to the CodeRefinery community and want to expand our network
 of workshops and instructors.

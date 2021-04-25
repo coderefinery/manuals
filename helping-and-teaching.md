@@ -1,21 +1,20 @@
-# Tips for helpers
+# Tips for exercise leaders
 
-This page contains the most important general hints for helpers for
-helpers.  See the {doc}`helper-intro` for more.
+This page contains the most important general hints for exercise leaders. See the {doc}`helper-intro` for more.
 
 
 ## Preparing to help
 
-As a helper, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
+As an exercise leader, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
 
-- If you aren't sure if you can be a helper: you probably can be one!
+- If you aren't sure if you can be an exercise leader: you probably can be one!
 - We try to make each exercise self-explanatory, but if you do one
   thing, scan over the exercises and understand the general point of
   each of them.
 - Read through the instructor guides for the lessons (there should be
   a link at the top or sidebar of each lesson).
 - Be ready to introduce yourself in one or two sentences: think about what you
-  would like to convey as helpers to the classroom. How did (or does)
+  would like to convey as exercise leader to the classroom. How did (or does)
   CodeRefinery help you?
 
 
@@ -31,7 +30,7 @@ please mention it to one of instructors.
 
 ### Creating a positive learning environment
 
-As a helper, you have a crucial role during workshops:
+As an exercise leader, you have a crucial role during workshops:
 
 - Encourage learners to learn from each other.
 - Acknowledge that some of the material can be difficult and that they will
@@ -83,4 +82,3 @@ As a helper, you have a crucial role during workshops:
 * Carpentries instructor training
 * {doc}`Teaching Tech Together <teaching-tech-together>` chapters 8,
   9, 10.
-  
