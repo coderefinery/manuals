@@ -94,8 +94,9 @@ Instructors should keep in mind:
     it is natural when questions are coming through chat or notes.
 
   * Speak in terms of breaks and exercises sessions.
-  * Speak in terms of relative times.  e.g. Exercise session ends at
-    50 minutes past the hour, at xx:50".
+  * Speak in terms of relative times, since people will be in different
+    timezones.  For example, say "We resume at
+    50 minutes past the hour" and write "xx:50".
   * Realize there are different learning styles.  Some people will
     attempt all exercises.  Some will passive watch and want demos.
 
