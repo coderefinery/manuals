@@ -48,6 +48,7 @@ Summary of the book "Teaching Teach Together" (reference) <teaching-tech-togethe
 :maxdepth: 1
 online/index
 obs
+coderefinery-mooc
 ```
 
 
