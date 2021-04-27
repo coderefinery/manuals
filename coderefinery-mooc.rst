@@ -1,7 +1,7 @@
 CodeRefinery MOOC strategy
 ==========================
 
-This page documents the CodeRefinery MOOC strategy.  It is not a real
+This page documents the CodeRefinery MOOC (massive open online course) strategy.  It is not a real
 MOOC (it's not massive enough yet), but it does reach out from one to
 many, and can scale to basically all the world.
 
@@ -15,14 +15,14 @@ Disconnected from this, people are watching the broadcast in a
 people can watch via the livestream alone.  Or there can be different
 meetings.  Or people could watch recorded videos later.
 
-The mental model here is "Watching TV together".  We collective watch
+The mental model here is "Watching TV together".  We collectively watch
 a show together.  There are periodic intermissions where each watching
 community discusses among themselves and works on the exercises.
 Everyone feels they are a part of something big and that keeps people interested.
 
 We have clear communication channels from learner→instructor
 (HackMD), helpers→instructors (chat), instructors→learners
-(livestream).  Of course instructors can directly to the audience
+(livestream).  Of course instructors can directly communicate with the audience
 during their breaks.
 
 The **Director** controls the stream and is responsible for keeping
