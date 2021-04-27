@@ -72,8 +72,10 @@ Instructors should keep in mind:
 * Of course, you can go join the student room during breaks, other
   sessions, and so on.
 
-* Zoom polls won't work.  We can use another service for that instead
-  (e.g. presemo.aalto.fi).
+* Zoom polls won't work, since the instructors and audience aren't in
+  the same Zoom meeting.  This is one reason we already use HackMD for
+  polls (though there are other options, such as presemo.aalto.fi,
+  which could work in even larger courses).
 
 * You will have more than just the registered students in another room
   as an audience.  Your audience includes students in the breakout
