@@ -89,6 +89,10 @@ Instructors should keep in mind:
     you can say things like "If you are registered, ... .  If you are
     on your own, ... ."
 
+  * Repeat back questions before answering them, so that people across
+    channels can follow.  This is a usually good idea anyway, and also
+    it is natural when questions are coming through chat or notes.
+
   * Speak in terms of breaks and exercises sessions.
   * Speak in terms of relative times.  e.g. Exercise session ends at
     50 minutes past the hour, at xx:50".
