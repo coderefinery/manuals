@@ -32,7 +32,7 @@ things running smoothly.
 Summary diagram
 ---------------
 
-.. figure:: coderefinery-mooc/mooc-diagram.svg
+.. figure:: coderefinery-mooc/mooc-diagram.png
 
    The general presence and information flow within the MOOC strategy.
 
