@@ -23,7 +23,7 @@ is especially targeted towards exercise leaders/helpers.
 
 Traditionally, a workshops has instructors and exercise leaders/helpers, but the
 capacity is limited by instructors, so we are limited to ~30-40 people
-at most.  Then, we tried to scale to larger numbers: even up to 100
+at most.  Then, we tried to scale to larger numbers: even up to and beyond 100
 people.  For this, we have to rely on *exercise leaders* a lot more, to run a
 breakout room.  An exercise leader does not have to be an expert in the
 material, but should be able to keep things flowing.
@@ -37,29 +37,23 @@ rooms started sooner.  We will try to keep you in the same breakout
 room as long as we can, but we give no promises and will rearrange as
 needed when people can't attend.
 
-We sometimes allow people to register as teams: you bring learners and
-an exercise leader together, with the hope that you can keep working together
-afterwards.
+We sometimes allow people to register as teams: This could for example be a group colleagues/friends where one of the team has a bit of knowledge on the tools presented in the workhop. This person can act as exercise leader for the workshop, but may still learn a thing or two themselves. In that way you can work with people you know and the barrier for asking questions and discuss together may be a bit lower than in a group of strangers. Since teams with exercise leaders are 'self-sustaining' we usually accept all team registrations, while single learners may be put on waiting list or, if applicable redicrected to the stream. 
 
 
-## General, in the main session
+## For Instructors
+### in the main session
 
-As an instructor, you first need to decide how to balance between the
+As an instructor, when preparing your lesson you first need to decide how to balance between the
 main room and breakout sessions.
 
 - **Clearly say when a learner watches, when they type along, when they should
   work on something independently as an exercise.**
-- You can try to plan the lesson so that more of it gets pushed to the
-  breakout session, and the main room is mostly discussion.  Since
-  each room has an exercise leader, this works a bit better than in in-person
-  workshops
-  - This doesn't work so well for all lessons.  Especially the more
-    basic lessons don't work so well
-  - It also requires some care, and you should probably hop from
-    room to room to monitor the progress.
+- CodeRefinery is traditionally a hands-on workshop, so breakout-room sessions should be a large part of the workshop.
+- We usually keep the main room mostly for general discussions. Small exercises or polls can also be done in the main room, for all hands-on exercises we divide the learners into breakout-rooms each with one exercise leader.
+- To give you an idea about how the work in the breakout rooms is going, monitor the hackmd closely and if time allows try to visit a few breakout rooms to see how it is going and if needed adjust the timing.
 
 
-## Preparing for the breakouts (in the main room)
+### Preparing for the breakouts (in the main room)
 
 **As an instructor, you need to clearly define what the tasks of each
 breakout session is (even if it is just "explore and discuss").**
@@ -71,7 +65,7 @@ opened).
 - Clearly say what the tasks of the breakout session will be.
 - Put that task and a link to the part of the lesson in the hackmd.
 - Clearly say how long each breakout session will be (make sure it's
-  long enough)
+  long enough and adjust during the exercise session if needed)
 - Clearly say if things in the future will depend on this exercise (is
   someone completely lost if they don't make it to the end.  Halfway?)
 - Try to make breakout sessions longer:
@@ -79,10 +73,10 @@ opened).
       there, deciding who does what, acquainted with what they need to
       do, and debugging problems.
     - 10 minutes is quite short, 20 minutes is best.
-    - Can you say less and let people discover it for themselves?
+    - **Can you say less and let people discover it for themselves?**
 
 As an exercise leader, if anything is unclear to you, it is very unclear to
-others. Speak up and ask!
+others. Comment/Ask in the HackMD or speak up and ask! 
 
 (breakout-helpers)=
 
@@ -104,8 +98,8 @@ work on the exercises together.*
   watching it and relay it to the host. Expert helpers/instructors will try to
   visit your rooms periodically, anyway.
 - Watch the time and try to keep things moving.  If some debugging
-  takes to long, it's reasonable to ask for another exercise leader/expert helper who might
-  have seen the problem.
+  takes to long, it's reasonable to ask for an expert helper who might
+  have seen the problem before.
     - If any one problem takes too long, it's OK to say "we don't have
       time, let's come back"
     - Or, ask for an expert helper to come by and maybe answer
@@ -123,14 +117,10 @@ Strategy 1:
 - **Exercise leader asks someone to share the screen and go through the exercise.**
 - You can encourage the others to guide the one who is sharing the
   screen. Or let the person go on her/his own pace.
-    - I joke "The person who shares the screen has the easiest job,
-      since the rest of us guide you."
-        - This might go against the CodeRefinery's code of
-          conduct. The wording and the joking might cause some people
-          feel inferior. So, I recommend not to do so! Please others
-          comment about what they think about this.
+  - If no one dares at first, you can also start sharing your screen and let the room tell you what to write.
+  - That way they see how it can go and the barrier shrinks.
 - Try to alternate who is sharing the screen for each session.
-- When someone has an issue, of course you switch screen share to them
+- When someone has an issue, it is a good idea to switch screen share to them
   and maybe even continue from there
 
 Strategy 2:
