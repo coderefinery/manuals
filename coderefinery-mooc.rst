@@ -29,6 +29,13 @@ The **Director** controls the stream and is responsible for keeping
 things running smoothly.
 
 
+Summary diagram
+---------------
+
+.. figure:: coderefinery-mooc/mooc-diagram.png
+
+   The general presence and information flow within the MOOC strategy.
+
 
 Instructors
 -----------
@@ -51,7 +58,8 @@ Disadvantages:
   someone speak up anyway?).
 
 
-Instructors should keep in mind:
+Instructors should keep in mind (many of these are not special to the
+MOOC format, but are even more important):
 
 
 * At all times you will have a director to help keep you on track:
@@ -59,10 +67,13 @@ Instructors should keep in mind:
   do this and let you know).
 * You will have a private Zoom meeting with only instructors (and any
   other key helpers who want to be there).
-* Share a vertical screen (840 × 1080 maximum).  This allows students
+* Share a vertical screen (840 × 1080 is our standard and your
+  maximum).  This allows students
   to keep half of their screen open for their own work.
 * HackMD is the main way of receiving questions from students (just
-  like in our current courses).
+  like in our current courses).  The HackMD helper can be in the
+  main stream to immediately ask questions from the audience, or your
+  co-instructors could do this.  Really, perhaps both.
 * During breaks and pauses, the livestream will be muted, so that
   instructors (and helpers there) can talk without the audience
   hearing.  This greatly increases professionalism and makes it easier
@@ -94,9 +105,11 @@ Instructors should keep in mind:
     it is natural when questions are coming through chat or notes.
 
   * Speak in terms of breaks and exercises sessions.
+
   * Speak in terms of relative times, since people will be in different
     timezones.  For example, say "We resume at
     50 minutes past the hour" and write "xx:50".
+
   * Realize there are different learning styles.  Some people will
     attempt all exercises.  Some will passive watch and want demos.
 
@@ -122,8 +135,26 @@ Instructors should keep in mind:
   The rest will understand this if you make this explicit.
 
 
-Helpers and supporters
-----------------------
+
+Director
+--------
+
+You job is to be aware of everything going on, and when there is a
+question like "Do we need more time?" or "what should we do now?", you
+can answer it.  You can give people the pushes when they get slightly
+off track (though others should always be willing to speak up when
+this is needed, too).  You maintain this awareness by watching as many
+of the communication channels as you can.
+
+Hint: find your computer's detailed audio controls, so that you can
+adjust volumes of multiple sources independently.  This helps you be
+in multiple meetings at once.  (This may be useful for others that
+want to attend multiple meetings.)
+
+
+
+Expert helpers and other staff
+------------------------------
 
 As a helper, your job stays pretty much the same.  There is more
 emphasis on making sure that all questions and comments are in the
@@ -131,18 +162,18 @@ HackMD.
 
 Some helpers can join the instructor meeting and directly relay
 questions and thoughts, and in general provide the "voice of the
-audience".
+audience".  This is a logical role for the HackMD helper.
 
 
 
 Audience and exercise leaders
 -----------------------------
 
-There are different ways for an audience to interact.  They can all
-happen at the same time.
+The learners and exercise leaders focus on watching the material and
+asking questions in HackMD, much as in a regular course.
 
-Main meeting with breakouts
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+In the main meeting with breakouts
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Here, there is a meeting (e.g. Zoom) which has a lot of learners in
 it.  There are two options for lectures:
@@ -160,8 +191,8 @@ livestream (or turn it off) during the exercise sessions if there are
 demos going on while they are doing exercises.  This means we may have
 trouble getting their attention.
 
-Stream
-~~~~~~
+Via livestream
+~~~~~~~~~~~~~~
 
 Here, each audience member watches Twitch independently.  During the
 exercise sessions, they can work alone, watch the demos, or work with
@@ -172,6 +203,13 @@ Live
 
 The stream is broadcast in the physical classroom or meeting room
 where a class or team is located.
+
+Recording
+~~~~~~~~~
+
+You can watch the recording, refer to the lesson page, and refer to
+the archived HackMD notes afterwards.
+
 
 
 Open issues
