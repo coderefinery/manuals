@@ -50,4 +50,4 @@ and if you can't find it then `#general` is good).
 
 During the workshop, HackMD (collaborative document) is our main communication channel, where you can ask questions or request us to visit your breakout room in case of tricky questions or further discussion potential.
 
-If you had fun being an exercise leader for the workshop, please visit [this](volunteer_path) page, to find out about further volunteering possibilities within CodeRefinery.
+If you had fun being an exercise leader for the workshop, please visit our [contributing page](contributing) page, to find out about further volunteering possibilities within CodeRefinery.

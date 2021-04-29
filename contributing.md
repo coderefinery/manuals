@@ -76,9 +76,8 @@ to help all of your staff
 Teach at 4/workshops per year (4 × 3 days) + 50% preparation time
 commitment.  Attend one CodeRefinery workshop per year.
 
-How to get started: be a helper a few times, then as we are planning
-an upcoming workshop, offer to teach something.  We'll help you get
-started.
+How to get started: be an exercise leader a few times, read through the instructor notes and find a topic you are interested and comfortable teaching, then when we are planning a workshop, offer to teach that lesson.  We'll help you get
+started. Also co-teaching is a possibility.
 
 
 ### Helper
@@ -92,13 +91,13 @@ to become very familiar with CodeRefinery material.  You especially
 get skills in mentoring and debugging.  This is a perfect position for
 the "local expert" of a research group, who will guide all of their
 members through getting started with scientific computing.  A helper
-can include all of our non-instructor roles: helper, expert helper,
+can include all of our non-instructor roles: exercise leader, expert helper,
 Zoom host, etc.
 
 Example time commitment: 4 workshops/year (4 × 3 days) + 20%
 preparation time commitment.
 
-How to get started: Watch our announcements and sign up as a helper.
+How to get started: Read about being an exercise leader on our [Exercise leader intro page](helper-intro). Watch our announcements and sign up as an exercise leader for the next workshop.
 
 
 ### Lesson maintainer
@@ -129,7 +128,7 @@ a maintainer.
 Hang out in the chat and help others, provide advice to others, give
 feedback of our ideas.  Lurk in all of our other activities and decide
 if you want to do more later.  Help us advertise workshops, get
-helpers, get learners, do outreach.  Perhaps start showing up as an
+exercise leaders, get learners, do outreach.  Perhaps start showing up as an
 expert helper sometimes.
 
 Example time commitment: ???
@@ -140,8 +139,8 @@ comes up.
 
 ### Organizer
 
-Help us organize workshops.  Handle attendee communication,
-advertisement, manage helpers, etc.
+Help us organize workshops. Each workshop needs a handfull of different roles to be filled: You can handle attendee communication,
+advertisement, manage exercise leaders and prepare their onboarding, be HackMD helper, etc.
 
 
 ### Create your own lessons in our galaxy
