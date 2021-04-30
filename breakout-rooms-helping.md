@@ -37,7 +37,7 @@ rooms started sooner.  We will try to keep you in the same breakout
 room as long as we can, but we give no promises and will rearrange as
 needed when people can't attend.
 
-We sometimes allow people to register as teams: This could for example be a group colleagues/friends where one of the team has a bit of knowledge on the tools presented in the workhop. This person can act as exercise leader for the workshop, but may still learn a thing or two themselves. In that way you can work with people you know and the barrier for asking questions and discuss together may be a bit lower than in a group of strangers. Since teams with exercise leaders are 'self-sustaining' we usually accept all team registrations, while single learners may be put on waiting list or, if applicable redicrected to the stream. 
+We sometimes allow people to register as teams: This could for example be a group colleagues/friends where one of the team members has a bit of knowledge on the tools presented in the workhop. This person can act as exercise leader for the workshop, but may still learn a thing or two themselves. In that way you can work with people you know and the barrier for asking questions and discuss together may be a bit lower than in a group of strangers. Since teams with exercise leaders are 'self-sustaining' we usually accept all team registrations, while registrations as single learner may be put on waiting list or, if applicable redirected to the stream, when they exceed our capacity based on the number of individual exercise leaders. 
 
 
 ## For Instructors
