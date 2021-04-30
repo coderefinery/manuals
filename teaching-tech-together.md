@@ -1,3 +1,4 @@
+(teaching-tech-together)=
 # Summary of Teaching Tech Together
 
 [Teaching Tech Together](http://teachtogether.tech/) is a book

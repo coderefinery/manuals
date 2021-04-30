@@ -1,24 +1,22 @@
+(helper-tips)=
 # Tips for exercise leaders
 
-This page contains the most important general hints for exercise leaders. See the {doc}`helper-intro` for more.
+This page contains the most important general tips for exercise leaders before during and after the workshop. If you have not visited the main introduction page, see {ref}`Exercise leader introduction <helper-intro>`.
 
+> If you aren't sure if you can be an exercise leader: you probably can be one!
 
-## Preparing to help
+## Before the workshop
 
 As an exercise leader, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
 
-- If you aren't sure if you can be an exercise leader: you probably can be one!
-- We try to make each exercise self-explanatory, but if you do one
-  thing, scan over the exercises and understand the general point of
-  each of them.
-- Read through the instructor guides for the lessons (there should be
+- Take a look at the exercises of the days you plan to help at. We try to make each exercise self-explanatory, but if you do one
+  thing, scan over the exercises and understand the general point of each of them.
+- Be ready to introduce yourself in one or two sentences to your breakout room: think about what you
+  would like to convey as exercise leader to the classroom. How did (or does) CodeRefinery help you?
+- If you are interested, also read through the instructor guides for the lessons (there should be
   a link at the top or sidebar of each lesson).
-- Be ready to introduce yourself in one or two sentences: think about what you
-  would like to convey as exercise leader to the classroom. How did (or does)
-  CodeRefinery help you?
 
-
-## Tips for helping during the workshop
+## During the workshop
 
 ### Code of Conduct
 
@@ -27,21 +25,21 @@ Teaching isn't about helping those who are already "in", it is for those who are
 If you see anything that is not supporting an equal learning environment,
 please mention it to one of instructors.
 
-
 ### Creating a positive learning environment
 
 As an exercise leader, you have a crucial role during workshops:
 
 - Encourage learners to learn from each other.
-- Acknowledge that some of the material can be difficult and that they will
+- Acknowledge that some of the material can be difficult and that people in your breakoutroom will
   learn more working together.
 - Acknowledge when learners are confused and raise it to the instructors.
   Understanding why learners are confused provides useful feedback for
-  instructors. You should be our eyes and ears.
+  instructors. You are our eyes and ears.
 - As we said, you don't have to know everything, just like learners don't
-  necessarily know everything (we don't know everything, either).  It's more
+  necessarily know everything (we don't know everything, either). It's more
   important to be responsive and work together.
-- Stand up and walk around, try to make rounds by everyone.  If you are
+- In an online workshop: Turn on your camera, and encourage everyone else to do so as well. Have an introductory round in the first breakout room session, to get to know your group. Whichever strategy you choose for your breakoutroom (see also {ref}`Helping in breakoutrooms <breakout-helpers>`), be present and encourage learners to ask questions.
+- In an in-person workshop: Stand up and walk around, try to make rounds by everyone.  If you are
   convenient, students will ask.  If you are sitting in the back, student's
   wont.  Students rarely try to get your attention from across the room if you
   don't look ready.
@@ -49,12 +47,12 @@ As an exercise leader, you have a crucial role during workshops:
 
 ### Things you should not do in a workshop
 
-- Take over the learner's keyboard. It is rarely a good idea to type anything
+- Take over the learner's keyboard (neither physically nor remotely). It is rarely a good idea to type anything
   for your learners and it can be demotivating for the learner because it
   implies you don't think they can do it themselves or that you don't want to
   wait for them. It also wastes a valuable opportunity for them to develop muscle
   memory and other skills that are essential for independent work.  Instead, try
-  to have a sticky note pad and pen and write the commands that they should type.
+  to have a sticky note pad and pen / use the zoom chat and write the commands that they should type.
 - Criticize certain programs, operating systems, or GUI applications, or
   learners who use them. (Excel, Windows, etc.)
 - Talk contemptuously or with scorn about any tool. Regardless of its
@@ -80,5 +78,5 @@ As an exercise leader, you have a crucial role during workshops:
 ## See also
 
 * Carpentries instructor training
-* {doc}`Teaching Tech Together <teaching-tech-together>` chapters 8,
+* {ref}`Teaching Tech Together <teaching-tech-together>` chapters 8,
   9, 10.

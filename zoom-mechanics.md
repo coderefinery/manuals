@@ -1,6 +1,5 @@
+(how-to-zoom)=
 # Zoom mechanics and controls
-
-
 
 ## How to mute and unmute
 

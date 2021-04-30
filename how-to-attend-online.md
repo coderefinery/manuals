@@ -1,3 +1,4 @@
+(attend-online)=
 # Attending an online workshop
 
 We are glad you would like to attend an online workshop.  This page

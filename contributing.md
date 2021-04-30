@@ -4,7 +4,7 @@ CodeRefinery is an open-source project.  All our work is open, and we
 accept any type of contributions: there is a lot more than instructing
 to run a successful workshop.
 
-If you aren't sure you are ready for more, you can always {doc}`lurk
+If you aren't sure you are ready for more, you can always {ref}`lurk
 in the chat <chat>`
 (passively watch our community) and become more active when you feel
 the time is right.
@@ -19,7 +19,7 @@ it like it was before), then do it again with your own improvements.
 
 ## How to watch and communicate
 
-- Join {doc}`CodeRefinery chat <chat>`, give comments or submit emoji reactions to
+- Join {ref}`CodeRefinery chat <chat>`, give comments or submit emoji reactions to
   show how you feel about things.  Most things are announced only
   through the chat.  You can even {ref}`express opinions and vote
   there <vote>`.
@@ -43,12 +43,13 @@ A bit more commitment:
 - Be a helper with in our workshops.
 
 Get really involved:
-- Hang out on our [CodeRefinery chat](chat)
+- Hang out on our {ref}`CodeRefinery chat <chat>`
 - Teach a lesson using our materials yourself
 - Be come a CodeRefinery instructor
 - Come to our meetings several times a month.
 
 
+(volunteering)=
 
 ## Example volunteer "packages"
 
@@ -76,9 +77,8 @@ to help all of your staff
 Teach at 4/workshops per year (4 × 3 days) + 50% preparation time
 commitment.  Attend one CodeRefinery workshop per year.
 
-How to get started: be a helper a few times, then as we are planning
-an upcoming workshop, offer to teach something.  We'll help you get
-started.
+How to get started: be an exercise leader a few times, read through the instructor notes and find a topic you are interested and comfortable teaching, then when we are planning a workshop, offer to teach that lesson.  We'll help you get
+started. Also co-teaching is a possibility.
 
 
 ### Helper
@@ -92,13 +92,13 @@ to become very familiar with CodeRefinery material.  You especially
 get skills in mentoring and debugging.  This is a perfect position for
 the "local expert" of a research group, who will guide all of their
 members through getting started with scientific computing.  A helper
-can include all of our non-instructor roles: helper, expert helper,
+can include all of our non-instructor roles: exercise leader, expert helper,
 Zoom host, etc.
 
 Example time commitment: 4 workshops/year (4 × 3 days) + 20%
 preparation time commitment.
 
-How to get started: Watch our announcements and sign up as a helper.
+How to get started: Read about being an exercise leader on our {ref}`Exercise leader intro page <helper-intro>`. Watch our announcements and sign up as an exercise leader for the next workshop.
 
 
 ### Lesson maintainer
@@ -129,19 +129,19 @@ a maintainer.
 Hang out in the chat and help others, provide advice to others, give
 feedback of our ideas.  Lurk in all of our other activities and decide
 if you want to do more later.  Help us advertise workshops, get
-helpers, get learners, do outreach.  Perhaps start showing up as an
+exercise leaders, get learners, do outreach.  Perhaps start showing up as an
 expert helper sometimes.
 
 Example time commitment: ???
 
-How to get started: join [CodeRefinery zulipchat](./chat) and see what
+How to get started: join {ref}`CodeRefinery zulipchat <chat>` and see what
 comes up.
 
 
 ### Organizer
 
-Help us organize workshops.  Handle attendee communication,
-advertisement, manage helpers, etc.
+Help us organize workshops. Each workshop needs a handfull of different roles to be filled: You can handle attendee communication,
+advertisement, manage exercise leaders and prepare their onboarding, be HackMD helper, etc.
 
 
 ### Create your own lessons in our galaxy
