@@ -1,3 +1,4 @@
+(how-to-hackmd)=
 # HackMD mechanics and controls
 
 [Hackmd](https://hackmd.io) is a real-time text editor online.  We use it to:

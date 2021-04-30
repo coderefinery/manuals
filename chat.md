@@ -1,3 +1,4 @@
+(chat)=
 # CodeRefinery Zulipchat
 
 The [CodeRefinery zulipchat](https://coderefinery.zulipchat.com) is

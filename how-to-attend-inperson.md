@@ -1,3 +1,4 @@
+(attend-inperson)=
 # Attending an in-person workshop
 
 We are glad you would like to attend an in-person workshop.  This page

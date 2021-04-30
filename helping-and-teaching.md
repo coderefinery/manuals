@@ -1,6 +1,7 @@
+(helper-tips)=
 # Tips for exercise leaders
 
-This page contains the most important general tips for exercise leaders before during and after the workshop. If you have not visited the main introduction page, follow [this link](helper-intro).
+This page contains the most important general tips for exercise leaders before during and after the workshop. If you have not visited the main introduction page, see {ref}`Exercise leader introduction <helper-intro>`.
 
 > If you aren't sure if you can be an exercise leader: you probably can be one!
 
@@ -37,7 +38,7 @@ As an exercise leader, you have a crucial role during workshops:
 - As we said, you don't have to know everything, just like learners don't
   necessarily know everything (we don't know everything, either). It's more
   important to be responsive and work together.
-- In an online workshop: Turn on your camera, and encourage everyone else to do so as well. Have an introductory round in the first breakout room session, to get to know your group. Whichever strategy you choose for your breakoutroom (see [here](breakout-rooms-helping)), be present and encourage learners to ask questions.
+- In an online workshop: Turn on your camera, and encourage everyone else to do so as well. Have an introductory round in the first breakout room session, to get to know your group. Whichever strategy you choose for your breakoutroom (see also {ref}`Helping in breakoutrooms <breakout-helpers>`), be present and encourage learners to ask questions.
 - In an in-person workshop: Stand up and walk around, try to make rounds by everyone.  If you are
   convenient, students will ask.  If you are sitting in the back, student's
   wont.  Students rarely try to get your attention from across the room if you
@@ -77,5 +78,5 @@ As an exercise leader, you have a crucial role during workshops:
 ## See also
 
 * Carpentries instructor training
-* [Teaching Tech Together](teaching-tech-together) chapters 8,
+* {ref}`Teaching Tech Together <teaching-tech-together>` chapters 8,
   9, 10.

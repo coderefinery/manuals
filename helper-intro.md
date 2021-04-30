@@ -1,3 +1,4 @@
+(helper-intro)=
 # Exercise leader introduction
 
 ## Thanks for being an exercise leader
@@ -30,16 +31,15 @@ We usually offer two one-hour timeslots in the week before the workshop (check t
 
 You can already read through the material below, if you have time, but do not worry, we will be going over it in the exercise leader onboarding session.
 
-- [Basics of being a good, motivating exercise leader](helping-and-teaching)
-- [How breakout rooms work](breakout-rooms-helping), check the section for exercise leaders.
+- {ref}`Basics of being a good, motivating exercise leader <helper-tips>`
+- {ref}`How breakout rooms work <breakout-helpers>`, check the section for exercise leaders.
 
 If you have been to a CodeRefinery workshop before, you will most likely know the following, but if unsure, also check the links below: 
 
-- [HackMD mechanics](hackmd-mechanics)
-- [Zoom mechanics](zoom-mechanics)
-- It also is not bad to read hints on [how to attend
-  online](how-to-attend-online) or [how to attend
-  in-person](how-to-attend-inperson), but we will also introduce these during the workshop.
+- {ref}`HackMD mechanics <how-to-hackmd>`
+- {ref}`Zoom mechanics <how-to-zoom>`
+- It also is not bad to read hints on {ref}`how to attend online <attend-online>` or 
+  {ref}`how to attend in-person <attend-inperson>`, but we will also introduce these during the workshop.
 
 If you have any doubts, questions, ideas or anything you want to tell
 us apart from these sessions, please let us know! We are here to help. 
@@ -50,4 +50,4 @@ and if you can't find it then `#general` is good).
 
 During the workshop, HackMD (collaborative document) is our main communication channel, where you can ask questions or request us to visit your breakout room in case of tricky questions or further discussion potential.
 
-If you had fun being an exercise leader for the workshop, please visit our [contributing page](contributing) page, to find out about further volunteering possibilities within CodeRefinery.
+If you had fun being an exercise leader for the workshop, please visit our {ref}`contributing page <volunteering>` page, to find out about further volunteering possibilities within CodeRefinery.

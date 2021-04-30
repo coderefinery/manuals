@@ -4,7 +4,7 @@ CodeRefinery is an open-source project.  All our work is open, and we
 accept any type of contributions: there is a lot more than instructing
 to run a successful workshop.
 
-If you aren't sure you are ready for more, you can always {doc}`lurk
+If you aren't sure you are ready for more, you can always {ref}`lurk
 in the chat <chat>`
 (passively watch our community) and become more active when you feel
 the time is right.
@@ -19,7 +19,7 @@ it like it was before), then do it again with your own improvements.
 
 ## How to watch and communicate
 
-- Join {doc}`CodeRefinery chat <chat>`, give comments or submit emoji reactions to
+- Join {ref}`CodeRefinery chat <chat>`, give comments or submit emoji reactions to
   show how you feel about things.  Most things are announced only
   through the chat.  You can even {ref}`express opinions and vote
   there <vote>`.
@@ -43,12 +43,13 @@ A bit more commitment:
 - Be a helper with in our workshops.
 
 Get really involved:
-- Hang out on our [CodeRefinery chat](chat)
+- Hang out on our {ref}`CodeRefinery chat <chat>`
 - Teach a lesson using our materials yourself
 - Be come a CodeRefinery instructor
 - Come to our meetings several times a month.
 
 
+(volunteering)=
 
 ## Example volunteer "packages"
 
@@ -97,7 +98,7 @@ Zoom host, etc.
 Example time commitment: 4 workshops/year (4 × 3 days) + 20%
 preparation time commitment.
 
-How to get started: Read about being an exercise leader on our [Exercise leader intro page](helper-intro). Watch our announcements and sign up as an exercise leader for the next workshop.
+How to get started: Read about being an exercise leader on our {ref}`Exercise leader intro page <helper-intro>`. Watch our announcements and sign up as an exercise leader for the next workshop.
 
 
 ### Lesson maintainer
@@ -133,7 +134,7 @@ expert helper sometimes.
 
 Example time commitment: ???
 
-How to get started: join [CodeRefinery zulipchat](./chat) and see what
+How to get started: join {ref}`CodeRefinery zulipchat <chat>` and see what
 comes up.
 
 
