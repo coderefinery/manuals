@@ -38,7 +38,7 @@ If you have been to a CodeRefinery workshop before, you will most likely know th
 
 - {ref}`HackMD mechanics <how-to-hackmd>`
 - {ref}`Zoom mechanics <how-to-zoom>`
-- It also is not bad to read hints on {ref}`how to attend online <attend-online>` or 
+- It may be helpful to read {ref}`how to attend online <attend-online>` or 
   {ref}`how to attend in-person <attend-inperson>`, but we will also introduce these during the workshop.
 
 If you have any doubts, questions, ideas or anything you want to tell
