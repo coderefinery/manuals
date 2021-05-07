@@ -32,7 +32,7 @@ This may look slightly different on mobile devices and small windows.
 **Always ask questions and add new sections at the very bottom**.
 You can also answer and comment on older questions, too.
 
-```{figure} img/hackmd--questions.png
+```{figure} img/hackmd--questions2.png
 
 Questions and answers in bullet points
 ```
