@@ -1,127 +1,90 @@
 (how-to-zoom)=
 # Zoom mechanics and controls
 
-## How to mute and unmute
+## Basics
 
-In lower left corner of the client you can mute and unmute yourself:
+* Most Zoom controls are probably well known by now, but if not, view
+  [Zoom's basic
+  guide](https://support.zoom.us/hc/en-us/articles/200941109-Participant-controls-in-a-meeting)
 
-![unmute in lower left corner](img/unmute.jpg)
+* **Mute** and **unmute** yourself from the buttons on bottom.
+* You can **rename** yourself from the participants list (hover over
+  your name.
+* We don't use Zoom chat for typical questions: use HackMD instead.
+  * Chat OK for administrative questions.
 
-In the *main room* during lectures, it is best to keep your microphone
-muted in the main room unless you want to say something.  It's OK to
-unmute and speak up.
+## Audio/video on or off?
 
-If you are in a quiet place, it's best to stay unmuted in breakout
-rooms and during active discussions.  This will make discussion much
-smoother - a quiet environment or headset microphone helps with the
-flow a lot.
-
-
-## Please use your real name (instead of a system default username)
-
-First, click on **"Participants"** (bottom, middle):
-
-![participants list button at bottom](img/participants.jpg)
-
-You can rename yourself by clicking the blue **"Rename"** next to your
-name that appears when you hover over the button:
-
-![rename yourself button in participant list](img/rename1.jpg)
-
-A box to rename yourself appears:
-
-![rename yourself example](img/rename2.jpg)
+* **Main room**: OK to have off, stay muted.
+* **Breakout rooms**: Try to leave on for most interactive
+  atmosphere.
 
 
-## Indicate in your name if you are in a team and/or if you are a helper
 
-If you are part of a team, please indicate your team name or number
-like `(myteam) Your Name`:
+## Your name should indicate your breakout room
 
-![team name in your Zoom name](img/myteam.jpg)
+* When joining, please use the **name you used to register for the
+  course**.
+* Have your breakout room number in your name:
 
-If you are a helper, please indicate like `(myteam, helper) Your Name`
-also.  The workshop might use the form `(myteam,H) Your Name` instead,
-check what it requests:
+  * **(number) Your Name**
+  * **(number,H) The Name** for helpers
 
-![team name+helper in zoom name](img/myteam-helper.jpg)
+  ![Names with breakout room numbers](img/zoom--learner-names.png)
 
-This makes it easier for the workshop organizers to manage breakout rooms.
+* Rename yourself in a meeting by starting participants list:
 
+  ![participants list button at bottom](img/zoom--participants.png)
 
-## Indicating your status
+  Rename is found if you hover your name and click "more"
 
+  ![participants list button at bottom](img/zoom--rename.png)
 
-### How to signal if you are away from keyboard
+## Breakout rooms
 
-Please select the **"clock" symbol** if you are away or otherwise busy.
-You can find this under the "more" icon in at the bottom of the
-participants list:
-
-![Away from keyboard clock button](img/clock.jpg)
+* Click the "breakout rooms" button at bottom and you can join a room.
 
 
-### How to signal when you completed a task successfully
+* You can click "Join" to join your own room.
 
-We will sometimes ask you to signal to us once you have successfully completed
-an exercise or type-along step. You can do this using the **green "yes"
-check symbol** under the participant list:
+  * If you are joined via web, make sure your name is correct (see
+    above) and use Zoom chat to ask host to assign you to the room.
 
-![Green yes under participant list](img/green.jpg)
-
-
-### How to ask a question
-
-If you want to ask a question please use the **"raise hand" symbol**
-under participant list:
-
-![Raise hand under participant list](img/hand.jpg)
-
-If this symbol is not present in your Zoom client, you can type "\hand" in the
-chat window:
-
-![chat button at bottom of screen](img/chat.jpg)
+* **Return to main room**: "Leave" button at bottom has an option for
+  "Return to main room".
 
 
-### How to signal a technical problem or that you got stuck
-
-If you hit a technical problem or got stuck somewhere in an exercise
-or type-along, please let us know with the **red "no" circle symbol**:
-
-![No button on participant list](img/problem.jpg)
-
-We will then probably ask you to unmute and briefly describe the problem and then based
-on the problem and timing we may assign you into a separate virtual room with a helper where
-they can resolve the problem.
-
-Once we have assigned you a helper we will ask you and the helper to **"Join
-Breakout Room"** (bottom right):
-
-![Join Breakout Room button at bottom of screen](img/problem-breakout.jpg)
 
 
-### How to give feedback on the speed
+## Reactions
 
-There are also signals for **go faster** and **go slower** and with
-this you can indicate to
-us whether we should adjust the speed.
+We watch the participant list and can see these reactions (in the
+application):
+
+![Zoom reactions via the bottom bar](img/zoom--reactions.png)
 
 
-## Other points
+* **Task completed**: Green check
+* **Technical problem**: Red X
+* **Need more time**: Slower "<<"
+* You can signal **go faster** and **go slower**
+* You can **Raise your hand**
 
-### Zoom doesn't have to fullscreen when someone shares their screen.
 
-By default, when someone shares their screen, Zoom goes into
-fullscreen mode.  This can be inconvenient when you need to see
-multiple windows at once.  You can disable this with Settings → Screen
-Share → "Enter full screen when participants share".
+## Other settings
 
-### Dual monitor mode
+![Other zoom settings](img/zoom--settings-monitors-fullscreen.png)
 
-You can set the configuration option "dual monitor mode", which is
-really more like "dual window mode": one window for screen sharing,
-one for the people.  It might be useful even with only one screen.
+* **Automatic fullscreen when screenshare starts** can be turned off
+* **Dual monitor mode** makes separate windows for screenshare and participants
 
+
+
+
+
+## See also
+
+* The old version of this document is available at {doc}`zoom-mechanics-old`.
 
 ---
 
