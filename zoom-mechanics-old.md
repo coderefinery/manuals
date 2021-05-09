@@ -1,4 +1,3 @@
-(how-to-zoom)=
 # Zoom mechanics and controls
 
 
