@@ -1,6 +1,12 @@
 Video editing
 =============
 
+.. seealso::
+
+   :doc:`video-checking` for how to check a video and give an
+   edit-list to someone else to do the editing.
+
+
 The purpose of this page is to give video processing volunteers a
 starting point.  (It also has some hints for workshop organizers).
 
