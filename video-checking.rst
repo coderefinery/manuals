@@ -28,12 +28,6 @@ Overview
 * Fill out the template.
 * Paste the answers into an issue.
 
-How small should segments be?  First, it's better for videos to exist
-than be perfect, so the 3-hour segment is better than nothing.  Short
-lessons (1.5 hour) are probably fine to be at once, and long ones (git
-intro/collab) could possibly be each episode separately.  Discuss with
-others to see what you would like.
-
 
 
 Segment report
@@ -86,3 +80,19 @@ upload it to YouTube.
 * **Other notes for channel description**: Describe the content of the
   video, include any links.  You can think what is useful for someone
   to find this (but it doesn't have to be perfect).
+
+
+
+Other comments
+--------------
+
+* How small should segments be?  First, it's better for videos to exist
+  than be perfect, so the 3-hour segment is better than nothing.  Short
+  lessons (1.5 hour) are probably fine to be at once, and long ones (git
+  intro/collab) could possibly be each episode separately.  Discuss with
+  others to see what you would like.
+
+* Ideally, there are two videos from each day: one recorded by Twitch
+  (raw dump of the stream), and one recorded by OBS/Zoom (local
+  recording).  The OBS/Zoom recording is preferable.  You can tell
+  them apart via the filenames.
