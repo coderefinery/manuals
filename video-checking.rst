@@ -28,6 +28,14 @@ Overview
 * Fill out the template.
 * Paste the answers into an issue.
 
+How small should segments be?  First, it's better for videos to exist
+than be perfect, so the 3-hour segment is better than nothing.  Short
+lessons (1.5 hour) are probably fine to be at once, and long ones (git
+intro/collab) could possibly be each episode separately.  Discuss with
+others to see what you would like.
+
+
+
 Segment report
 --------------
 
