@@ -60,7 +60,7 @@ coderefinery-mooc
 Workshop basic requirements (in person) (checklist) <workshop-requirements-inperson.md>
 Workshop administration (reference) <workshop-administration.md>
 Online training manual (tutorial, reference) <online-training.md>
-Guide on how to use Indico (reference) <indico-workshop-management.md>
+indico/index
 Icebreaker question ideas (reference) <icebreakers.md>
 video-checking
 video-editing

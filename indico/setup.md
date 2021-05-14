@@ -1,4 +1,4 @@
-# Guide on how to use Indico for managing workshops
+# Indico event setup
 
 We use the NeIC Indico service, <https://indico.neic.no/>, so you need to create
 an account at <https://indico.neic.no/login/>.
