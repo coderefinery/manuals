@@ -43,6 +43,8 @@ CodeRefinery streams:
   projects below)
 * **#coderefinery**: About the project itself.  CodeRefinery members
   should be in this channel.
+* **#carpentries**: About Carpentries or CodeRefinery as a Carpentries
+  lesson program.
 * **#lessons**: CodeRefinery lesson discussion, one for each lesson we
   maintain.
 * **#workshops**: Organizing workshops and other events.  One topic
