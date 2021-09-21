@@ -25,7 +25,7 @@ As soon as meeting topic/time is decided
 * [Mailing list: not yet present, we are relying on the other options
   here.]
 
-* Make a post in #announcements.  Don't be shy, just do it.
+* Make a post in #announce.  Don't be shy, just do it.
   ``<time:``\ TAB will produce a time picker that adjusts for
   everyone's timezones.
 
@@ -68,8 +68,8 @@ As soon as meeting topic/time is decided
   * Suggested tags
 
     * CodeRefinery: ``#coderefinery``
-    * Nordic-RSE: ``#rseng``
-    * Research software hour: ``#rseng``
+    * Nordic-RSE: ``#RSEng``
+    * Research software hour: ``#RSEng``
 
   * Someone else should merge immediately after checking facts
     (ideally have merged by the time the meeting ends).  Don't wait
