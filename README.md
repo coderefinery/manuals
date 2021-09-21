@@ -79,6 +79,7 @@ Lesson review checklist <lesson-review.md>
 :maxdepth: 1
 
 Writing technical docs (reference) <tech-docs.md>
+meeting-checklist
 ```
 
 ```{toctree}
