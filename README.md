@@ -13,8 +13,8 @@ They are a starting point: feel free to be adventurous.
 
 how-to-attend-online.md
 how-to-attend-inperson.md
-Zoom mechanics and signals (tutorial for learners) <zoom-mechanics.md>
-Hackmd mechanics (tutorial for learners) <hackmd-mechanics.md>
+Zoom mechanics and signals <zoom-mechanics.md>
+Hackmd mechanics <hackmd-mechanics.md>
 ```
 
 
@@ -22,9 +22,9 @@ Hackmd mechanics (tutorial for learners) <hackmd-mechanics.md>
 :caption: Exercise leaders
 :maxdepth: 1
 
-Exercise leader's intro (tutorial) <helper-intro.md>
-Exercise leader's guide (tutorial) <helping-and-teaching.md>
-How exercise leaders manage breakout rooms (tutorial) <breakout-rooms-helping.md>
+Exercise leader's intro <helper-intro.md>
+Exercise leader's guide <helping-and-teaching.md>
+How exercise leaders manage breakout rooms <breakout-rooms-helping.md>
 ```
 
 
@@ -37,10 +37,10 @@ hackmd-helper
 expert-helpers
 host
 workshop-prep-call
-Lesson presentation hints (checklist) <presenting.md>
+Lesson presentation hints/checklist <presenting.md>
 instructor-tech-setup
 team-teaching
-Summary of the book "Teaching Teach Together" (reference) <teaching-tech-together.md>
+Summary of the book "Teaching Teach Together" <teaching-tech-together.md>
 ```
 
 ```{toctree}
@@ -57,11 +57,11 @@ coderefinery-mooc
 :caption: Workshop organizers
 :maxdepth: 1
 
-Workshop basic requirements (in person) (checklist) <workshop-requirements-inperson.md>
+Workshop basic requirements checklist (in person) <workshop-requirements-inperson.md>
 Workshop administration (reference) <workshop-administration.md>
-Online training manual (tutorial, reference) <online-training.md>
+Online training manual <online-training.md>
 indico/index
-Icebreaker question ideas (reference) <icebreakers.md>
+Icebreaker question ideas <icebreakers.md>
 video-checking
 video-editing
 ```
@@ -78,7 +78,7 @@ Lesson review checklist <lesson-review.md>
 :caption: Misc
 :maxdepth: 1
 
-Writing technical docs (reference) <tech-docs.md>
+Writing technical docs <tech-docs.md>
 ```
 
 ```{toctree}
