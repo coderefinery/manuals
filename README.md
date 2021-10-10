@@ -39,6 +39,7 @@ host
 workshop-prep-call
 Lesson presentation hints (checklist) <presenting.md>
 instructor-tech-setup
+instructor-tech-online
 team-teaching
 Summary of the book "Teaching Teach Together" (reference) <teaching-tech-together.md>
 ```

@@ -56,7 +56,7 @@ private registration and you may not publish recordings.  This gives
 limited usefulness in the future.
 
 Key aspects:
-* Set up a good screen share (`{doc}/instructor-tech-setup`)
+* Set up a good screen share (`{doc}/instructor-tech-online`)
 * Be explicit on how to attend.  Plan for not only attention during
   the course but something that has a lasting usefulness.
 * Possibly use HackMD for discussions/questions
