@@ -11,30 +11,20 @@ come prepared!
 
 
 
-## General prerequisites
+## General prerequisites, software installation, etc.
 
-Check your workshop page for the prerequisites and required software -
-this is not duplicated here!
+Check your workshop page for the general setup specific to that
+workshop.
+
+- Often, there is something to install.  We usually ask you to install
+  things so that your computer is set up to do work later.
+- There may be some basic skills, such as the command line shell, to
+  review in advance.
 
 
-
-## CodeRefinery-specific
-
-- For most workshops, it is important to be a little bit familiar with
-  the command line prompt - not a lot, if you can navigate to
-  directories and edit files, you'll be able to make do.  [This Linux
-  shell crash course](https://scicomp.aalto.fi/scicomp/shell.html)
-  ([video](https://youtu.be/56p6xX0aToI)) is enough.
-- Basics in one or more programming languages.
-- You need to install some software. Please follow links on the
-  workshop page.
-- It is useful if you have a basic idea of how Git works. We will start from
-  the basics anyway, but please go through
-  [this Git-refresher material](https://coderefinery.github.io/git-refresher/)
-  for a basic overview and important configuration steps.
-- Make sure that git is configured, and verify the configuration:
-  [text instructions](https://coderefinery.github.io/installation/git/#configuring-git),
-  [video](https://www.youtube.com/watch?v=WdDTp8NeHBs&t=258s).
+If all else fails, join the workshop well in advance and ask
+for help then.  Usually, there will be enough time to get ready for
+the day.
 
 
 
@@ -83,16 +73,6 @@ Arrive 10 minutes early to get ready.
 
 
 
-## Software installation
-
-**Do the installation and configuration in advance, and double check
-it.**  In real workshops, problems here slow us down a lot, and if
-you don't prepare, you will immediately fall behind.  If there is a
-pre-workshop session for installation, go there if needed.
-
-If all else fails, come well in advance and ask for help then.
-Usually, there will be enough time to get ready for the day.
-
 
 
 ## Final notes
@@ -103,3 +83,7 @@ before we start.
 
 There is usually discussion after the workshop.  If you want, stick
 around and give us immediate feedback and ask more questions.
+
+Sign up on the [notify me
+list](https://coderefinery.org/workshops/upcoming/#notify-me) to hear
+about what comes next.
