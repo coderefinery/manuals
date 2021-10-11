@@ -1,7 +1,7 @@
 (attend-online)=
-# Attending a Zoom workshop
+# Attending an livestream workshop
 
-We are glad you would like to attend an online workshop.  This page
+We are glad you would like to attend an livestream workshop.  This page
 will help you mentally and physically prepare.
 
 Our workshops are interactive and hands-on, and you will get the most
@@ -9,6 +9,14 @@ out of them if you can take part in all exercises, unlike a normal
 academic lecture where you mainly listen.  Thus, please read this and
 come prepared!
 
+A livestream workshop allow us to reach an unlimited number of people,
+at the cost of not being as interactive.  Still, we have solutions:
+- You might register to Zoom breakout rooms, which *are* interactive.
+- {doc}`HackMD <hackmd-mechanics>` allows you to ask questions anonymously -
+  even better than a normal workshop!  Once we have a few tens of people in
+  any workshop, people don't ask voice questions anyway.
+- In some workshops, you can register for breakout rooms to get
+  interactive assistance during the exercise/breakout sessions.
 
 
 ## General prerequisites, software installation, etc.
@@ -35,12 +43,17 @@ the day.
 ## Take the workshop seriously
 
 It's easy to think "it's just online, it's easy to passively watch".
-However, for an interactive workshop you do need to take part to get
+However, for an interactive experience you do need to take part to get
 the most of out it, and our workshops are targeted to that.  If you
 read this page and the workshop prerequisites, you should be OK.
 
 *Don't do multiple meetings*, *reserve the entire timeslots on your
 calendar*, *attend every session*, *do the preparation*.
+
+On the other hand, the point of livestreaming is that someone can
+passively watch without taking a seat from others.  If you want to
+watch without interacting, that is OK too!  Please don't take an
+interactive seat from others and consider returning actively later.
 
 
 
@@ -65,10 +78,10 @@ stay at for a while.
 An extra monitor is useful but not required, since there is a lot of
 stuff to follow: the stream itself, the lesson webpage, and the window
 where you are doing the assignment.  You could also use a second
-device to watch the stream (but if you do, see the
-[Zoom](zoom-mechanics.md) page for info about screen sharing).
+device to watch the stream.
 
-You'll be expected to talk at some times and take part, not simply be
+If you have registered to attend breakout rooms, you'll be expected
+to talk at some times and take part, not simply be
 quiet and listen all the time.  Try to be in a place where you can
 speak without disturbing others.  By the same token, you'll be
 listening for a long time, and your ears may get tired of headphones.
@@ -104,11 +117,15 @@ Make sure you take the breaks, walk around some, etc.
 
 
 
-## Live streaming
+## Communication
 
-If the workshop is also streamed, see
-{doc}`Live streaming <how-to-attend-livestream>` for how to attend that
-way.
+Most communication goes through [HackMD](hackmd-mechanics). Make sure
+that you have it open and practice during the icebreakers.  This is
+much better than chat, since you can ask anonymously, you can ask at
+the same time as others, and multiple people can answer.  We recommend
+you don't use chat, messages tend to get lost if not answered
+immediately.
+
 
 
 
