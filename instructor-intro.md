@@ -24,8 +24,10 @@ Reading here: the other pages in the section, see sidebar.
 * {doc}`hackmd-helper`
 * {doc}`expert-helpers`
 * {doc}`host`
+* {doc}`team-teaching`
 * {doc}`presenting`
 * {doc}`instructor-tech-setup`
+* {doc}`instructor-tech-online`
 
 Also read the exercise leader information
 * {doc}`helping-and-teaching` - general on motivation
