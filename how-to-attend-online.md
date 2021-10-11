@@ -107,7 +107,7 @@ Make sure you take the breaks, walk around some, etc.
 ## Live streaming
 
 If the workshop is also streamed, see
-{doc}`Live streaming <how-to-attend-livestream>` for how to attend that
+{doc}`Live streaming <how-to-attend-stream>` for how to attend that
 way.
 
 

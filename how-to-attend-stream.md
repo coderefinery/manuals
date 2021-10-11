@@ -1,4 +1,4 @@
-(attend-online)=
+(attend-stream)=
 # Attending an livestream workshop
 
 We are glad you would like to attend an livestream workshop.  This page
