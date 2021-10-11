@@ -71,9 +71,9 @@ As soon as meeting topic/time is decided
     * Nordic-RSE: ``#RSEng``
     * Research software hour: ``#RSEng``
 
-  * Someone else should merge immediately after checking facts
-    (ideally have merged by the time the meeting ends).  Don't wait
-    for "permission" or something like that which may never come.
+  * Ideally, someone else should merge quickly after checking facts
+    Don't wait for "permission" or something like that which may never
+    come, we agree that more tweeting is a good thing.
 
 
 
