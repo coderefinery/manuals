@@ -38,14 +38,14 @@ project for you.
 
 This is an exhaustive list of our communication methods
 
-- [CodeRefinery zulipchat](chat)
+- {doc}`CodeRefinery zulipchat <chat>`
 - CodeRefinery team meetings (announced in zulipchat)
 - Team email list (in practice, only used for calendar invites)
 - Github repositories issues and pull requests
 
 ### Chat
 
-[Zulipchat](chat) is our primary means of communication.  Subscribe to
+{doc}`Zulipchat <chat>` is our primary means of communication.  Subscribe to
 at least the #coderefinery, #lessons, and #workshops, #general, #announce, and
 #help channels to fully integrate to the CodeRefinery side of things.
 
