@@ -38,10 +38,11 @@ hackmd-helper
 expert-helpers
 host
 workshop-prep-call
+livestream-teaching
+team-teaching
 Lesson presentation hints/checklist <presenting.md>
 instructor-tech-setup
 instructor-tech-online
-team-teaching
 Summary of the book "Teaching Teach Together" <teaching-tech-together.md>
 ```
 
