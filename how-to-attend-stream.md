@@ -19,6 +19,28 @@ at the cost of not being as interactive.  Still, we have solutions:
   interactive assistance during the exercise/breakout sessions.
 
 
+
+## How it works
+
+- You open the livestream in a web browser.  This is the "TV", it is
+  always on.
+- If you are attending Zoom exercise session, open this as well.  The
+  livestream will tell you when to switch to Zoom, and Zoom will tell
+  you when to switch to livestream.  There should only be sound coming
+  from one at a time, so you can simply follow the sound.
+- If you are not in a organized Zoom exercise session, you can form
+  your own mini-Zoom meetings and work together that way.
+  Screensharing is a great way to help each other!
+- You could just as well organize a in-person session, where you play
+  the stream in a meeting room and work together on your computers.
+- The livestream is a portrait screenshare, so that it will only take
+  up half of your screen (and the other half is for you to work).  (If
+  you are in a physical meeting room with a projector or second
+  monitor, it can be half the livestream and half the HackMD - this
+  will make sense when you see it).
+
+
+
 ## General prerequisites, software installation, etc.
 
 Check your workshop page for the general setup specific to that
