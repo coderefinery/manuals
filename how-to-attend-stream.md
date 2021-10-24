@@ -40,6 +40,11 @@ at the cost of not being as interactive.  Still, we have solutions:
   will make sense when you see it).
 
 
+```{figure} img/layout--learner-livestream-sidebyside-onebrowser.png
+
+Screen layout with livestream on one side and workshop on the other.
+```
+
 
 ## General prerequisites, software installation, etc.
 
