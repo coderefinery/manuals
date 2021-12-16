@@ -30,9 +30,21 @@ Make it easy to post after the course and consistent to follow:
 
 ## General HackMD practices
 
+```{figure} img/hackmd--full-demo.png
+:align: right
+
+A live demo of HackMD during a Q&A time.  The two instructors are
+discussing some of the import answers.  Multiple learners have asked
+questions, multiple answers, and some remaining to be answered
+```
+
+
+
 Keep it formatted well:
 
-- (*) Tag names you see with `[name=XXX]` so that we can remove it later.
+- (*) Tag names you see with `[name=XXX]` so that we can remove it
+  later.
+- Heading level `#` is only the page title
 - Add a new `##` heading when a new *lesson* or similar thing is
   started (introduction, icebreaker, break between lessons, etc)
 - Add a new `###` heading when a new *episode*, *exercise*, *break*
