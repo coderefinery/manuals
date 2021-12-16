@@ -18,6 +18,15 @@ making a conversation difficult.
 Basics
 ------
 
+.. figure:: img/teach-teaching--screenshot.png
+   :align: right
+   :figwidth: 50%
+
+   Demo of team teaching.  Two people are speaking, in this case one
+   is typing and giving the small point of view, and one is explaining
+   the big point of view.
+
+
 We can't claim to know the best way to do this yet, but we have seen ways
 that work and don't work.
 
