@@ -45,6 +45,9 @@ us to automatically remove all names before publishing the notes.
 
 Other hints:
 
+- Use `+1` to agree with a statement or question (we are more likely
+  to comment on it).
+
 - Please leave some blank lines at the bottom
 
 - Please don't "select all", it highlights for everyone and adds a
