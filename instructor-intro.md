@@ -124,4 +124,8 @@ rarely alone.  This is one way of looking at it:
   the prerequisites.  Or have stuff installed and configured.
 
 - Not managing expectations: learners think that you will accomplish
-  everything, and feel sad when you don't.
+  everything, and feel sad when you don't.  Instead, say explicitly
+  what everyone should follow along, what you might want to watch,
+  what is only a demo.
+
+- Following the lesson as written at all costs.
