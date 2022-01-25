@@ -19,7 +19,7 @@ Hackmd mechanics <hackmd-mechanics.md>
 ```
 
 ```{toctree}
-:caption: Roles
+:caption: Workshop roles
 :maxdepth: 1
 
 roles-overview
@@ -55,6 +55,7 @@ Writing technical docs <tech-docs.md>
 meeting-checklist
 workshop-prep-call
 Summary of the book "Teaching Teach Together" <teaching-tech-together.md>
+
 ```
 
 ```{toctree}
