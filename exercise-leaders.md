@@ -1,5 +1,9 @@
 # Exercise leaders
 
+You have visited a CodeRefinery workshop and want to help your peers through the exercise sessions? - Join the workshop as an exercise leader!
+
+Below some more information:
+
 ```{toctree}
 :maxdepth: 1
 
