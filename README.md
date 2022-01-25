@@ -20,50 +20,15 @@ Hackmd mechanics <hackmd-mechanics.md>
 
 ```{toctree}
 :caption: Roles
-:maxdepth: 2
+:maxdepth: 1
 
 roles-overview
-
-```{toctree}
-:caption: Exercise leaders
-:maxdepth: 1
-
-Exercise leader's intro <helper-intro.md>
-Exercise leader's guide <helping-and-teaching.md>
-How exercise leaders manage breakout rooms <breakout-rooms-helping.md>
-```
-
-```{toctree}
-:caption: Instructors
-:maxdepth: 1
-
-instructor-intro
-livestream-teaching
-team-teaching
-Lesson presentation hints/checklist <presenting.md>
-instructor-tech-setup
-instructor-tech-online
-```
-
+exercise-leaders
+instructors
 hackmd-helper
 expert-helpers
-
-
-```{toctree}
-:caption: Workshop organizers
-:maxdepth: 1
-
-host
-Workshop basic requirements checklist (in person) <workshop-requirements-inperson.md>
-Workshop administration (reference) <workshop-administration.md>
-indico/index
-Icebreaker question ideas <icebreakers.md>
-video-checking
-video-editing
+workshop-organizers
 ```
-
-```
-
 
 ```{toctree}
 :caption: Online teaching
