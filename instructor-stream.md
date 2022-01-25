@@ -1,6 +1,6 @@
 # Being an instructor in livestreamed CodeRefinery workshop
 
-## Basic setup of a livestreamed CodeRefinery workshop
+## Basic setup 
 
 In a livestreamed CodeRefinery workshop, we have two types of learners: Active learners attending in Zoom and passive learners watching the stream.
 Learners from both groups will watch the stream from their own browser and have the possibility to interact with the instructors and ask questions via HackMD 
