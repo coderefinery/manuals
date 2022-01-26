@@ -1,5 +1,5 @@
-OBS broadcaster instructions
-============================
+Broadcaster
+===========
 
 This page explains the setup and how-to guide for the OBS broadcaster.
 This person manages the technical setup of :doc:`OBS <obs>` and thus

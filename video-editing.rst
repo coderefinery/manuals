@@ -1,5 +1,12 @@
-Video editing
-=============
+Video editing OLD
+=================
+
+.. note::
+
+   This is old information, these days we use `ffmpeg-editlist
+   <https://github.com/coderefinery/ffmpeg-editlist>`__ and ensure
+   that no learners are in the videos in the first place.
+
 
 .. seealso::
 

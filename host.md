@@ -1,4 +1,6 @@
-# Host in workshops
+# Host
+
+WARNING: page out of date, this is also split to the director.
 
 - Make all of other staff and expert helpers co-hosts.
 - Take attendance in spreadsheet, if we do that.

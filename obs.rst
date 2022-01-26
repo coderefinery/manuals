@@ -1,8 +1,8 @@
 Open Broadcaster Software theory
 ================================
 
-This page describes the theory around OBS.  For "how to get started
-with a course", see other pages.
+This page describes the theory around OBS.  For practical steps to
+run a course, see :doc:`broadcaster`.
 
 Open Broadcaster Software is an amazing open-source audio/video
 production tool.  It's probably not professional grade, but is used in

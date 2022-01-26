@@ -1,4 +1,4 @@
-# HackMD helpers
+# HackMD manager
 
 We have one person who is a "HackMD helper".  This isn't the only
 person that should edit and answer, but one person shouldn't have too
