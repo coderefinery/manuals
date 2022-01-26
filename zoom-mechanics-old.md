@@ -1,3 +1,7 @@
+---
+orphan: true
+---
+
 # Zoom mechanics and controls
 
 

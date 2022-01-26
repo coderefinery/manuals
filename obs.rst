@@ -31,7 +31,7 @@ software.  This forces us to make certain trade-offs to fit the
 limitations of the software, so that we can't reach our full
 potential.  By using more advanced technology, we can do more: have
 interactive sessions while also recording and preserving privacy.  For
-more information, see the :doc:`online teaching guide <online/index>`.
+more information, see the :doc:`online teaching guide <online>`.
 
 
 Basics
