@@ -18,59 +18,29 @@ Zoom mechanics and signals <zoom-mechanics.md>
 Hackmd mechanics <hackmd-mechanics.md>
 ```
 
-
 ```{toctree}
-:caption: Exercise leaders
+:caption: Workshop roles
 :maxdepth: 1
 
-Exercise leader's intro <helper-intro.md>
-Exercise leader's guide <helping-and-teaching.md>
-How exercise leaders manage breakout rooms <breakout-rooms-helping.md>
-```
-
-
-```{toctree}
-:caption: Instructors and staff
-:maxdepth: 1
-
-instructor-intro
+roles-overview
+exercise-leaders
+instructors
 hackmd-helper
 expert-helpers
-host
-workshop-prep-call
-livestream-teaching
-team-teaching
-Lesson presentation hints/checklist <presenting.md>
-instructor-tech-setup
-instructor-tech-online
-Summary of the book "Teaching Teach Together" <teaching-tech-together.md>
+workshop-organizers
 ```
 
 ```{toctree}
 :caption: Online teaching
 :maxdepth: 1
 online/index
+Online training manual <online-training.md>
 obs
 coderefinery-mooc
 ```
 
-
-
 ```{toctree}
-:caption: Workshop organizers
-:maxdepth: 1
-
-Workshop basic requirements checklist (in person) <workshop-requirements-inperson.md>
-Workshop administration (reference) <workshop-administration.md>
-Online training manual <online-training.md>
-indico/index
-Icebreaker question ideas <icebreakers.md>
-video-checking
-video-editing
-```
-
-```{toctree}
-:caption: Lesson designers
+:caption: Lesson design
 :maxdepth: 1
 
 Lesson design tutorial and reference <lesson-design.md>
@@ -83,6 +53,9 @@ Lesson review checklist <lesson-review.md>
 
 Writing technical docs <tech-docs.md>
 meeting-checklist
+workshop-prep-call
+Summary of the book "Teaching Teach Together" <teaching-tech-together.md>
+
 ```
 
 ```{toctree}
