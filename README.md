@@ -34,7 +34,7 @@ broadcaster
 ```{toctree}
 :caption: Online teaching
 :maxdepth: 1
-online/index
+online
 Online training manual <online-training.md>
 obs
 coderefinery-mooc
