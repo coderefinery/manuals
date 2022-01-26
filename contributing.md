@@ -22,7 +22,7 @@ it like it was before), then do it again with your own improvements.
 - Join {ref}`CodeRefinery chat <chat>`, give comments or submit emoji reactions to
   show how you feel about things.  Most things are announced only
   through the chat.  You can even {ref}`express opinions and vote
-  there <vote>`.
+  there <voting>`.
 - Watch GitHub repositories to get notified of issues and pull
   requests.  Anyone can watch any repository.
 
