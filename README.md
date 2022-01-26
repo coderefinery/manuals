@@ -6,6 +6,7 @@ teaching/lesson development in general.
 These pages document past history, but they don't dictate future.
 They are a starting point: feel free to be adventurous.
 
+(toc-learners)=
 
 ```{toctree}
 :caption: Learners
@@ -27,17 +28,19 @@ exercise-leaders
 instructors
 hackmd-helper
 expert-helpers
-workshop-organizers
+host
+director
 broadcaster
+workshop-organizers
 ```
 
 ```{toctree}
 :caption: Online teaching
 :maxdepth: 1
 online
-Online training manual <online-training.md>
-obs
 coderefinery-mooc
+obs
+online-training
 ```
 
 ```{toctree}

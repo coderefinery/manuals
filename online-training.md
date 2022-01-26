@@ -1,4 +1,9 @@
-# Online training manual
+# Online training manual OLD
+
+```{note}
+
+This hasn't been updated since we developed our {doc}`MOOC strategy <coderefinery-mooc>`.
+```
 
 Also please read our [lessons learned](https://coderefinery.org/blog/2020/04/14/first-online-workshop/).
 

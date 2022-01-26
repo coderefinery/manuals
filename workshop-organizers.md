@@ -7,7 +7,6 @@ There is a lot of roles to fill already before the actual workshop, as well as a
 ```{toctree}
 :maxdepth: 1
 
-host
 Workshop basic requirements checklist (in person) <workshop-requirements-inperson.md>
 Workshop administration (reference) <workshop-administration.md>
 indico/index
