@@ -28,6 +28,7 @@ instructors
 hackmd-helper
 expert-helpers
 workshop-organizers
+broadcaster
 ```
 
 ```{toctree}
