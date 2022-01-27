@@ -241,4 +241,6 @@ Common problems
 See also
 --------
 
-(nothing yet)
+- There is plenty about OBS and streaming online, since it is a big
+  business now.  You can find answers to most questions once you know
+  the basic theory.
