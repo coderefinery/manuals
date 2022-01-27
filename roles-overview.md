@@ -1,20 +1,21 @@
 # Roles overview
 
-For a workshop to run smoothly, multiple roles have to be assigned.
-Here, we give a summary of many of them, with links to the details.
+CodeRefinery has been able to scale online workshops while maintaining
+an interactive feeling.  Despite the size, the events feel easy to put
+on because of the many helpers we have around.  This page describes
+the roles that we have created.
+
 Despite the many different roles documented here, **in practice many
 of them are occupied by the same people**.
-{ref}`best-practices` below tells more about what tends to happen.
-
+{ref}`Best-practices` below tells more about what tends to happen.
 One of the advantages of our large workshops is that we have many more
 staff on hand (often 10-15), thus allowing much more specialization
 than small workshop can have (thus, the large number of roles below).
 Many of our instructors give feedback such as "this is so much easier:
 we only show up and teach!"
 
-
 A common pathway goes (Learner/Exercise leader) → (Expert
-helper/Instructor) → More specialized roles.  **Note that thanks to
+helper/Instructor) → (More specialized roles).  **Note that thanks to
 our {doc}`team teaching <team-teaching>`, it is really easy to join as
 an instructor!**
 
@@ -34,7 +35,7 @@ Comes and learns.
 
 Exercise leaders are only a small step above learners.  They aren't
 expected to know everything, but mainly keep their breakout rooms on
-track.
+track - they could even be a slightly more confident learner.
 
 * Leads a breakout room
   * keeps on track
