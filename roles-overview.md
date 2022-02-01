@@ -190,7 +190,7 @@ Roles that should *not* be combined:
   two together tend to form the "core team")
 * **Broadcaster**/**Director** and **Instructor** on the first sessions of each
   day.
-* **HackMD manager** and other roles (so *delegate* it while you do
+* **HackMD manager** and other roles (so *delegate* HackMD while you do
   something else!  this is OK.)
 * **Host** and any active teaching (in big workshops at least -
   learner management keeps you busy)
