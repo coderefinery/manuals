@@ -20,6 +20,11 @@ courses, the director also manages the stream scene/audio selection.
 
 ## Managing the schedule
 
+The director manages the overall flow: making sure the instructors are
+ready, icebreakers happen, transitions are smooth, people are
+introduced, breaks happen, HackMD is shared at the appropriate times,
+and so on.
+
 During large courses, there are many different instructors and certain
 exercises/lessons may randomly take longer (no matter how much
 preparation there is).  The audience expects this, and in practice
@@ -30,7 +35,8 @@ The Director is usually the instructor coordinator, so knows the
 schedule well.  The instructor should be empowered to decide (after
 checking chat, HackMD, and other instructors) what to do, and can
 directly announce the new schedule.  This takes confidence, but don't
-worry: you have plenty of people to consult with.
+worry: you have plenty of people to consult with, ask advice from
+those around and then make your choice.
 
 You should also make sure that HackMD is updated with breaks,
 exercises, and so on.  You will probably be the one sharing HackMD
