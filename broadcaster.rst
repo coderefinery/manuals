@@ -110,22 +110,23 @@ OBS setup:
   need to tell OBS which window has the gallery of all instructors in
   it.  From the "Scenes"
 
-  * Scene ``_Camera`` → source ``_ZoomGalleryCapture`` right click →
-    Properties → Window → select the Zoom gallery view (for me it is
-    titled "Zoom meeting").  TODO: adjust the size of this window
-    until XXXXX [it looks nice and large]
+  * Scene ``_GalleryCapture[hidden]`` → source ``ZoomMeeting-Gallery``
+    right click → Properties → Window → select the Zoom gallery view
+    (for me it is titled "Zoom meeting").  TODO: adjust the size of
+    this window until it fits the pre-made scene [it looks nice and
+    large]
 
-  * Scene ``_Screenshare-Zoom-Capture`` → source ``Desktop (remote)``
-    right click → Properties → Window → select the Zoom
-    screenshare/active speaker window (for me it is titled only
-    "Zoom").  Adjust the size of this window until it nicely fills the
-    preview pane (the ideal size is 840×1080).
+  * Scene ``_Screenshare-Zoom-Capture[hidden]`` → source
+    ``Zoom-SecondWindow`` right click → Properties → Window → select
+    the Zoom screenshare/active speaker window (for me it is titled
+    only "Zoom").  Adjust the size of this window until it nicely
+    fills the preview pane (the ideal size is 840×1080).
 
-  * (optional) Scene ``_Hackmd-Capture``: similar, select the shared
-    HackMD
+  * (optional) Scene ``_Hackmd-Capture[hidden]``: similar, select the
+    shared HackMD
 
-  * (optional) Scene ``_Broadcaster-Screen``: configure your local
-    desktop capture.
+  * (optional) Scene ``_Broadcaster-Screen[hidden]``: configure your
+    local desktop capture.
 
 * Configure the audio
 
@@ -143,13 +144,13 @@ OBS setup:
     if you use it.  (More likely, you would join the meeting as an
     instructor, and thus use a separate computer to speak to people)
 
-  * From the main OBS scene, rename the audio devices (TODO: this may
-    be done in the profile settings):
+  * From the main OBS scene, rename the audio devices:
 
-    * Audio mixer → one of the devices → gear icon → Rename →
+    * Bottom panel → Audio mixer → one of the devices → gear icon →
+      Rename →
 
       * Desktop capture to "Instructors"
-      * Mic to "Local microphone"
+      * Mic to "BroadcasterMic"
 
 * Configure obs-websocket (set the listening socket + authentication).
 
@@ -175,18 +176,38 @@ OBS setup:
 
 
 
+Before each day
+---------------
+
+* Set Twitch stream data: stream title, stream description, channel
+  about page.
+
+* Configure and check streams
+
+* Test everything
+
+
+
 Before each broadcast
 ---------------------
 
 * Ensure anything from the above is done (obs-tablet-remote
   connection, scene layout, etc).
 
-* Ensure Zoom scenes are correctly captured, flip through them
+* Ensure Zoom scenes are correctly captured, flip through them to
+  verify.
 
-* Wait for first instructors to join
+* Wait for first instructors to join.
+
+* In zoom, right click on a participant without video and "Hide
+  non-video participants".  You may need three participants in order
+  to do this: if you have fewer, join through a browser or something.
 
 * Start recording / start streaming ~20-30 minutes in advance, with
   audio muted and on the title card scene.
+
+* Flip recording off and one again at the broadcast time (you start
+  earlier just to make sure you don't forget it!)
 
 * Hand it off to the director (possible yourself) to flip the audio
   and scene once icebreakers start.
