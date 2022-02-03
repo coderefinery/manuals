@@ -31,6 +31,7 @@ expert-helpers
 host
 director
 broadcaster
+video-editor
 workshop-organizers
 ```
 
