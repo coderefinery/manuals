@@ -6,6 +6,23 @@ processes them, and uploads them to YouTube (or whatever).
 
 
 
+Overall priorities
+------------------
+
+1. No learner (or anyone not staff) video, audio, names, etc. are
+   present in the recordings.
+
+2. Good descriptions.
+
+3. Removing breaks and other dead time.
+
+4. Splitting videos into useful chunks (e.g. per-episode), perhaps
+   equal with the next one:
+
+5. Good Table of Contents information so learners can jump to the
+   right spots (this also helps with "good description".)
+
+
 Modern: livestream method
 -------------------------
 
