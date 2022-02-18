@@ -28,6 +28,7 @@ which needs to be manually imported as a json file.
 ### Update copied event information
 
 - Update the Title, Description, Date, Time, Room, Venue and Address fields by clicking the pen symbols on the right.
+- Click "Protection" and remove administrators who were copied from past event but should not have access to this event.
 - Click "Registration" from the left-hand menu, and confirm that there’s a registration form, probably with a wrong title.
 - Click the "Manage" button on the "List of registration forms",
    - Click "Edit" on the "General settings"
