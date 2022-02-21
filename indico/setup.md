@@ -3,7 +3,7 @@
 We use the NeIC Indico service, <https://indico.neic.no/>, so you need to create
 an account at <https://indico.neic.no/login/>.
 
-Radovan, Thor, and Sabry are managers of the CodeRefinery category in
+Radovan is manager of the CodeRefinery category in
 indico.neic.no and will need to grant you permissions to create event pages.
 
 To create a new workshop page, it is easiest to clone a previous event. This
