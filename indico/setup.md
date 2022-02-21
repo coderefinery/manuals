@@ -29,37 +29,34 @@ which needs to be manually imported as a json file.
 
 - Update the Title, Description, Date, Time, Room, Venue and Address fields by clicking the pen symbols on the right.
 - Click "Protection" and remove administrators who were copied from past event but should not have access to this event.
-- Click "Registration" from the left-hand menu, and confirm that there’s a registration form, probably with a wrong title.
+- Click "Registration" from the left-hand menu, and confirm that there is one or two registration forms, probably with a wrong title.
 - Click the "Manage" button on the "List of registration forms",
    - Click "Edit" on the "General settings"
    - Update the registration form name and both the fields "Contact info" and "List of recipients" with your own email address to get notifications on new registrations.
    - **Waiting list:**
-   - *Indico doesn't have an actual waiting list functionality. To implement a waiting list, we use moderated registrations and confirm all registrations up to max capacity (eg. 40). Registrations after that up to maximum number of participants (eg. 60) are left unconfirmed and an email is sent manually from Indico to the registrant that he/she is on the waiting list. Now we have a waiting list of size 60 - 40 = 20.*
+   - *Indico doesn't have an actual waiting list functionality. To implement a waiting list, we use moderated registrations and confirm all registrations up to max capacity (eg. 40). Registrations after that up to maximum number of participants (eg. 60) are left unconfirmed and an email is sent manually from Indico to the registrant that they are on the waiting list. Now we have a waiting list of size 60 - 40 = 20.*
    - Activate "Moderated" which will require each registration to be approved.
    - Set maximum number of participants (after which registration is closed), this should be *room capacity* + *waiting list size*. Click "Save".
+   - Then go back to "Manage" and verify and configure the "Registration Form":
+     read all fields and check that nothing outdated has been cloned to this
+     event. Adapt the dates.
 
 #### More information about the registration process
 
 - The Description field in the general settings should contain additional information about the registration process:
    ```
-   Welcome to the registration page for the CodeRefinery instructor training workshop in Stockholm!
+   Welcome to the registration page for the Online CodeRefinery workshop March 22-24 and 29-31!
 
    To complete your registration, you need to:
 
-   1) Enter your registration details by clicking the "Apply now" button below.
+   1) Enter your registration details by clicking the "Register now" button below.
    2) Fill in the pre-workshop survey by clicking the "Fill out the survey" button below.
 
    Confirmation email
-   After filling out the registration form you will receive an automatic confirmation email but please note that your registration is only tentative until we confirm it with another (human-written) email which should happen typically within a week.
-
-   Waiting list
-   We maintain a waiting list for seats but this is currently not automatic so we need this short time buffer to manually confirm participants and inform those who are on the waiting list.
-
-   First come, first serve
-   The seats are assigned on a first come first serve basis but we need to also make sure that registered participants are affiliated with a Nordic academic institution since the course is free for participants and financed by the Nordic e-Infrastructure Collaboration (unless this is an event outside of Nordics funded by a different organization).
-
-   Cancellation
-   We ask confirmed participants who are not able to participate at the course they have signed up for, to inform us as soon as possible so that people on the waiting list can take the vacant seat.
+   After filling out the registration form you will receive an automatic
+   confirmation email, but please note that all registrations go to a waiting
+   list first. Please contact to support@coderefinery.org if you don't receive
+   this confirmation email within a couple of days after signing-up. 
 
    Questions?
    If you have any questions about your registration status, please write to support@coderefinery.org.
@@ -82,7 +79,7 @@ which needs to be manually imported as a json file.
 ### Open registration
 
 - Go to the Registration page from the left-hand menu, and click "Manage".
-- It will say "Registrations are not open yet". Click "Start now" to open for registrations.
+- It will say "Registrations are not open yet". Click "Start now" for both regular and staff registration forms to open for registrations.
 - Click the blue "Switch to display view" on the top left.
 - Confirm that both the "Surveys" and "Registration" links can be seen.
 - Click both links to do a test registration
