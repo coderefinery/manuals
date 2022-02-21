@@ -95,7 +95,7 @@ control.  TODO: picture
 
 This is an example (note: it won't work, because you don't have OBS running):
 
-- coderefinery.github.io/obs-tablet-remote/#!auto&127.0.0.1&port=4444&config=https://raw.githubusercontent.com/rantahar/obs-config/master/obs-tablet-remote-config.json
+- coderefinery.github.io/obs-tablet-remote/#!auto&host=127.0.0.1&port=4444&config=https://raw.githubusercontent.com/rantahar/obs-config/master/obs-tablet-remote-config.json
 
 
 Go to this URL.  It will prompt you for a password (or the broadcaster

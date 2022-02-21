@@ -212,6 +212,8 @@ Before each broadcast
 * Hand it off to the director (possible yourself) to flip the audio
   and scene once icebreakers start.
 
+* Disable "play sound when participant joins or leaves"
+
 
 
 During the broadcast
