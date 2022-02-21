@@ -3,7 +3,7 @@
 We use the NeIC Indico service, <https://indico.neic.no/>, so you need to create
 an account at <https://indico.neic.no/login/>.
 
-Radovan, Thor, and Sabry are managers of the CodeRefinery category in
+Radovan is manager of the CodeRefinery category in
 indico.neic.no and will need to grant you permissions to create event pages.
 
 To create a new workshop page, it is easiest to clone a previous event. This
@@ -28,6 +28,7 @@ which needs to be manually imported as a json file.
 ### Update copied event information
 
 - Update the Title, Description, Date, Time, Room, Venue and Address fields by clicking the pen symbols on the right.
+- Click "Protection" and remove administrators who were copied from past event but should not have access to this event.
 - Click "Registration" from the left-hand menu, and confirm that there is one or two registration forms, probably with a wrong title.
 - Click the "Manage" button on the "List of registration forms",
    - Click "Edit" on the "General settings"
