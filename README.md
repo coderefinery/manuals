@@ -69,6 +69,8 @@ Summary of the book "Teaching Teach Together" <teaching-tech-together.md>
 
 Chat <chat.md>
 Contributing <contributing.md>
+local-breakout-rooms
+open-your-courses
 The project <the-project.md>
 ```
 

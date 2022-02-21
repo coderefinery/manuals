@@ -1,8 +1,12 @@
+(volunteering)=
+
 # Contributing to CodeRefinery
 
 CodeRefinery is an open-source project.  All our work is open, and we
 accept any type of contributions: there is a lot more than instructing
-to run a successful workshop.
+to run a successful workshop.  Also, CodeRefinery is really more of a
+group of like-minded people than one particular plan, so you are
+welcome to join just to hang out and share ideas.
 
 If you aren't sure you are ready for more, you can always {ref}`lurk
 in the chat <chat>`
@@ -17,134 +21,68 @@ if it's different).
 A good way to get started is to take the lead of some workshop (doing
 it like it was before), then do it again with your own improvements.
 
-## How to watch and communicate
-
-- Join {ref}`CodeRefinery chat <chat>`, give comments or submit emoji reactions to
-  show how you feel about things.  Most things are announced only
-  through the chat.  You can even {ref}`express opinions and vote
-  there <voting>`.
-- Watch GitHub repositories to get notified of issues and pull
-  requests.  Anyone can watch any repository.
-
-## Types of contributions
-
-Some examples of what you can do...
-
-Quick things:
-
-- Fix issues in our lessons, or at least point out problems you see!
-- Contribute to lessons.
-- Help us advertise CodeRefinery to others who can benefit.
-
-A bit more commitment:
-
-- Invite us to give a workshop, serve as a local host and help ensure
-  there are lots of attendees
-- Be a helper with in our workshops.
-
-Get really involved:
-- Hang out on our {ref}`CodeRefinery chat <chat>`
-- Teach a lesson using our materials yourself
-- Be come a CodeRefinery instructor
-- Come to our meetings several times a month.
 
 
-(volunteering)=
+## How to take part
 
-## Example volunteer "packages"
-
-This section gives examples of types of packages you can present to
-your supervisor to make CodeRefinery a part of your job!  Of course,
-we are happy with pure volunteers, but we accept that most people have
-another job and if you can get benefits for your job, you'll have much
-more time for CodeRefinery.
-
-Clearly, these aren't the only ways to contribute, but we thought that
-giving some concrete plans will help people:
-
-
-### Instructor
-
-.. seealso::
-
-	{doc}`instructor-intro`
+- Join the {ref}`CodeRefinery chat <chat>`, give comments or submit
+  emoji reactions to show how you feel about things.  Many things are
+  announced only through the chat.
+- Come to our
+  [meetings](https://coderefinery.org/organization/meetings/)- the
+  monthly community calls are for a broad audience, but anyone is
+  welcome come to the weekly meetings.
+- Attend a CodeRefinery workshop - they teach the very tools we use to
+  collaborate!
 
 
-As an instructor, you become an expert in CodeRefinery materials by
-continual co-working with CodeRefinery staff.  You will really be able
-to help all of your staff
 
-Teach at 4/workshops per year (4 × 3 days) + 50% preparation time
-commitment.  Attend one CodeRefinery workshop per year.
+## Action: Join our "community teaching training"
 
-How to get started: be an exercise leader a few times, read through the instructor notes and find a topic you are interested and comfortable teaching, then when we are planning a workshop, offer to teach that lesson.  We'll help you get
-started. Also co-teaching is a possibility.
+CodeRefinery isn't just about doing teaching ourselves, but improving
+your teaching.  Whether you focus on teaching, or it's a side-activity
+to your other tasks, the CodeRefinery (online) teaching can help you
+avoid re-inventing good practices and prepare you for teaching
+together.
 
-
-### Helper
-
-.. seealso::
-
-	{doc}`helper-intro`
-
-As a helper, you have less demands outside of workshops, but you get
-to become very familiar with CodeRefinery material.  You especially
-get skills in mentoring and debugging.  This is a perfect position for
-the "local expert" of a research group, who will guide all of their
-members through getting started with scientific computing.  A helper
-can include all of our non-instructor roles: exercise leader, expert helper,
-Zoom host, etc.
-
-Example time commitment: 4 workshops/year (4 × 3 days) + 20%
-preparation time commitment.
-
-How to get started: Read about being an exercise leader on our {ref}`Exercise leader intro page <helper-intro>`. Watch our announcements and sign up as an exercise leader for the next workshop.
+Read more: [Community
+teaching](https://coderefinery.github.io/community-teaching/)
 
 
-### Lesson maintainer
 
-We have a lot of lessons, and it always helps to have someone keep an
-eye on them and make sure issues and pull requests go thorough.  While
-theoretically everyone helps with this, it's good to have someone keep
-a close watch and make sure there is an overall order to things.  In
-return, you get extensive experience in the topic and experience
-working on an open source project.
+## Action: Advertise and co-teach in our online courses
 
-Quite often, the current maintainer is the person who last did a major
-re-working of the lesson and an instructor (either active or at the
-final limits of their activity).
+CodeRefinery runs many open, online courses, which anyone can attend.
+Some of them can be attended by anyone via livestream, even without
+registering (yes, this really works - we get high ratings for this).
+You could simply advertise our courses, or go even further and run
+local breakout rooms.  Take it a step further and help out with the
+teaching, too.
 
-Example time commitment: 20-50 hours/year/lesson, plus attending our
-yearly CodeRefinery workshop and meetings several times a month.
-
-How to get started: Watch the GitHub issues and be the first one to
-answer them.  Review pull requests, and if things make sense to you
-then submit a review saying "Approved".  Eventually, you become the
-recognized specialist.  Ask us or we'll notice, and ask you to become
-a maintainer.
+Read more: {doc}`local-breakout-rooms` and {doc}`roles-overview`.
 
 
-### Fan
 
-Hang out in the chat and help others, provide advice to others, give
-feedback of our ideas.  Lurk in all of our other activities and decide
-if you want to do more later.  Help us advertise workshops, get
-exercise leaders, get learners, do outreach.  Perhaps start showing up as an
-expert helper sometimes.
+## Action: Teach openly and allow others to join
 
-Example time commitment: ???
+Go to the next level and adopt CodeRefinery strategies for your own
+courses, so that others can join at little cost to yourself.  By
+opening, you start to find more lesson developers and instructors, so
+that your courses can reach the next level of quality and impact.
+Soon, you will wonder why you ever bothered teaching alone.
 
-How to get started: join {ref}`CodeRefinery zulipchat <chat>` and see what
-comes up.
+Read more: {doc}`open-your-courses`
 
 
-### Organizer
 
-Help us organize workshops. Each workshop needs a handfull of different roles to be filled: You can handle attendee communication,
-advertisement, manage exercise leaders and prepare their onboarding, be HackMD helper, etc.
+## Other types of contributions
 
+As an open project, there are any number of ways you can contribute:
 
-### Create your own lessons in our galaxy
-
-While we are focused on a certain type of packaged workshops, we are
-in principle welcome to other lessons developed in our galaxy.
+- Take on any of the {doc}`roles <roles-overview>` in a workshop - with
+  co-teaching, it is surprisingly easy to go straight to instructor,
+  but there are also many other roles.
+- Help with lesson maintenance (read and make suggestions) or become a
+  maintainer of a lesson.  Watch GitHub repositories to get notified
+  of issues and pull requests, and help review.  Anyone can watch any
+  repository, and comments from outsiders do help us review things faster.
