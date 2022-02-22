@@ -50,14 +50,17 @@ teaching](https://coderefinery.github.io/community-teaching/)
 
 
 
-## Action: Advertise and co-teach in our online courses
+## Action: Advertise and/or help out in our online courses
 
 CodeRefinery runs many open, online courses, which anyone can attend.
 Some of them can be attended by anyone via livestream, even without
 registering (yes, this really works - we get high ratings for this).
 You could simply advertise our courses, or go even further and run
-local breakout rooms.  Take it a step further and help out with the
-teaching, too.
+local breakout rooms.
+
+Take it a step further and help out with the course, whether it's as
+an instructor, helper, or some other role.  Of course, anyone is
+welcome to help, even without advertising the courses!
 
 Read more: {doc}`local-breakout-rooms` and {doc}`roles-overview`.
 
