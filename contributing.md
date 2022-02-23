@@ -46,7 +46,7 @@ avoid re-inventing good practices and prepare you for teaching
 together.
 
 Read more: [Community
-teaching](https://coderefinery.github.io/community-teaching/)
+teaching training](https://coderefinery.github.io/community-teaching/)
 
 
 
