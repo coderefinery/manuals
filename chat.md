@@ -49,6 +49,9 @@ CodeRefinery streams:
   maintain.
 * **#workshops**: Organizing workshops and other events.  One topic
   for each event.
+- One stream for coordinating each major workshop that requires a lot
+  of chat, for example **#tools-workshop** (the standard workshop),
+  **python-for-scicomp**, **kickstart-aalto**, etc.
 * **#workshop-chat**: High-volume staff chat during workshops.  You
   typically join during a workshop, and leave when done to avoid the
   flood.
