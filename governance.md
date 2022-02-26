@@ -1,5 +1,6 @@
 # CodeRefinery governance
 
+
 ## CodeRefinery Community
 
 Right now, the CodeRefinery community is small, so we do not want to
@@ -24,10 +25,9 @@ In short:
 
 In the future:
 
-- An advisory role could to taken on by some sort of community councilq
+- An advisory role could to taken on by some sort of community council
   or board made up of partner representatives and community
   representatives.
-
 
 
 ## NeIC project
