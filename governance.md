@@ -34,10 +34,11 @@ In the future:
 
 The [Nordic e-Infrastructure collaboration](https://neic.no) funds a
 part of CodeRefinery, and with that comes a certain standard of
-governance and reporting.  However, we consider this to be in parallel
+governance and reporting
+(see also the [collaboration agreement](https://coderefinery.org/about/reports/phase-3-collaboration-agreement.pdf)).
+However, we consider this to be in parallel
 to the community project (with the community project being more
-important).  You can read more about this on the NeIC wiki:
-https://wiki.neic.no/wiki/CodeRefinery
+important).
 
 There is a lot of overlap between the NeIC-sponsored staff and the
 community, but the community will increase in proportion over time.
