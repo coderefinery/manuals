@@ -18,10 +18,11 @@ open registration to attend the course.
     because of HackMD and teams.  From the list below, steps 2b and 2c
     work with this option.
 
-  .. figure:: coderefinery-mooc/mooc-diagram.png
+  ```{figure} coderefinery-mooc/mooc-diagram.png
 
-     Decentralized teaching allows us to reach many more people than
-     we could otherwise.
+  Decentralized teaching allows us to reach many more people than
+  we could otherwise.
+  ```
 
 - Most attendees can ask from help through HackMD
   ({doc}`hackmd-mechanics`), which works very well
