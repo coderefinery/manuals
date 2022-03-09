@@ -11,6 +11,11 @@ have as much engagement.  It doesn't have to be this way.
 CodeRefinery has developed a vision of this teaching that can take the
 best of both worlds.
 
+.. admonition:: Video: The future of teaching
+
+   "The future of teaching",
+   https://www.youtube.com/watch?v=S9Jor12Cxdc (45:31) is a talk
+   describing many aspects of this strategy in a concise form.
 
 ## What is different about online?
 
@@ -56,11 +61,11 @@ private registration and you may not publish recordings.  This gives
 limited usefulness in the future.
 
 Key aspects:
-* Set up a good screen share (`{doc}/instructor-tech-online`)
+* Set up a good screen share ({doc}`instructor-tech-online`)
 * Be explicit on how to attend.  Plan for not only attention during
   the course but something that has a lasting usefulness.
 * Possibly use HackMD for discussions/questions
-  (`{doc}/hackmd-mechanics`, `{doc}/hackmd-helper`, need new info)
+  ({doc}`hackmd-mechanics`, {doc}`hackmd-helper`, need new info)
 
 
 ### (2a) Group teaching, in a meeting
@@ -69,10 +74,10 @@ One of the advantages of online teaching is it doesn't require
 full-time physical attendance, so you can more easily bring in a
 diverse set of helpers, which greatly reduces your load.
 
-* Definitely use HackMD instead of chat (`{doc}/hackmd-mechanics`)
+* Definitely use HackMD instead of chat ({doc}`hackmd-mechanics`)
 * Separate roles more, so that the instructor only needs to focus on
   teaching.  Other helpers can come and go or attend part-time.
-  (general info: `{doc}/instructor-intro`)
+  ({doc}`instructor-intro`, general info: {doc}`roles-overview`)
   * Exercise/breakout room leaders
   * Expert helpers, helping students
   * Zoom host
@@ -97,8 +102,8 @@ close interactions how you can accept everyone).
 
 This focuses on technical setup
 
-* OBS Studio for producing good recordings/stream
-* HackMD for questions from the audience  (??)
+* OBS Studio for producing good recordings/stream ({doc}`obs`)
+* HackMD for questions from the audience  ({doc}`hackmd-mechanics`)
 
 ### (2c) Multiple ways of attending
 
@@ -106,7 +111,7 @@ One no longer has to limit yourself to interactive watching
 
 * Streaming
 * Encourage in-person "watching parties"
-* Make videos available
+* Make videos available ({doc}`video-editor`)
 * Make videos available *immediately*, for catch-up purposes
 
 

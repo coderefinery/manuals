@@ -5,6 +5,12 @@ This page documents the CodeRefinery MOOC (massive open online course) strategy.
 MOOC (it's not massive enough yet), but it does reach out from one to
 many, and can scale to basically all the world.
 
+.. admonition:: Video: The future of teaching
+
+   "The future of teaching",
+   https://www.youtube.com/watch?v=S9Jor12Cxdc (45:31) is a talk
+   describing many aspects of this strategy in a concise form.
+
 
 Technical setup summary
 -----------------------
