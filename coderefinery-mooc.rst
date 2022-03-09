@@ -229,3 +229,14 @@ Open issues
 
 * Chat/Q&A scaling: Will HackMD actually scale enough for us?  What
   alternatives do we have?
+
+
+
+See also
+--------
+
+* :doc:`how-to-attend-stream`
+* :doc:`livestream-teaching`
+* Livestream teaching demo video:
+  https://www.youtube.com/watch?v=WjmttAniZX8 (carefully read the
+  video description to understand what is going on)

@@ -4,6 +4,14 @@ We've all done a lot of teaching via Zoom, but the CodeRefinery
 livestream is a new concept.  This introduces teachers/helpers to the
 idea (and for a detailed reference, see {doc}`coderefinery-mooc`).
 
+```{admonition} Video
+
+Watch a demo on YouTube: https://www.youtube.com/watch?v=WjmttAniZX8.
+(When watching, also carefully read the video description/chapter
+titles, which provide more the explanation of what is going on).
+```
+
+
 Compared to Zoom teaching:
 
 - You are in a Zoom meeting with only instructors/staff
