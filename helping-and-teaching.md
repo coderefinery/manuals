@@ -9,7 +9,9 @@ This page contains the most important general tips for exercise leaders before d
 
 As an exercise leader, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
 
-- Take a look at the exercises of the days you plan to help at. We try to make each exercise self-explanatory, but if you do one
+- Take a look at the exercises in advance of each days (revised
+  lessons tend to have an "exercise list" page).  We try to make each
+  exercise self-explanatory so that you can easily lead, but if you do one
   thing, scan over the exercises and understand the general point of each of them.
 - Be ready to introduce yourself in one or two sentences to your breakout room: think about what you
   would like to convey as exercise leader to the classroom. How did (or does) CodeRefinery help you?
