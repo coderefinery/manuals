@@ -13,17 +13,10 @@ training](https://coderefinery.github.io/instructor-training/)).  We
 believe that you best learn by working with others in practice, and
 provide plenty of opportunities to do that.
 
-Prerequisites / software installation:
-- We assume a Zoom desktop client of newer than ~15.october.2020, in
-  order to join breakout rooms by yourself.
-
 
 ## Starting materials
 
 Reading here: the other pages in the section, see sidebar.
-* {doc}`hackmd-helper`
-* {doc}`expert-helpers`
-* {doc}`host`
 * {doc}`team-teaching`
 * {doc}`presenting`
 * {doc}`instructor-tech-setup`
@@ -38,35 +31,6 @@ Reading elsewhere:
 * [CodeRefinery instructor
   training](https://coderefinery.github.io/instructor-training/)
 * [Carpentries instructor training](https://carpentries.github.io/instructor-training/)
-
-
-
-## From exercise leader/helper to more
-
-Here is one possible pathway from learner to (whatever else).  This is
-an *idea* for a pathway but by no means a requirement - you can join
-at whatever step you like, and steps don't have to happen in order.
-Maybe you are interested in some or the other.  There are also roles
-completely outside of this pathway.
-
-* After being a learner, you come back as an exercise leader/helper.
-* When you have a solid understanding of all materials, you may join
-  as an expert helper.
-* You begin co-teaching episodes with someone else
-  * We find that co-teaching is a good way to start.  In this, there
-    are two people, one person assumes the big-picture discussion, and
-    the other the typing and explaining what they are doing.  By
-    making the lesson a discussion instead of a lecture, it's more
-    dynamic.
-* Eventually, you get confident enough to teach yourself (though
-  really we should always be co-teaching...)
-* Somewhere in there (before or after instructor, depending on your
-  interests), you may want to try to be a HackMD helper or Zoom host.
-  These are more about coordinating all the other people involved in
-  the workshop.
-
-Let's emphasize again: this is one pathway, but you should do what you
-want.
 
 
 
@@ -129,3 +93,21 @@ rarely alone.  This is one way of looking at it:
   what is only a demo.
 
 - Following the lesson as written at all costs.
+
+For {doc}`livestream courses <livestream-teaching>`:
+
+- Worrying too much (forgetting that there is a co-teacher and break
+  time where you can discuss and plan your next step).
+
+- Speaking like learners should speak up with voice, instead of
+  "answer in HackMD or discuss within your groups."
+
+- Forgetting there are multiple ways to attend: not everyone is in a
+  breakout room, not everyone has helpers nearby.  Instead, use
+  phrasing such as "for those of you in breakout rooms, go there now.
+  Everyone, remember to ask any questions in the HackMD, even if you
+  are alone."
+
+- Sharing a fullscreen, not the 840x1080 portrait layout.
+
+- Showing non-creative-commons material on the stream.
