@@ -99,8 +99,12 @@ For {doc}`livestream courses <livestream-teaching>`:
 - Worrying too much (forgetting that there is a co-teacher and break
   time where you can discuss and plan your next step).
 
-- Speaking like learners should speak up with voice, instead of
-  "answer in HackMD or discuss within your groups."
+- Speaking like learners should be able to speak up with voice,
+  instead of "answer in HackMD or discuss within your groups."
+
+- Forgetting to screenshare the HackMD during Q&A time (this is the
+  most important way learners know it is active, and thus feel a
+  connection to the course).
 
 - Forgetting there are multiple ways to attend: not everyone is in a
   breakout room, not everyone has helpers nearby.  Instead, use
