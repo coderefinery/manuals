@@ -6,7 +6,7 @@ idea (and for a detailed reference, see {doc}`coderefinery-mooc`).
 
 ```{admonition} Video
 
-Watch a demo on YouTube: https://www.youtube.com/watch?v=WjmttAniZX8.
+Watch a demo on YouTube: <https://www.youtube.com/watch?v=WjmttAniZX8>.
 (When watching, also carefully read the video description/chapter
 titles, which provide more the explanation of what is going on).
 ```
