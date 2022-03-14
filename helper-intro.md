@@ -12,7 +12,8 @@ It is very likely that you'll grow as a mentor and learn how to be a more effici
 Most importantly, *you do not have to know everything* (we don't, either), but you are expected to:
 
 - Have been to a CodeRefinery before and used git some since then, OR have some general experience with git (branching,
-  pull requests) and command line work.
+  pull requests) and command line work, OR be able to generally follow
+  the path of the exercises that we have laid out.
 
 - Be present in your assigned breakout room during exercise sessions of the workshop.
 
@@ -37,16 +38,20 @@ You can already read through the material below, if you have time, but do not wo
 If you have been to a CodeRefinery workshop before, you will most likely know the following, but if unsure, also check the links below: 
 
 - {ref}`HackMD mechanics <how-to-hackmd>`
-- {ref}`Zoom mechanics <how-to-zoom>`
-- It may be helpful to read {ref}`how to attend online <attend-online>` or 
-  {ref}`how to attend in-person <attend-inperson>`, but we will also introduce these during the workshop.
+- {ref}`Zoom mechanics <how-to-zoom>` (if the workshop uses Zoom)
+- "How to attend" whatever kind of workshop we are doing (though we
+  will cover this the first day, too): {ref}`how to attend via livestream
+  <attend-stream>`, {ref}`how to attend via Zoom <attend-online>`, or 
+  {ref}`how to attend in-person <attend-inperson>`.
 
 If you have any doubts, questions, ideas or anything you want to tell
 us apart from these sessions, please let us know! We are here to help. 
 
 If you want to contact us before the workshop you can send an email to our general email address <support@coderefinery.org> or you can join the
 {doc}`CodeRefinery chat <chat>` (we recommend the `#workshops` stream,
-and if you can't find it then `#general` is good).
+and if you can't find it then `#general` is good).  During the
+workshop, we use a topic in `#workshop-chat` to coordinate (exercise
+leaders do *not* need to use this, use HackMD instead).
 
 During the workshop, HackMD (collaborative document) is our main communication channel, where you can ask questions or request us to visit your breakout room in case of tricky questions or further discussion potential.
 
