@@ -112,6 +112,10 @@ For {doc}`livestream courses <livestream-teaching>`:
   Everyone, remember to ask any questions in the HackMD, even if you
   are alone."
 
+- Planning to do a demo during team breakout sessions (teams will
+  still hear your voice, if they mute the stream it's hard to bring
+  them back).
+
 - Sharing a fullscreen, not the 840x1080 portrait layout.
 
 - Showing non-creative-commons material on the stream.
