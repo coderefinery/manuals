@@ -29,6 +29,11 @@ jobs:
         sudo make gh-pages-dependencies
     # This parses the sphinx logs and reports problems via gh-actions
     - uses: ammaraskar/sphinx-problem-matcher@master
+    # Run in a dedicated step, since sometimes the other builds can
+    # have extra warnings.
+    - name: Build and fail on warnings
+      run:
+         make html SPHINXOPTS="-W --keep-going"
     - name: Sphinx Build
       run:
          make gh-pages
