@@ -33,9 +33,8 @@ Please have a look at this material before the workshop starts. Note that it
 also contains important Git configuration steps which all of you should go
 through before the workshop starts, to save valuable time during the workshop.
 
-CodeRefinery strives to follow the Code of Conduct developed by The Carpentries
-organisation. Please have a look at
-https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html so that
+CodeRefinery strives to follow a Code of Conduct. Please have a look at
+https://coderefinery.org/about/code-of-conduct/ so that
 we all are aware of how to treat each other respectfully.
 
 Don't hesitate to get in touch if you have any questions!
