@@ -96,7 +96,10 @@ As an exercise leader, we do not expect you to know all our [CodeRefinery traini
 
 #### Code of Conduct
 
-Teaching isn't about helping those who are already "in", it is for those who aren't.  Thus, we follow [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) for all our interactions before, during and after workshops.
+Teaching isn't about helping those who are already "in", it is for
+those who aren't.  Thus, we follow [a code Codee of
+Conduct](https://coderefinery.org/about/code-of-conduct/) for all our
+interactions before, during and after workshops.
 
 If you see anything that is not supporting an equal learning environment,
 please mention it to one of instructors.
