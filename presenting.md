@@ -58,7 +58,7 @@ presentation.  Also see {doc}`instructor-tech-setup`.
 
 ## During the lessons
 
-- Helpers can read [the helping and teaching guide](helping-and-teaching.md).
+- Helpers can read [the exercise leader guide](exercise-leaders.md).
   Encourage helpers to stand and be
   constantly walking around, people rarely flag helpers from across
   the room.

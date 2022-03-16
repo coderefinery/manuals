@@ -23,9 +23,8 @@ Reading here: the other pages in the section, see sidebar.
 * {doc}`instructor-tech-online`
 
 Also read the exercise leader information
-* {doc}`helping-and-teaching` - general on motivation
-* {doc}`breakout-rooms-helping` - read about how to prepare for
-  breakout rooms and the role of expert helpers
+* {doc}`exercise-leaders` - general on motivation and how to prepare for 
+  breakout rooms 
 
 Reading elsewhere:
 * [CodeRefinery instructor
@@ -57,7 +56,42 @@ rarely alone.  This is one way of looking at it:
   turning it into a discussion between the two instructors.  TODO:
   produce information on this.
 
+### in the main session
 
+As an instructor, when preparing your lesson you first need to decide how to balance between the
+main room and breakout sessions.
+
+- **Clearly say when a learner watches, when they type along, when they should
+  work on something independently as an exercise.**
+- CodeRefinery is traditionally a hands-on workshop, so breakout-room sessions should be a large part of the workshop.
+- We usually keep the main room mostly for general discussions. Small exercises or polls can also be done in the main room, for all hands-on exercises we divide the learners into breakout-rooms each with one exercise leader.
+- To give you an idea about how the work in the breakout rooms is going, monitor the hackmd closely and if time allows try to visit a few breakout rooms to see how it is going and if needed adjust the timing.
+
+
+### Preparing for the breakouts (in the main room)
+
+**As an instructor, you need to clearly define what the tasks of each
+breakout session is (even if it is just "explore and discuss").**
+Online courses need more **"meta talk"** about how you expect things
+to go, since it's not as easy to read the room or fill in expectations
+later (distractions, hard to communicate to breakout rooms after
+opened).
+
+- Clearly say what the tasks of the breakout session will be.
+- Put that task and a link to the part of the lesson in the hackmd.
+- Clearly say how long each breakout session will be (make sure it's
+  long enough and adjust during the exercise session if needed)
+- Clearly say if things in the future will depend on this exercise (is
+  someone completely lost if they don't make it to the end.  Halfway?)
+- Try to make breakout sessions longer:
+    - imagine a 5 minute overhead for each session, getting people
+      there, deciding who does what, acquainted with what they need to
+      do, and debugging problems.
+    - 10 minutes is quite short, 20 minutes is best.
+    - **Can you say less and let people discover it for themselves?**
+
+As an exercise leader, if anything is unclear to you, it is very unclear to
+others. Comment/Ask in the HackMD or speak up and ask! 
 
 ## Top issues new instructors face
 
