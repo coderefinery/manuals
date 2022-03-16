@@ -17,7 +17,8 @@ material, but should be able to keep things flowing.
 Most importantly, *you do not have to know everything* (we don't, either), but you are expected to:
 
 - Have been to a CodeRefinery before and used git some since then, OR have some general experience with git (branching,
-  pull requests) and command line work.
+  pull requests) and command line work, OR be able to generally follow
+  the path of the exercises that we have laid out.
 
 - Be present in your assigned breakout room during exercise sessions of the workshop.
 
@@ -50,16 +51,20 @@ We usually offer two one-hour timeslots in the week before the workshop (check t
 If you have been to a CodeRefinery workshop before, you will most likely know the following, but if unsure, also check these links: 
 
 - {ref}`HackMD mechanics <how-to-hackmd>`
-- {ref}`Zoom mechanics <how-to-zoom>`
-- It may be helpful to read {ref}`how to attend online <attend-online>` or 
-  {ref}`how to attend in-person <attend-inperson>`, but we will also introduce these during the workshop.
+- {ref}`Zoom mechanics <how-to-zoom>` (if the workshop uses Zoom)
+- "How to attend" whatever kind of workshop we are doing (though we
+  will cover this the first day, too): {ref}`how to attend via livestream
+  <attend-stream>`, {ref}`how to attend via Zoom <attend-online>`, or 
+  {ref}`how to attend in-person <attend-inperson>`.
 
 If you have any doubts, questions, ideas or anything you want to tell
 us apart from these sessions, please let us know! We are here to help. 
 
 If you want to contact us before the workshop you can send an email to our general email address <support@coderefinery.org> or you can join the
 {doc}`CodeRefinery chat <chat>` (we recommend the `#workshops` stream,
-and if you can't find it then `#general` is good).
+and if you can't find it then `#general` is good). During the
+workshop, we use a topic in `#workshop-chat` to coordinate (exercise
+leaders do *not* need to use this, use HackMD instead).
 
 During the workshop, HackMD (collaborative document) is our main communication channel, where you can ask questions or request us to visit your breakout room in case of tricky questions or further discussion potential.
 
@@ -78,7 +83,9 @@ should make it doable for everyone.
 
 As an exercise leader, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
 
-- Take a look at the exercises of the days you plan to help at. We try to make each exercise self-explanatory, but if you do one
+- Take a look at the exercises in advance of each days (revised
+  lessons tend to have an "exercise list" page).  We try to make each
+  exercise self-explanatory so that you can easily lead, but if you do one
   thing, scan over the exercises and understand the general point of each of them.
 - Be ready to introduce yourself in one or two sentences to your breakout room: think about what you
   would like to convey as exercise leader to the classroom. How did (or does) CodeRefinery help you?
