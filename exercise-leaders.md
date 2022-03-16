@@ -5,7 +5,7 @@ It is very likely that you'll grow as a mentor and learn how to be a more effici
 
 ## Background: hierarchical workshops to scale
 
-Traditionally, a workshops has instructors and exercise leaders/helpers, but the
+Traditionally, a workshop has instructors and exercise leaders/helpers, but the
 capacity is limited by instructors, so we are limited to ~30-40 people
 at most.  Then, we tried to scale to larger numbers: even up to and beyond 100
 people.  For this, we have to rely on *exercise leaders* a lot more, to run a
@@ -41,14 +41,11 @@ needed when people can't attend.
 We sometimes allow people to register as teams: This could for example be a group colleagues/friends where one of the team members has a bit of knowledge on the tools presented in the workhop. This person can act as exercise leader for the workshop, but may still learn a thing or two themselves. In that way you can work with people you know and the barrier for asking questions and discuss together may be a bit lower than in a group of strangers. Since teams with exercise leaders are 'self-sustaining' we usually accept all team registrations, while registrations as single learner may be put on waiting list or, if applicable redirected to the stream, when they exceed our capacity based on the number of individual exercise leaders. 
 
 
-
 ## Exercise leader onboarding
 
 We usually offer two one-hour timeslots in the week before the workshop (check the schedule!) for exercise leader onboarding. You are expected to join one of these times. During this time, we will talk about the role of the exercise leader during the workshop and answer any open questions you may have. We will also go through the material below.
 
 ## Material for exercise leaders
-
-You can already read through the material below, if you have time, but do not worry, we will be going over it in the exercise leader onboarding session.
 
 If you have been to a CodeRefinery workshop before, you will most likely know the following, but if unsure, also check these links: 
 
