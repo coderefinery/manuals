@@ -127,7 +127,7 @@ For self-organized workshops:
 
 - Workshop coordinator organizes a call with all instructors and helpers to discuss the schedule to leave no doubts about timing. Also
   discuss the survey results.
-- Point helpers (and instructors) to the [tips for helpers](helping-and-teaching.md).
+- Point helpers (and instructors) to the [tips for helpers](exercise-leaders.md).
 
 ### Right before the workshop starts
 

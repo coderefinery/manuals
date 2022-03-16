@@ -2,7 +2,7 @@
 
 Each workshop should have a preparation call among instructors,
 experts, hosts, etc.  This is separate from the {doc}`helper training
-call <helper-intro>`.
+call <exercise-leaders>`.
 
 
 
