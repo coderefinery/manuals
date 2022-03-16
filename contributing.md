@@ -98,7 +98,7 @@ Zoom host, etc.
 Example time commitment: 4 workshops/year (4 × 3 days) + 20%
 preparation time commitment.
 
-How to get started: Read about being an exercise leader on our {ref}`Exercise leader intro page <helper-intro>`. Watch our announcements and sign up as an exercise leader for the next workshop.
+How to get started: Read about being an exercise leader on our {ref}`Exercise leader intro page <exercise-leaders>`. Watch our announcements and sign up as an exercise leader for the next workshop.
 
 
 ### Lesson maintainer

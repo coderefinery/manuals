@@ -101,7 +101,7 @@ For self-organized workshops:
   - Review the intended learning outcomes, and try to keep these in mind while teaching.
   - Try to memorize the typical pitfalls and common questions.
 - Go through the [lesson presentation hints](https://github.com/coderefinery/manuals/blob/master/presenting.md).
-- Go through the [helping and teaching guide](https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md),
+- Go through the [exercise leader guide](https://github.com/coderefinery/manuals/blob/master/exercise-leaders.md),
   and request all helpers to go through it too.
 
 ### Prepare practicals
@@ -127,7 +127,7 @@ For self-organized workshops:
 
 - Workshop coordinator organizes a call with all instructors and helpers to discuss the schedule to leave no doubts about timing. Also
   discuss the survey results.
-- Point helpers (and instructors) to the [tips for helpers](helping-and-teaching.md).
+- Point helpers (and instructors) to the [tips for helpers](exercise-leaders.md).
 
 ### Right before the workshop starts
 
