@@ -12,19 +12,26 @@
   your name.
 * We don't use Zoom chat for typical questions: use HackMD instead.
   * Chat OK for administrative questions.
+* When joining, please use the **name you used to register for the
+  course**.
+* In **livestream workshops**, there is nothing in the main room: that
+  is broadcasted via livestream in a separate browser window, and you
+  switch as needed.
+
+
 
 ## Audio/video on or off?
 
-* **Main room**: OK to have off, stay muted.
+* **Main room**: Stay muted, video off, unless you want to speak up.
 * **Breakout rooms**: Try to leave on for most interactive
   atmosphere.
 
 
 
-## Your name should indicate your breakout room
+## Workshops with teams: your name should indicate your breakout room
 
-* When joining, please use the **name you used to register for the
-  course**.
+You will be told if this section is relevant to you.
+
 * Have your breakout room number in your name:
 
   * **(number) Your Name**
@@ -40,19 +47,20 @@
 
   ![participants list button at bottom](img/zoom--rename.png)
 
+
+
 ## Breakout rooms
 
-* Click the "breakout rooms" button at bottom and you can join a room.
+* Click the "breakout rooms" button at bottom and you can join a
+  room.
 
-
-* You can click "Join" to join your own room.
+* You can click "Join" to join your breakout room by yourself.
 
   * If you are joined via web, make sure your name is correct (see
     above) and use Zoom chat to ask host to assign you to the room.
 
 * **Return to main room**: "Leave" button at bottom has an option for
   "Return to main room".
-
 
 
 
@@ -63,12 +71,12 @@ application):
 
 ![Zoom reactions via the bottom bar](img/zoom--reactions.png)
 
-
 * **Task completed**: Green check
 * **Technical problem**: Red X
 * **Need more time**: Slower "<<"
 * You can signal **go faster** and **go slower**
 * You can **Raise your hand**
+
 
 
 ## Other settings
@@ -77,8 +85,6 @@ application):
 
 * **Automatic fullscreen when screenshare starts** can be turned off
 * **Dual monitor mode** makes separate windows for screenshare and participants
-
-
 
 
 
