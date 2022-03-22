@@ -136,6 +136,11 @@ For {doc}`livestream courses <livestream-teaching>`:
 - Speaking like learners should be able to speak up with voice,
   instead of "answer in HackMD or discuss within your groups."
 
+- Forgetting to save time for Q&A: there is *more* Q&A because of
+  HackMD.  You might take a few minutes to screenshare HackMD and
+  after each exercise session, after each break, after each episode,
+  and at the end of each day.
+
 - Forgetting to screenshare the HackMD during Q&A time (this is the
   most important way learners know it is active, and thus feel a
   connection to the course).
