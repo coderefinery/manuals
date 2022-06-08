@@ -42,7 +42,7 @@ open registration to attend the course.
 - Attendees can ask general questions via {doc}`HackMD
   <hackmd-mechanics>`
 - Course staff (including you, as an organizer of a breakout room),
-  communicate via {}`coderefinery chat <chat>`.
+  communicate via {doc}`coderefinery chat <chat>`.
 - You can continue your local support even after the course.
 - You may want to run local "installation help" sessions.
 
