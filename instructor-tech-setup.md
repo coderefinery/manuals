@@ -4,29 +4,108 @@
 * {doc}`instructor-tech-online`
 ```
 
-## Terminal usage
+Appearance matters.  When you look at other professionally made videos
+online, they look good.  As a presenter, you also need to work to make
+your screen look pleasing to the eye.  As a teacher of tech, you also
+*need to make sure that your screen supports the learning process*:
+you have conflicting goals of:
 
-- Move your `.bashrc` and `.gitconfig` files to somewhere else before
-  you begin.  You want your environment to match the student's as
-  closely as possible. Consider setting `export PS1="\w $ "` in
-  terminal (see below for more).
+* Making your screen look simple, to not distract from what you are
+  trying to teach, and
+* Showing more advanced practical setups that others may want to copy.
+
+In general, try to use a simpler arrangement at the beginning of
+workshops.  You, or other teachers, can begin showing more advanced
+screen layouts once learners are able to see what is important and
+what is extra.
+
+
+
+## Check with someone before you start teaching
+
+**Most importantly, get your setup done well in advance and show your
+co-teachers for feedback.  Feedback and time to improve is very
+important to make things beautiful.**
+
+
+
+## Clean your environment
+
+Do you have fancy ``.bashrc``, ``.gitconfig``, etc files?  Move them
+away so that you are as plain and normal as possible - beyond
+appearances, you don't want to use any shortcuts that every learner
+won't have access to ("hint: configure this" isn't enough, those who
+miss this will still be lost).
+
+Relevant files:
+
+* ``.bashrc``
+* ``.gitconfig``
+* ``.ssh/config``, ``.ssh/authorized_keys``
+* ``.conda/*``
+* Any config for any program you may demonstrate
+
+
+## Command line prompt
+
+Learners have to read your prompt quickly, understand what you
+entered, copy it, all the while not being distracted by everything
+else or your screen.  Set an easily-viewable prompt.
+
+- Colors may be good, or if not have a newline (don't little minimal
+  color and no spacing between commands, it is hard to parse what's a
+  command and what's an output.)
+
+- Consider prompt-log by rkdarst
+  (https://github.com/rkdarst/prompt-log).  It adds a interesting idea
+  that *the command you enter is also in color* and also provides
+  terminal history *before the command returns* (see below).  This is
+  still in development.
+
+- The minimum is `export PS1='\n\w \$ '` or even `\$ `.
+
+- With color is `export PS1='\n\[\e[0;36m\]\w \$\[\e[0m\] '`.
+
+- Consider setting `export PS1="\w $ "` in terminal (see below for
+  more), especially the first day.
+
+- See below for more prompt configuration
+
+
+## Terminal appearance
 
 - Create a nice, large shell window with good contrast on the screen.
   Beware of colorized text, such as the red in "git diff".
 
-- Don't clear terminal often (or ever)
+  - Consider setting a profile for your terminal, pre-configured for
+    courses (e.g. white, large size, dark colors).
+
+  - Eliminate menu bars and any other decoration that uses valuable
+    screen space.
+
+  - Know and use keyboard shortcuts for changing the font size.  You
+    can be larger when you are doing simple things, and make it
+    smaller when you have long lines that learners need to see.
+
+- Don't clear terminal often (or ever).  Learner's can follow as fast
+  as you!  More people will wonder what just got lost than are helped
+  by seeing a blank screen.  Consider pushing ``ENTER`` a few times
+  instead.
+
+## Optimize any other applications
+
+Adjust any other applications to appear "normal" and minimize wasted
+space.  For example, an advanced things to do would be minimize the
+size of title bars, remove menu bars when not needed, or reduce the
+size of tabs in web browsers.
 
 
 
-## Terminal history window
+## Command line history
 
-Set an easily-viewable prompt.  Colors may be good, or if not have a
-newline (don't little minimal color and no spacing between commands,
-it is hard to parse what's a command and what's an output.)  The
-minimum is `export PS1='\n\w \$ '`.  With color is `export
-PS1='\n\[\e[0;36m\]\w \$\[\e[0m\] '`.
-
-### Terminal history for learners
+You *need* to find a way to show the recent commands you have entered,
+outside of your main window, so that learners can see the recent
+commands.
 
 If you are doing live shell work, you will have commands and output
 all interleaved, which makes it hard to follow what you actually
@@ -34,6 +113,13 @@ typed.  Have a separate window that shows recent commands only,
 without output.  Arrange your screen so there is the main window and
 the smaller "history" window.  The history window runs the tail
 commands and can be used as a reference for what you just did.
+
+- Ideally, commands will appear before they terminate (if you ``less
+  file``, the command should appear before ``less` returns).
+
+Consider prompt-log by rkdarst
+(https://github.com/rkdarst/prompt-log), which gives colors and
+history even before the command returns.
 
 Also check the [shell exporter by
 sabryr](https://github.com/Sabryr/Teaching-aids), which copies recent

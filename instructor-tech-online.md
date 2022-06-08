@@ -2,32 +2,33 @@
 
 ```{seealso}
 This is online-specific instructor tech setup.  For general, see
-{doc}`instructor-tech-setup`.
+{doc}`instructor-tech-setup` which also applies here.
 ```
 
-The information in this is currently specific to Zoom teaching.
+The information in this is currently specific to Zoom teaching and
+livestream teaching.
+
+
 
 ## Screen sharing
 
-You have to assume the smallest screen from learners and plan for that.
+You have to assume the smallest screen from learners and plan for
+that.  You should share a **portrait** screen: either a portion of
+your screen, or one window in portrait mode.  See the examples below.
 
 - Learners have a small screen, and need room for their own terminals
   and web browser open, too.  A big screen or multiple monitors is
-  special.
-- Make sure the text is more than large enough - people are not just
-  reading, but struggling to find the important parts while the.
+  the special case.
 - Sharing a 1920x1080 screen is not a good idea: you need to make all
-  the text size large so that learners can scale it down, but pixels
-  are wasted.
-- Sharing a single window would be good, but usually you need more
-  than one.
+  the text size large so that learners can scale it down to have room
+  to do their work.  Pixels are wasted.  **Instead, force yourself to
+  save space by using a normal font size but sharing less of your
+  screen.**
 - Zoom now has a "share portion of screen" (Screen sharing → Advanced
   → Share a portion of the screen).
-- Our latest idea is:
-  - Share a vertical part of the screen, for example half of your
-    screen.
-  - If you have a FullHD 1920x1080 screen, maybe even a smaller
-    portion than that.
+- For livestreaming, our aspect ration is 840×1080 (**portrait**).
+  This is a bit less than half your screen.  This is 43% of the width
+  of your screen and the full height, for a standard FullHD screen.
 
 When streaming/recording: **Never stop sharing a screen, ask someone
 else to take it over**.
@@ -35,11 +36,12 @@ There is a chance that the view goes to "gallery view" in the
 recording or stream, which makes video editing harder or disrupts
 learner privacy.
 
+
+
 ### Screen share examples
 
 These are layouts of the actual screen or portion of screen being
 shared:
-
 
 ```{figure} img/instructor-tech-online/screenshare-fullhd.png
 :width: 75%
