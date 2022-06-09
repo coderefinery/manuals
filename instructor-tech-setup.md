@@ -69,6 +69,9 @@ else or your screen.  Set an easily-viewable prompt.
 - Consider setting `export PS1="\w $ "` in terminal (see below for
   more), especially the first day.
 
+- Have a space after the `$` or `%` or whatever prompt character you
+  use.
+
 - See below for more prompt configuration
 
 
@@ -91,6 +94,23 @@ else or your screen.  Set an easily-viewable prompt.
   as you!  More people will wonder what just got lost than are helped
   by seeing a blank screen.  Consider pushing ``ENTER`` a few times
   instead.
+
+
+
+## Terminal color
+
+Should you have a dark-on-light or light-on-dark color scheme?
+
+- Dark text on light background seems to be best for projectors.
+
+- Some people prefer light text on dark backgrounds, and this works on
+  screens.  Some people want the terminal to contrast with web
+  browsers that is often shown at the same time, and so on.
+
+- Our recommendation: **Use dark text on a white or light grey
+  background** (to be updated)
+
+
 
 ## Optimize any other applications
 
