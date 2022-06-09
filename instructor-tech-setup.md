@@ -57,7 +57,7 @@ else or your screen.  Set an easily-viewable prompt.
   command and what's an output.)
 
 - Consider prompt-log by rkdarst
-  (https://github.com/rkdarst/prompt-log).  It adds a interesting idea
+  (<https://github.com/rkdarst/prompt-log>).  It adds a interesting idea
   that *the command you enter is also in color* and also provides
   terminal history *before the command returns* (see below).  This is
   still in development.
@@ -138,7 +138,7 @@ commands and can be used as a reference for what you just did.
   file``, the command should appear before ``less` returns).
 
 Consider prompt-log by rkdarst
-(https://github.com/rkdarst/prompt-log), which gives colors and
+(<https://github.com/rkdarst/prompt-log>), which gives colors and
 history even before the command returns.
 
 Also check the [shell exporter by
