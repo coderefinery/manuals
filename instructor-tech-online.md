@@ -70,6 +70,13 @@ cover the bottom bit.
 Note the horizontal layout and shell history at the bottom right.
 ```
 
+```{figure} img/screenshare/s10-kickstart-prompt-log.png
+:width: 50%
+
+**S10**: HPC Kickstart course.  Note the colors contrast of the
+windows and colors of the prompt and text.
+```
+
 
 ### Screen layout: learners
 
