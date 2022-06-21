@@ -70,6 +70,12 @@ cover the bottom bit.
 Note the horizontal layout and shell history at the bottom right.
 ```
 
+```{figure} img/screenshare/s5-shell-intro-dark.png
+:width: 75%
+
+**S5**: Similar to above, but dark.  Includes contents on the right.
+```
+
 ```{figure} img/screenshare/s8-modular-code-development.png
 :width: 50%
 
