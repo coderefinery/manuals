@@ -70,6 +70,20 @@ cover the bottom bit.
 Note the horizontal layout and shell history at the bottom right.
 ```
 
+```{figure} img/screenshare/s8-modular-code-development.png
+:width: 50%
+
+**S8**: Jupyter + terminal, including the ``fish`` shell and the
+terminal history.
+```
+
+```{figure} img/screenshare/s9-git-intro.png
+:width: 50%
+
+**S9**: Similar to S8.  Lesson + terminal, ``tmux`` plus terminal history
+and dark background.
+```
+
 ```{figure} img/screenshare/s10-kickstart-prompt-log.png
 :width: 50%
 
