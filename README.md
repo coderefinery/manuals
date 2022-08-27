@@ -73,6 +73,7 @@ local-breakout-rooms
 open-your-courses
 The project <the-project.md>
 governance
+outreach
 ```
 
 Download this guide as [single-page HTML](https://coderefinery.github.io/manuals/_builds/singlehtml/),
