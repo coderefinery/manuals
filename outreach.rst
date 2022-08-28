@@ -165,9 +165,17 @@ sentences to help us make tweets) might be useful.
 This is the chapter that puts everything above together, before it
 goes off into details of the implementation next.
 
-1. Understand what we want. (CR: we could say "better science" but it
-   can also mean things like "attend workshops" or "ensure funding for
-   the project")
+1. Understand what we want.  Until a goal is clear, it is hard to
+   justify the effort (and also, I guess ask for others help do
+   it). (CR: we could say "better science" but it can also mean things
+   like "attend workshops" or "ensure funding for the project")
+
+   * More registrations?
+   * More followers?
+   * More views of videos?
+   * More funding?
+   * More exercise leaders?
+
 2. List the buyer personas relevant to us. (See chapter 3 for the list)
 3. Create a persona around each of these buyers. (CR: see chapter 3
    above for the details).
@@ -238,6 +246,11 @@ that solves those problems.  Write for your personas.  Advertise what
 you do.  Think what could possibly go viral.  Don't forget that it
 should be accessible.
 
+CodeRefinery: in addition to the above, we should take part in other
+events, for example show up at Open Science days and give
+presentations, various awareness weeks (in person or online?),
+conference hashtags, etc.
+
 
 11 How to Write for Your Buyers
 -------------------------------
@@ -257,11 +270,14 @@ something just because it is there.  Consider your personal brand -
 make sure your profile information says something.  There is a
 recommendation 85% sharing and engaging, 10% original content, 5%
 promoting yourself.  Social media is like exercise: you need to make
-it part of your routine, or you will stop doing it.
+it part of your routine, or you will stop doing it.  It can easily
+take an hour per day.
 
 For CodeRefinery, we know we should be more active on Twitter, which
 seems like the most suitable network for us.  Are there any types of
-badges we can use for professional social networks?
+badges we can use for professional social networks?  Can we declare
+hashtags and publish them on our website permanently, so we don't have
+to decide them for every workshop?
 
 Most people in CodeRefinery seem to be hesitant to use social network
 sites heavily, for good reason.  We should really encourage and
