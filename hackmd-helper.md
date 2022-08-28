@@ -93,7 +93,7 @@ Answer questions
   - You need to find your own balance.  Maybe a quick answer right
     away, and more detailed later.  Or delay answers during the most
     important parts of the lecture.
-- Avoid wall-of-text anwsers.  If reading an answer takes too long, it
+- Avoid wall-of-text answers.  If reading an answer takes too long, it
   puts the person (and other people who even try to read it) behind
   even more by taking up valuable mental energy.  If an answer needs a
   wall of text, consider these alternatives:
