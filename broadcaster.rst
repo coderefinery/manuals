@@ -186,6 +186,14 @@ Before each day
 
 * Test everything
 
+* Basic information private message::
+
+    * zoom info: 
+    * zoom link: 
+    * attendee hackmd: 
+    * notes hackmd: 
+    * live preview: 
+    * control panel: http://rkd.zgib.net/obs-tablet-remote/#!auto&host=HOST&port=PORT&password=PASSWORD&config=https://raw.githubusercontent.com/coderefinery/obs-config/master/obs-tablet-remote-config.json
 
 
 Before each broadcast
@@ -202,6 +210,9 @@ Before each broadcast
 * In zoom, right click on a participant without video and "Hide
   non-video participants".  You may need three participants in order
   to do this: if you have fewer, join through a browser or something.
+
+* Make other instructors co-hosts in the Zoom so that they can share
+  screen without the other person stopping.
 
 * Start recording / start streaming ~20-30 minutes in advance, with
   audio muted and on the title card scene.
@@ -258,6 +269,12 @@ Common problems
   need to save in between?).
 
   It's possible there are other times you need to adjust the audio.
+
+* **I have HackMD open in view mode (to share) and HackMD open in edit
+  mode (to edit), but OBS keeps switching to share the editable
+  one**.  OBS seems to go by window title.  Try this: Use a different
+  browser, or run one of them in private mode (so that the title is
+  different).
 
 
 

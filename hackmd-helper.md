@@ -93,11 +93,17 @@ Answer questions
   - You need to find your own balance.  Maybe a quick answer right
     away, and more detailed later.  Or delay answers during the most
     important parts of the lecture.
-- Be careful that you don't give too long and involved answers, which
-  take up too much mental energy from learners while they are
-  learning.  It's a balance you should think about on your own.
-  - Here, it is useful to have multiple short followups in bullet
-    points, each going a bit more in detail.
+- Avoid wall-of-text anwsers.  If reading an answer takes too long, it
+  puts the person (and other people who even try to read it) behind
+  even more by taking up valuable mental energy.  If an answer needs a
+  wall of text, consider these alternatives:
+  - Progressive bullet points getting more detailed (first ones
+    useful alone for basic cases)
+  - Don't be worried to say "don't worry about this now, let's talk
+    later."
+  - Figure out the root problem instead of answering every possible
+    interpretation
+  - Declare it advanced and that you will come back later.
 
 Ensure it can be posted quickly:
 

@@ -110,6 +110,14 @@ others. Comment/Ask in the HackMD or speak up and ask!
   audience.  Have a reserve session at the end you prepare, but are
   ready to skip.
 
+- Not clearly separating (in the learner's mind, by meta-talk), the
+  differences between *demo*, *type-along*, and
+  *exercise*/*exercise-prep*.
+  - Demo and type-along are hard to do at the same time: they are very
+    different types of focus
+  - Type-along and exercise of the same thing are not good to combine,
+    leads to duplication
+
 - Explaining how, but not why.
 
 - Running out of time to making your environment match the
@@ -140,6 +148,10 @@ For {doc}`livestream courses <livestream-teaching>`:
   HackMD.  You might take a few minutes to screenshare HackMD and
   after each exercise session, after each break, after each episode,
   and at the end of each day.
+
+- "Stop screenshare" instead of letting the other person start and
+  take it from you.  Or, the broadcaster switching the scene.  Never
+  do "stop screenshare".
 
 - Forgetting to screenshare the HackMD during Q&A time (this is the
   most important way learners know it is active, and thus feel a
