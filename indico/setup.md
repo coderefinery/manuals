@@ -19,14 +19,17 @@ which needs to be manually imported as a json file.
 - Click the latest workshop event. You might need to show "events in the future" to see the latest event.
 - Go to admin mode (click the pen symbol on top toolbar, "Switch to the management area of this event").
 - Click the "Clone" button, and select "Clone Once". Click "Next" button.
-- For "What should be cloned", select "ACLs and protection settings" and
-  "Registration forms". Uncheck "Refresh user information". Click "Next".
+- For "What should be cloned", select
+  "Registration forms" (do not clone "ACLs and protection settings").
+  Uncheck "Refresh user information". Click "Next".
 - Confirm category "CodeRefinery", and click "Next".
 - Select the start date and time of the workshop, click "Clone".
 - You are now on the cloned event page (confirm that the event number changed), and you should start updating the information.
 
 ### Update copied event information
 
+- Adjust permissions so that only the workshop organizer(s)/coordinator(s) has/have access to the forms and data.
+  In order to have better control over who has access we do not copy "ACLs and protection settings" from older events.
 - Update the Title, Description, Date, Time, Room, Venue and Address fields by clicking the pen symbols on the right.
 - Click "Protection" and remove administrators who were copied from past event but should not have access to this event.
 - Click "Registration" from the left-hand menu, and confirm that there is one or two registration forms, probably with a wrong title.
