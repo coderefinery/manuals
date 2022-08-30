@@ -159,7 +159,7 @@ Oversees registration and generally everything on the participant side.
 ### Exercise leader coordinator
 
 * Communicate with all exercise leaders, contact person for them
-* Organize the {doc}`exercise leader onboarding session <helper-intro>`
+* Organize the {doc}`exercise leader onboarding session <exercise-leaders>`
 * Usually attends as an expert helper to generally be available and
   support all leaders.
 * Collect feedback

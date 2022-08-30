@@ -13,7 +13,7 @@ because you can rely on two minds to do it live.
 The difficulty is that you need to coordinate and it is our nature to
 keep talking while teaching, making a conversation difficult.
 
-.. see-also::
+.. seealso::
 
    `Demo of CodeRefinery livestream teaching
    <https://www.youtube.com/watch?v=WjmttAniZX8>`__.  This shows a
