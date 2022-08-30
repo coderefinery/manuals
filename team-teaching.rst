@@ -51,13 +51,15 @@ see things go slightly wrong and your live debugging.
 Still it can be useful to agree with your co-instructor on the choreography
 of your session (more about this below).
 
-| One of the most important principles of ship handling is that there
-| be no ambiguity as to who is controlling the movements of the
-| ship. One person gives orders to the ship's engine, rudder, lines,
-| and ground tackle. This person is said to have the "conn."
-|
-| — James Alden Barber, 2005, "Introduction", The Naval
-| Shiphandler's Guide, p. 8. Mark B. Templeton, via `wikipedia <https://en.wikipedia.org/wiki/Conn_(nautical)>`__
+.. pull-quote::
+
+   One of the most important principles of ship handling is that there
+   be no ambiguity as to who is controlling the movements of the
+   ship. One person gives orders to the ship's engine, rudder, lines,
+   and ground tackle. This person is said to have the "conn."
+
+   — James Alden Barber, 2005, "Introduction", The Naval
+   Shiphandler's Guide, p. 8. Mark B. Templeton, via `wikipedia <https://en.wikipedia.org/wiki/Conn_(nautical)>`__
 
 As the quote says, in any large enough operation, multiple people are
 involved, but responsibilities should be clear.  At least, the team

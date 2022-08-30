@@ -9,13 +9,16 @@ most common starting point.
 
 ## Why co-teaching?
 
-.. figure:: img/teach-teaching--screenshot.png
-   :align: right
-   :figwidth: 50%
+```{figure} img/teach-teaching--screenshot.png
+---
+align: right
+figwidth: 50%
+---
 
-   Demo of team teaching.  Two people are speaking, in this case one
-   is typing and giving the small point of view, and one is explaining
-   the big point of view.
+Demo of team teaching.  Two people are speaking, in this case one
+is typing and giving the small point of view, and one is explaining
+the big point of view.
+```
 
 The dream of interactive teaching is hard to achieve: most audiences
 are very quiet and even if someone does speak up, it is a small
@@ -54,8 +57,8 @@ when the other is talking.
   clean environment that matches learners, make a good prompt, and so
   on.  See {doc}`instructor-tech-setup` and
   {doc}`instructor-tech-online`.
-- Watch the `Demo of CodeRefinery livestream teaching
-  <https://www.youtube.com/watch?v=WjmttAniZX8>`__ (read the
+- Watch the [Demo of CodeRefinery livestream teaching
+  ](https://www.youtube.com/watch?v=WjmttAniZX8) (read the
   description for an explanation).
 - Talk and plan with your co-instructors: decide which model of
   co-teaching you will give.
