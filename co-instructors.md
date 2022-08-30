@@ -53,6 +53,18 @@ when the other is talking.
 
 ## Preparing for your first time
 
+```{figure} img/screenshare/s10-kickstart-prompt-log.png
+:align: right
+:width: 50%
+
+An example of a beautiful screenshare.  Note the portrait orientation
+(you have half the screen free for notes and HackMD, learners have
+half the screen free to do their own work).  The terminal is
+dark-on-light, a minimal prompt, no other fancy shell distractions,
+there is a shell history visible, and slightly distinct colors between
+the web browser and the terminal.
+```
+
 - There is some generic technical setup for your own computer - make a
   clean environment that matches learners, make a good prompt, and so
   on.  See {doc}`instructor-tech-setup` and

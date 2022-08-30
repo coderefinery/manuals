@@ -6,6 +6,11 @@ room, and have to have an overview of more of the course.  In short,
 if you want to take the next step in CodeRefinery, this is the place
 to start.
 
+```{seealso}
+
+{doc}`co-instructors` for an intro for starting co-instructors.
+```
+
 ## How do you get started?
 
 That's what this page is about (well, and the [instructor
@@ -94,6 +99,18 @@ As an exercise leader, if anything is unclear to you, it is very unclear to
 others. Comment/Ask in the HackMD or speak up and ask! 
 
 ## Top issues new instructors face
+
+```{figure} img/screenshare/s10-kickstart-prompt-log.png
+:align: right
+:width: 50%
+
+An example of a beautiful screenshare.  Note the portrait orientation
+(you have half the screen free for notes and HackMD, learners have
+half the screen free to do their own work).  The terminal is
+dark-on-light, a minimal prompt, no other fancy shell distractions,
+there is a shell history visible, and slightly distinct colors between
+the web browser and the terminal.
+```
 
 - Breaks are not negotiable, minimum 10 minutes.
 
