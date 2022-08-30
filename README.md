@@ -26,6 +26,7 @@ Hackmd mechanics <hackmd-mechanics.md>
 roles-overview
 exercise-leaders
 instructors
+co-instructors
 hackmd-helper
 expert-helpers
 host
