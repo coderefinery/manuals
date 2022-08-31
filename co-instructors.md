@@ -54,8 +54,10 @@ when the other is talking.
 ## Preparing for your first time
 
 ```{figure} img/screenshare/s10-kickstart-prompt-log.png
-:align: right
-:width: 50%
+---
+align: right
+width: 50%
+---
 
 An example of a beautiful screenshare.  Note the portrait orientation
 (you have half the screen free for notes and HackMD, learners have
