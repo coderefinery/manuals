@@ -56,7 +56,7 @@ when the other is talking.
 ```{figure} img/screenshare/s10-kickstart-prompt-log.png
 ---
 align: right
-width: 50%
+figwidth: 50%
 ---
 
 An example of a beautiful screenshare.  Note the portrait orientation
