@@ -114,3 +114,5 @@ find above.
   The "backwards lesson design process" is especially important to
   think about: while you don't have exercises, you do have goals to
   accomplish you can design to.
+  
+* Code Refinery lesson on [Sphinx and Markdown](https://coderefinery.github.io/documentation/sphinx/)
