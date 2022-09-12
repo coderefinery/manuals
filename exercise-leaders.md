@@ -300,7 +300,7 @@ As an exercise leader, you have a crucial role during workshops:
 - As we said, you don't have to know everything, just like learners don't
   necessarily know everything (we don't know everything, either). It's more
   important to be responsive and work together.
-- In an online workshop: Turn on your camera, and encourage everyone else to do so as well. Have an introductory round in the first breakout room session, to get to know your group. Whichever strategy you choose for your breakoutroom (see also {ref}`Helping in breakoutrooms <breakout-helpers>`), be present and encourage learners to ask questions.
+- In an online workshop: Turn on your camera, and encourage everyone else to do so as well. Have an introductory round in the first breakout room session, to get to know your group. Whichever strategy you choose for your breakoutroom, be present and encourage learners to ask questions.
 - In an in-person workshop: Stand up and walk around, try to make rounds by everyone.  If you are
   convenient, students will ask.  If you are sitting in the back, student's
   wont.  Students rarely try to get your attention from across the room if you
