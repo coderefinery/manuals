@@ -81,6 +81,7 @@ https://github.com/coderefinery/pre-workshop-survey
 * learners could sign up alone but request to do the exercises in team
 * -> 2 open breakoutrooms
 * Additional rooms for specific problem solving 
+* Learners can also create own team 
 
 
 #### Want extra help?
