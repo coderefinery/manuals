@@ -78,9 +78,10 @@ https://github.com/coderefinery/pre-workshop-survey
 
 ##### single learner teams
 
-* learners could sign up alone but request to join a breakoutroom
-* those rooms will be called xxx
-* xxx
+* learners could sign up alone but request to do the exercises in team
+* -> 2 open breakoutrooms
+* Additional rooms for specific problem solving 
+
 
 #### Want extra help?
 
@@ -101,7 +102,7 @@ Use HackMD:
 
 [Helping in breakoutrooms](https://coderefinery.github.io/manuals/breakout-rooms-helping/#helpers-in-breakout-rooms)
 
-*  keep people talking and interacting, understand their difficulties, and encourage them to work on the exercises together.
+* keep people talking and interacting, understand their difficulties, and encourage them to work on the exercises together.
 * Greeting
 * cameras
 * Chat to “Everyone” in a breakout room only means people in that room.
@@ -113,7 +114,7 @@ Use HackMD:
 
 **Strategy 1:** Encourage to share screen
 **Strategy 2:** Everyone does exercise themselves and ask if there is questions
-**Strategy 3:** Share screen
+**Strategy 3:** Share own screen
 
 ---
 
@@ -153,7 +154,7 @@ Use HackMD:
 
 #### Please do not
 
-* Take over keyboard, you can share commands in chat
+* Take over learners keyboard, you can share commands in chat
 * Criticize certain programs, operating systems, or GUI applications, or learners who use them. (Excel, Windows, etc.)
 * Talk contemptuously or with scorn about any tool. 
 * Dive into complex or detailed technical discussions
