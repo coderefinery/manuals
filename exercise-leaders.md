@@ -27,7 +27,6 @@ Without you, these large online workshops would not be possible!
 7. Open questions
 8. Transition to installation help
 
----
 
 #### 1. Introduction, Icebreaker, Zulip
 
@@ -43,7 +42,6 @@ Without you, these large online workshops would not be possible!
 
 * If you want to, sign up for our [zulip chat](https://coderefinery.zulipchat.com) to ask us anything, anytime. Use `#tools-workshop` during the workshop itself (you need to join the stream)
 
----
 
 #### 2. Learners survey
 
@@ -58,7 +56,6 @@ https://github.com/coderefinery/pre-workshop-survey
 
 [Schedule](https://coderefinery.org/2022-09-22-workshop/#schedule) with link to lesson material and exercises
 
----
 
 ##### Interactive stream?
 
@@ -113,14 +110,13 @@ Use HackMD:
 * read the room and see what they want, but do provide encouragement to do something.
 * keep time and ask for extra help with debugging
 
----
+
 ###### Strategies
 
 **Strategy 1:** Encourage to share screen
 **Strategy 2:** Everyone does exercise themselves and ask if there is questions
 **Strategy 3:** Share own screen
 
----
 
 ###### Common problems
 
@@ -128,13 +124,12 @@ Use HackMD:
 * larger / technical problems
 * too little time
 
----
 
 ###### How to be an exercise leader
 
 [How to be an exercise leader](https://coderefinery.github.io/manuals/exercise-leaders/)
 
----
+
 ##### Before 
 
 * check out the exercises 
@@ -142,7 +137,7 @@ Use HackMD:
     * note that some exercises are optional (and will probably not be done during workshop unless people are very fast)
 > think about what you would like to convey as exercise leader to the classroom. How did (or does) CodeRefinery help you?
 * if interested, check out instructor guide of lessons
-----
+
 
 ##### During
 
@@ -153,7 +148,6 @@ Use HackMD:
     * introductory round and camera
 * Rename yourself in zoom to reflect your team name and that you are EL
 
-----
 
 ##### Please do not
 
@@ -165,7 +159,6 @@ Use HackMD:
 * Use “just”, “easy”, "simply", "basic", "trivial" or other demotivating words. 
 * “I can’t believe you don’t know X” 
 
----
 
 #### 6. Path ahead
 
@@ -179,11 +172,9 @@ Would you like to
 See our [website](https://coderefinery.org/get-involved/) and [Manuals](https://coderefinery.github.io/manuals/contributing/)
 Best way to get started is to join the [zulip chat](https://coderefinery.zulipchat.com)
 
----
 
 #### 7. Open questions?
 
----
 
 #### 8. Installation help
 
