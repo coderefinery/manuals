@@ -196,8 +196,8 @@ As an exercise leader, you have a crucial role during workshops:
 ## Code of Conduct
 
 Teaching isn't about helping those who are already "in", it is for
-those who aren't.  Thus, we follow [a code Codee of
-Conduct](https://coderefinery.org/about/code-of-conduct/) for all our
+those who aren't.  Thus, we follow [a code of
+conduct](https://coderefinery.org/about/code-of-conduct/) for all our
 interactions before, during and after workshops.
 
 If you see anything that is not supporting an equal learning environment,
