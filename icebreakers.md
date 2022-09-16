@@ -32,8 +32,89 @@ could be useful some days or as a second question.
 - What is the most useful thing you know, that you wish someone had
   just told you about computing when you first started it?
 
+### Adapted from [pre-workshop survey](https://github.com/coderefinery/pre-workshop-survey/blob/main/questions/questions.md)
 
-## General
+- What is the operating system that you will use during the course (on your laptop)?
+  - macOS
+  - Linux
+  - Windows
+  - Other
+
+- Have you used version control? If yes, which?
+  - I don't know what it is
+  - I haven't used version control but I know what it is
+  - I have used version control, but I don't know which system
+  - Git
+  - Mercurial
+  - Subversion
+  - CVS
+  - Perforce
+  - Bazaar
+  - Other
+
+- Which programming languages are you using or will you use in your projects?
+  - Matlab
+  - R
+  - Python
+  - Perl
+  - C
+  - C++
+  - Fortran 77
+  - Fortran 90+
+  - Julia
+  - Haskell
+  - Go
+  - Rust
+  - Other
+
+- Are you using automated testing platforms (e.g. Travis CI, Jenkins or GitLab CI) in your programming project(s)?
+  - No and I don't know what it is
+  - No but I know what it is
+  - Yes
+
+- Are you employing code review in your programming project(s)?
+  - No and I don't know what it is
+  - No but I know what it is
+  - Yes
+
+- Are you using the Jupyter Notebooks in your programming project(s)?
+  - No and I don't know what it is
+  - No but I know what it is
+  - Yes
+
+- Are you using a web-based repository for your code(s)? Which ones?
+  - I'm not using a web-based repository
+  - GitHub
+  - GitLab
+  - Bitbucket
+  - Redmine
+  - source.coderefinery.org
+  - Other
+
+- How would you describe your programming experience?
+  - I have no programming experience
+  - Basic understanding and experience, I have looked through code and made minor adjustments
+  - I have written my own simple programs
+  - I have written many small codes and/or contributed to large complex software
+  - I am an expert
+
+- How comfortable are you with the Unix/Linux command line working in a terminal window?
+  - I know what most of the following commands do: cd, ls, cat, mv, rm, chmod, man, mkdir, cp, ssh
+  - I do not know what most of these commands do
+
+- Please mark the sessions that you are most interested in.
+  - Introduction to version control
+  - Documentation
+  - Jupyter notebooks
+  - Collaborative distributed version control
+  - Managing complexity and modular code development
+  - Automated testing
+  - Git branch design
+  - Software licensing
+  - Reproducible research
+
+
+## General questions
 
 - What’s a good icebreaker question?
 - How is the weather where you live?
