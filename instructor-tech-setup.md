@@ -1,12 +1,40 @@
 # Instructor technical setup
 
 ```{seealso}
-* {doc}`instructor-tech-online`
+* {doc}`instructor-tech-online` for screen sharing layouts.
+```
+
+```{admonition} Final checklist
+- Have you moved your `.bashrc` (or equivalent), `.gitconfig`, and
+  `.ssh` files/directories away and done the course setup instead?
+- Are you using a software environment as described in the workshop
+  instructions (conda, virtualenv, etc).  Is it clean and without
+  extra stuff installed?
+- Is your setup as boring as possible, if you are teaching at the
+  beginning of the workshop?  The first sessions aren't the time for
+  distractions.
+- Is your terminal
+  - Dark text on light background?
+  - Do you know key-bindings to change the font size quickly?
+- Do you have command history set up?  If in doubt, use
+  [prompt-log](https://github.com/rkdarst/prompt-log/).
+- Do you have a clean web browser session (different profile?)?
+- (if online) have you practiced Zoom screensharing "Share a portion
+  of the screen" in portrait-mode?
+- Have you shown your setup to someone else for feedback?
 ```
 
 Appearance matters.  When you look at other professionally made videos
 online, they look good.  As a presenter, you also need to work to make
-your screen look pleasing to the eye.  As a teacher of tech, you also
+your screen look pleasing to the eye.  It also has to be similar to a
+learner's screen, so that they are not distracted with your different
+configuration or appearance.
+
+
+
+## Simple or fancy screen?
+
+As a teacher of tech, you also
 *need to make sure that your screen supports the learning process*:
 you have conflicting goals of:
 
@@ -34,8 +62,8 @@ important to make things beautiful.**
 Do you have fancy ``.bashrc``, ``.gitconfig``, etc files?  Move them
 away so that you are as plain and normal as possible - beyond
 appearances, you don't want to use any shortcuts that every learner
-won't have access to ("hint: configure this" isn't enough, those who
-miss this will still be lost).
+won't have access to (telling learners configure it your way isn't
+enough, those who miss this will still be lost).
 
 Relevant files:
 
@@ -43,103 +71,132 @@ Relevant files:
 * ``.gitconfig``
 * ``.ssh/config``, ``.ssh/authorized_keys``
 * ``.conda/*``
-* Any config for any program you may demonstrate
+* Any config for any program you will be demonstrating
 
 
-## Command line prompt
+
+## Arrange your windows well
+
+This is mostly the topic of {doc}`instructor-tech-online` (our
+in-person window arrangements aren't so up-to-date).
+
+
+
+## Desktop environment
+
+- Do your window title bars take up lots of space?  Is it possible to
+  reduce their size for the teaching - you want as much space for
+  large font as possible.
+- Same for desktop menu bars, etc.
+- Do you need to go into light mode?  Dark text on light background is
+  much better than dark mode, so it is strongly recommended to do
+  this.
+
+
+
+## Web browser
+
+- Are you doing a lot in a web browser?  Consider making a separate
+  profile that is just for demos.
+- Install whatever basic safety extensions / ad blockers are most
+  relevant, but keep it simple.
+- Does your web browser have a way to reduce its menu bars and other
+  decoration size?
+  - Firefox: go to `about:config` and set layout.css.devPixelsPerPx to
+    a value slightly smaller than one, like `0.75`.  Be careful you
+    don't set it too small or large since it might be hard to recover!
+    When you set it to something smaller than 1, all window
+    decorations become smaller, and you compensate by zooming in on
+    the website more.  Overall, more information and less distraction
+
+
+
+## Terminal
+
+### Terminal color schemes
+
+- Dark text on light background, *not* dark theme.  Research and our
+  experience says that dark-text-on-light is better in some cases and
+  similar in others.
+- Make a dedicated "demos" profile in your terminal, if relevant.
+- You might want to make the background light grey, to avoid
+  over-saturating people's eyes and provide some contrast to the pure
+  white web browser.
+- Do you have any yellows or reds in your prompt or common outputs?
+  Adjust colors if possible.
+- Eliminate menu bars and any other decoration that uses valuable
+  screen space.
+
+### Clearing the terminal
+
+- Don't clear terminal often (or ever - un-learn CTRL-L if possible).
+  Learner's can follow as fast as you!  More people will wonder what
+  just got lost than are helped by seeing a blank screen.  Consider
+  pushing ``ENTER`` a few times instead.
+
+
+### Terminal size
+
+- Font should be large.
+- Know and use keyboard shortcuts for changing the font size.  You
+  can be larger when you are doing simple things, and make it
+  smaller when you have long lines that learners need to see.
+
+
+### Prompt
 
 Learners have to read your prompt quickly, understand what you
 entered, copy it, all the while not being distracted by everything
 else or your screen.  Set an easily-viewable prompt.
 
-- Colors may be good, or if not have a newline (don't little minimal
-  color and no spacing between commands, it is hard to parse what's a
-  command and what's an output.)
+Your prompt should be minimal: few distractions, and not take up many
+columns of text.
 
-- Consider prompt-log by rkdarst
-  (<https://github.com/rkdarst/prompt-log>).  It adds a interesting idea
-  that *the command you enter is also in color* and also provides
-  terminal history *before the command returns* (see below).  This is
-  still in development.
-
-- The minimum is `export PS1='\n\w \$ '` or even `\$ `.
-
-- With color is `export PS1='\n\[\e[0;36m\]\w \$\[\e[0m\] '`.
-
-- Consider setting `export PS1="\w $ "` in terminal (see below for
-  more), especially the first day.
-
+- `prompt-log` (next section) does this for you.
+- The minimum to do is is `export PS1='\$ '`.
+- Blank line between entries: `export PS1='\n\$ '`.
 - Have a space after the `$` or `%` or whatever prompt character you
   use.
-
-- See below for more prompt configuration
-
-
-## Terminal appearance
-
-- Create a nice, large shell window with good contrast on the screen.
-  Beware of colorized text, such as the red in "git diff".
-
-  - Consider setting a profile for your terminal, pre-configured for
-    courses (e.g. white, large size, dark colors).
-
-  - Eliminate menu bars and any other decoration that uses valuable
-    screen space.
-
-  - Know and use keyboard shortcuts for changing the font size.  You
-    can be larger when you are doing simple things, and make it
-    smaller when you have long lines that learners need to see.
-
-- Don't clear terminal often (or ever).  Learner's can follow as fast
-  as you!  More people will wonder what just got lost than are helped
-  by seeing a blank screen.  Consider pushing ``ENTER`` a few times
-  instead.
+- Strongly consider the bash shell.  This is what most new people will
+  use, and you should be less confusing to them.  (Later in workshops,
+  using other shells and being more adventurous is OK - learners will
+  know what is essential to the terminal and what is extra for you)
 
 
-
-## Terminal color
-
-Should you have a dark-on-light or light-on-dark color scheme?
-
-- Dark text on light background seems to be best for projectors.
-
-- Some people prefer light text on dark backgrounds, and this works on
-  screens.  Some people want the terminal to contrast with web
-  browsers that is often shown at the same time, and so on.
-
-- Our recommendation: **Use dark text on a white or light grey
-  background** (to be updated)
-
-
-
-## Optimize any other applications
-
-Adjust any other applications to appear "normal" and minimize wasted
-space.  For example, an advanced things to do would be minimize the
-size of title bars, remove menu bars when not needed, or reduce the
-size of tabs in web browsers.
-
-
-
-## Command line history
+### Command line history
 
 You *need* to find a way to show the recent commands you have entered,
 outside of your main window, so that learners can see the recent
 commands.
 
-If you are doing live shell work, you will have commands and output
-all interleaved, which makes it hard to follow what you actually
-typed.  Have a separate window that shows recent commands only,
-without output.  Arrange your screen so there is the main window and
-the smaller "history" window.  The history window runs the tail
-commands and can be used as a reference for what you just did.
-
-- Ideally, commands will appear before they terminate (if you ``less
-  file``, the command should appear before ``less` returns).
-
 Consider prompt-log by rkdarst
-(<https://github.com/rkdarst/prompt-log>), which gives colors and
-history even before the command returns.
+(<https://github.com/rkdarst/prompt-log>).  It adds a interesting idea
+that *the command you enter is also in color* and also provides
+terminal history *before the command returns* (see below).
+
+Arrange two terminals, so that there is the main work window and the
+history window with a font smaller size - it can be off to the side.
+
+See the following screenshot for an ideal arrangement:
+
+```{figure} img/screenshare/s10-kickstart-prompt-log.png
+:width: 50%
+
+**S10**: HPC Kickstart course.  Note the colors contrast of the
+windows and colors of the prompt and text.  The history is smaller and
+doesn't take up primary working space.  The working directory is
+in the window titlebar.
+```
+
+
+
+``````{admonition} Other command line history tools
+---
+class: dropdown
+---
+
+We used to recommend these, and some are still recommended.  But, the
+long text is a distraction by now, so it is hidden by default.
 
 Also check the [shell exporter by
 sabryr](https://github.com/Sabryr/Teaching-aids), which copies recent
@@ -208,28 +265,6 @@ Get-Content (Get-PSReadlineOption).HistorySavePath -Wait
 ```
 Unfortunately, this only shows commands after they have been executed.
 
-**Obselete**: The below commands rely on recording your entire session
-using `script`, and then dynamically following the output.  This
-allows you to track commands even in subshells/over ssh, but introduce
-a lot of other errors in corner cases.  These might work but needs
-debugging (there are lots of complexities in extracting out the right
-parts).  Note: some of these ignore the first line you type.
-
-```
-script -f demos.out
-
-# most general... prompt must end in '$ '.
-tail -n 0 -f demos.out | awk '{ if (match($0,/^[^$ ]+ ?[^$ ]*[$][[:cntrl:]0-9m;[]{,10} (.*)/,m)) print m[1] }'
-
-# Prompt format of [username@host]$
-tail -n 1 -f demos.out | while read line; do [[ "$line" =~ \]\$\ ([^ ].+)$ ]] && echo  ${BASH_REMATCH[1]}; done
-
-# Standard bash prompt of 'user@host$ ' (less likely to have false positives)
-tail -n 0 -f demos.out | awk '{ if (match($0,/^[^@]+@[^$]+[$][^ ]* (.*)/,m)) print m[1] }'
-
-# Prompt is $ ' alone on a line.
-tail -n 0 -f demos.out | awk '{ if (match($0,/^[$] (.*)/,m)) print m[1] }'
-```
 
 ```
 # used for the fish shell (note: untested)
@@ -239,3 +274,4 @@ tail -f -n 0 ~/fish_history | sed -u -e s'/- cmd:/ \>/'
 clear >$(tty)
 tail -n 0 -f ~/.zsh_history | awk -F\; 'NF!=1{printf("\n%s",$NF)}NF==1{printf("n %s ",$1)}'
 ```
+``````
