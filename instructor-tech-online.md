@@ -94,7 +94,9 @@ and dark background.
 :width: 50%
 
 **S10**: HPC Kickstart course.  Note the colors contrast of the
-windows and colors of the prompt and text.
+windows and colors of the prompt and text.  The history is smaller and
+doesn't take up primary working space.  The working directory is
+in the window titlebar.
 ```
 
 

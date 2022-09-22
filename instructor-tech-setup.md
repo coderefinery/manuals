@@ -5,22 +5,28 @@
 ```
 
 ```{admonition} Final checklist
-- Have you moved your `.bashrc` (or equivalent), `.gitconfig`, and
-  `.ssh` files/directories away and done the course setup instead?
+- Have you moved your configurations away and done the course setup
+  instead (or left it unconfigured)?: `.bashrc` (or equivalent),
+  `.gitconfig`, `.ssh`, `.conda`, etc.
 - Are you using a software environment as described in the workshop
   instructions (conda, virtualenv, etc).  Is it clean and without
   extra stuff installed?
-- Is your setup as boring as possible, if you are teaching at the
-  beginning of the workshop?  The first sessions aren't the time for
-  distractions.
+- Is your setup as boring-looking as possible, if you are teaching at
+  the beginning of the workshop?  The first sessions aren't the time
+  for distractions.
 - Is your terminal
   - Dark text on light background?
   - Do you know key-bindings to change the font size quickly?
 - Do you have command history set up?  If in doubt, use
-  [prompt-log](https://github.com/rkdarst/prompt-log/).
-- Do you have a clean web browser session (different profile?)?
+  [prompt-log](https://github.com/rkdarst/prompt-log/) and `tail` the
+  output in a separate smaller window.
+- Do you have a clean web browser session (different profile for
+  demos)?
+- If you use an advanced shell, do you have a simpler shell (bash) set
+  up for the demos?
 - (if online) have you practiced Zoom screensharing "Share a portion
-  of the screen" in portrait-mode?
+  of the screen" in portrait-mode?  See
+  {doc}`instructor-tech-online`.
 - Have you shown your setup to someone else for feedback?
 ```
 
@@ -40,7 +46,7 @@ you have conflicting goals of:
 
 * Making your screen look simple, to not distract from what you are
   trying to teach, and
-* Showing more advanced practical setups that others may want to copy.
+* Showing more advanced setups, so that others can learn and improve.
 
 In general, try to use a simpler arrangement at the beginning of
 workshops.  You, or other teachers, can begin showing more advanced
@@ -62,10 +68,11 @@ important to make things beautiful.**
 Do you have fancy ``.bashrc``, ``.gitconfig``, etc files?  Move them
 away so that you are as plain and normal as possible - beyond
 appearances, you don't want to use any shortcuts that every learner
-won't have access to (telling learners configure it your way isn't
-enough, those who miss this will still be lost).
+won't have access to (telling learners to add some configuration won't
+work - some will miss it and be lost, or worse their system may have a
+weird behavior in the future).
 
-Relevant files:
+Relevant files that are sometimes a problem:
 
 * ``.bashrc``
 * ``.gitconfig``
@@ -78,19 +85,30 @@ Relevant files:
 ## Arrange your windows well
 
 This is mostly the topic of {doc}`instructor-tech-online` (our
-in-person window arrangements aren't so up-to-date).
+recommendations for in-person window arrangements aren't so
+up-to-date, but the same principles apply but you have a widescreen
+view).
+
+- For online teaching, you will want to screenshare a portion of your
+  screen: half the screen in "portrait mode" so that the other half is
+  available.  See {doc}`instructor-tech-online`.
 
 
 
 ## Desktop environment
 
+- Is your overall desktop environment "normal"-looking?
 - Do your window title bars take up lots of space?  Is it possible to
   reduce their size for the teaching - you want as much space for
-  large font as possible.
+  large fonts as possible.
+  - Since you will only be sharing a portion of the screen, or have a
+    lower-resolution projector, these title bars take up more space
+    relative to the content.
 - Same for desktop menu bars, etc.
-- Do you need to go into light mode?  Dark text on light background is
-  much better than dark mode, so it is strongly recommended to do
-  this.
+- Do you need to go into light-mode theme?  Dark text on light
+  background is much better than dark mode, so it is strongly
+  recommended to do this.
+- Can you easily resize your windows for adjusting during teaching?
 
 
 
@@ -99,15 +117,18 @@ in-person window arrangements aren't so up-to-date).
 - Are you doing a lot in a web browser?  Consider making a separate
   profile that is just for demos.
 - Install whatever basic safety extensions / ad blockers are most
-  relevant, but keep it simple.
+  relevant, but keep it simple otherwise.
+- Can you turn off unneeded menu- and toolbars?
 - Does your web browser have a way to reduce its menu bars and other
   decoration size?
-  - Firefox: go to `about:config` and set layout.css.devPixelsPerPx to
-    a value slightly smaller than one, like `0.75`.  Be careful you
-    don't set it too small or large since it might be hard to recover!
-    When you set it to something smaller than 1, all window
-    decorations become smaller, and you compensate by zooming in on
-    the website more.  Overall, more information and less distraction
+  - Firefox-based browsers: go to `about:config` and set
+    `layout.css.devPixelsPerPx` to a value slightly smaller than one,
+    like `0.75`.  Be careful you don't set it too small or large since
+    it might be hard to recover!  When you set it to something smaller
+    than 1, all window decorations become smaller, and you compensate
+    by zooming in on the website more (you can set the default zoom to
+    be greater than 100% to compensate).  Overall, you get more
+    information and less distraction.
 
 
 
@@ -118,11 +139,13 @@ in-person window arrangements aren't so up-to-date).
 - Dark text on light background, *not* dark theme.  Research and our
   experience says that dark-text-on-light is better in some cases and
   similar in others.
-- Make a dedicated "demos" profile in your terminal, if relevant.
+- Make a dedicated "demos" profile in your terminal emulator, if
+  relevant.  Or use a different terminal emulator just for demos.
 - You might want to make the background light grey, to avoid
   over-saturating people's eyes and provide some contrast to the pure
-  white web browser.
-- Do you have any yellows or reds in your prompt or common outputs?
+  white web browser.  (this was an accessibility recommendation when
+  looking for ideal color schemes)
+- Do you have any yellows or reds in your prompt or program outputs?
   Adjust colors if possible.
 - Eliminate menu bars and any other decoration that uses valuable
   screen space.
@@ -131,51 +154,60 @@ in-person window arrangements aren't so up-to-date).
 
 - Don't clear terminal often (or ever - un-learn CTRL-L if possible).
   Learner's can follow as fast as you!  More people will wonder what
-  just got lost than are helped by seeing a blank screen.  Consider
-  pushing ``ENTER`` a few times instead.
+  just got lost than are helped by seeing a blank screen.  Push
+  ``ENTER`` a few times instead to add some white space.
 
 
 ### Terminal size
 
-- Font should be large.
-- Know and use keyboard shortcuts for changing the font size.  You
-  can be larger when you are doing simple things, and make it
-  smaller when you have long lines that learners need to see.
+- Font should be large (a separate history terminal can have a smaller
+  font).
+- Be prepared to resize the terminal and font as needed.  Know and use
+  keyboard shortcuts for changing the font size when you need to show
+  more columns (it's also OK if the terminal is wider than your screen
+  if most of the right side is not that important to see).  You can
+  have a larger font normally, and make it smaller and the terminal
+  wider when you have long lines that learners need to see.
 
 
 ### Prompt
 
-Learners have to read your prompt quickly, understand what you
-entered, copy it, all the while not being distracted by everything
-else or your screen.  Set an easily-viewable prompt.
-
 Your prompt should be minimal: few distractions, and not take up many
 columns of text.
 
-- `prompt-log` (next section) does this for you.
+Learners have to read your prompt quickly, understand what you
+entered, copy it, all the while not being distracted by everything
+else or your screen.  Day 1 git-intro is not the time to have your
+fancy git-bash prompt, instead show them how to use git to get that
+information.  Set an easily-viewable prompt.
+
+- `prompt-log` (see the next section on command line history) does
+  this for you.
 - The minimum to do is is `export PS1='\$ '`.
 - Blank line between entries: `export PS1='\n\$ '`.
 - Have a space after the `$` or `%` or whatever prompt character you
   use.
 - Strongly consider the bash shell.  This is what most new people will
-  use, and you should be less confusing to them.  (Later in workshops,
+  use, and bash will be less confusing to them.  (Later in workshops,
   using other shells and being more adventurous is OK - learners will
-  know what is essential to the terminal and what is extra for you)
+  know what is essential to the terminal and what is extra for your
+  environment).
 
 
 ### Command line history
 
-You *need* to find a way to show the recent commands you have entered,
+You need to find a way to show the recent commands you have entered,
 outside of your main window, so that learners can see the recent
 commands.
 
 Consider prompt-log by rkdarst
-(<https://github.com/rkdarst/prompt-log>).  It adds a interesting idea
+(<https://github.com/rkdarst/prompt-log/>).  It adds a interesting idea
 that *the command you enter is also in color* and also provides
 terminal history *before the command returns* (see below).
 
 Arrange two terminals, so that there is the main work window and the
-history window with a font smaller size - it can be off to the side.
+history window with a font smaller size - the history can be off to
+the side.
 
 See the following screenshot for an ideal arrangement:
 
