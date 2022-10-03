@@ -26,6 +26,7 @@ jobs:
         pip install -r requirements.txt
     - name: Install system dependencies
       run: |
+        sudo apt update
         sudo make gh-pages-dependencies
     # This parses the sphinx logs and reports problems via gh-actions
     - uses: ammaraskar/sphinx-problem-matcher@master
