@@ -2,15 +2,15 @@
 # Attending an livestream workshop
 
 We are glad you would like to attend an livestream workshop.  This page
-will help you mentally and physically prepare.
+will help you prepare and get the most out of the workshop and take
+advantage of the diverse ways to attend.
 
-Our workshops are interactive and hands-on, and you will get the most
-out of them if you can take part in all exercises, unlike a normal
-academic lecture where you mainly listen.  Thus, please read this and
-come prepared!
+Even though it's a one-to-many livestream, the course is still
+interactive.  In fact, it's more interactive, since everyone can Q&A
+at the same time via {doc}`HackMD <hackmd-mechanics>`.  Since we can
+record without privacy risk, you are better able to catch up and
+review.  Read on to learn more.
 
-A livestream workshop allow us to reach an unlimited number of people,
-at the cost of not being as interactive.  Still, we have solutions:
 - You might register to Zoom breakout rooms, which *are* interactive.
 - {doc}`HackMD <hackmd-mechanics>` allows you to ask questions anonymously -
   even better than a normal workshop!  Once we have a few tens of people in
@@ -23,16 +23,15 @@ at the cost of not being as interactive.  Still, we have solutions:
 ## How it works
 
 - You open the livestream in a web browser.  This is the "TV", it is
-  always on.
-- If you are attending Zoom exercise session, open this as well.  The
-  livestream will tell you when to switch to Zoom, and Zoom will tell
-  you when to switch to livestream.  There should only be sound coming
-  from one at a time, so you can simply follow the sound.
-- If you are not in a organized Zoom exercise session, you can form
-  your own mini-Zoom meetings and work together that way.
-  Screensharing is a great way to help each other!
-- You could just as well organize a in-person session, where you play
-  the stream in a meeting room and work together on your computers.
+  always on (but sometimes silent).
+- If you are part of an exercise/breakout group, be with them.  The
+  stream will tell you when the exercise/collaboration times are, and
+  you go to there.
+  - If you are attending Zoom exercise session, open this at the
+    beginning.  Leave it minimized when it's not active.
+  - If you are with an in-person group, be together.  When the stream
+    is quiet, you can interact freely.
+
 - The livestream is a portrait screenshare, so that it will only take
   up half of your screen (and the other half is for you to work).  (If
   you are in a physical meeting room with a projector or second
@@ -51,36 +50,34 @@ Screen layout with livestream on one side and workshop on the other.
 Check your workshop page for the general setup specific to that
 workshop.
 
-- Often, there is something to install.  We usually ask you to install
-  things so that your computer is set up to do work later.
+- Often, there is something to install on your own computer.  (We
+  usually ask you to set up your own computer, so you can continue
+  working independently later.)
 - There may be some basic skills, such as the command line shell, to
   review in advance.
 
 **Do the installation and configuration in advance, and double check
-it.**  In real workshops, problems here slow us down a lot, and if
-you don't prepare, you will immediately fall behind.  If there is a
-pre-workshop session for installation, go there if needed.
-
-If all else fails, join the workshop well in advance and ask
-for help then.  Usually, there will be enough time to get ready for
-the day.
+it.**  Our instructions are standard enough that someone local should
+be able to help you, if some central install help isn't provided.  The
+livestream can't wait for individual people (but a local group can
+provide live support).
 
 
 
 ## Take the workshop seriously
 
 It's easy to think "it's just online, it's easy to passively watch".
-However, for an interactive experience you do need to take part to get
-the most of out it, and our workshops are targeted to that.  If you
-read this page and the workshop prerequisites, you should be OK.
+And that is OK!  We'd rather have someone watch in case it might be
+useful, than exclude people who don't have time.  Our material is
+available for later.  In this case, please don't register for our
+Zoom/in-person sessions, since that can take a spot from others.
 
-*Don't do multiple meetings*, *reserve the entire timeslots on your
-calendar*, *attend every session*, *do the preparation*.
+However, we design the workshops to be interactive, and there is a lot
+of time scheduled for hands-on work and Q&A.  Reading this page and
+preparing will help you to make the most of it: *don't do multiple
+meetings*, *reserve the entire timeslots on your calendar*, *attend
+every session*, *do the preparation*.
 
-On the other hand, the point of livestreaming is that someone can
-passively watch without taking a seat from others.  If you want to
-watch without interacting, that is OK too!  Please don't take an
-interactive seat from others and consider returning actively later.
 
 
 
@@ -105,7 +102,8 @@ stay at for a while.
 An extra monitor is useful but not required, since there is a lot of
 stuff to follow: the stream itself, the lesson webpage, and the window
 where you are doing the assignment.  You could also use a second
-device to watch the stream.
+device to watch the stream.  However, we do design things to fit on
+one computer.
 
 If you have registered to attend breakout rooms, you'll be expected
 to talk at some times and take part, not simply be
@@ -126,14 +124,15 @@ conflicting ideas, you need to find what works best for you.
 
 ## Time management
 
-Despite what most people think, attending things online can be harder
-than in-person.
+Paying attention to something requires time, whether it is online or
+in-person.
 
 Don't schedule overlapping meetings, reserve the entire timeslots,
-minimze distractions.  It's easy to think you can do multiple things
+minimize distractions.  It's easy to think you can do multiple things
 at once when doing it online, but really it's a trap.
 
-Join the workshop 10 minutes early to get ready.
+Plan to join the stream 10 minutes early to get ready - we start with
+icebreakers and discussion then.
 
 There will be breaks, but even long ones go by very fast, and this
 gives you limited time to make coffee, eat, etc.  We try to limit
@@ -147,13 +146,13 @@ Make sure you take the breaks, walk around some, etc.
 ## Communication
 
 Most communication goes through [HackMD](hackmd-mechanics). Make sure
-that you have it open and practice during the icebreakers.  This is
-much better than chat, since you can ask anonymously, you can ask at
-the same time as others, and multiple people can answer.  We recommend
-you don't use chat, messages tend to get lost if not answered
-immediately.
+that you open it and try it out during the icebreakers - it will
+become obvious then.  There will be an absolute flood of information
+there, so watch strategically and don't let yourself get overloaded.
 
-
+HackMD is much better than chat, since you can ask *anonymously*, you
+can ask *at the same time as others*, and *multiple people can
+answer*, and *we fix it up and publish it at the end*.
 
 
 
