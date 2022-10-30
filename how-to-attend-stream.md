@@ -143,6 +143,38 @@ Make sure you take the breaks, walk around some, etc.
 
 
 
+## Accessibility
+
+We believe that livestream workshops offer a wide variety of tools
+which are useful to allow everyone to succeed.  Consider how you want
+to attend to make it the best for you:
+
+* Our material is provided in writing (lesson websites), by voice, and
+  by demo.  You don't have to strictly follow along at the speed we
+  teach.
+* We record videos and post the notes so you can review at your own
+  pace later on. Videos don't include audience voice or video, so you
+  don't have to be afraid to interact.
+* HackMD allows anyone to ask questions anonymously and
+  asynchronously, without interrupting others. On the other hand,
+  there are a *lot* of questions, so don't watch too closely if it is
+  distracting.  We continue answering questions for a little bit after
+  each day ends, so you can ask even if you can't write the question
+  on time.
+* Lesson websites/HackMD use standard web technologies, so that
+  browser accessibility plugins can be used (for example making the
+  font more accessible, check browser extensions).
+* Twitch can be live-captioned using the Google Chrome browser.  Our
+  videos on YouTube provide automatic captions immediately, since
+  videos are released immediately they don't come too late for you.
+  Other standard browser extensions can also provide other video
+  accessibility services without asking us.
+* You can follow along without providing any personal data
+  (registration, Twitch works with cookies blocked) - though
+  registration helps our reporting.
+
+
+
 ## Communication
 
 Most communication goes through [HackMD](hackmd-mechanics). Make sure
