@@ -11,11 +11,13 @@ have as much engagement.  It doesn't have to be this way.
 CodeRefinery has developed a vision of this teaching that can take the
 best of both worlds.
 
-.. admonition:: Video: The future of teaching
+```{admonition} Video: The future of teaching
 
-   "The future of teaching",
-   https://www.youtube.com/watch?v=S9Jor12Cxdc (45:31) is a talk
-   describing many aspects of this strategy in a concise form.
+"The future of teaching",
+<https://www.youtube.com/watch?v=S9Jor12Cxdc> (45:31) is a talk
+describing many aspects of this strategy in a concise form.
+```
+
 
 ## What is different about online?
 
