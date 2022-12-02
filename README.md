@@ -76,6 +76,7 @@ open-your-courses
 The project <the-project.md>
 governance
 outreach
+Logo and artwork <https://github.com/coderefinery/coderefinery-artwork>
 ```
 
 Download this guide as [single-page HTML](https://coderefinery.github.io/manuals/_builds/singlehtml/),
