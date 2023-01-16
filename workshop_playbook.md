@@ -1,7 +1,5 @@
 # Workshop playbook
 
-This page is work in progress based on https://hackmd.io/@coderefinery/2022-sep-ws-planning
-
 This page can be seen as a master to-do of things that need to be considered when planning a CodeRefinery workshop.
 It may also help with the organization of other workshops.
 
@@ -13,7 +11,10 @@ It may also help with the organization of other workshops.
     * CodeRefinery Zulip chat is a good place to find those
     * Also ask from known supporters (people organizing in-person or online exercise rooms)
 * Find people to fill core-roles of the organization team 
-    * TODO: Fill these
+    * Registration coordinator
+    * Instructor coordinator
+    * Director/Broadcaster
+    * Host
 * Decide if certification is possible and what is needed for getting a certificate/credits (ask from partner universities)
 * Find volunteer (co-)instructors; Zulip and "known associates"; also try to recruit new instructors from other channels
 * Distribute lessons
@@ -81,7 +82,7 @@ It may also help with the organization of other workshops.
     - Research institutes in all countries
 - Partner posters
     - Aalto (CS,U,NBE,PHYS,VAARE)
-- Notify-me list
+- Newsletter
  
 **Targeted marketing**
 
