@@ -126,7 +126,7 @@ Some thoughts on target groups that should be tried to be reached:
 - Check this page and update if necessary for future workshops
   - Document necessary steps and form rigid workflow
 - Save detailed schedule in each lesson page and link to it from workshop page
-  -As the schedule and workshop content is quite established at this point can we include as much actual content to the workshop page temlpate repo? Maybe fork/copy it so we still preserve the blank temlpate for WSaaS
+  - As the schedule and workshop content is quite established at this point can we include as much actual content to the workshop page temlpate repo? Maybe fork/copy it so we still preserve the blank temlpate for WSaaS
 - Post-Workshop survey 
   - Create draft
   - Create in Indico
