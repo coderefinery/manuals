@@ -1,89 +1,132 @@
 # Workshop playbook
 
-This page can be seen as a master to-do of things that need to be considered when planning a CodeRefinery workshop.
+This page is a check list that we use when planning a CodeRefinery workshop
+with 300 or more participants.
 It may also help with the organization of other workshops.
 
-## Before the workshop
-
-### Organization team
-
-* Find dates that fit most people that indicated interest in the workshop;
-    * CodeRefinery Zulip chat is a good place to find those
-    * Also ask from known supporters (people organizing in-person or online exercise rooms)
-* Find people to fill core-roles of the organization team
-    * Registration coordinator
-    * Instructor coordinator
-    * Director/Broadcaster
-    * Host
-* Decide if certificates will be possible and what is needed for getting a certificate/credits (ask from partner universities)
-* Find volunteer (co-)instructors; Zulip and "known associates"; also try to recruit new instructors from other channels
-* Distribute lessons
-    * via planning HackMD
-    * ask instructors to pick lessons, eg add their initials to lesson of interest
-    * minimum 2 instructors per lesson
-* remind instructors to also register for workshop
-* keep instructor onboarding
-    * remind to check issues and possibilities for adjustments, contributions of "their" lessons
-    * introduce CodeRefinery way of teaching if needed
-* set up and inform team about installation and exercise leader onboarding sessions
-* test and, if needed update installation instructions
+Please keep it brief and copy-paste-able to HackMD/HedgeDoc for the actual planning.
 
 
-### Workshop page and other planning tools
+## Find dates and distribute core roles
 
-- Set up a workshop page from template, and add it to "upcoming courses"
-- Create planning HackMD
-    - provide all links to important pages there
-    - There are two HackMDs: one internal (but public) for organizers, one for workshop participants.  The second can be made later.
-- Put workshop schedule on separate page
-- List all exercise leads (who consent to being listed) on the website
-- List instructors on the website
-- List expert helpers on the website
-
-### Workshop tools
-
-* create Zoom rooms and communicate their function and addresses
-    * instructor Zoom
-    * exercise Zoom
-* Set up Q&A HackMD (+ archive) with nice URL
+- [ ] Find workshop dates. Do this 1 year in advance. Avoid school holidays if possible.
+- [ ] Distribute core roles (see below).
 
 
-### Registration
+## Role distribution
 
-* Create indico event for registration handling
-    * Modify registration confirmation message to include links
+Roles and their responsibilities. This does not mean that a person will do
+everything that is part of their responsibility, but they will make sure that
+their responsibilities are followed-up and not forgotten.
 
-### Advertising
+Core roles:
+- [ ] Event director
+  - Create planning HackMD with all relevant links
+  - Distribute roles
+  - Add all sessions to CodeRefinery calendar separately
+  - Send calendar invite to all organizers, instructors, expert helpers, with all relevant links
+  - Decide if certificates will be possible and what is needed for getting a certificate/credits (ask from partner universities)
+  - Summarize lessons learned and make it a blog post
+  - Coordinate post-workshop survey
+- [ ] Registration coordinator
+  - Creates and maintains Indico registration page for the event
+  - Responsible for registration page
+  - Set up a workshop page from template, and add it to "upcoming courses"
+  - All communication with registrants
+  - Makes sure that individual learners and exercise leads know which team to join
+  - Reminds instructors and co-organizers to also register for workshop
+  - Updates indico auto-reply for last minute registrations
+  - Watches support email (Freshdesk) for requests/questions
+  - After the workshop:
+    - port changes from workshop page to template page
+    - on CR website move from "upcoming" to "past"
+    - add viewing statistics to webpage
+- [ ] Director/broadcaster
+  - Responsible for the stream tech
+  - Uploading videos (does not do all the work but coordinates it)
+  - Ice-breakers
+  - Scene selection during stream
+  - Creates instructor Zoom and communicates it
+- [ ] Instructor coordinator
+  - Makes sure each lesson and session has co-instructors
+  - Briefs instructors to make sure learners get a good experience (lesson material, issues, style, screen share)
+  - Bugs instructors to get software install requirements in time
+  - Makes sure software install instructions work
+  - List instructors on the website
+  - Collaborates with exercise coordinator on on-boarding sessions
+- [ ] Exercise coordinator
+  - Creates exercise Zoom and communicates it
+  - Sets up and watches and helps at Zoom exercise rooms
+  - Is the link between learners, exercise leads, and expert helpers
+  - Makes sure exercise list is communicated
+  - List all exercise leads (who consent to being listed) on the website
+  - List expert helpers on the website
+  - Creates learner HackMD (nice URL) with all relevant links
+  - Makes sure that each workshop day has a learner HackMD editor who edits and archives at the end of the day
+  - Collaborates with instructor coordinator on on-boarding sessions
+  - Drafts exercise leader onboarding summary email
+  - After the workshop remove the exercise repositories
+- [ ] Outreach and marketing lead
+  - Coordinates advertising (see below)
+  - Coordinates "mass" communication to participants during workshop (not
+    answering 1-1 questions about registration status)
+  - Update relevant news on the workshop webpage
+  - After each workshop day, send summary and preparation for next day email to
+    all (can be based on the website news and link there so that it can be
+    updated)
 
-- add all sessions to CodeRefinery calendar separately
-- Create/update advertising texts on the workshop page
-- CodeRefinery Twitter
-- Partner Twitter, retweet and own tweets
-    - Aalto Scientific Computing
-- Partner newsletter
-    - Sigma2
-    - SNIC
-    - ENCCS
-    - CSC
-- Partner websites training calendars
-    - CSC
-    - ENCCS
-    - UiB
-- Partner and other email lists
-    - Aalto STEM students
-    - Aalto triton users
-    - Delta doctoral network
-    - UiB researcher
-    - UiB HPC
-    - NERSK Bergen
-    - Bjerknes
-    - University of Oslo computational biology
-    - University of Oslo  Phd and Postdocs
-    - University of Oslo Dcince contact (?)
-    - Research institutes in all countries
-- Partner posters
-    - Aalto (CS,U,NBE,PHYS,VAARE)
-- Newsletter
+Instructors and co-instructors:
+- [ ] Intro
+- [ ] Git intro
+- [ ] Collaborative Git
+- [ ] Mini-intro
+- [ ] Reproducible research
+- [ ] Social coding
+- [ ] Jupyter
+- [ ] Documentation
+- [ ] Testing
+- [ ] Modular code development
+- [ ] Conclusion
+
+Supporting roles:
+- [ ] Expert helpers
+
+
+## Advertising channels
+
+Outreach and marketing lead (see above) coordinates this.
+It does not mean this person does everything but only
+makes sure that the information goes out.
+
+- [ ] Newsletter
+- [ ] Advertising texts on the workshop page
+- [ ] CodeRefinery Twitter and Mastodon
+- [ ] Partner Twitter, retweet and own tweets
+  - [ ] Aalto Scientific Computing
+- [ ] Partner newsletters
+  - [ ] Sigma2
+  - [ ] SNIC
+  - [ ] ENCCS
+  - [ ] CSC
+- [ ] Partner websites training calendars
+  - [ ] CSC
+  - [ ] ENCCS
+  - [ ] UiB
+- [ ] Partner and other email lists
+  - [ ] Aalto STEM students
+  - [ ] Aalto triton users
+  - [ ] Delta doctoral network
+  - [ ] UiB researcher
+  - [ ] UiB HPC
+  - [ ] NERSK Bergen
+  - [ ] Bjerknes
+  - [ ] University of Oslo computational biology
+  - [ ] University of Oslo  Phd and Postdocs
+  - [ ] University of Oslo Dcince contact (?)
+  - [ ] Research institutes in all countries
+- [ ] Partner posters
+  - [ ] Aalto (CS,U,NBE,PHYS,VAARE)
+
 
 **Targeted marketing**
 
@@ -95,45 +138,3 @@ Some thoughts on target groups that should be tried to be reached:
 - University staff (Computing, open sci, etc.) (people who can serve as local organizers and serve as local helpers)
 - Potential instructors (teach, etc.)
 - High-level management (provide us funding)
-
-### Communication
-
-- Draft email templates early; collaborate
-  - Observers (+ EL onboarding info)
-  - unsure registrations
-  - Exercise leads (+ onboarding info)
-  - Stream learners
-  - update indico auto-reply for last minute registrations
-  - remind team contacts to update team info
-- Calendar invites to EL/EH/instructors/organization team
-- Exercise leader onboarding summary email
-
-## Continuous / every few days:
-- check indico and follow up on registrations
-   - look at team registrations and check for problems
-     - identify where we need to do something. e.g. persons who wanted an in-person room. or persons who were not sure but wanted to be informed. basically, "playing" with the registration data now is important to not forget anybody and not to forget follow-up
-   - look at exercise leads and make sure they registered also for the onboarding
-   - try to approve as early as possible
- - check Freshdesk for new support requests
-
-## During the workshop
-- during/after each workshop day, collect relevant news on the workshop webpage
-- after every workshop day, send summary and preparation for next day email to all (can be based on the website news and link there so that it can be updated)
-
-## After the workshop
-
-- Port changes from workshop page to template page
-- Check this page and update if necessary for future workshops
-  - Document necessary steps and form rigid workflow
-- Save detailed schedule in each lesson page and link to it from workshop page
-  - As the schedule and workshop content is quite established at this point can we include as much actual content to the workshop page temlpate repo? Maybe fork/copy it so we still preserve the blank temlpate for WSaaS
-- Post-Workshop survey
-  - Create draft
-  - Create in Indico
-  - Send
-- archive and display statistics
-- summarize lessons learned and make it a blog post
-- summarize what we did in a todo list and place it in the manual
-- remove the exercise repositories
-- move from upcoming to past
-
