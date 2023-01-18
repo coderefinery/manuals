@@ -76,17 +76,26 @@ Core roles:
     updated)
 
 Instructors and co-instructors:
-- [ ] Intro
-- [ ] Git intro
-- [ ] Collaborative Git
-- [ ] Mini-intro
-- [ ] Reproducible research
-- [ ] Social coding
-- [ ] Jupyter
-- [ ] Documentation
-- [ ] Testing
-- [ ] Modular code development
-- [ ] Conclusion
+- Lessons:
+  - [ ] Intro
+  - [ ] Git intro
+  - [ ] Collaborative Git
+  - [ ] Mini-intro
+  - [ ] Reproducible research
+  - [ ] Social coding
+  - [ ] Jupyter
+  - [ ] Documentation
+  - [ ] Testing
+  - [ ] Modular code development
+  - [ ] Conclusion
+- Expectations:
+  - Review, triage, and work on lesson issues
+  - Define exercises
+  - Communicate exercise list to Exercise coordinator
+  - Set up and test a quality screen share
+  - Coordinate with co-instructor
+  - Communicate software requirements to Instructor coordinator
+  - Communicate timing adjustments to Instructor coordinator
 
 Supporting roles:
 - [ ] Expert helpers
