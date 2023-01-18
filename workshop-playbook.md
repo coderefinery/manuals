@@ -7,10 +7,10 @@ It may also help with the organization of other workshops.
 
 ### Organization team
 
-* Find dates that fit most people that indicated interest in the workshop; 
+* Find dates that fit most people that indicated interest in the workshop;
     * CodeRefinery Zulip chat is a good place to find those
     * Also ask from known supporters (people organizing in-person or online exercise rooms)
-* Find people to fill core-roles of the organization team 
+* Find people to fill core-roles of the organization team
     * Registration coordinator
     * Instructor coordinator
     * Director/Broadcaster
@@ -74,17 +74,17 @@ It may also help with the organization of other workshops.
     - Aalto triton users
     - Delta doctoral network
     - UiB researcher
-    - UiB HPC 
+    - UiB HPC
     - NERSK Bergen
     - Bjerknes
-    - University of Oslo computational biology 
-    - University of Oslo  Phd and Postdocs 
+    - University of Oslo computational biology
+    - University of Oslo  Phd and Postdocs
     - University of Oslo Dcince contact (?)
     - Research institutes in all countries
 - Partner posters
     - Aalto (CS,U,NBE,PHYS,VAARE)
 - Newsletter
- 
+
 **Targeted marketing**
 
 Some thoughts on target groups that should be tried to be reached:
@@ -96,7 +96,7 @@ Some thoughts on target groups that should be tried to be reached:
 - Potential instructors (teach, etc.)
 - High-level management (provide us funding)
 
-### Communication 
+### Communication
 
 - Draft email templates early; collaborate
   - Observers (+ EL onboarding info)
@@ -127,7 +127,7 @@ Some thoughts on target groups that should be tried to be reached:
   - Document necessary steps and form rigid workflow
 - Save detailed schedule in each lesson page and link to it from workshop page
   - As the schedule and workshop content is quite established at this point can we include as much actual content to the workshop page temlpate repo? Maybe fork/copy it so we still preserve the blank temlpate for WSaaS
-- Post-Workshop survey 
+- Post-Workshop survey
   - Create draft
   - Create in Indico
   - Send
