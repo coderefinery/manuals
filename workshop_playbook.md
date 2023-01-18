@@ -34,6 +34,7 @@ It may also help with the organization of other workshops.
 - Set up a workshop page from template, and add it to "upcoming courses"
 - Create planning HackMD
     - provide all links to important pages there
+    - There are two HackMDs: one internal (but public) for organizers, one for workshop participants.  The second can be made later.
 - Put workshop schedule on separate page
 - List all exercise leads (who consent to being listed) on the website
 - List instructors on the website
