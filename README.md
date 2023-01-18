@@ -34,6 +34,7 @@ director
 broadcaster
 video-editor
 workshop-organizers
+workshop-playbook
 ```
 
 ```{toctree}
