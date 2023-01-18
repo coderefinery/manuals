@@ -53,7 +53,7 @@ It may also help with the organization of other workshops.
 * Create indico event for registration handling
     * Modify registration confirmation message to include links
 
-### Advertizing
+### Advertising
 
 - add all sessions to CodeRefinery calendar separately
 - Create/update advertising texts on the workshop page
