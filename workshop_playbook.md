@@ -117,7 +117,8 @@ Some thoughts on target groups that should be tried to be reached:
  - check Freshdesk for new support requests
 
 ## During the workshop
-- after every workshop day, send summary and preparation for next day email to all
+- during/after each workshop day, collect relevant news on the workshop webpage
+- after every workshop day, send summary and preparation for next day email to all (can be based on the website news and link there so that it can be updated)
 
 ## After the workshop
 
