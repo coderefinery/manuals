@@ -15,7 +15,7 @@ It may also help with the organization of other workshops.
     * Instructor coordinator
     * Director/Broadcaster
     * Host
-* Decide if certification is possible and what is needed for getting a certificate/credits (ask from partner universities)
+* Decide if certificates will be possible and what is needed for getting a certificate/credits (ask from partner universities)
 * Find volunteer (co-)instructors; Zulip and "known associates"; also try to recruit new instructors from other channels
 * Distribute lessons
     * via planning HackMD
