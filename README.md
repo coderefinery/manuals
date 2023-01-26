@@ -20,7 +20,7 @@ Hackmd mechanics <hackmd-mechanics.md>
 ```
 
 ```{toctree}
-:caption: Workshop roles
+:caption: Workshop playbook
 :maxdepth: 1
 
 roles-overview

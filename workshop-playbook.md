@@ -1,7 +1,8 @@
-# Workshop playbook
+# Workshop checklist template
 
 This page is a check list that we use when planning a CodeRefinery workshop
-with 300 or more participants.
+with 300 or more participants - it is copied to a HackMD.  Detailed
+descriptions are in the roles pages.
 It may also help with the organization of other workshops.
 
 Please keep it brief and copy-paste-able to HackMD/HedgeDoc for the actual planning.
