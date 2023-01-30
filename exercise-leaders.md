@@ -79,7 +79,7 @@ As an team leader, we do not expect you to know all our [CodeRefinery training m
 * Learners can also form own team 
 
 **Make it easier for learners to ask for help**:
-* Rename yourself in Zoom to reflect your team name and that you are EL
+* Rename yourself in Zoom to reflect your team name and that you are TL
 
 **Want extra help?**
 * It is ok to not know something!
