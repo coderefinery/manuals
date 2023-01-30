@@ -1,9 +1,7 @@
 # Roles overview
 
 CodeRefinery has been able to scale online workshops while maintaining
-an interactive feeling.  Despite the size, the events feel easy to put
-on because of the many helpers we have around.  This page describes
-the roles that we have created.
+an interactive feeling. This page describes the roles that we use in our workshops.
 
 Despite the many different roles documented here, **in practice many
 of them are occupied by the same people**.
@@ -16,7 +14,7 @@ we only show up and teach!"
 
 A common pathway goes (Learner/Exercise leader) → (Expert
 helper/Instructor) → (More specialized roles).  **Note that thanks to
-our {doc}`team teaching <team-teaching>`, it is really easy to join as
+our {doc}`team teaching or "co-teaching" <team-teaching>`, it is really easy to join as
 an instructor!**
 
 
