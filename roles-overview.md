@@ -14,7 +14,7 @@ than small workshop can have (thus, the large number of roles below).
 Many of our instructors give feedback such as "this is so much easier:
 we only show up and teach!"
 
-A common pathway goes (Learner/Exercise leader) → (Expert
+A common pathway goes (Learner/team leader) → (Expert
 helper/Instructor) → (More specialized roles).  **Note that thanks to
 our {doc}`team teaching <team-teaching>`, it is really easy to join as
 an instructor!**
@@ -31,9 +31,9 @@ Comes and learns.
 * Does necessary preparation and attends the workshop
 * More info: {ref}`Learners section <toc-learners>`
 
-### Exercise leader
+### team leader
 
-Exercise leaders are only a small step above learners.  They aren't
+team leaders are only a small step above learners.  They aren't
 expected to know everything, but mainly keep their breakout rooms on
 track - they could even be a slightly more confident learner.
 
@@ -42,7 +42,7 @@ track - they could even be a slightly more confident learner.
   * makes welcoming community
   * answers some questions
   * ask for more help when needed
-* Attends a one-hour exercise leader preparation session.
+* Attends a one-hour team leader preparation session.
 * More info: {doc}`exercise-leaders`
 
 ### Instructor
@@ -64,7 +64,7 @@ Thanks to HackMD and breakout rooms, they have plenty to do.
 
 * All-around generalist who assists wherever is needed
 * Answers questions in HackMD
-* Supports exercise leaders in breakout rooms: rotates between
+* Supports team leaders in breakout rooms: rotates between
   breakout rooms and checks how things are going
 * Identifies important issues and raises them to the instructors,
   "voice of the audience"
@@ -156,10 +156,10 @@ Oversees registration and generally everything on the participant side.
 
 * Makes sure workshop gets advertised in different places
 
-### Exercise leader coordinator
+### team leader coordinator
 
-* Communicate with all exercise leaders, contact person for them
-* Organize the {doc}`exercise leader onboarding session <exercise-leaders>`
+* Communicate with all team leaders, contact person for them
+* Organize the {doc}`team leader onboarding session <exercise-leaders>`
 * Usually attends as an expert helper to generally be available and
   support all leaders.
 * Collect feedback
@@ -198,6 +198,6 @@ Roles that should *not* be combined:
 Other notes:
 
 * **HackMD manager** can rotate between different people.
-* **Expert helpers** can replace **Exercise leaders** if they cannot join the
+* **Expert helpers** can replace **team leaders** if they cannot join the
   full workshop
 * Coordinators delegate

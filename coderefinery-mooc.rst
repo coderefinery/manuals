@@ -134,7 +134,7 @@ MOOC format, but are even more important):
     this time), or you go on.
 
 * You should also make it clear to the audience (mainly
-  helpers/exercise leaders) what the expectation for each exercise
+  helpers/team leaders) what the expectation for each exercise
   session is.  This should be written in the HackMD!
 
 * It is OK to decide you can't make things perfect for every audience.
@@ -172,10 +172,10 @@ audience".  This is a logical role for the HackMD helper.
 
 
 
-Audience and exercise leaders
+Audience and team leaders
 -----------------------------
 
-The learners and exercise leaders focus on watching the material and
+The learners and team leaders focus on watching the material and
 asking questions in HackMD, much as in a regular course.
 
 In the main meeting with breakouts

@@ -53,7 +53,7 @@ A livestream workshop allows us to reach an unlimited number of people, at the c
 However, we have had great experiences with the following strategy:
 
 * HackMD as collaborative note-taking tool allows learners to ask questions anonymously and everyone can answer these questions asynchronously.
-* Learners can register to join Zoom breakout rooms, which are interactive and exercise leaders can help with any questions during exercise sessions and breaks.
+* Learners can register to join Zoom breakout rooms, which are interactive and team leaders can help with any questions during exercise sessions and breaks.
 * Learners can also form private breakout rooms or meet in person and watch the stream and do exercises together.
 
 While the full livestream setup is a bit complicated, you as an instructor do not have to worry about anything but your teaching.

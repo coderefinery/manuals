@@ -100,7 +100,7 @@ speak, and where they are (what content do they consume?).
 CodeRefinery buyer personas could include:
 
 * Learners
-* Exercise leaders
+* team leaders
 * Group leaders or university staff who can recommend their audience
   to attend a workshop
 * Prospective instructors and helpers
@@ -174,7 +174,7 @@ goes off into details of the implementation next.
    * More followers?
    * More views of videos?
    * More funding?
-   * More exercise leaders?
+   * More team leaders?
 
 2. List the buyer personas relevant to us. (See chapter 3 for the list)
 3. Create a persona around each of these buyers. (CR: see chapter 3
