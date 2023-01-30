@@ -55,7 +55,7 @@ open registration to attend the course.
 - Your audience (for example, the community at your university)
   registers there, and you relay communication from us to them.
 - You may (but don't have to) create **teams**, where you have one
-  exercise leader for 5-6 learners.  The exercise leader guides the
+  team leader for 5-6 learners.  The team leader guides the
   team and supports collaboration and community - and lets us scale
   much better than we could otherwise.  Teams also support retention
   after the course, especially if they knew each other before
@@ -77,11 +77,11 @@ open registration to attend the course.
 
 
 
-## Step 2c: Joint registration, you provide exercise leaders for your teams
+## Step 2c: Joint registration, you provide team leaders for your teams
 
 - A lot like "joint registration", but for workshops where we
   centrally organize teams.
-- You locally recruit {doc}`exercise leaders <exercise-leaders>` for your
+- You locally recruit {doc}`team leaders <exercise-leaders>` for your
   own learners.  This saves us the effort of recruiting exercise
   leaders and allows us to scale more.
 

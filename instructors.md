@@ -2,7 +2,7 @@
 
 Instructors are the ones who "lecture" in the workshops - but of
 course there are many other roles which are helping with the teaching,
-most notably exercise leaders and other helpers.
+most notably team leaders and other helpers.
 
 This page links guides on various aspects of being an instructor.
 
@@ -23,7 +23,7 @@ instructor-tech-online
 
 
 
-## From exercise leader/helper to more
+## From team leader/helper to more
 
 Here is one possible pathway from learner to (whatever else).  This is
 an *idea* for a pathway but by no means a requirement - you can join
@@ -31,7 +31,7 @@ at whatever step you like, and steps don't have to happen in order.
 Maybe you are interested in some or the other.  There are also roles
 completely outside of this pathway.
 
-* After being a learner, you come back as an exercise leader/helper.
+* After being a learner, you come back as an team leader/helper.
 * When you have a solid understanding of all materials, you may join
   as an expert helper.
 * You begin co-teaching episodes with someone else

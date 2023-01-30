@@ -1,14 +1,14 @@
-# Exercise leaders
+# team leaders
 
-We use this page during exercise leader onboarding.
-**Thanks for being an exercise leader :heart:**!
+We use this page during team leader onboarding.
+**Thanks for being an team leader :heart:**!
 Without you, these large online workshops would not be possible.
 
 
 ## Onboarding session: Introduction, icebreaker, and project chat
 
 We usually offer two one-hour timeslots in the week before the workshop (check
-the schedule!) for exercise leader onboarding. You are expected to join one of
+the schedule!) for team leader onboarding. You are expected to join one of
 these times. During this time, we will talk about the role of the exercise
 leader during the workshop and answer any open questions you may have. We will
 also go through the material below.
@@ -52,14 +52,14 @@ contains links to lesson material and exercises.
 
 ## Preparing for the workshop
 
-As an exercise leader, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
+As an team leader, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
 
 - **Take a look at the exercises in advance** of each days (revised
   lessons tend to have an "exercise list" page).  We try to make each
   exercise self-explanatory so that you can easily lead, but if you do one
   thing, scan over the exercises and understand the general point of each of them.
 - **Be ready to introduce yourself** in one or two sentences to your breakout room: think about what you
-  would like to convey as exercise leader to the classroom. How did (or does) CodeRefinery help you?
+  would like to convey as team leader to the classroom. How did (or does) CodeRefinery help you?
 - If you are interested, also read through the **instructor guides** for the lessons (there should be
   a link at the top or sidebar of each lesson).
 
@@ -99,7 +99,7 @@ questions at the bottom.
 
 ## Your task during exercise sessions
 
-As an exercise leader in a breakout room, your main task is to **keep people talking
+As an team leader in a breakout room, your main task is to **keep people talking
 and interacting, understand their difficulties, and encourage them to
 work on the exercises together**.
 
@@ -134,7 +134,7 @@ questions at the bottom.
 There are several strategies you can use to run your breakout room:
 
 Strategy 1:
-- **Exercise leader asks someone to share the screen and go through the exercise.**
+- **team leader asks someone to share the screen and go through the exercise.**
 - You can encourage the others to guide the one who is sharing the
   screen. Or let the person go on her/his own pace.
   - If no one dares at first, you can also start sharing your screen and let the room tell you what to write.
@@ -157,7 +157,7 @@ Strategy 3:
 
 ## Create a positive learning environment
 
-As an exercise leader, you have a crucial role during workshops:
+As an team leader, you have a crucial role during workshops:
 
 - Encourage learners to learn from each other.
 - Acknowledge that some of the material can be difficult and that people in your breakoutroom will
@@ -259,16 +259,16 @@ Best way to get started is to join the [Zulip chat](https://coderefinery.zulipch
 
 ## Background: hierarchical workshops to scale
 
-Traditionally, a workshop has instructors and exercise leaders/helpers, but the
+Traditionally, a workshop has instructors and team leaders/helpers, but the
 capacity is limited by instructors, so we are limited to ~30-40 people
 at most.  Then, we tried to scale to larger numbers: even up to and beyond 100
-people.  For this, we have to rely on *exercise leaders* a lot more, to run a
-breakout room.  An exercise leader does not have to be an expert in the
+people.  For this, we have to rely on *team leaders* a lot more, to run a
+breakout room.  An team leader does not have to be an expert in the
 material, but should be able to keep things flowing.
 
-Exercise Leaders are an essential part of the CodeRefinery workshop team and
+team leaders are an essential part of the CodeRefinery workshop team and
 allow CodeRefinery to scale to many more people than we could otherwise handle.
-During a (n online) workshop, Exercise leaders will be in a breakout room
+During a (n online) workshop, team leaders will be in a breakout room
 (virtual side room) with around 5 people, guide them through the course, keep
 time, and let us know when more help is needed during the exercise sessions.
 Instructors and expert helpers are always just one click away.  It is very
@@ -276,7 +276,7 @@ likely that you'll grow as a mentor and learn how to be a more efficient
 teacher. 
 
 
-## What is needed to be an exercise leader?
+## What is needed to be an team leader?
 
 Most importantly, *you do not have to know everything* (we don't, either), but you are expected to:
 
@@ -290,9 +290,9 @@ Most importantly, *you do not have to know everything* (we don't, either), but y
 
 - Keep exercises going and let us know when there are difficult questions!
 
-- Come to a one-hour "Exercise leader onboarding" (see below) before the workshop.
+- Come to a one-hour "team leader onboarding" (see below) before the workshop.
 
-> If you aren't sure if you can be an exercise leader: you probably can be one!
+> If you aren't sure if you can be an team leader: you probably can be one!
 
 
 ## Background: Teams
@@ -305,17 +305,17 @@ needed when people can't attend.
 
 We sometimes allow people to register as teams: This could for example be a
 group colleagues/friends where one of the team members has a bit of knowledge
-on the tools presented in the workhop. This person can act as exercise leader
+on the tools presented in the workhop. This person can act as team leader
 for the workshop, but may still learn a thing or two themselves. In that way
 you can work with people you know and the barrier for asking questions and
 discuss together may be a bit lower than in a group of strangers. Since teams
-with exercise leaders are 'self-sustaining' we usually accept all team
+with team leaders are 'self-sustaining' we usually accept all team
 registrations, while registrations as single learner may be put on waiting list
 or, if applicable redirected to the stream, when they exceed our capacity based
-on the number of individual exercise leaders. 
+on the number of individual team leaders. 
 
 
-## Material for exercise leaders
+## Material for team leaders
 
 If you have been to a CodeRefinery workshop before, you will most likely know the following, but if unsure, also check these links: 
 
@@ -337,7 +337,7 @@ leaders do *not* need to use this, use HackMD instead).
 
 During the workshop, HackMD (collaborative document) is our main communication channel, where you can ask questions or request us to visit your breakout room in case of tricky questions or further discussion potential.
 
-If you had fun being an exercise leader for the workshop, please visit our
+If you had fun being an team leader for the workshop, please visit our
 {ref}`contributing page <volunteering>` page, to find out about further
 volunteering possibilities within CodeRefinery.
 

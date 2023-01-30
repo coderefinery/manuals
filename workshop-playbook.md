@@ -34,7 +34,7 @@ Core roles:
   - Responsible for registration page
   - Set up a workshop page from template, and add it to "upcoming courses"
   - All communication with registrants
-  - Makes sure that individual learners and exercise leads know which team to join
+  - Makes sure that individual learners and team leads know which team to join
   - Reminds instructors and co-organizers to also register for workshop
   - Updates indico auto-reply for last minute registrations
   - Watches support email (Freshdesk) for requests/questions
@@ -58,14 +58,14 @@ Core roles:
 - [ ] Exercise coordinator
   - Creates exercise Zoom and communicates it
   - Sets up and watches and helps at Zoom exercise rooms
-  - Is the link between learners, exercise leads, and expert helpers
+  - Is the link between learners, team leads, and expert helpers
   - Makes sure exercise list is communicated
-  - List all exercise leads (who consent to being listed) on the website
+  - List all team leads (who consent to being listed) on the website
   - List expert helpers on the website
   - Creates learner HackMD (nice URL) with all relevant links
   - Makes sure that each workshop day has a learner HackMD editor who edits and archives at the end of the day
   - Collaborates with instructor coordinator on on-boarding sessions
-  - Drafts exercise leader onboarding summary email
+  - Drafts team leader onboarding summary email
   - After the workshop remove the exercise repositories
 - [ ] Outreach and marketing lead
   - Coordinates advertising (see below)
@@ -143,7 +143,7 @@ makes sure that the information goes out.
 Some thoughts on target groups that should be tried to be reached:
 
 - Learners (many sub-categories with different time vs need trade-offs: students, junior researchers, senior researchers, lifelong learning) (join a workshop)
-- Exercise leaders (bring your friends, join to learn more and lead groups)
+- team leaders (bring your friends, join to learn more and lead groups)
 - Research leaders (people who can tell their students they need to attend CR)
 - University staff (Computing, open sci, etc.) (people who can serve as local organizers and serve as local helpers)
 - Potential instructors (teach, etc.)

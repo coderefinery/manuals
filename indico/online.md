@@ -4,12 +4,12 @@ This describes the workflow in Indico online workshops
 
 ## Basic types
 
-Registration types = {Learner, Exercise Leader, Livestream only}
+Registration types = {Learner, team leader, Livestream only}
 
 ## Flow
 
 * People may register in any of the types.
-* When people get accepted to `Type={Learner,Exercise Leader}`, they are
+* When people get accepted to `Type={Learner,team leader}`, they are
   confirmed using the Indico moderation "approve registrations"
   feature. (These people then become `State=Completed`)
 * After soft deadline, accept the number of learners you think you can
@@ -45,7 +45,7 @@ During registration
 
 After confirmation
 
-* People in Zoom, `State!=Withdrawn Type={Learner,Exercise Leader}`
+* People in Zoom, `State!=Withdrawn Type={Learner,team leader}`
 * PEople in livestream, `State!=Withdrawn Type=Livestream`
 
 
