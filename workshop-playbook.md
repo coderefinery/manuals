@@ -18,7 +18,7 @@ Please keep it brief and copy-paste-able to HackMD/HedgeDoc for the actual plann
 - [HedgeDoc Q&A]()
 - [Twitch channel](https://www.twitch.tv/coderefinery/about)
 - [Emails sent]()
-- 
+
 ## Workshop roles
 :::success
 **If you want to take part, add your name here, sign up in Indico and select "I am interestest in being a helper, co-instructor, or observer", and you will be contacted.** (this might be split into another page later)
@@ -32,7 +32,7 @@ Two names per lesson, first is primary
 - [ ] reproducible research: (day 4): ???, ???
 - [ ] social coding: (day 4): ???, ???
 - [ ] jupyter (day 5): ???, ???
-- [ ] documentation (day 5): Bjørn, ???
+- [ ] documentation (day 5): ???, ???
 - [ ] testing (day 6): ???, ???
 - [ ] modular code development (day 6): ???, ???
 
@@ -74,7 +74,8 @@ their responsibilities are followed-up and not forgotten.
 ### Event director
 - lead: 
 - backup:
-:::spoiler
+
+:::spoiler Checklist
   - [ ] Create planning HackMD with all relevant links from template 
   - [ ] Distribute roles
   - [ ] Add all sessions to CodeRefinery calendar separately
@@ -84,10 +85,12 @@ their responsibilities are followed-up and not forgotten.
     - [ ] Summarize lessons learned and make it a blog post
     - [ ] Coordinate post-workshop survey
 :::
+
 ### Registration coordinator
 - lead: 
 - backup:
-:::spoiler
+
+:::spoiler Checklist
   - [ ] Create Indico registration page for the event
   - [ ] Set up a workshop page from template, and add it to "upcoming courses"
   - [ ] Commnicate with Individual learners and team leads which team to join
@@ -99,10 +102,12 @@ their responsibilities are followed-up and not forgotten.
     - [ ] on CR website move from "upcoming" to "past"
     - [ ] add viewing statistics to webpage
 :::
+
 ### Director/broadcaster
 - lead: 
 - backup:
-:::spoiler
+
+:::spoiler Checklist
   - [ ] Prepare Ice-breakers for each day
   - [ ] Create instructor Zoom and communicates it
   - [ ] Upload videos  and communicate(does not do all the work but coordinates it)
@@ -111,7 +116,8 @@ their responsibilities are followed-up and not forgotten.
 ### Instructor coordinator
 - lead: 
 - backup:
-:::spoiler
+
+:::spoiler Checklist
   - [ ] Confirm that each lesson and session has co-instructors
   - [ ] Instructor briefing: make sure learners get a good experience (lesson material, issues, style, screen share)
   - [ ] Remind instructors to send software install requirements in time
@@ -119,10 +125,12 @@ their responsibilities are followed-up and not forgotten.
   - [ ] List instructors on the website
   - [ ] Organize team leader On-boarding sessions (with exercise coordinator)
 :::
+
 ### Exercise coordinator
 - lead: 
 - backup:
-:::spoiler
+
+:::spoiler Checklist
   - [ ] Create exercise Zoom 
   - [ ] Communicate exercise Zoom
   - [ ] Makes sure exercise list is communicated
@@ -134,16 +142,19 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Draft team leader onboarding summary email
   - [ ] After the workshop remove the exercise repositories
 :::
+
 ### Outreach and marketing lead
 - lead: 
 - backup:
-:::spoiler
+
+:::spoiler Checklist
   - [ ] Coordinate and make sure advertising is happening 
   - [ ] Update relevant news on the workshop webpage
   - [ ] After each workshop day, send summary and preparation for next day email to
     all (can be based on the website news and link there so that it can be
     updated)
 :::
+
 #### Advertisement channels (outreach lead finds people to do take care of the different channels)
 - [ ] Newsletter
 - [ ] Advertising texts on the workshop page
