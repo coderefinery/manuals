@@ -19,7 +19,7 @@ Please keep it brief and copy-paste-able to HackMD/HedgeDoc for the actual plann
 - [Twitch channel](https://www.twitch.tv/coderefinery/about)
 - [Emails sent]()
 
-## Workshop roles
+## Workshop roles ([overview](https://coderefinery.github.io/manuals/roles-overview/))
 :::success
 **If you want to take part, add your name here, sign up in Indico and select "I am interestest in being a helper, co-instructor, or observer", and you will be contacted.** (this might be split into another page later)
 
@@ -37,7 +37,7 @@ Two names per lesson, first is primary
 - [ ] modular code development (day 6): ???, ???
 
 
-### Learner Zoom team leaders ([description](https://coderefinery.github.io/manuals/expert-helpers/#expert-helpers))
+### Learner Zoom team leaders ([description](https://coderefinery.github.io/manuals/exercise-leaders/))
 Help in our learner zoom, circle around breakoutrooms; there will probably be 2 or 3 rooms where we need to provide the helper. At least two for each day
 - [ ] day 1: 
 - [ ] day 2: 
@@ -71,7 +71,7 @@ Roles and their responsibilities. This does not mean that a person will do
 everything that is part of their responsibility, but they will make sure that
 their responsibilities are followed-up and not forgotten.
 
-### Event director
+### Event director ([description](https://coderefinery.github.io/manuals/director/))
 - lead: 
 - backup:
 
@@ -86,7 +86,7 @@ their responsibilities are followed-up and not forgotten.
     - [ ] Coordinate post-workshop survey
 :::
 
-### Registration coordinator
+### Registration coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/)
 - lead: 
 - backup:
 
@@ -103,7 +103,7 @@ their responsibilities are followed-up and not forgotten.
     - [ ] add viewing statistics to webpage
 :::
 
-### Director/broadcaster
+### Director/broadcaster ([description](https://coderefinery.github.io/manuals/broadcaster/))
 - lead: 
 - backup:
 
@@ -113,7 +113,7 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Upload videos  and communicate(does not do all the work but coordinates it)
 :::
 
-### Instructor coordinator
+### Instructor coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
 - lead: 
 - backup:
 
@@ -126,7 +126,7 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Organize team leader On-boarding sessions (with exercise coordinator)
 :::
 
-### Exercise coordinator
+### Exercise coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
 - lead: 
 - backup:
 
@@ -143,7 +143,7 @@ their responsibilities are followed-up and not forgotten.
   - [ ] After the workshop remove the exercise repositories
 :::
 
-### Outreach and marketing lead
+### Outreach and marketing lead ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
 - lead: 
 - backup:
 
