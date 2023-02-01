@@ -65,7 +65,7 @@ Help in our learner zoom, circle around breakoutrooms; there will probably be 2 
 - [ ] day 6: 
 :::
 
-### Workshop organization
+### Workshop organization; roles "behind the scenes"
 
 Roles and their responsibilities. This does not mean that a person will do
 everything that is part of their responsibility, but they will make sure that
@@ -103,7 +103,7 @@ their responsibilities are followed-up and not forgotten.
     - [ ] add viewing statistics to webpage
 :::
 
-#### Director/broadcaster ([description](https://coderefinery.github.io/manuals/broadcaster/))
+#### Broadcaster ([description](https://coderefinery.github.io/manuals/broadcaster/))
 - lead: 
 - backup:
 
@@ -126,7 +126,7 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Organize team leader On-boarding sessions (with exercise coordinator)
 :::
 
-#### Exercise coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
+#### Exercise / team leader coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
 - lead: 
 - backup:
 
@@ -143,7 +143,7 @@ their responsibilities are followed-up and not forgotten.
   - [ ] After the workshop remove the exercise repositories
 :::
 
-#### Outreach and marketing lead ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
+#### Outreach and marketing coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
 - lead: 
 - backup:
 

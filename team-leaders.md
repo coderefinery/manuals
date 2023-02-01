@@ -74,7 +74,7 @@ As a team leader, we do not expect you to know all our [CodeRefinery training ma
 
 **Solo learner groups**:
 * Learners could sign up alone but request to do the exercises in team
-* -> 2 open breakout rooms
+* -> open breakout rooms in learner zoom
 * Additional rooms for specific problem solving 
 * Learners can also form own team 
 
