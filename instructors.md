@@ -21,7 +21,15 @@ instructor-tech-setup
 instructor-tech-online
 ```
 
+## Responsibilities of an instructor
 
+- Review, triage, and work on lesson issues
+- Define exercises
+- Communicate exercise list to Exercise coordinator
+- Set up and test a quality screen share
+- Coordinate with co-instructor
+- Communicate software requirements to Instructor coordinator
+- Communicate timing adjustments to Instructor coordinator
 
 ## From team leader/helper to more
 
