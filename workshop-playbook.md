@@ -37,7 +37,7 @@ Two names per lesson, first is primary
 - [ ] modular code development (day 6): ???, ???
 
 
-#### Learner Zoom team leaders ([description](https://coderefinery.github.io/manuals/exercise-leaders/))
+#### Learner Zoom team leaders ([description](https://coderefinery.github.io/manuals/team-leaders/))
 Help in our learner zoom, circle around breakoutrooms; there will probably be 2 or 3 rooms where we need to provide the helper. At least two for each day
 - [ ] day 1: 
 - [ ] day 2: 

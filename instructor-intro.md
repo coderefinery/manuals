@@ -28,7 +28,7 @@ Reading here: the other pages in the section, see sidebar.
 * {doc}`instructor-tech-online`
 
 Also read the team leader information
-* {doc}`exercise-leaders` - general on motivation and how to prepare for 
+* {doc}`team-leaders` - general on motivation and how to prepare for 
   breakout rooms 
 
 Reading elsewhere:
@@ -95,7 +95,7 @@ opened).
     - 10 minutes is quite short, 20 minutes is best.
     - **Can you say less and let people discover it for themselves?**
 
-As an team leader, if anything is unclear to you, it is very unclear to
+As a team leader, if anything is unclear to you, it is very unclear to
 others. Comment/Ask in the HackMD or speak up and ask! 
 
 ## Top issues new instructors face

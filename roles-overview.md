@@ -31,9 +31,9 @@ Comes and learns.
 * Does necessary preparation and attends the workshop
 * More info: {ref}`Learners section <toc-learners>`
 
-### team leader
+### Team leader
 
-team leaders are only a small step above learners.  They aren't
+Team leaders are only a small step above learners.  They aren't
 expected to know everything, but mainly keep their breakout rooms on
 track - they could even be a slightly more confident learner.
 
@@ -42,8 +42,8 @@ track - they could even be a slightly more confident learner.
   * makes welcoming community
   * answers some questions
   * ask for more help when needed
-* Attends a one-hour team leader preparation session.
-* More info: {doc}`exercise-leaders`
+* Attends a one-hour team leader preparation / onboarding session.
+* More info: {doc}`team-leaders`
 
 ### Instructor
 
@@ -156,10 +156,10 @@ Oversees registration and generally everything on the participant side.
 
 * Makes sure workshop gets advertised in different places
 
-### team leader coordinator
+### Team leader coordinator
 
 * Communicate with all team leaders, contact person for them
-* Organize the {doc}`team leader onboarding session <exercise-leaders>`
+* Organize the {doc}`team leader onboarding session <team-leaders>`
 * Usually attends as an expert helper to generally be available and
   support all leaders.
 * Collect feedback
