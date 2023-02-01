@@ -19,10 +19,9 @@ helper/Instructor) → (More specialized roles).  **Note that thanks to
 our {doc}`team teaching <team-teaching>`, it is really easy to join as
 an instructor!**
 
+You can also find the common tasks in checklist-format under each roles section in the {doc}`Workshop playbook <workshop-playbook>`.
 
-
-
-## During a workshop
+## Workshop roles
 
 ### Learner
 
@@ -31,9 +30,9 @@ Comes and learns.
 * Does necessary preparation and attends the workshop
 * More info: {ref}`Learners section <toc-learners>`
 
-### team leader
+### Team leader
 
-team leaders are only a small step above learners.  They aren't
+Team leaders are only a small step above learners.  They aren't
 expected to know everything, but mainly keep their breakout rooms on
 track - they could even be a slightly more confident learner.
 
@@ -42,8 +41,8 @@ track - they could even be a slightly more confident learner.
   * makes welcoming community
   * answers some questions
   * ask for more help when needed
-* Attends a one-hour team leader preparation session.
-* More info: {doc}`exercise-leaders`
+* Attends a one-hour team leader preparation / onboarding session.
+* More info: {doc}`team-leaders`
 
 ### Instructor
 
@@ -51,7 +50,7 @@ Obviously, instructors teach.  Uniquely in our system, they have a lot
 of support and generally can focus on the teaching part.
 
 * Prepares lesson and "just teaches" without worrying about other workshop matters
-* {doc}`Team teaches <team-teaching>`, not alone
+* {doc}`Team teaching <team-teaching>`, you are not alone
 * Attend instructor preparation calls
 * Usually receives one-on-one mentoring in advance
 * Other times during the workshop, usually serves as an expert helper
@@ -130,10 +129,7 @@ The broadcaster is responsible for the livestreaming tech.
   or at least saves them where someone else can do it.
 * More info: {doc}`broadcaster`
 
-
-## Before and after the workshop
-
-### Registration coordinator
+#### Registration coordinator
 
 Oversees registration and generally everything on the participant side.
 
@@ -142,9 +138,9 @@ Oversees registration and generally everything on the participant side.
 * Contact person for learners
 * Collect feedback
 * Provide participation certificates
-* More info: (there is no current landing page, but check {doc}`workshop-organizers`)
+* More info: {doc}`registration-coordinator`)
 
-### Instructor coordinator
+#### Instructor coordinator
 
 * Find instructors
 * Coordinate the schedule and instructors for each event
@@ -152,17 +148,20 @@ Oversees registration and generally everything on the participant side.
 * Collect feedback
 * More info : {doc}`instructors`.
 
-### Advertisement coordinator
+#### Outreach and marketing coordinator
 
 * Makes sure workshop gets advertised in different places
+* You can find a list of commonly advertised places in the bottom of the {doc}`workshop-playbook`.
 
-### team leader coordinator
+### Team leader / Exercise coordinator
 
 * Communicate with all team leaders, contact person for them
-* Organize the {doc}`team leader onboarding session <exercise-leaders>`
+* Makes sure all exercises are ready and commicated before and during the workshop
+* Organize the {doc}`team leader onboarding session <team-leaders>`
 * Usually attends as an expert helper to generally be available and
   support all leaders.
-* Collect feedback
+* Collect feedback from team leaders
+* More info: {doc}`exercise-coordinator`
 
 ### Video editor
 
@@ -171,8 +170,6 @@ Oversees registration and generally everything on the participant side.
   [ffmpeg-editlist](https://github.com/coderefinery/ffmpeg-editlist)
   to process videos after the Broadcaster has made them available.
 * Work should be done the day/evening of of the course
-
-
 
 (best-practices)=
 ## Best practices

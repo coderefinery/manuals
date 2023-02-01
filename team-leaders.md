@@ -1,7 +1,7 @@
-# team leaders
+# Team leaders
 
 We use this page during team leader onboarding.
-**Thanks for being an team leader :heart:**!
+**Thanks for being a team leader :heart:**!
 Without you, these large online workshops would not be possible.
 
 
@@ -52,7 +52,7 @@ contains links to lesson material and exercises.
 
 ## Preparing for the workshop
 
-As an team leader, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
+As a team leader, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
 
 - **Take a look at the exercises in advance** of each days (revised
   lessons tend to have an "exercise list" page).  We try to make each
@@ -74,7 +74,7 @@ As an team leader, we do not expect you to know all our [CodeRefinery training m
 
 **Solo learner groups**:
 * Learners could sign up alone but request to do the exercises in team
-* -> 2 open breakout rooms
+* -> open breakout rooms in learner zoom
 * Additional rooms for specific problem solving 
 * Learners can also form own team 
 
@@ -99,7 +99,7 @@ questions at the bottom.
 
 ## Your task during exercise sessions
 
-As an team leader in a breakout room, your main task is to **keep people talking
+As a team leader in a breakout room, your main task is to **keep people talking
 and interacting, understand their difficulties, and encourage them to
 work on the exercises together**.
 
@@ -157,7 +157,7 @@ Strategy 3:
 
 ## Create a positive learning environment
 
-As an team leader, you have a crucial role during workshops:
+As a team leader, you have a crucial role during workshops:
 
 - Encourage learners to learn from each other.
 - Acknowledge that some of the material can be difficult and that people in your breakoutroom will
@@ -263,7 +263,7 @@ Traditionally, a workshop has instructors and team leaders/helpers, but the
 capacity is limited by instructors, so we are limited to ~30-40 people
 at most.  Then, we tried to scale to larger numbers: even up to and beyond 100
 people.  For this, we have to rely on *team leaders* a lot more, to run a
-breakout room.  An team leader does not have to be an expert in the
+breakout room. A team leader does not have to be an expert in the
 material, but should be able to keep things flowing.
 
 team leaders are an essential part of the CodeRefinery workshop team and
@@ -276,7 +276,7 @@ likely that you'll grow as a mentor and learn how to be a more efficient
 teacher. 
 
 
-## What is needed to be an team leader?
+## What is needed to be a team leader?
 
 Most importantly, *you do not have to know everything* (we don't, either), but you are expected to:
 
@@ -292,7 +292,7 @@ Most importantly, *you do not have to know everything* (we don't, either), but y
 
 - Come to a one-hour "team leader onboarding" (see below) before the workshop.
 
-> If you aren't sure if you can be an team leader: you probably can be one!
+> If you aren't sure if you can be a team leader: you probably can be one!
 
 
 ## Background: Teams
@@ -337,7 +337,7 @@ leaders do *not* need to use this, use HackMD instead).
 
 During the workshop, HackMD (collaborative document) is our main communication channel, where you can ask questions or request us to visit your breakout room in case of tricky questions or further discussion potential.
 
-If you had fun being an team leader for the workshop, please visit our
+If you had fun being a team leader for the workshop, please visit our
 {ref}`contributing page <volunteering>` page, to find out about further
 volunteering possibilities within CodeRefinery.
 

@@ -59,7 +59,7 @@ open registration to attend the course.
   team and supports collaboration and community - and lets us scale
   much better than we could otherwise.  Teams also support retention
   after the course, especially if they knew each other before
-  registering. (See {doc}`exercise-leaders`)
+  registering. (See {doc}`team-leaders`)
 - We would like to know statistics from how many people attended from
   your location for our impact reports.  (still, the top priority is
   reaching as many people as possible, we'll adjust reporting to what works)
@@ -81,7 +81,7 @@ open registration to attend the course.
 
 - A lot like "joint registration", but for workshops where we
   centrally organize teams.
-- You locally recruit {doc}`team leaders <exercise-leaders>` for your
+- You locally recruit {doc}`team leaders <team-leaders>` for your
   own learners.  This saves us the effort of recruiting exercise
   leaders and allows us to scale more.
 

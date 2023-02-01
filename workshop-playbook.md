@@ -8,9 +8,9 @@ It may also help with the organization of other workshops.
 Please keep it brief and copy-paste-able to HackMD/HedgeDoc for the actual planning.
 
 ---
-# CodeRefinery workshop YYYY-MM-DD
+## CodeRefinery workshop YYYY-MM-DD
 
-## Links
+### Links
 - [Workshop page]()
 - This document: 
 - [Q&A HackMD]()
@@ -19,11 +19,11 @@ Please keep it brief and copy-paste-able to HackMD/HedgeDoc for the actual plann
 - [Twitch channel](https://www.twitch.tv/coderefinery/about)
 - [Emails sent]()
 
-## Workshop roles ([overview](https://coderefinery.github.io/manuals/roles-overview/))
+### Workshop roles ([overview](https://coderefinery.github.io/manuals/roles-overview/))
 :::success
 **If you want to take part, add your name here, sign up in Indico and select "I am interestest in being a helper, co-instructor, or observer", and you will be contacted.** (this might be split into another page later)
 
-### Instructors ([description](https://coderefinery.github.io/manuals/instructors/#instructors))
+#### Instructors ([description](https://coderefinery.github.io/manuals/instructors/#instructors))
 Two names per lesson, first is primary
 
 - [ ] git-intro (day 1): ???, ???
@@ -37,7 +37,7 @@ Two names per lesson, first is primary
 - [ ] modular code development (day 6): ???, ???
 
 
-### Learner Zoom team leaders ([description](https://coderefinery.github.io/manuals/exercise-leaders/))
+#### Learner Zoom team leaders ([description](https://coderefinery.github.io/manuals/team-leaders/))
 Help in our learner zoom, circle around breakoutrooms; there will probably be 2 or 3 rooms where we need to provide the helper. At least two for each day
 - [ ] day 1: 
 - [ ] day 2: 
@@ -46,7 +46,7 @@ Help in our learner zoom, circle around breakoutrooms; there will probably be 2 
 - [ ] day 5: 
 - [ ] day 6: 
 
-### Expert helpers ([description](https://coderefinery.github.io/manuals/expert-helpers/))
+#### Expert helpers ([description](https://coderefinery.github.io/manuals/expert-helpers/))
 - [ ] day 1: 
 - [ ] day 2: 
 - [ ] day 3: 
@@ -54,7 +54,7 @@ Help in our learner zoom, circle around breakoutrooms; there will probably be 2 
 - [ ] day 5: 
 - [ ] day 6: 
 
-### HackMD manager ([description](https://coderefinery.github.io/manuals/hackmd-helper/#hackmd-manager))
+#### HackMD manager ([description](https://coderefinery.github.io/manuals/hackmd-helper/#hackmd-manager))
 (keep HackMD organized, check for unanswered questions, and archive notes each day)
 - [ ] preparation before workshop: 
 - [ ] day 1: 
@@ -65,13 +65,13 @@ Help in our learner zoom, circle around breakoutrooms; there will probably be 2 
 - [ ] day 6: 
 :::
 
-## Workshop organization
+### Workshop organization; roles "behind the scenes"
 
 Roles and their responsibilities. This does not mean that a person will do
 everything that is part of their responsibility, but they will make sure that
 their responsibilities are followed-up and not forgotten.
 
-### Event director ([description](https://coderefinery.github.io/manuals/director/))
+#### Event director ([description](https://coderefinery.github.io/manuals/director/))
 - lead: 
 - backup:
 
@@ -86,7 +86,7 @@ their responsibilities are followed-up and not forgotten.
     - [ ] Coordinate post-workshop survey
 :::
 
-### Registration coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/)
+#### Registration coordinator ([description](https://coderefinery.github.io/manuals/registration-coordinator)
 - lead: 
 - backup:
 
@@ -103,7 +103,7 @@ their responsibilities are followed-up and not forgotten.
     - [ ] add viewing statistics to webpage
 :::
 
-### Director/broadcaster ([description](https://coderefinery.github.io/manuals/broadcaster/))
+#### Broadcaster ([description](https://coderefinery.github.io/manuals/broadcaster/))
 - lead: 
 - backup:
 
@@ -113,7 +113,7 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Upload videos  and communicate(does not do all the work but coordinates it)
 :::
 
-### Instructor coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
+#### Instructor coordinator ([description](https://coderefinery.github.io/manuals/instructors/))
 - lead: 
 - backup:
 
@@ -126,12 +126,12 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Organize team leader On-boarding sessions (with exercise coordinator)
 :::
 
-### Exercise coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
+#### Exercise / team leader coordinator ([description](https://coderefinery.github.io/manuals/exercise-coordinator/))
 - lead: 
 - backup:
 
 :::spoiler Checklist
-  - [ ] Create exercise Zoom 
+  - [ ] Create and host exercise Zoom (task can be shared with other roles)
   - [ ] Communicate exercise Zoom
   - [ ] Makes sure exercise list is communicated
   - [ ] List all team leads (who consent to being listed) on the website
@@ -143,7 +143,7 @@ their responsibilities are followed-up and not forgotten.
   - [ ] After the workshop remove the exercise repositories
 :::
 
-### Outreach and marketing lead ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
+#### Outreach and marketing coordinator ([description](https://coderefinery.github.io/manuals/workshop-marketing/))
 - lead: 
 - backup:
 
@@ -155,7 +155,7 @@ their responsibilities are followed-up and not forgotten.
     updated)
 :::
 
-#### Advertisement channels (outreach lead finds people to do take care of the different channels)
+##### Advertisement channels (outreach lead finds people to do take care of the different channels)
 - [ ] Newsletter
 - [ ] Advertising texts on the workshop page
 - [ ] CodeRefinery Twitter and Mastodon
