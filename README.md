@@ -30,6 +30,9 @@ co-instructors
 hackmd-helper
 expert-helpers
 host
+registration-coordinator
+exercise-coordinator
+workshop-marketing
 director
 broadcaster
 video-editor

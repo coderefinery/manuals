@@ -11,6 +11,8 @@ Please keep it brief and copy-paste-able to HackMD/HedgeDoc for the actual plann
 ## CodeRefinery workshop YYYY-MM-DD
 
 ### Links
+
+```
 - [Workshop page]()
 - This document: 
 - [Q&A HackMD]()
@@ -18,6 +20,7 @@ Please keep it brief and copy-paste-able to HackMD/HedgeDoc for the actual plann
 - [HedgeDoc Q&A]()
 - [Twitch channel](https://www.twitch.tv/coderefinery/about)
 - [Emails sent]()
+```
 
 ### Workshop roles ([overview](https://coderefinery.github.io/manuals/roles-overview/))
 :::success
