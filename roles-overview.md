@@ -151,6 +151,7 @@ Oversees registration and generally everything on the participant side.
 #### Outreach and marketing coordinator
 
 * Makes sure workshop gets advertised in different places
+* You can find a list of commonly advertised places in the bottom of the {doc}`workshop-playbook`.
 
 ### Team leader / Exercise coordinator
 
@@ -159,7 +160,8 @@ Oversees registration and generally everything on the participant side.
 * Organize the {doc}`team leader onboarding session <team-leaders>`
 * Usually attends as an expert helper to generally be available and
   support all leaders.
-* Collect feedback
+* Collect feedback from team leaders
+* More info: {doc}`exercise-coordinator`
 
 ### Video editor
 

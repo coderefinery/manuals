@@ -86,7 +86,7 @@ their responsibilities are followed-up and not forgotten.
     - [ ] Coordinate post-workshop survey
 :::
 
-#### Registration coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/)
+#### Registration coordinator ([description](https://coderefinery.github.io/manuals/registration-coordinator)
 - lead: 
 - backup:
 
@@ -113,7 +113,7 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Upload videos  and communicate(does not do all the work but coordinates it)
 :::
 
-#### Instructor coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
+#### Instructor coordinator ([description](https://coderefinery.github.io/manuals/instructors/))
 - lead: 
 - backup:
 
@@ -126,12 +126,12 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Organize team leader On-boarding sessions (with exercise coordinator)
 :::
 
-#### Exercise / team leader coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
+#### Exercise / team leader coordinator ([description](https://coderefinery.github.io/manuals/exercise-coordinator/))
 - lead: 
 - backup:
 
 :::spoiler Checklist
-  - [ ] Create exercise Zoom 
+  - [ ] Create and host exercise Zoom (task can be shared with other roles)
   - [ ] Communicate exercise Zoom
   - [ ] Makes sure exercise list is communicated
   - [ ] List all team leads (who consent to being listed) on the website
@@ -143,7 +143,7 @@ their responsibilities are followed-up and not forgotten.
   - [ ] After the workshop remove the exercise repositories
 :::
 
-#### Outreach and marketing coordinator ([description](https://coderefinery.github.io/manuals/workshop-organizers/))
+#### Outreach and marketing coordinator ([description](https://coderefinery.github.io/manuals/roles-overview#outreach-and-marketing-coordinator/))
 - lead: 
 - backup:
 
