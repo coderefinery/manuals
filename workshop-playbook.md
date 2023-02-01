@@ -143,7 +143,7 @@ their responsibilities are followed-up and not forgotten.
   - [ ] After the workshop remove the exercise repositories
 :::
 
-#### Outreach and marketing coordinator ([description](https://coderefinery.github.io/manuals/roles-overview#outreach-and-marketing-coordinator/))
+#### Outreach and marketing coordinator ([description](https://coderefinery.github.io/manuals/workshop-marketing/))
 - lead: 
 - backup:
 
