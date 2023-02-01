@@ -50,7 +50,7 @@ Obviously, instructors teach.  Uniquely in our system, they have a lot
 of support and generally can focus on the teaching part.
 
 * Prepares lesson and "just teaches" without worrying about other workshop matters
-* {doc}`Team teaches <team-teaching>`, not alone
+* {doc}`Team teaching <team-teaching>`, you are not alone
 * Attend instructor preparation calls
 * Usually receives one-on-one mentoring in advance
 * Other times during the workshop, usually serves as an expert helper
@@ -138,7 +138,7 @@ Oversees registration and generally everything on the participant side.
 * Contact person for learners
 * Collect feedback
 * Provide participation certificates
-* More info: (there is no current landing page, but check {doc}`workshop-organizers`)
+* More info: {doc}`registration-coordinator`)
 
 #### Instructor coordinator
 
