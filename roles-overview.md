@@ -12,15 +12,14 @@ than small workshop can have (thus, the large number of roles below).
 Many of our instructors give feedback such as "this is so much easier:
 we only show up and teach!"
 
-A common pathway goes (Learner/Exercise leader) → (Expert
+A common pathway goes (Learner/team leader) → (Expert
 helper/Instructor) → (More specialized roles).  **Note that thanks to
 our {doc}`team teaching or "co-teaching" <team-teaching>`, it is really easy to join as
 an instructor!**
 
+You can also find the common tasks in checklist-format under each roles section in the {doc}`Workshop playbook <workshop-playbook>`.
 
-
-
-## During a workshop
+## Workshop roles
 
 ### Learner
 
@@ -29,9 +28,9 @@ Comes and learns.
 * Does necessary preparation and attends the workshop
 * More info: {ref}`Learners section <toc-learners>`
 
-### Exercise leader
+### Team leader
 
-Exercise leaders are only a small step above learners.  They aren't
+Team leaders are only a small step above learners.  They aren't
 expected to know everything, but mainly keep their breakout rooms on
 track - they could even be a slightly more confident learner.
 
@@ -40,8 +39,8 @@ track - they could even be a slightly more confident learner.
   * makes welcoming community
   * answers some questions
   * ask for more help when needed
-* Attends a one-hour exercise leader preparation session.
-* More info: {doc}`exercise-leaders`
+* Attends a one-hour team leader preparation / onboarding session.
+* More info: {doc}`team-leaders`
 
 ### Instructor
 
@@ -49,7 +48,7 @@ Obviously, instructors teach.  Uniquely in our system, they have a lot
 of support and generally can focus on the teaching part.
 
 * Prepares lesson and "just teaches" without worrying about other workshop matters
-* {doc}`Team teaches <team-teaching>`, not alone
+* {doc}`Team teaching <team-teaching>`, you are not alone
 * Attend instructor preparation calls
 * Usually receives one-on-one mentoring in advance
 * Other times during the workshop, usually serves as an expert helper
@@ -62,7 +61,7 @@ Thanks to HackMD and breakout rooms, they have plenty to do.
 
 * All-around generalist who assists wherever is needed
 * Answers questions in HackMD
-* Supports exercise leaders in breakout rooms: rotates between
+* Supports team leaders in breakout rooms: rotates between
   breakout rooms and checks how things are going
 * Identifies important issues and raises them to the instructors,
   "voice of the audience"
@@ -128,10 +127,7 @@ The broadcaster is responsible for the livestreaming tech.
   or at least saves them where someone else can do it.
 * More info: {doc}`broadcaster`
 
-
-## Before and after the workshop
-
-### Registration coordinator
+#### Registration coordinator
 
 Oversees registration and generally everything on the participant side.
 
@@ -140,9 +136,9 @@ Oversees registration and generally everything on the participant side.
 * Contact person for learners
 * Collect feedback
 * Provide participation certificates
-* More info: (there is no current landing page, but check {doc}`workshop-organizers`)
+* More info: {doc}`registration-coordinator`)
 
-### Instructor coordinator
+#### Instructor coordinator
 
 * Find instructors
 * Coordinate the schedule and instructors for each event
@@ -150,17 +146,20 @@ Oversees registration and generally everything on the participant side.
 * Collect feedback
 * More info : {doc}`instructors`.
 
-### Advertisement coordinator
+#### Outreach and marketing coordinator
 
 * Makes sure workshop gets advertised in different places
+* You can find a list of commonly advertised places in the bottom of the {doc}`workshop-playbook`.
 
-### Exercise leader coordinator
+### Team leader / Exercise coordinator
 
-* Communicate with all exercise leaders, contact person for them
-* Organize the {doc}`exercise leader onboarding session <exercise-leaders>`
+* Communicate with all team leaders, contact person for them
+* Makes sure all exercises are ready and commicated before and during the workshop
+* Organize the {doc}`team leader onboarding session <team-leaders>`
 * Usually attends as an expert helper to generally be available and
   support all leaders.
-* Collect feedback
+* Collect feedback from team leaders
+* More info: {doc}`exercise-coordinator`
 
 ### Video editor
 
@@ -169,8 +168,6 @@ Oversees registration and generally everything on the participant side.
   [ffmpeg-editlist](https://github.com/coderefinery/ffmpeg-editlist)
   to process videos after the Broadcaster has made them available.
 * Work should be done the day/evening of of the course
-
-
 
 (best-practices)=
 ## Best practices
@@ -196,6 +193,6 @@ Roles that should *not* be combined:
 Other notes:
 
 * **HackMD manager** can rotate between different people.
-* **Expert helpers** can replace **Exercise leaders** if they cannot join the
+* **Expert helpers** can replace **team leaders** if they cannot join the
   full workshop
 * Coordinators delegate

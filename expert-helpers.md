@@ -24,12 +24,12 @@ We mainly have expert helpers for large workshops.
   differences between them?  Questions which we should bring up in the
   main room?
 
-* Monitor if any exercise leaders need extra help or training.  Should we
-  improve our exercise leader training?
+* Monitor if any team leaders need extra help or training.  Should we
+  improve our team leader training?
 
 ## Tasks
 
-There's not much difference between a exercise leader and expert helper, but we
+There's not much difference between a team leader and expert helper, but we
 envision this role standing by and jumping into rooms when there's a
 difficult problem.
 
@@ -88,6 +88,6 @@ Concrete example for an expert helper's time:
 
 Other reference:
 
-* {doc}`exercise-leaders`: important reference
+* {doc}`team-leaders`: important reference
 * {doc}`hackmd-helper`: You may spend a lot of time watching hackmd.
 

@@ -88,7 +88,7 @@ group.  You could even reserve a room and work together.  This will
 create a network of learning and practice that will last much longer.
 
 If you can attend a group, that is even better.  You can bring your
-own exercise leader to guide you (if the workshop works this way).  Research
+own team leader to guide you (if the workshop works this way).  Research
 shows that groups that have multiple adopters have much more uptake of
 new skills.
 

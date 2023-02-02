@@ -27,8 +27,8 @@ Reading here: the other pages in the section, see sidebar.
 * {doc}`instructor-tech-setup`
 * {doc}`instructor-tech-online`
 
-Also read the exercise leader information
-* {doc}`exercise-leaders` - general on motivation and how to prepare for 
+Also read the team leader information
+* {doc}`team-leaders` - general on motivation and how to prepare for 
   breakout rooms 
 
 Reading elsewhere:
@@ -69,7 +69,7 @@ main room and breakout sessions.
 - **Clearly say when a learner watches, when they type along, when they should
   work on something independently as an exercise.**
 - CodeRefinery is traditionally a hands-on workshop, so breakout-room sessions should be a large part of the workshop.
-- We usually keep the main room mostly for general discussions. Small exercises or polls can also be done in the main room, for all hands-on exercises we divide the learners into breakout-rooms each with one exercise leader.
+- We usually keep the main room mostly for general discussions. Small exercises or polls can also be done in the main room, for all hands-on exercises we divide the learners into breakout-rooms each with one team leader.
 - To give you an idea about how the work in the breakout rooms is going, monitor the hackmd closely and if time allows try to visit a few breakout rooms to see how it is going and if needed adjust the timing.
 
 
@@ -95,7 +95,7 @@ opened).
     - 10 minutes is quite short, 20 minutes is best.
     - **Can you say less and let people discover it for themselves?**
 
-As an exercise leader, if anything is unclear to you, it is very unclear to
+As a team leader, if anything is unclear to you, it is very unclear to
 others. Comment/Ask in the HackMD or speak up and ask! 
 
 ## Top issues new instructors face

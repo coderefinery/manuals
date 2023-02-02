@@ -91,7 +91,7 @@ workshop.
 * Zoom breakout rooms can group people together
 * You need to be explicit about how the groups work.  Even in person,
   many learners work independently even when forced into a group.
-* Add "Exercise leaders" (helpers, former students) to guide each
+* Add "team leaders" (helpers, former students) to guide each
   group.
 
 ### (2b) Higher production values
