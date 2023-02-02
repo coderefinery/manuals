@@ -88,6 +88,6 @@ Concrete example for an expert helper's time:
 
 Other reference:
 
-* {doc}`exercise-leaders`: important reference
+* {doc}`team-leaders`: important reference
 * {doc}`hackmd-helper`: You may spend a lot of time watching hackmd.
 

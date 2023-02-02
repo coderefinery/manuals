@@ -30,7 +30,6 @@ open registration to attend the course.
   work together.
 
 
-
 ## Step 1: Local breakout room
 
 - Create your own breakout room - whether online or a physical space.
@@ -47,7 +46,6 @@ open registration to attend the course.
 - You may want to run local "installation help" sessions.
 
 
-
 ## Step 2: Registration
 
 - If you have a broad audience, you may want to make your own
@@ -60,7 +58,29 @@ open registration to attend the course.
   team and supports collaboration and community - and lets us scale
   much better than we could otherwise.  Teams also support retention
   after the course, especially if they knew each other before
-  registering. (See {doc}`exercise-leaders`)
+  registering. (See {doc}`team-leaders`)
+- We would like to know statistics from how many people attended from
+  your location for our impact reports.  (still, the top priority is
+  reaching as many people as possible, we'll adjust reporting to what works)
+
+
+## Step 2b: Joint registration
+
+- You can direct people to our registration form as a matter of
+  simplicity, but we add an option for your institution.
+- Learners join our Zoom session, and we create a breakout room for
+  your institution and direct all learners there.
+- Since you provide help to your own learners, we can more easily
+  scale than we could otherwise.
+
+
+## Step 2c: Joint registration, you provide team leaders for your teams
+
+- A lot like "joint registration", but for workshops where we
+  centrally organize teams.
+- You locally recruit {doc}`team leaders <team-leaders>` for your
+  own learners.  This saves us the effort of recruiting exercise
+  leaders and allows us to scale more.
 
 
 ## Summary

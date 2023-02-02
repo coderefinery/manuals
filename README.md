@@ -24,12 +24,15 @@ Hackmd mechanics <hackmd-mechanics.md>
 :maxdepth: 1
 
 roles-overview
-exercise-leaders
+team-leaders
 instructors
 co-instructors
 hackmd-helper
 expert-helpers
 host
+registration-coordinator
+exercise-coordinator
+workshop-marketing
 director
 broadcaster
 video-editor
