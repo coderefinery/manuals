@@ -98,7 +98,8 @@ their responsibilities are followed-up and not forgotten.
 
 :::spoiler Checklist
   - [ ] Create planning HackMD with all relevant links from template 
-  - [ ] Distribute roles
+  - [ ] Distribute roles (use this document)
+    - [ ] Inform collaborators/stakeholders to pick roles
   - [ ] Add all sessions to CodeRefinery calendar separately
   - [ ] Send calendar invite to all organizers, instructors, expert helpers, with all relevant links
   - [ ] Decide if certificates will be possible and what is needed for getting a certificate/credits (ask from partner universities)
@@ -107,17 +108,22 @@ their responsibilities are followed-up and not forgotten.
     - [ ] Coordinate post-workshop survey
 :::
 
-#### Registration coordinator ([description](https://coderefinery.github.io/manuals/registration-coordinator)
+#### Registration coordinator ([description](https://coderefinery.github.io/manuals/registration-coordinator))
 - lead: 
 - backup:
 
 :::spoiler Checklist
   - [ ] Create Indico registration page for the event
+    - [ ] Include event information
+    - [ ] Customise the registration form
+    - [ ] Customise the 
   - [ ] Set up a workshop page from template, and add it to "upcoming courses"
   - [ ] Commnicate with Individual learners and team leads which team to join
   - [ ] Remind instructors and co-organizers to also register for workshop
   - [ ] Update indico auto-reply for last minute registrations
   - [ ] Every day: check support email (Freshdesk) for requests/questions
+  - [ ] Send emails to local event organisers 
+    - [ ] Including the contact details of participants in the area for targeted emails.
   - After the workshop:
     - [ ] port changes from workshop page to template page
     - [ ] on CR website move from "upcoming" to "past"
@@ -130,8 +136,10 @@ their responsibilities are followed-up and not forgotten.
 
 :::spoiler Checklist
   - [ ] Prepare Ice-breakers for each day
-  - [ ] Create instructor Zoom and communicates it
-  - [ ] Upload videos  and communicate(does not do all the work but coordinates it)
+  - [ ] Create instructor Zoom and communicates it (task can be shared with other roles like exercise coordinator)
+  - [ ] Publish recordings (does not do all the work but coordinates it)
+    - [ ] Prepare for upload (use [ffmpeg-editlist](https://github.com/coderefinery/ffmpeg-editlist) and collaborate)
+    - [ ] Upload videos and communicate (with outreach and marketing coordinator)
 :::
 
 #### Instructor coordinator ([description](https://coderefinery.github.io/manuals/instructors/))
@@ -140,6 +148,7 @@ their responsibilities are followed-up and not forgotten.
 
 :::spoiler Checklist
   - [ ] Confirm that each lesson and session has co-instructors
+  - [ ] Inform instructors that they need to register
   - [ ] Instructor briefing: make sure learners get a good experience (lesson material, issues, style, screen share)
   - [ ] Remind instructors to send software install requirements in time
   - [ ] Make sure software install instructions work
@@ -147,20 +156,23 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Organize team leader On-boarding sessions (with exercise coordinator)
 :::
 
-#### Exercise / team leader coordinator ([description](https://coderefinery.github.io/manuals/exercise-coordinator/))
+#### Exercise & team leader coordinator ([description](https://coderefinery.github.io/manuals/exercise-coordinator/))
 - lead: 
 - backup:
 
 :::spoiler Checklist
-  - [ ] Create and host exercise Zoom (task can be shared with other roles)
-  - [ ] Communicate exercise Zoom
-  - [ ] Makes sure exercise list is communicated
+  - [ ] Create and host exercise Zoom (task can be shared with other roles like instructor coordinator)
+    - [ ] Create exercise groups
+    - [ ] Inform those who we can't accomodate into groups that they can follow stream and need to somehow self-organize
+    - [ ] Communicate exercise Zoom to paricipants (with outreach and marketing coordinator)
+  - [ ] Makes sure exercise list is communicated (with outreach and marketing coordinator)
   - [ ] List all team leads (who consent to being listed) on the website
   - [ ] List expert helpers on the website
   - [ ] Create learner HackMD (nice URL) with all relevant links
   - [ ] Makes sure that each workshop day has a learner HackMD editor who edits and archives at the end of the day
-  - [ ] Organize team leader On-boarding sessions (with instructor coordinator)
-  - [ ] Draft team leader onboarding summary email
+  - [ ] Organize Staff & Helpers On-boarding sessions (with instructor coordinator)
+    - [ ] Communicate to staff + helpers (with outreach and marketing coordinator)
+  - [ ] Draft team leader onboarding summary email (with outreach and marketing coordinator)
   - [ ] After the workshop remove the exercise repositories
 :::
 
@@ -170,7 +182,8 @@ their responsibilities are followed-up and not forgotten.
 
 :::spoiler Checklist
   - [ ] Coordinate and make sure advertising is happening 
-  - [ ] Update relevant news on the workshop webpage
+    - [ ] Help instructor coordinator and exercise & team leader coordinator with their outreach
+  - [ ] Create/update advertising texts and relevant news on the workshop page
   - [ ] After each workshop day, send summary and preparation for next day email to
     all (can be based on the website news and link there so that it can be
     updated)
