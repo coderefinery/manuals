@@ -30,10 +30,11 @@ open registration to attend the course.
   work together.
 
 
-
 ## Step 1: Local breakout room
 
-- Create your own breakout room - wether online or a physical space.
+- Create your own breakout room - whether online or a physical space.
+  That means for example ask some friends to join you to watch the stream
+  and collaborate with the exercises.
 - Our exercise sessions are very clearly announced and communicated.
   During these times, the livestream goes silent, and you can work
   within your breakout rooms.  The end of the exercise sessions and
@@ -41,19 +42,17 @@ open registration to attend the course.
   room scheduling as much as possible.
 - Attendees can ask general questions via {doc}`HackMD
   <hackmd-mechanics>`
-- Course staff (including you, as an organizer of a breakout room),
-  communicate via {doc}`coderefinery chat <chat>`.
 - You can continue your local support even after the course.
 - You may want to run local "installation help" sessions.
 
 
-
-## Step 2a: Own registration
+## Step 2: Registration
 
 - If you have a broad audience, you may want to make your own
-  registration form, completely separated from ours.
-- Your audience (for example, the community at your university)
-  registers there, and you relay communication from us to them.
+  registration form, completely separated from ours. That may help
+  with reservations and catering if any.
+- Please have everyone to register in our form anyway 
+  to help us in reporting our impact.
 - You may (but don't have to) create **teams**, where you have one
   team leader for 5-6 learners.  The team leader guides the
   team and supports collaboration and community - and lets us scale
@@ -63,7 +62,6 @@ open registration to attend the course.
 - We would like to know statistics from how many people attended from
   your location for our impact reports.  (still, the top priority is
   reaching as many people as possible, we'll adjust reporting to what works)
-
 
 
 ## Step 2b: Joint registration
@@ -76,7 +74,6 @@ open registration to attend the course.
   scale than we could otherwise.
 
 
-
 ## Step 2c: Joint registration, you provide team leaders for your teams
 
 - A lot like "joint registration", but for workshops where we
@@ -84,7 +81,6 @@ open registration to attend the course.
 - You locally recruit {doc}`team leaders <team-leaders>` for your
   own learners.  This saves us the effort of recruiting exercise
   leaders and allows us to scale more.
-
 
 
 ## Summary
