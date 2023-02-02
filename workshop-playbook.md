@@ -1,71 +1,89 @@
 # Workshop checklist template
 
 This page is a check list that we use when planning a CodeRefinery workshop
-with 300 or more participants - it is copied to a HackMD.  Detailed
-descriptions are in the roles pages.
-It may also help with the organization of other workshops.
+with 300 or more participants.
+This is meant to be copied to a HackMD – hence the formatting.
 
-Please keep it brief and copy-paste-able to HackMD/HedgeDoc for the actual planning.
+Detailed role descriptions are in the role pages.
+
+> This may be useful in organizing other workshops as well.
+
+Let's keep this brief and copy-paste-able to HackMD/HedgeDoc for the actual planning.
 
 ---
-## CodeRefinery workshop YYYY-MM-DD
+# CodeRefinery workshop YYYY-MM-DD
 
-### Links
+[toc]
+
+## Links
 
 ```
 - [Workshop page]()
-- This document: 
+- This document: copy-paste link here from the Share-menu
 - [Q&A HackMD]()
 - [Archive HackMD]()
 - [HedgeDoc Q&A]()
 - [Twitch channel](https://www.twitch.tv/coderefinery/about)
-- [Emails sent]()
+- [Emails and communication]()
 ```
 
 ### Workshop roles ([overview](https://coderefinery.github.io/manuals/roles-overview/))
 :::success
-**If you want to take part, add your name here, sign up in Indico and select "I am interestest in being a helper, co-instructor, or observer", and you will be contacted.** (this might be split into another page later)
+**If you want to take part, add your name here, sign up in Indico and select "I am interestest in being a helper, co-instructor, or observer", and you will be contacted.**
 
 #### Instructors ([description](https://coderefinery.github.io/manuals/instructors/#instructors))
 Two names per lesson, first is primary
 
-- [ ] git-intro (day 1): ???, ???
-- [ ] git-intro (day 2):, ???, ???
-- [ ] git-collab (day 3): ???, ???
-- [ ] reproducible research: (day 4): ???, ???
-- [ ] social coding: (day 4): ???, ???
-- [ ] jupyter (day 5): ???, ???
-- [ ] documentation (day 5): ???, ???
-- [ ] testing (day 6): ???, ???
-- [ ] modular code development (day 6): ???, ???
+- [ ] day 1 - git-intro: ???, ???
+- [ ] day 2 - git-intro: ???, ???
+- [ ] day 3 - git-collab: ???, ???
+- [ ] day 4 - reproducible research: ???, ???
+- [ ] day 4 - social coding: ???, ???
+- [ ] day 5 - jupyter: ???, ???
+- [ ] day 5 - documentation: ???, ???
+- [ ] day 6 - testing: ???, ???
+- [ ] day 6 - modular code development: ???, ???
 
 
 #### Learner Zoom team leaders ([description](https://coderefinery.github.io/manuals/team-leaders/))
 Help in our learner zoom, circle around breakoutrooms; there will probably be 2 or 3 rooms where we need to provide the helper. At least two for each day
-- [ ] day 1: 
-- [ ] day 2: 
-- [ ] day 3: 
-- [ ] day 4: 
-- [ ] day 5: 
-- [ ] day 6: 
+
+- [ ] day 1 - git-intro:                ???, ???, ...
+- [ ] day 2 - git-intro:                ???, ???, ...
+- [ ] day 3 - git-collab:               ???, ???, ...
+- [ ] day 4 - reproducible research:    ???, ???, ...
+- [ ] day 4 - social coding:            ???, ???, ...
+- [ ] day 5 - jupyter:                  ???, ???, ...
+- [ ] day 5 - documentation:            ???, ???, ...
+- [ ] day 6 - testing:                  ???, ???, ...
+- [ ] day 6 - modular code development: ???, ???, ...
 
 #### Expert helpers ([description](https://coderefinery.github.io/manuals/expert-helpers/))
-- [ ] day 1: 
-- [ ] day 2: 
-- [ ] day 3: 
-- [ ] day 4: 
-- [ ] day 5: 
-- [ ] day 6: 
+
+- [ ] day 1 - git-intro:                ???, ???, ...
+- [ ] day 2 - git-intro:                ???, ???, ...
+- [ ] day 3 - git-collab:               ???, ???, ...
+- [ ] day 4 - reproducible research:    ???, ???, ...
+- [ ] day 4 - social coding:            ???, ???, ...
+- [ ] day 5 - jupyter:                  ???, ???, ...
+- [ ] day 5 - documentation:            ???, ???, ...
+- [ ] day 6 - testing:                  ???, ???, ...
+- [ ] day 6 - modular code development: ???, ???, ...
 
 #### HackMD manager ([description](https://coderefinery.github.io/manuals/hackmd-helper/#hackmd-manager))
 (keep HackMD organized, check for unanswered questions, and archive notes each day)
+
 - [ ] preparation before workshop: 
-- [ ] day 1: 
-- [ ] day 2: 
-- [ ] day 3: 
-- [ ] day 4: 
-- [ ] day 5: 
-- [ ] day 6: 
+- [ ] day 1 - git-intro:                ???, ???, ...
+- [ ] day 2 - git-intro:                ???, ???, ...
+- [ ] day 3 - git-collab:               ???, ???, ...
+- [ ] day 4 - reproducible research:    ???, ???, ...
+- [ ] day 4 - social coding:            ???, ???, ...
+- [ ] day 5 - jupyter:                  ???, ???, ...
+- [ ] day 5 - documentation:            ???, ???, ...
+- [ ] day 6 - testing:                  ???, ???, ...
+- [ ] day 6 - modular code development: ???, ???, ...
+
 :::
 
 ### Workshop organization; roles "behind the scenes"
