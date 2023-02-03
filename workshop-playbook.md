@@ -97,7 +97,8 @@ Roles and their responsibilities. This does not mean that a person will do
 everything that is part of their responsibility, but they will make sure that
 their responsibilities are followed-up and not forgotten.
 
-#### Event director ([description](https://coderefinery.github.io/manuals/director/))
+#### Event director
+([description](https://coderefinery.github.io/manuals/director/))
 - lead: 
 - backup:
 
@@ -113,38 +114,42 @@ their responsibilities are followed-up and not forgotten.
     - [ ] Coordinate post-workshop survey eg. in Indico
 :::
 
-#### Registration coordinator ([description](https://coderefinery.github.io/manuals/registration-coordinator))
+#### Registration coordinator
+([description](https://coderefinery.github.io/manuals/registration-coordinator))
 - lead: 
 - backup:
 
 :::spoiler Checklist
-  - [ ] Create Indico registration page for the event
+  - [ ] Create [Indico registration page](https://indico.neic.no/category/5/) for the event
     - [ ] Include event information
     - [ ] Customise the registration form
     - [ ] Customise the confirmation email (with outreach and marketing coordinator)
-  - [ ] Set up a workshop page from template, and add it to "upcoming courses"
-  - [ ] Commnicate with Individual learners and team leads which team to join
+  - [ ] Set up a workshop page from [template page](https://github.com/coderefinery/template-workshop-webpage)
+  - [ ] Add workshop to ["upcoming courses"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/upcoming.md)
+  - [ ] Communicate with Individual learners and team leads which team to join
   - [ ] Remind instructors and co-organizers to also register for workshop
   - [ ] Update indico auto-reply for last minute registrations
   - [ ] Every day: check support email (Freshdesk) for requests/questions
   - [ ] Every week: check registrations for problems
-    - identify if need to do something – basically, "playing" with the registration data to not forget anybody and not to forget follow-up
+    - Identify if need to do something – basically, "playing" with the registration data to not forget anybody and not to forget follow-up
   - [ ] Send emails to local event organisers 
     - [ ] Including the contact details of participants in the area for targeted emails.
-  - [ ] Send email to Stream learners and save to website
-  - [ ] Send email to Zoom learners and save to website
+  - [ ] Send email to Stream learners and save to workshop page
+  - [ ] Send email to Zoom learners and save to workshop page
   - After the workshop:
-    - [ ] port changes from workshop page to template page
-    - [ ] on CR website move from "upcoming" to "past"
-    - [ ] add viewing statistics to webpage
+    - [ ] port changes from workshop page to [template page](https://github.com/coderefinery/template-workshop-webpage)
+    - [ ] on CR website move from ["upcoming"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/upcoming.md) to ["past"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/past.md)
+    - [ ] add viewing statistics to [CodeRefinery webpage](https://github.com/coderefinery/coderefinery.org/tree/main/content/about/statistics)
+      - [ ] Use [statistics repo](https://github.com/coderefinery/workshop-stats) (feel free to edit)
 :::
 
-#### Broadcaster ([description](https://coderefinery.github.io/manuals/broadcaster/))
+#### Broadcaster
+([description](https://coderefinery.github.io/manuals/broadcaster/))
 - lead: 
 - backup:
 
 :::spoiler Checklist
-  - [ ] Prepare Ice-breakers for each day
+  - [ ] Prepare Ice-breakers for each day (in [learner HackMD](https://github.com/coderefinery/workshop-stats))
   - [ ] Create instructor Zoom and communicates it (with exercise coordinator and outreach and marketing coordinator)
   - [ ] Publish recordings (does not do all the work but coordinates it)
     - [ ] Prepare for upload (use [ffmpeg-editlist](https://github.com/coderefinery/ffmpeg-editlist) and collaborate)
@@ -153,7 +158,8 @@ their responsibilities are followed-up and not forgotten.
 
 
 
-#### Instructor coordinator ([description](https://coderefinery.github.io/manuals/instructors/))
+#### Instructor coordinator
+([description](https://coderefinery.github.io/manuals/instructors/))
 - lead: 
 - backup:
 
@@ -168,7 +174,8 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Organize team leader On-boarding sessions (with exercise coordinator)
 :::
 
-#### Exercise & team leader coordinator ([description](https://coderefinery.github.io/manuals/exercise-coordinator/))
+#### Exercise and team leader coordinator
+([description](https://coderefinery.github.io/manuals/exercise-coordinator/))
 - lead: 
 - backup:
 
@@ -181,7 +188,8 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Makes sure exercise list is communicated (with outreach and marketing coordinator)
   - [ ] List all team leads (who consent to being listed) on the website (with instructor coordinator)
   - [ ] List expert helpers on the website (with instructor coordinator)
-  - [ ] Create learner HackMD (nice URL) with all relevant links
+  - [ ] Create learner HackMD (create nice URL) with all relevant links 
+    - [ ] Use [CodeRefinery HedgeDoc](https://notes.coderefinery.org) or [HackMD](https://hackmd.io/team/coderefinery)
   - [ ] Makes sure that each workshop day has a learner HackMD editor who edits and archives at the end of the day
   - [ ] Organize Staff & Helpers On-boarding sessions (with instructor coordinator)
     - [ ] Communicate to staff + helpers (with outreach and marketing coordinator)
@@ -189,7 +197,8 @@ their responsibilities are followed-up and not forgotten.
   - [ ] After the workshop remove the [exercise repositories](https://coderefinery.github.io/git-collaborative/guide/#preparing-exercises)
 :::
 
-#### Outreach and marketing coordinator ([description](https://coderefinery.github.io/manuals/workshop-marketing/))
+#### Outreach and marketing coordinator
+([description](https://coderefinery.github.io/manuals/workshop-marketing/))
 - lead: 
 - backup:
 
@@ -203,7 +212,7 @@ their responsibilities are followed-up and not forgotten.
     - [ ] Info to helpers (with exercise coordinator)
     - [ ] Info to team leads (with exercise coordinator)
     - [ ] Info to participants (with registration coordinator)
-  - [ ] Create/update advertising texts and relevant news on the workshop page
+  - [ ] Create/update [advertising texts](https://github.com/coderefinery/template-workshop-webpage/tree/main/content/communication) and relevant news on the workshop page
   - [ ] After each workshop day, send summary and preparation for next day email to
     all (can be based on the website news and link there so that it can be
     updated)
@@ -215,7 +224,7 @@ their responsibilities are followed-up and not forgotten.
     - [ ] [EXAMPLE: summary and thank you](https://github.com/coderefinery/2022-03-22-workshop/issues/56)
     - [ ] [EXAMPLE: invitation to debriefing (feedback)](https://github.com/coderefinery/2022-03-22-workshop/issues/52)
   - After the workshop
-    - [ ] Help other roles in putting everybody who contributed and consents on the website as credit
+    - [ ] Help other roles in putting everybody who contributed and consents on the [website as credit](https://github.com/coderefinery/coderefinery.org/blob/main/content/about/contributors.md)
     - [ ] Help event director with Post-Workshop survey
 
 :::
