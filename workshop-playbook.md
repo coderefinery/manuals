@@ -27,6 +27,10 @@ Let's keep this brief and copy-paste-able to HackMD/HedgeDoc for the actual plan
 - [Emails and communication]()
 ```
 
+:::danger
+Add missing links! :arrow_up: 
+:::
+
 ### Workshop roles ([overview](https://coderefinery.github.io/manuals/roles-overview/))
 :::success
 **If you want to take part, add your name here, sign up in Indico and select "I am interestest in being a helper, co-instructor, or observer", and you will be contacted.**
@@ -34,19 +38,19 @@ Let's keep this brief and copy-paste-able to HackMD/HedgeDoc for the actual plan
 #### Instructors ([description](https://coderefinery.github.io/manuals/instructors/#instructors))
 Two names per lesson, first is primary
 
-- [ ] day 1 - git-intro: ???, ???
-- [ ] day 2 - git-intro: ???, ???
-- [ ] day 3 - git-collab: ???, ???
-- [ ] day 4 - reproducible research: ???, ???
-- [ ] day 4 - social coding: ???, ???
-- [ ] day 5 - jupyter: ???, ???
-- [ ] day 5 - documentation: ???, ???
-- [ ] day 6 - testing: ???, ???
+- [ ] day 1 - git-intro:                ???, ???
+- [ ] day 2 - git-intro:                ???, ???
+- [ ] day 3 - git-collab:               ???, ???
+- [ ] day 4 - reproducible research:    ???, ???
+- [ ] day 4 - social coding:            ???, ???
+- [ ] day 5 - jupyter:                  ???, ???
+- [ ] day 5 - documentation:            ???, ???
+- [ ] day 6 - testing:                  ???, ???
 - [ ] day 6 - modular code development: ???, ???
 
 
 #### Learner Zoom team leaders ([description](https://coderefinery.github.io/manuals/team-leaders/))
-Help in our learner zoom, circle around breakoutrooms; there will probably be 2 or 3 rooms where we need to provide the helper. At least two for each day
+
 
 - [ ] day 1 - git-intro:                ???, ???, ...
 - [ ] day 2 - git-intro:                ???, ???, ...
@@ -59,6 +63,7 @@ Help in our learner zoom, circle around breakoutrooms; there will probably be 2 
 - [ ] day 6 - modular code development: ???, ???, ...
 
 #### Expert helpers ([description](https://coderefinery.github.io/manuals/expert-helpers/))
+Help in our learner zoom, circle around breakoutrooms; there will probably be 2 or 3 rooms where we need to provide the helper. At least two for each day
 
 - [ ] day 1 - git-intro:                ???, ???, ...
 - [ ] day 2 - git-intro:                ???, ???, ...
@@ -97,15 +102,15 @@ their responsibilities are followed-up and not forgotten.
 - backup:
 
 :::spoiler Checklist
-  - [ ] Create planning HackMD with all relevant links from template 
-  - [ ] Distribute roles (use this document)
-    - [ ] Inform collaborators/stakeholders to pick roles
-  - [ ] Add all sessions to CodeRefinery calendar separately
+  - [ ] Create planning HackMD by copying this page to a new HackMD in [CodeRefinery HackMD](https://hackmd.io/team/coderefinery)
+  - [ ] Distribute roles using the planning HackMD
+    - [ ] Ask collaborators/stakeholders to pick roles
+  - [ ] Add all sessions to [CodeRefinery calendar](https://github.com/coderefinery/calendar) separately
   - [ ] Send calendar invite to all organizers, instructors, expert helpers, with all relevant links
   - [ ] Decide if certificates will be possible and what is needed for getting a certificate/credits (ask from partner universities)
   - After the workshop:
-    - [ ] Summarize lessons learned and make it a blog post
-    - [ ] Coordinate post-workshop survey
+    - [ ] Summarize lessons learned and make it a blog post in [coderefinery.org repo](https://github.com/coderefinery/coderefinery.org)
+    - [ ] Coordinate post-workshop survey eg. in Indico
 :::
 
 #### Registration coordinator ([description](https://coderefinery.github.io/manuals/registration-coordinator))
@@ -122,6 +127,8 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Remind instructors and co-organizers to also register for workshop
   - [ ] Update indico auto-reply for last minute registrations
   - [ ] Every day: check support email (Freshdesk) for requests/questions
+  - [ ] Every week: check registrations for problems
+    - identify if need to do something – basically, "playing" with the registration data to not forget anybody and not to forget follow-up
   - [ ] Send emails to local event organisers 
     - [ ] Including the contact details of participants in the area for targeted emails.
   - [ ] Send email to Stream learners and save to website
@@ -168,8 +175,9 @@ their responsibilities are followed-up and not forgotten.
 :::spoiler Checklist
   - [ ] Create and host exercise Zoom (with instructor coordinator)
     - [ ] Create exercise groups
-    - [ ] Inform those who we can't accomodate into groups that they can follow stream and need to somehow self-organize
+    - [ ] Inform those who we can't accommodate into groups that they can follow stream and need to somehow self-organize
     - [ ] Communicate exercise Zoom to paricipants (with outreach and marketing coordinator)
+    - [ ] Provide [practical instructions](https://github.com/coderefinery/template-workshop-webpage/issues/73) in the exercise zoom
   - [ ] Makes sure exercise list is communicated (with outreach and marketing coordinator)
   - [ ] List all team leads (who consent to being listed) on the website (with instructor coordinator)
   - [ ] List expert helpers on the website (with instructor coordinator)
@@ -206,6 +214,9 @@ their responsibilities are followed-up and not forgotten.
     - [ ] [EXAMPLE: day 5 summary](https://github.com/coderefinery/2022-03-22-workshop/issues/51)
     - [ ] [EXAMPLE: summary and thank you](https://github.com/coderefinery/2022-03-22-workshop/issues/56)
     - [ ] [EXAMPLE: invitation to debriefing (feedback)](https://github.com/coderefinery/2022-03-22-workshop/issues/52)
+  - After the workshop
+    - [ ] Help other roles in putting everybody who contributed and consents on the website as credit
+    - [ ] Help event director with Post-Workshop survey
 
 :::
 
