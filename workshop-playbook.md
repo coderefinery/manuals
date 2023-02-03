@@ -123,7 +123,7 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Create [Indico registration page](https://indico.neic.no/category/5/) for the event
     - [ ] Include event information
     - [ ] Customise the registration form
-    - [ ] Customise the confirmation email (with outreach and marketing coordinator)
+    - [ ] Customise the confirmation email (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
   - [ ] Set up a workshop page from [template page](https://github.com/coderefinery/template-workshop-webpage)
   - [ ] Add workshop to ["upcoming courses"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/upcoming.md)
   - [ ] Communicate with Individual learners and team leads which team to join
@@ -150,10 +150,10 @@ their responsibilities are followed-up and not forgotten.
 
 :::spoiler Checklist
   - [ ] Prepare Ice-breakers for each day (in [learner HackMD](https://github.com/coderefinery/workshop-stats))
-  - [ ] Create instructor Zoom and communicates it (with exercise coordinator and outreach and marketing coordinator)
+  - [ ] Create instructor Zoom and communicates it (with [exercise coordinator](#Exercise-and-team-leader-coordinator) and outreach and marketing coordinator)
   - [ ] Publish recordings (does not do all the work but coordinates it)
     - [ ] Prepare for upload (use [ffmpeg-editlist](https://github.com/coderefinery/ffmpeg-editlist) and collaborate)
-    - [ ] Upload videos and communicate (with outreach and marketing coordinator)
+    - [ ] Upload videos and communicate (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
 :::
 
 
@@ -170,8 +170,8 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Instructor briefing: make sure learners get a good experience (lesson material, issues, style, screen share)
   - [ ] Remind instructors to send software install requirements in time
   - [ ] Make sure software install instructions work
-  - [ ] List instructors on the website (with exercise coordinator)
-  - [ ] Organize team leader On-boarding sessions (with exercise coordinator)
+  - [ ] List instructors on the website (with [exercise coordinator](#Exercise-and-team-leader-coordinator))
+  - [ ] Organize team leader On-boarding sessions (with [exercise coordinator](#Exercise-and-team-leader-coordinator))
 :::
 
 #### Exercise and team leader coordinator
@@ -180,20 +180,20 @@ their responsibilities are followed-up and not forgotten.
 - backup:
 
 :::spoiler Checklist
-  - [ ] Create and host exercise Zoom (with instructor coordinator)
+  - [ ] Create and host exercise Zoom (with [instructor coordinator](#Instructor-coordinator))
     - [ ] Create exercise groups
     - [ ] Inform those who we can't accommodate into groups that they can follow stream and need to somehow self-organize
-    - [ ] Communicate exercise Zoom to paricipants (with outreach and marketing coordinator)
+    - [ ] Communicate exercise Zoom to paricipants (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
     - [ ] Provide [practical instructions](https://github.com/coderefinery/template-workshop-webpage/issues/73) in the exercise zoom
-  - [ ] Makes sure exercise list is communicated (with outreach and marketing coordinator)
-  - [ ] List all team leads (who consent to being listed) on the website (with instructor coordinator)
-  - [ ] List expert helpers on the website (with instructor coordinator)
+  - [ ] Makes sure exercise list is communicated (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
+  - [ ] List all team leads (who consent to being listed) on the website (with [instructor coordinator](#Instructor-coordinator))
+  - [ ] List expert helpers on the website (with [instructor coordinator](#Instructor-coordinator))
   - [ ] Create learner HackMD (create nice URL) with all relevant links 
     - [ ] Use [CodeRefinery HedgeDoc](https://notes.coderefinery.org) or [HackMD](https://hackmd.io/team/coderefinery)
   - [ ] Makes sure that each workshop day has a learner HackMD editor who edits and archives at the end of the day
-  - [ ] Organize Staff & Helpers On-boarding sessions (with instructor coordinator)
-    - [ ] Communicate to staff + helpers (with outreach and marketing coordinator)
-  - [ ] Send team leader onboarding summary email + save it to the website (with outreach and marketing coordinator)
+  - [ ] Organize Staff & Helpers On-boarding sessions (with [instructor coordinator](#Instructor-coordinator))
+    - [ ] Communicate to staff + helpers (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
+  - [ ] Send team leader onboarding summary email + save it to the website (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
   - [ ] After the workshop remove the [exercise repositories](https://coderefinery.github.io/git-collaborative/guide/#preparing-exercises)
 :::
 
@@ -207,11 +207,11 @@ their responsibilities are followed-up and not forgotten.
     - [ ] Help instructor coordinator and exercise & team leader coordinator with their outreach
   - [ ] Draft email templates
     - [ ] Registration confirmation email
-    - [ ] Info to instructors (with instructor coordinator)
-    - [ ] Info to observers (with instructor coordinator)
-    - [ ] Info to helpers (with exercise coordinator)
-    - [ ] Info to team leads (with exercise coordinator)
-    - [ ] Info to participants (with registration coordinator)
+    - [ ] Info to instructors (with [instructor coordinator](#Instructor-coordinator))
+    - [ ] Info to observers (with [instructor coordinator](#Instructor-coordinator))
+    - [ ] Info to helpers (with [exercise coordinator](#Exercise-and-team-leader-coordinator))
+    - [ ] Info to team leads (with [exercise coordinator](#Exercise-and-team-leader-coordinator))
+    - [ ] Info to participants (with [registration coordinator](#Registration-coordinator))
   - [ ] Create/update [advertising texts](https://github.com/coderefinery/template-workshop-webpage/tree/main/content/communication) and relevant news on the workshop page
   - [ ] After each workshop day, send summary and preparation for next day email to
     all (can be based on the website news and link there so that it can be
