@@ -31,11 +31,16 @@ Let's keep this brief and copy-paste-able to HackMD/HedgeDoc for the actual plan
 Add missing links! :arrow_up: 
 :::
 
-### Workshop roles ([overview](https://coderefinery.github.io/manuals/roles-overview/))
+### Workshop roles
+
+([Overview to the roles behind this link](https://coderefinery.github.io/manuals/roles-overview/))
+
 :::success
 **If you want to take part, add your name here, sign up in Indico and select "I am interestest in being a helper, co-instructor, or observer", and you will be contacted.**
 
-#### Instructors ([description](https://coderefinery.github.io/manuals/instructors/#instructors))
+#### Instructors
+([Description](https://coderefinery.github.io/manuals/instructors/#instructors))
+
 Two names per lesson, first is primary
 
 - [ ] day 1 - git-intro:                ???, ???
@@ -49,20 +54,14 @@ Two names per lesson, first is primary
 - [ ] day 6 - modular code development: ???, ???
 
 
-#### Learner Zoom team leaders ([description](https://coderefinery.github.io/manuals/team-leaders/))
+#### Learner Zoom team leaders
+([description](https://coderefinery.github.io/manuals/team-leaders/))
 
+These are not needed if the teams are formed before the workshop starts and they bring their own team leaders.
 
-- [ ] day 1 - git-intro:                ???, ???, ...
-- [ ] day 2 - git-intro:                ???, ???, ...
-- [ ] day 3 - git-collab:               ???, ???, ...
-- [ ] day 4 - reproducible research:    ???, ???, ...
-- [ ] day 4 - social coding:            ???, ???, ...
-- [ ] day 5 - jupyter:                  ???, ???, ...
-- [ ] day 5 - documentation:            ???, ???, ...
-- [ ] day 6 - testing:                  ???, ???, ...
-- [ ] day 6 - modular code development: ???, ???, ...
+#### Expert helpers
+([description](https://coderefinery.github.io/manuals/expert-helpers/))
 
-#### Expert helpers ([description](https://coderefinery.github.io/manuals/expert-helpers/))
 Help in our learner zoom, circle around breakoutrooms; there will probably be 2 or 3 rooms where we need to provide the helper. At least two for each day
 
 - [ ] day 1 - git-intro:                ???, ???, ...
@@ -75,8 +74,10 @@ Help in our learner zoom, circle around breakoutrooms; there will probably be 2 
 - [ ] day 6 - testing:                  ???, ???, ...
 - [ ] day 6 - modular code development: ???, ???, ...
 
-#### HackMD manager ([description](https://coderefinery.github.io/manuals/hackmd-helper/#hackmd-manager))
-(keep HackMD organized, check for unanswered questions, and archive notes each day)
+#### HackMD manager
+([description](https://coderefinery.github.io/manuals/hackmd-helper/#hackmd-manager))
+
+Keep HackMD organized, check for unanswered questions, and archive notes each day.
 
 - [ ] preparation before workshop: 
 - [ ] day 1 - git-intro:                ???, ???, ...
@@ -93,7 +94,7 @@ Help in our learner zoom, circle around breakoutrooms; there will probably be 2 
 
 ### Workshop organization; roles "behind the scenes"
 
-Roles and their responsibilities. This does not mean that a person will do
+Organiser roles and their responsibilities. This does not mean that a person will do
 everything that is part of their responsibility, but they will make sure that
 their responsibilities are followed-up and not forgotten.
 
@@ -150,7 +151,7 @@ their responsibilities are followed-up and not forgotten.
 
 :::spoiler Checklist
   - [ ] Prepare Ice-breakers for each day (in [learner HackMD](https://github.com/coderefinery/workshop-stats))
-  - [ ] Create instructor Zoom and communicates it (with [exercise coordinator](#Exercise-and-team-leader-coordinator) and outreach and marketing coordinator)
+  - [ ] Create instructor Zoom and communicates it (with [exercise coordinator](#Exercise-and-team-leader-coordinator) and [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
   - [ ] Publish recordings (does not do all the work but coordinates it)
     - [ ] Prepare for upload (use [ffmpeg-editlist](https://github.com/coderefinery/ffmpeg-editlist) and collaborate)
     - [ ] Upload videos and communicate (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
