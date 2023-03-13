@@ -280,7 +280,6 @@ on the tools presented in the workhop. This person can act as team leader
 for the workshop, but may still learn a thing or two themselves. In that way
 you can work with people you know and the barrier for asking questions and
 discuss together may be a bit lower than in a group of strangers. 
-registrations.
 
 Sometimes we also allow learners to register as invidual learner with interest in being in a team. We then try to arrange those people in teams which stay together for all exercise sessions on all days and provide a zoom breakoutroom with a team/exercise leader. Since this is dependent on our team leader capacities, we cannot accept infinte amount of learners. 
 Being assigned a team as a learner allows people to form a bond and get the
