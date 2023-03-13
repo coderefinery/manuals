@@ -44,7 +44,7 @@ contains links to lesson material and exercises.
 
 **Interactive stream?**
 * Instructor Zoom is streamed and recorded (watch material, watch demo, type along)
-* Stream for everyone
+* Everyone follow stream during lessons
 * Everybody interacts via collaborative document
 
 
