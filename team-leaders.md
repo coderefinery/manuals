@@ -18,7 +18,7 @@ also go through the material below.
   management and development practices so that research groups can
   collaboratively develop, review, discuss, test, share and reuse their codes.
 
-* Get familiar with HackMD ({ref}`how-to-hackmd`)
+* Get familiar with our collaborative document ({ref}`how-to-hackmd`)
 
 * Shortly introduce yourself
     * Who are you?
@@ -139,7 +139,7 @@ Strategy 3:
 As a team leader, you have a crucial role during workshops:
 
 - Encourage learners to learn from each other.
-- Acknowledge that some of the material can be difficult and that people in your breakoutroom will
+- Acknowledge that some of the material can be difficult and that people in your team will
   learn more working together.
 - Acknowledge when learners are confused and raise it to the instructors.
   Understanding why learners are confused provides useful feedback for
@@ -189,7 +189,7 @@ please make us aware by sending a message to support@coderefinery.org . If the i
 * Criticize certain programs, operating systems, or GUI applications, or learners who use them (Excel, Windows, etc.).
 * Talk contemptuously or with scorn about any tool. 
 * Dive into complex or detailed technical discussions.
-* Pretend to know more than you do. Better to put a question on HackMD then. Trust.
+* Pretend to know more than you do. Better to put a question on the collaborative document then. Trust.
 * Use "just", "easy", "simply", "basic", "trivial" or other demotivating words. 
 * "I can’t believe you don’t know X" 
 
@@ -304,7 +304,7 @@ If you want to contact us before the workshop you can send an email to our gener
 {doc}`CodeRefinery chat <chat>` (we recommend the `#workshops` stream,
 and if you can't find it then `#general` is good). During the
 workshop, we use a topic in `#workshop-chat` to coordinate (exercise
-leaders do *not* need to use this, use HackMD instead).
+leaders do *not* need to use this, use the collaborative document instead).
 
 During the workshop,  the collaborative document is our main communication channel, where you can ask questions or extra help in case of tricky technical questions or further discussion potential.
 
