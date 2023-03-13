@@ -1,7 +1,7 @@
 (how-to-hackmd)=
-# HackMD mechanics and controls
+# Collaborative document mechanics and controls
 
-[Hackmd](https://hackmd.io) is a real-time text editor online.  We use it to:
+[Hackmd](https://hackmd.io) or  [HedgeDoc](https://hedgedoc.org/) are real-time text editor online.  We use it to:
 * As a threaded chat, to **answer questions and provide other information** without
   interrupting the main flow of the room.
 * provide everyone with a **more equal opportunity to ask questions**.
@@ -50,10 +50,10 @@ Other hints:
 
 - Please leave some blank lines at the bottom
 
-- Please don't "select all", it highlights for everyone and adds a
+- NOTE: Please don't "select all", it highlights for everyone and adds a
   risk of losing data (there are periodic backups, but not instant).
 
-- It can be quite demanding to follow the HackMD closely.  Keep an eye
+- It can be quite demanding to follow the collaborative document closely.  Keep an eye
   on it, but consider how distracted you may get from the course.  For
   things beyond the scope of the course, we may come back and answer
   later.
@@ -61,19 +61,19 @@ Other hints:
 
 ## Don't get overwhelmed
 
-There can be a flood of information on HackMD.  Scan for what is
+There can be a flood of information on the collaborative document.  Scan for what is
 important, then if you would like come back later.  But it is
 important to keep checking it.
 
 
 ## Privacy
 
-- Assume the HackMD is **public and published: you never
+- Assume the collaborative document is **public and published: you never
   need to put your name there**.
 
-- The HackMD will be **published on the website afterwards**.  We will
+- The collaborative document will be **published on the website afterwards**.  We will
   remove all non-instructors names, but it's easier if you don't add
-  it at the start.
+  it there in the first place.
 
 - Please keep the link private during the workshop, since since
   security is "editable by those who have the link".

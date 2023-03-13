@@ -9,7 +9,7 @@ Without you, these large online workshops would not be possible.
 
 We usually offer two one-hour timeslots in the week before the workshop (check
 the schedule!) for team leader onboarding. You are expected to join one of
-these times. During this time, we will talk about the role of the exercise
+these times. During this time, we will talk about the role of the team
 leader during the workshop and answer any open questions you may have. We will
 also go through the material below.
 
@@ -18,9 +18,9 @@ also go through the material below.
   management and development practices so that research groups can
   collaboratively develop, review, discuss, test, share and reuse their codes.
 
-* Get familiar with HackMD ({ref}`how-to-hackmd`)
+* Get familiar with our collaborative document ({ref}`how-to-hackmd`)
 
-* Shortly introduce yourself in Zoom
+* Shortly introduce yourself
     * Who are you?
     * What do you do?
     * Where are you connecting from?
@@ -39,15 +39,14 @@ previous courses survey results:
 
 ## What will happen during workshop?
 
-Please review the workshop schedule, e.g.
-<https://coderefinery.github.io/2022-09-20-workshop/schedule/>. It
+Please review the workshop schedule on the main workshop page. It
 contains links to lesson material and exercises.
 
 **Interactive stream?**
 * Instructor Zoom is streamed and recorded (watch material, watch demo, type along)
-* Stream for everyone
-* Learner Zoom for exercise sessions in breakout rooms (no recording)
-* Everybody interacts via HackMD
+* Everyone follow stream during lessons
+* Exercises during the lessons are done individually or in teams
+* Everybody interacts via collaborative document
 
 
 ## Preparing for the workshop
@@ -58,80 +57,61 @@ As a team leader, we do not expect you to know all our [CodeRefinery training ma
   lessons tend to have an "exercise list" page).  We try to make each
   exercise self-explanatory so that you can easily lead, but if you do one
   thing, scan over the exercises and understand the general point of each of them.
-- **Be ready to introduce yourself** in one or two sentences to your breakout room: think about what you
-  would like to convey as team leader to the classroom. How did (or does) CodeRefinery help you?
+- **Be ready to introduce yourself** in one or two sentences to your team: think about what you
+  would like to convey as team leader to your group. How did (or does) CodeRefinery help you?
 - If you are interested, also read through the **instructor guides** for the lessons (there should be
   a link at the top or sidebar of each lesson).
 
 
 ## Exercise sessions
 
-* Instructor should clearly tell which exercises and for how long; if you don't know please clarify via HackMD
+* Instructor should clearly tell which exercises and for how long; if you don't know please clarify via collaborative document.
 
-**Preformed teams**:
-* Learners could sign up as team
-* The goal is to keep preformed teams together 
+**Registrations**, Learners could sign up: 
+* ... as team with a team lead
+* ... as individuals, watching the stream and doing the exercises individually
 
-**Solo learner groups**:
-* Learners could sign up alone but request to do the exercises in team
-* -> open breakout rooms in learner zoom
-* Additional rooms for specific problem solving 
-* Learners can also form own team 
-
-**Make it easier for learners to ask for help**:
-* Rename yourself in Zoom to reflect your team name and that you are TL
+**Make it easy for learners to ask for help**:
+* Make sure your group knows that you are their team lead
+* Encourage your team to also put answered questions in the collaborative document, someone else might be wondering the same thing.
 
 **Want extra help?**
 * It is ok to not know something!
-* We have structures in place to help you if
-  there is questions that you cannot answer (HackMD, expert helpers).
+* Use the collaborative document if
+  there is questions that you cannot answer. Our instructors and expert helpers are watching it and try to answer every question.
 
-**Use HackMD**:
-* to ask (and answer) general questions that came up in your room 
-* to call for more help from our expert helpers
 
-```{figure} img/breakout--exercises.png
-Example of HackMD during a breakout session.  a) clear description of
-topics of the exercises.  b) breakout room status.  c) as always,
+
+```{figure} img/team_status.png
+Example of collaborative document during an exercise session.  a) clear description of
+topics of the exercises.  b) team status.  c) as always,
 questions at the bottom.
 ```
 
 
 ## Your task during exercise sessions
 
-As a team leader in a breakout room, your main task is to **keep people talking
+As a team leader, your main task is to **keep people talking
 and interacting, understand their difficulties, and encourage them to
 work on the exercises together**.
 
 - You can always start by **greeting** people and asking how the lesson is
   going
-- Encourage people to **turn on cameras**
-- You can use chat within breakout rooms: Chat to "Everyone" in a
-  breakout room only means people in that room.
+- If you meet virtually, encourage people to **turn on cameras**
 - There are several strategies below.  Combine as needed - **read the
   room and see what they want**, but do **provide encouragement** to do
   something.
-- **If you need extra help, write it in the HackMD**, someone should be
-  watching it and relay it to the host. Expert helpers/instructors will try to
-  visit your rooms periodically, anyway.
+- **If you need extra help, ask for it in the collaborative document**, 
+we have expert helpers available that will be able to answer fast.
 - **Watch the time** and try to keep things moving.  If some debugging
-  takes to long, it's reasonable to ask for an expert helper who might
-  have seen the problem before.
+  takes to long, it's reasonable to describe the problem in the collaborative document. An expert helper may have seen the problem before.
     - If any one problem takes too long, it's OK to say "we don't have
       time, let's come back"
-    - Or, ask for an expert helper to come by and maybe answer
-      quickly, or break off to work on a solution.
-
-```{figure} img/breakout--exercises.png
-Example of HackMD during a breakout session.  a) clear description of
-topics of the exercises.  b) breakout room status.  c) as always,
-questions at the bottom.
-```
 
 
-## Strategies for exercise rooms
+## Strategies for leading a team
 
-There are several strategies you can use to run your breakout room:
+There are several strategies you can use to run your team, no matter if you meet in a physical or virtual room (Physical room would need a larger screen for every one to see though):
 
 Strategy 1:
 - **team leader asks someone to share the screen and go through the exercise.**
@@ -160,7 +140,7 @@ Strategy 3:
 As a team leader, you have a crucial role during workshops:
 
 - Encourage learners to learn from each other.
-- Acknowledge that some of the material can be difficult and that people in your breakoutroom will
+- Acknowledge that some of the material can be difficult and that people in your team will
   learn more working together.
 - Acknowledge when learners are confused and raise it to the instructors.
   Understanding why learners are confused provides useful feedback for
@@ -168,20 +148,19 @@ As a team leader, you have a crucial role during workshops:
 - As we said, you don't have to know everything, just like learners don't
   necessarily know everything (we don't know everything, either). It's more
   important to be responsive and work together.
-- In an online workshop: Turn on your camera, and encourage everyone else to do so as well. Have an introductory round in the first breakout room session, to get to know your group. Whichever strategy you choose for your breakoutroom, be present and encourage learners to ask questions.
+- If you meet virtually: Turn on your camera, and encourage everyone else to do so as well. Have an introductory round in the first exercise session, to get to know your group. Whichever strategy you choose for your team, be present and encourage learners to ask questions.
 - In an in-person workshop: Stand up and walk around, try to make rounds by everyone.  If you are
   convenient, students will ask.  If you are sitting in the back, student's
-  wont.  Students rarely try to get your attention from across the room if you
+  won't.  Students rarely try to get your attention from across the room if you
   don't look ready.
 
 
-## Common problems in exercise rooms
+## Common problems in teams
 
 - **One learner asks very many questions**, ends up monopolizing all of
   the time.  Other learners are left without help, and the whole group
   may not get the exercises done
-    - Call an expert helper to the room.  They should be circulating,
-      so let them know to spend some more time
+    - Encourage them to ask in the collaborative document
     - It can be very hard to say "no", but it's more important to have
       balance than answer every question you are asked.  If you need
       to say no, you can try things such as "I'm sorry, but in order
@@ -189,7 +168,7 @@ As a team leader, you have a crucial role during workshops:
       later - would you like to watch?"
 - There is some sort of problem that ends up taking a **lot of time**
     - Work on it for a minute or two.
-    - Ask for an expert helper to drop by, by writing in the HackMD.
+    - Encourage to describe the problem in the collaborative document. Our expert helpers may be able to help.
       Nothing wrong with this.
 
 
@@ -201,17 +180,17 @@ conduct](https://coderefinery.org/about/code-of-conduct/) for all our
 interactions before, during and after workshops.
 
 If you see anything that is not supporting an equal learning environment,
-please mention it to one of instructors.
+please make us aware by sending a message to support@coderefinery.org . If the issue is not concerning a single person, and has influence on the learning experience for everyone, you can also mention it in the collaborative document. 
 
 
 ## Things to avoid
 
 **Shorter version**:
-* Take over learners keyboard, you can share commands in chat
+* Take over learners keyboard, you can share commands via the collaborative document
 * Criticize certain programs, operating systems, or GUI applications, or learners who use them (Excel, Windows, etc.).
 * Talk contemptuously or with scorn about any tool. 
 * Dive into complex or detailed technical discussions.
-* Pretend to know more than you do. Better to put a question on HackMD then. Trust.
+* Pretend to know more than you do. Better to put a question on the collaborative document then. Trust.
 * Use "just", "easy", "simply", "basic", "trivial" or other demotivating words. 
 * "I can’t believe you don’t know X" 
 
@@ -221,7 +200,7 @@ please mention it to one of instructors.
   implies you don't think they can do it themselves or that you don't want to
   wait for them. It also wastes a valuable opportunity for them to develop muscle
   memory and other skills that are essential for independent work.  Instead, try
-  to have a sticky note pad and pen / use the zoom chat and write the commands that they should type.
+  to have a sticky note pad and pen / use the collaborative document and write the commands that they should type.
 - Criticize certain programs, operating systems, or GUI applications, or
   learners who use them. (Excel, Windows, etc.)
 - Talk contemptuously or with scorn about any tool. Regardless of its
@@ -262,16 +241,14 @@ Best way to get started is to join the [Zulip chat](https://coderefinery.zulipch
 Traditionally, a workshop has instructors and team leaders/helpers, but the
 capacity is limited by instructors, so we are limited to ~30-40 people
 at most.  Then, we tried to scale to larger numbers: even up to and beyond 100
-people.  For this, we have to rely on *team leaders* a lot more, to run a
-breakout room. A team leader does not have to be an expert in the
+people.  For this, we have to rely on *team leaders* . A team leader does not have to be an expert in the
 material, but should be able to keep things flowing.
 
-team leaders are an essential part of the CodeRefinery workshop team and
+Team leaders are an essential part of the CodeRefinery workshop team and
 allow CodeRefinery to scale to many more people than we could otherwise handle.
-During a (n online) workshop, team leaders will be in a breakout room
-(virtual side room) with around 5 people, guide them through the course, keep
-time, and let us know when more help is needed during the exercise sessions.
-Instructors and expert helpers are always just one click away.  It is very
+Team leaders will guide their team through the course, keep
+time, and let us know when more help/time is needed during the exercise sessions.
+Instructors and expert helpers are always available via the collaborative document. It is very
 likely that you'll grow as a mentor and learn how to be a more efficient
 teacher. 
 
@@ -284,7 +261,7 @@ Most importantly, *you do not have to know everything* (we don't, either), but y
   pull requests) and command line work, OR be able to generally follow
   the path of the exercises that we have laid out.
 
-- Be present in your assigned breakout room during exercise sessions of the workshop.
+- Be present in your teams physical/virtual room at least during exercise sessions of the workshop.
 
 - Show a positive, motivating attitude to learners.
 
@@ -297,34 +274,27 @@ Most importantly, *you do not have to know everything* (we don't, either), but y
 
 ## Background: Teams
 
-We try to arrange people in teams which stay together for all breakout
-sessions on all days.  This allows people to form a bond and get the
-rooms started sooner.  We will try to keep you in the same breakout
-room as long as we can, but we give no promises and will rearrange as
-needed when people can't attend.
-
-We sometimes allow people to register as teams: This could for example be a
-group colleagues/friends where one of the team members has a bit of knowledge
+A team could be for example a
+group of colleagues/friends where one of the team members has a bit of knowledge
 on the tools presented in the workhop. This person can act as team leader
 for the workshop, but may still learn a thing or two themselves. In that way
 you can work with people you know and the barrier for asking questions and
-discuss together may be a bit lower than in a group of strangers. Since teams
-with team leaders are 'self-sustaining' we usually accept all team
-registrations, while registrations as single learner may be put on waiting list
-or, if applicable redirected to the stream, when they exceed our capacity based
-on the number of individual team leaders. 
+discuss together may be a bit lower than in a group of strangers. 
+
+Sometimes we also allow learners to register as invidual learner with interest in being in a team. We then try to arrange those people in teams which stay together for all exercise sessions on all days and provide a zoom breakoutroom with a team/exercise leader. Since this is dependent on our team leader capacities, we cannot accept infinte amount of learners. 
+Being assigned a team as a learner allows people to form a bond and get the
+rooms started sooner.  We will try to keep you in the same team
+room as long as we can, but we give no promises and will rearrange as
+needed when people can't attend. 
 
 
 ## Material for team leaders
 
 If you have been to a CodeRefinery workshop before, you will most likely know the following, but if unsure, also check these links: 
 
-- {ref}`HackMD mechanics <how-to-hackmd>`
-- {ref}`Zoom mechanics <how-to-zoom>` (if the workshop uses Zoom)
-- "How to attend" whatever kind of workshop we are doing (though we
-  will cover this the first day, too): {ref}`how to attend via livestream
-  <attend-stream>`, {ref}`how to attend via Zoom <attend-online>`, or 
-  {ref}`how to attend in-person <attend-inperson>`.
+- {ref}`Collaborative document mechanics <how-to-hackmd>`
+- {ref}`how to attend via livestream
+  <attend-stream>`
 
 If you have any doubts, questions, ideas or anything you want to tell
 us apart from these sessions, please let us know! We are here to help. 
@@ -333,9 +303,9 @@ If you want to contact us before the workshop you can send an email to our gener
 {doc}`CodeRefinery chat <chat>` (we recommend the `#workshops` stream,
 and if you can't find it then `#general` is good). During the
 workshop, we use a topic in `#workshop-chat` to coordinate (exercise
-leaders do *not* need to use this, use HackMD instead).
+leaders do *not* need to use this, use the collaborative document instead).
 
-During the workshop, HackMD (collaborative document) is our main communication channel, where you can ask questions or request us to visit your breakout room in case of tricky questions or further discussion potential.
+During the workshop,  the collaborative document is our main communication channel, where you can ask questions or extra help in case of tricky technical questions or further discussion potential.
 
 If you had fun being a team leader for the workshop, please visit our
 {ref}`contributing page <volunteering>` page, to find out about further
