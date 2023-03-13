@@ -73,7 +73,7 @@ important to keep checking it.
 
 - The collaborative document will be **published on the website afterwards**.  We will
   remove all non-instructors names, but it's easier if you don't add
-  it at the start.
+  it there in the first place.
 
 - Please keep the link private during the workshop, since since
   security is "editable by those who have the link".
