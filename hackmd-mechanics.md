@@ -50,7 +50,7 @@ Other hints:
 
 - Please leave some blank lines at the bottom
 
-- Please don't "select all", it highlights for everyone and adds a
+- NOTE: Please don't "select all", it highlights for everyone and adds a
   risk of losing data (there are periodic backups, but not instant).
 
 - It can be quite demanding to follow the collaborative document closely.  Keep an eye
