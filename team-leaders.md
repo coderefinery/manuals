@@ -275,7 +275,7 @@ Most importantly, *you do not have to know everything* (we don't, either), but y
 ## Background: Teams
 
 A team could be for example a
-group colleagues/friends where one of the team members has a bit of knowledge
+group of colleagues/friends where one of the team members has a bit of knowledge
 on the tools presented in the workhop. This person can act as team leader
 for the workshop, but may still learn a thing or two themselves. In that way
 you can work with people you know and the barrier for asking questions and
