@@ -279,7 +279,7 @@ group of colleagues/friends where one of the team members has a bit of knowledge
 on the tools presented in the workhop. This person can act as team leader
 for the workshop, but may still learn a thing or two themselves. In that way
 you can work with people you know and the barrier for asking questions and
-discuss together may be a bit lower than in a group of strangers. Since teams
+discuss together may be a bit lower than in a group of strangers. 
 with team leaders are 'self-sustaining' we usually accept all team
 registrations.
 
