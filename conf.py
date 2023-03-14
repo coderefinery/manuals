@@ -65,9 +65,11 @@ html_context = {'display_github': True,
                 'github_version': 'master/',
                }
 
-html_js_files = [
-    ('https://plausible.cs.aalto.fi/js/script.js', {"data-domain": "coderefinery.github.io", "defer": "defer"}),
-]
+import os
+if os.environ.get('GITHUB_REF', '') == 'refs/heads/master':
+    html_js_files = [
+        ('https://plausible.cs.aalto.fi/js/script.js', {"data-domain": "coderefinery.github.io", "defer": "defer"}),
+    ]
 
 epub_basename='CodeRefineryManuals'
 latex_documents = [
