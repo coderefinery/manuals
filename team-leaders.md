@@ -207,7 +207,7 @@ role of ensuring a good environment.
 
 If you see anything that is not supporting an positive learning
 environment, let us know!
-* If it's a general issue that can be mentioned publicy, write it
+* If it's a general issue that can be mentioned publicly, write it
   immediately in the collaborative document.
 * Send a message to support@coderefinery.org if it is private and can
   be handled asynchronously.
