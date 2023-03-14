@@ -42,34 +42,49 @@ previous courses survey results:
 Please review the workshop schedule on the main workshop page. It
 contains links to lesson material and exercises.
 
-**Interactive stream?**
-* Instructor Zoom is streamed and recorded (watch material, watch demo, type along)
-* Everyone follow stream during lessons
-* Exercises during the lessons are done individually or in teams
-* Everybody interacts via collaborative document
+The best analogy is like **watching a popular sporting event on TV**.
+There are periods of lots of activity, and clear periods of breaks where you
+do your own thing.
+
+* Everyone follow stream during lessons - lessons, demos, exercise
+  intros, going over solutions, etc.
+* Exercises during the lessons are done individually or in teams: many
+  ways to do this:
+  * Watch and work alone
+  * Watch together and interact during exercises/breaks (in-person or
+    online)
+  * Reviewing/doing exercises later
+* Use mass communication (collaborative document, see below), not
+  hand-raising.
 
 
 ## Preparing for the workshop
 
 As a team leader, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
 
-- **Take a look at the exercises in advance** of each days (revised
-  lessons tend to have an "exercise list" page).  We try to make each
+- **Take a look at the exercises in advance** of each days (the exact
+  plan is on the workshop page.  Lessons
+  tend to have an "exercise list" page that shows everything).  We try to make each
   exercise self-explanatory so that you can easily lead, but if you do one
   thing, scan over the exercises and understand the general point of each of them.
-- **Be ready to introduce yourself** in one or two sentences to your team: think about what you
-  would like to convey as team leader to your group. How did (or does) CodeRefinery help you?
+- **Be ready to introduce yourself and why you are excited** to your
+  team and try to get your team talking.  Think about what you
+  would like to convey as team leader to your group. How did (or does)
+  CodeRefinery help you?  **More than anything, you should make people
+  excited to be here and want to work together - and that comes from
+  how your present your own motivation.**
 - If you are interested, also read through the **instructor guides** for the lessons (there should be
   a link at the top or sidebar of each lesson).
 
 
 ## Exercise sessions
 
-* Instructor should clearly tell which exercises and for how long; if you don't know please clarify via collaborative document.
+Being a "live show", things can get interesting.  **But we try our
+best to be very explicit about what is going on.  However, your first
+goal should be to energize the learners and make sure they are engaged.**
 
-**Registrations**, Learners could sign up: 
-* ... as team with a team lead
-* ... as individuals, watching the stream and doing the exercises individually
+The instructors should clearly tell which exercises and for how long;
+if anything is unclear you should ask via collaborative document.
 
 **Make it easy for learners to ask for help**:
 * Make sure your group knows that you are their team lead
@@ -80,6 +95,9 @@ As a team leader, we do not expect you to know all our [CodeRefinery training ma
 * Use the collaborative document if
   there is questions that you cannot answer. Our instructors and expert helpers are watching it and try to answer every question.
 
+**Major problems?**
+* It's just a course.  You can always defer figuring out a solution
+  for later when you have more time
 
 
 ```{figure} img/team_status.png
@@ -107,6 +125,10 @@ we have expert helpers available that will be able to answer fast.
   takes to long, it's reasonable to describe the problem in the collaborative document. An expert helper may have seen the problem before.
     - If any one problem takes too long, it's OK to say "we don't have
       time, let's come back"
+- **You don't actually *have* to do the exercises**.  You could apply
+  lesson material to your own team's work, review what was just said,
+  have a free-form discussion, etc. - if those are more valuable.  You
+  can always come back to exercises later.
 
 
 ## Strategies for leading a team
@@ -114,7 +136,7 @@ we have expert helpers available that will be able to answer fast.
 There are several strategies you can use to run your team, no matter if you meet in a physical or virtual room (Physical room would need a larger screen for every one to see though):
 
 Strategy 1:
-- **team leader asks someone to share the screen and go through the exercise.**
+- **Team leader asks someone to share the screen and go through the exercise.**
 - You can encourage the others to guide the one who is sharing the
   screen. Or let the person go on her/his own pace.
   - If no one dares at first, you can also start sharing your screen and let the room tell you what to write.
@@ -169,7 +191,7 @@ As a team leader, you have a crucial role during workshops:
 - There is some sort of problem that ends up taking a **lot of time**
     - Work on it for a minute or two.
     - Encourage to describe the problem in the collaborative document. Our expert helpers may be able to help.
-      Nothing wrong with this.
+      Nothing wrong with this, because there is no deadline or time limit.
 
 
 ## Code of Conduct
@@ -179,8 +201,16 @@ those who aren't.  Thus, we follow [a code of
 conduct](https://coderefinery.org/about/code-of-conduct/) for all our
 interactions before, during and after workshops.
 
-If you see anything that is not supporting an equal learning environment,
-please make us aware by sending a message to support@coderefinery.org . If the issue is not concerning a single person, and has influence on the learning experience for everyone, you can also mention it in the collaborative document. 
+We've designed the workshop so that it is very hard for one person to
+ruin it for everyone.  Within your team, you will need to take on the
+role of ensuring a good environment.
+
+If you see anything that is not supporting an positive learning
+environment, let us know!
+* If it's a general issue that can be mentioned publicly, write it
+  immediately in the collaborative document.
+* Send a message to support@coderefinery.org if it is private and can
+  be handled asynchronously.
 
 
 ## Things to avoid
@@ -230,7 +260,7 @@ Would you like to
 * help organizing a workshop?
 * contribute to lesson material?
 * have any other ideas to contribute?
-* community calls: see https://coderefinery.org/organization/meetings/
+* community calls: see <https://coderefinery.org/organization/meetings/>
 
 See our [website](https://coderefinery.org/get-involved/) and {ref}`volunteering`.
 Best way to get started is to join the [Zulip chat](https://coderefinery.zulipchat.com).
