@@ -8,15 +8,15 @@ Without you, these large online workshops would not be possible.
 ## Onboarding session: Introduction, icebreaker, and project chat
 
 We usually offer two one-hour timeslots in the week before the workshop (check
-the schedule!) for team leader onboarding. You are expected to join one of
+the schedule!) for team leader onboarding. You are encouraged to join one of
 these times. During this time, we will talk about the role of the team
 leader during the workshop and answer any open questions you may have. We will
 also go through the material below.
 
-* CodeRefinery: We are working with students, researchers, and research
-  software engineers from all disciplines to advance FAIRness of software
-  management and development practices so that research groups can
-  collaboratively develop, review, discuss, test, share and reuse their codes.
+* CodeRefinery: We teach all the essential tools which are usually skipped in
+  academic education so everyone can make full use of software, computing, and
+  data. We don't just give courses, but we are a training network that you can
+  join to share the effort and bring better courses to your community.
 
 * Get familiar with our collaborative document ({ref}`how-to-hackmd`)
 
@@ -26,7 +26,7 @@ also go through the material below.
     * Where are you connecting from?
 
 * If you want to, sign up for our [Zulip chat](https://coderefinery.zulipchat.com) to ask us anything, anytime. Use
-  `#tools-workshop` during the workshop itself (you need to join the stream).
+  `#tools-workshop` during the workshop itself (you need to join the stream, it is not default for new chat members).
 
 
 ## Reviewing learners survey
@@ -39,23 +39,23 @@ previous courses survey results:
 
 ## What will happen during workshop?
 
-Please review the workshop schedule on the main workshop page. It
-contains links to lesson material and exercises.
+Please review the workshop schedule on the main workshop page. It contains
+links to lesson material and also a separate page summarizing exercises.
 
 The best analogy is like **watching a popular sporting event on TV**.
 There are periods of lots of activity, and clear periods of breaks where you
 do your own thing.
 
-* Everyone follow stream during lessons - lessons, demos, exercise
+* **Everyone follows stream during lessons** - lessons, demos, exercise
   intros, going over solutions, etc.
-* Exercises during the lessons are done individually or in teams: many
+* **Exercises during the lessons are done individually or in teams**: many
   ways to do this:
   * Watch and work alone
   * Watch together and interact during exercises/breaks (in-person or
     online)
   * Reviewing/doing exercises later
-* Use mass communication (collaborative document, see below), not
-  hand-raising.
+* **For questions use collaborative document** (more below), not hand signals
+  (but of course it is OK to ask live if you are part of an in-person exercise group).
 
 
 ## Preparing for the workshop
@@ -67,6 +67,7 @@ As a team leader, we do not expect you to know all our [CodeRefinery training ma
   tend to have an "exercise list" page that shows everything).  We try to make each
   exercise self-explanatory so that you can easily lead, but if you do one
   thing, scan over the exercises and understand the general point of each of them.
+  We also summarize a list of exercises on the workshop page.
 - **Be ready to introduce yourself and why you are excited** to your
   team and try to get your team talking.  Think about what you
   would like to convey as team leader to your group. How did (or does)
@@ -87,11 +88,11 @@ The instructors should clearly tell which exercises and for how long;
 if anything is unclear you should ask via collaborative document.
 
 **Make it easy for learners to ask for help**:
-* Make sure your group knows that you are their team lead
+* Make sure your group knows that you are their team lead.
 * Encourage your team to also put answered questions in the collaborative document, someone else might be wondering the same thing.
 
 **Want extra help?**
-* It is ok to not know something!
+* It is OK to not know something!
 * Use the collaborative document if
   there is questions that you cannot answer. Our instructors and expert helpers are watching it and try to answer every question.
 
@@ -113,6 +114,9 @@ As a team leader, your main task is to **keep people talking
 and interacting, understand their difficulties, and encourage them to
 work on the exercises together**.
 
+To make this easier, we try to allocate enough time for exercise sessions
+during the workshop.
+
 - You can always start by **greeting** people and asking how the lesson is
   going
 - If you meet virtually, encourage people to **turn on cameras**
@@ -121,8 +125,10 @@ work on the exercises together**.
   something.
 - **If you need extra help, ask for it in the collaborative document**, 
 we have expert helpers available that will be able to answer fast.
-- **Watch the time** and try to keep things moving.  If some debugging
-  takes to long, it's reasonable to describe the problem in the collaborative document. An expert helper may have seen the problem before.
+- **Watch the time** and try to keep things moving.
+    - If some debugging takes to long, it's reasonable to describe the problem in the
+      collaborative document. An expert helper may have seen the problem
+      before.
     - If any one problem takes too long, it's OK to say "we don't have
       time, let's come back"
 - **You don't actually *have* to do the exercises**.  You could apply
@@ -209,7 +215,7 @@ If you see anything that is not supporting an positive learning
 environment, let us know!
 * If it's a general issue that can be mentioned publicly, write it
   immediately in the collaborative document.
-* Send a message to support@coderefinery.org if it is private and can
+* Send a message to <support@coderefinery.org> if it is private and can
   be handled asynchronously.
 
 
