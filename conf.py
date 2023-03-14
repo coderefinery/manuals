@@ -65,6 +65,10 @@ html_context = {'display_github': True,
                 'github_version': 'master/',
                }
 
+html_js_files = [
+    ('https://plausible.cs.aalto.fi/js/script.js', {"data-domain": "coderefinery.github.io", "defer": "defer"}),
+]
+
 epub_basename='CodeRefineryManuals'
 latex_documents = [
     (master_doc, 'CodeRefineryManuals.tex', project, author, 'manual')
