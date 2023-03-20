@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'CodeRefinery manuals'
-copyright = '2018-2022, The CodeRefinery team'
+copyright = '2018-2023, The CodeRefinery team'
 author = 'The CodeRefinery team'
 
 
