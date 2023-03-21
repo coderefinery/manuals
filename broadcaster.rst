@@ -207,6 +207,8 @@ Before each broadcast
 
 * Wait for first instructors to join.
 
+* Zoom: Disable sound on participants joining
+
 * In zoom, right click on a participant without video and "Hide
   non-video participants".  You may need three participants in order
   to do this: if you have fewer, join through a browser or something.
@@ -215,15 +217,11 @@ Before each broadcast
   screen without the other person stopping.
 
 * Start recording / start streaming ~20-30 minutes in advance, with
-  audio muted and on the title card scene.
-
-* Flip recording off and one again at the broadcast time (you start
-  earlier just to make sure you don't forget it!)
+  audio muted and on the title card scene.  Start recording at the
+  same time as streaming so you don't forget it!
 
 * Hand it off to the director (possible yourself) to flip the audio
   and scene once icebreakers start.
-
-* Disable "play sound when participant joins or leaves"
 
 
 
