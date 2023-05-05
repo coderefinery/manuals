@@ -113,6 +113,8 @@ their responsibilities are followed-up and not forgotten.
   - After the workshop:
     - [ ] Summarize lessons learned and make it a blog post in [coderefinery.org repo](https://github.com/coderefinery/coderefinery.org)
     - [ ] Coordinate post-workshop survey eg. in Indico
+    - [ ] Port changes from workshop page to [template page](https://github.com/coderefinery/template-workshop-webpage)
+    - [ ] On CR website move from ["upcoming"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/upcoming.md) to ["past"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/past.md)
 :::
 
 #### Registration coordinator
@@ -120,29 +122,60 @@ their responsibilities are followed-up and not forgotten.
 - lead: 
 - backup:
 
-:::spoiler Checklist
+:::spoiler Checklist without CR ZOOM
+- **ca. 2 months before = When workshop details are set:**
   - [ ] Create [Indico registration page](https://indico.neic.no/category/5/) for the event
     - [ ] Include event information
     - [ ] Customise the registration form
     - [ ] Customise the confirmation email (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
+      - [ ] Incl. Zoom link if any
+      - [ ] Point to workshop page
+      - [ ] Incl. HackMD link if any
   - [ ] Set up a workshop page from [template page](https://github.com/coderefinery/template-workshop-webpage)
   - [ ] Add workshop to ["upcoming courses"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/upcoming.md)
-  - [ ] Communicate with Individual learners and team leads which team to join
+  - [ ] Draft email templates
+    - [ ] Registration confirmation email
+    - [ ] Info to instructors (with [instructor coordinator](#Instructor-coordinator))
+    - [ ] Info to observers (with [instructor coordinator](#Instructor-coordinator))
+    - [ ] Info to team leads (with [exercise coordinator](#Exercise-and-team-leader-coordinator))
+    - [ ] Info to participants (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
+      - Remember to add all the emails to workshop page
+  - [ ] Open the registration 
   - [ ] Remind instructors and co-organizers to also register for workshop
-  - [ ] Update indico auto-reply for last minute registrations
-  - [ ] Every day: check support email (Freshdesk) for requests/questions
-  - [ ] Every week: check registrations for problems
+- **Every day: **
+  - Check [support email (Freshdesk)](https://coderefinery.zulipchat.com/#narrow/stream/215460-coderefinery/topic/freshdesk.20procedures) for requests/questions
+- **Every week: **
+  - Check registrations for problems
     - Identify if need to do something – basically, "playing" with the registration data to not forget anybody and not to forget follow-up
-  - [ ] Send emails to local event organisers 
-    - [ ] Including the contact details of participants in the area for targeted emails.
-  - [ ] Send email to Stream learners and save to workshop page
-  - [ ] Send email to Zoom learners and save to workshop page
-  - After the workshop:
-    - [ ] port changes from workshop page to [template page](https://github.com/coderefinery/template-workshop-webpage)
-    - [ ] on CR website move from ["upcoming"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/upcoming.md) to ["past"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/past.md)
-    - [ ] add viewing statistics to [CodeRefinery webpage](https://github.com/coderefinery/coderefinery.org/tree/main/content/about/statistics)
-      - [ ] Use [statistics repo](https://github.com/coderefinery/workshop-stats) (feel free to edit)
+  - Update [stats](https://github.com/coderefinery/workshop-stats) 
+  - Update workshop-webpage if new local organisations
+- **ca. 1 month before:**
+  - [ ] Reach out to participants ([examples from Mar 2023](https://github.com/coderefinery/2023-03-21-workshop/tree/main/content/communication))
+    - [ ] [Team leaders](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/email-to-team-leads.md) 
+    - [ ] [Those who indicated interest in co-organizing and co-teaching](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/email-to-co-org-helpers.md)
+    - [ ] [Communicate about self organising teams](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/exercise-teams-2023-03-09.md)
+- **Two weeks before**
+  - [ ] [Send general information to all](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/practical-info-2023-03-09.md)
+    - Next steps, onboarding, installation
+    - Those who have a team, please organize your own zoom/video 
+  - [ ] [Inform those who want in-person about known LOs](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/local-groups-2023-03-09.md)
+  - [ ] Try to match up learners and helpers who want to be part of a team
+    - [ ] Send emails to local event organisers Including the contact details of participants in the area for targeted emails.
+      - This requires that this data usecase is clearly communicated!
+- **ca. 1 week before** 
+  - [ ] Update indico auto-reply for last minute registrations
+  - [ ] Send [email with all links](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/links-2023-03-15.md)
+- **1 day before!**
+  - [ ] Send a [reminder with links](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/links-2023-03-20.md)
+- **During the workshop**
+  - [ ] Send [daily summaries](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/summary-day1.md) (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
+    - [Some of them have also preparation instructions!](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/summary-day2%2Bprep-day3.md)
+- **After the workshop:**
+  - [ ] Add viewing statistics to [CodeRefinery webpage](https://github.com/coderefinery/coderefinery.org/tree/main/content/about/statistics)
+    - [ ] Use [statistics repo](https://github.com/coderefinery/workshop-stats) (feel free to edit)
+  - [ ] Close registration
 :::
+
 
 #### Broadcaster
 ([description](https://coderefinery.github.io/manuals/broadcaster/))
