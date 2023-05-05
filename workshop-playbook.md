@@ -275,3 +275,162 @@ their responsibilities are followed-up and not forgotten.
 
 
 
+## Teacher's planning area
+
+
+## Schedule Day 1
+- 08:50 - 09:00 (10 min) Soft start and icebreaker question
+- 09:00 - 09:15 (15 min) Welcome and practical information (Richard?)
+- Introduction to version control (part 1/2)
+    - 09:15 - 09:30 (15 min) [Motivation - teaching & demo](https://coderefinery.github.io/git-intro/motivation/#motivation)
+    - 09:30 - 09:45 (15 min) [Basics - teaching & type along](https://coderefinery.github.io/git-intro/basics/#basics)
+    - 09:45 - 10:05 (20 min) [Basics - exercises](https://coderefinery.github.io/git-intro/basics/#exercise-record-changes)
+      1. [Record changes](https://coderefinery.github.io/git-intro/basics/#exercise-record-changes)
+      2. [Optional: Comparing, renaming, and removing](https://coderefinery.github.io/git-intro/basics/#optional-exercises-comparing-renaming-and-removing) - if time allows
+    - 10:05 - 10:15 (10 min) :coffee: :walking: :tea: Break
+    - 10:15 - 10:35 (20 min) [Basics - History, commit log, ignoring - teaching](https://coderefinery.github.io/git-intro/basics/#git-history-and-log)
+    - 10:35 - 10:50 (15 min) [Branching and merging - teaching](https://coderefinery.github.io/git-intro/branches/#branching-and-merging)
+    - 10:50 - 11:10 (20 min) [Branching and merging - exercises](https://coderefinery.github.io/git-intro/branches/#exercise-create-and-commit-to-branches)
+        1. [Create and commit to branches](https://coderefinery.github.io/git-intro/branches/#exercise-create-and-commit-to-branches) Teaching resumed before merging branches.
+        2. [Optional exercises with branches: Fast-forward merge and Rebasing](https://coderefinery.github.io/git-intro/branches/#optional-exercises-with-branches) - if time allows
+    - 11:10 - 11:20 (10 min) :coffee: :walking: :tea: Break
+    - 11:20 - 11:35 (15 min) Summarize branching and merging
+    - 11:35 - 11:45 (10 min) [Conflict resolution (teaching)](https://coderefinery.github.io/git-intro/conflicts/)
+    - 11:45 - 12:05 (20 min) [Exercise conflict resolution](https://coderefinery.github.io/git-intro/conflicts/#exercise-create-and-resolve-a-conflict)
+- 12:05 - 12:10 (5 min) :coffee: :walking: :tea: Break
+- 12:10 - 12:25 (15 min) Buffer, Q&A session
+- 12:25 - 12:30 ( 5 min) Feedback & What will we be doing tomorrow?
+
+## Schedule Day 2
+* 08:50 - 09:00 (10 min) Soft start and icebreaker question
+* 09:00 - 09:10 (10 min) Recap and Q&A from day 1
+* 09:10 - 12:30 [Introduction to version control (part 2/2)](https://coderefinery.github.io/git-intro/)
+    - 09:10 - 09:20 (10 min) [Sharing repositories online - teaching/type-along](https://coderefinery.github.io/git-intro/remotes/#sharing-repositories-online) 
+    - 09:20 - 09:40 (20 min) Diana Exercise: [Pushing our guacamole recipe repository to GitHub](https://coderefinery.github.io/git-intro/remotes/#pushing-our-guacamole-recipe-repository-to-github)
+    - 09:40 - 09:55 (15 min) [Inspecting history - teaching/type-along](https://coderefinery.github.io/git-intro/archaeology/#inspecting-history) 
+    - 09:55 - 10:10 :coffee: :walking: :tea: Break
+    - 10:10 - 10:40 (30 min) [Inspecting history - breakout room exercises](https://coderefinery.github.io/git-intro/archaeology/#exercise-basic-archaeology-commands) 
+        1. [Basic archeology commands](https://coderefinery.github.io/git-intro/archaeology/#exercise-basic-archaeology-commands)
+        2. [Optional: Git bisect](https://coderefinery.github.io/git-intro/archaeology/#optional-exercise-git-bisect) - to be done if time allows
+    - 10:40 - 10:50 (10 min) Summarize inspecting history
+    - 10:50 - 11:05 (15 min) [Undoing and recovering - teaching/type-along](https://coderefinery.github.io/git-intro/recovering/#undoing-and-recovering) 
+    - 11:05 - 11:15 :coffee: :walking: :tea: Break
+    - 11:15 - 11:35 (20 min) [Undoing and recovering - exercises](https://coderefinery.github.io/git-intro/recovering/#exercise-revert-a-commit) 
+        1. [Revert a commit](https://coderefinery.github.io/git-intro/recovering/#exercise-revert-a-commit)
+        2. [Modify a previous commit](https://coderefinery.github.io/git-intro/recovering/#exercise-modify-a-previous-commit)
+        3. [Git reset](https://coderefinery.github.io/git-intro/recovering/#exercise-git-reset)
+    - 11:35 - 11:50 (15 min) Summarize undoing and recovering and discussion and mention that staging area exists
+    - 11:50 - 12:00 :coffee: :walking: :tea: Break
+    - 12:00 - 12:25 (25 min) [How much Git is necessary?](https://coderefinery.github.io/git-intro/level/#practical-advice-how-much-git-is-necessary) 
+    - 12:25 - 12:30 (05 min) Feedback & What will we be doing tomorrow?
+
+## Schedule Day 3
+
+* 08:50 - 09:00 Soft start and icebreaker question
+* 09:00 - 09:15 Recap Git, any Hackmd questions to highlight
+  - 09:15 - 09:30 Concepts around collaboration
+    1. Explain terms. Pull, push, clone, fork. Focus on pull and not fetch.
+    2. Focus more on Clone and less on Generating from templates and importing
+  - 09:30 - 11:10 Centralized workflow + a break
+    - 9:30 - 9:45 : Explain concepts.
+    - 9:45 - 9:55 break
+    - 9:55 - 10:00 Inform clearly what is expected outcome.
+    - 10:00 - 10:30 Excercise
+    - 10:30 - 10:50 Instructors go through the exercise
+    - 10:50 - 11:00 - break
+  - 11:00 - 12:10 Distributed version control and forking workflow + one breake
+    - 11:00 - 11:15 - Concepts and what are exercise outcomes
+    - 11:15 - 11:45 - Exercise
+    - 11:45 - 12:00 - Instructors go through excercises
+    - 12:00 - 12:10 - break
+  - 12:10 - 12:30 - How to contribute changes to somebody else’s project and Q&A
+
+
+## Schedule Day 4
+
+* 08:50 - 09:00 Soft start and icebreaker question
+* 09:00 - 09:10 Interview with an expert
+* 09:10 - 11:15 [Reproducible research](https://coderefinery.github.io/reproducible-research/)
+    - 09:10 - 09:20 [Motivation](https://coderefinery.github.io/reproducible-research/motivation/)
+    - 09:20 - 09:30 [Organizing your projects](https://coderefinery.github.io/reproducible-research/organizing-projects/)
+    - 09:30 - 10:00 [Recording dependencies](https://coderefinery.github.io/reproducible-research/dependencies/)
+       - discussion (5 min)
+       - [exercise (20 min)](https://coderefinery.github.io/documentation/writing-readme-files/#exercises)
+       - discussion (5 min)
+    - 10:00 - 10:10 Break
+    - 10:10 - 10:40 [Recording computational steps](https://coderefinery.github.io/reproducible-research/workflow-management/)
+       - discussion (5 min)
+       - [exercise (20 min)](https://coderefinery.github.io/reproducible-research/workflow-management/#exercise-using-snakemake)
+       - discussion (5 min)
+    - 10:40 - 10:50 [Recording environments](https://coderefinery.github.io/reproducible-research/environments/)
+    - 10:50 - 11:05 [Sharing code and data](https://coderefinery.github.io/reproducible-research/sharing/)
+        - [demo (15 min)](https://coderefinery.github.io/reproducible-research/sharing/#connecting-repositories-to-zenodo)
+    - 11:05 - 11:15 Break
+* 11:15 - 12:30 [Social coding](https://coderefinery.github.io/social-coding/)
+  - 11:15 - 11:30 [Social coding (15 min)](https://coderefinery.github.io/social-coding/social-coding/)
+  - 11:30 - 12:00 [Licensing (30 min)](https://coderefinery.github.io/social-coding/licensing/)
+  - 12:00 - 12:15 [Software citation (15 min)](https://coderefinery.github.io/social-coding/software-citation/)
+  - 12:15 - 12:25 (10 min) Buffer, Q&A session
+  - 12:25 - 12:30 (5 min) Feedback & What will we be doing tomorrow?
+
+## Schedule Day 5
+
+* 09:00 - 10:45 [Jupyter](https://coderefinery.github.io/jupyter/)
+    - 09:00 - 09:10 [Jupyter notebooks](https://coderefinery.github.io/jupyter/motivation/)
+    - 09:10 - 09:25 [JupyterLab and notebook interface](https://coderefinery.github.io/jupyter/interface/)
+    - 09:25 - 09:50 [A first computational notebook](https://coderefinery.github.io/jupyter/first-notebook/)
+      - intro to the exercise (5 min)
+      - [breakout room exercise (20 min)](https://coderefinery.github.io/jupyter/sharing/)
+    - 09:50 - 10:00 [Notebooks and version control demo, 10-15 min](https://coderefinery.github.io/jupyter/version-control/)
+    - 10:00 - 10:10 Break
+    - 10:10 - 10:35 [Sharing notebooks](https://coderefinery.github.io/jupyter/sharing/)
+      - [Binder Breakout room exercise (20 min)](https://coderefinery.github.io/jupyter/sharing/#sharing-dynamic-notebooks-on-binder)
+    - 10:35 - 10:40 Wrap-up
+    - 10:40 - 10:45 buffer
+
+* 10:45 - 12:30 [Documentation](https://coderefinery.github.io/documentation/)
+    - 10:45 - 10:55 [Motivation and tools](https://coderefinery.github.io/documentation/wishlist/)
+        - create a wishlist in HackMD
+    - 10:55 - 11:05 Break
+    - 11:00 - 11:20 [Writing good README files](https://coderefinery.github.io/documentation/writing-readme-files/#writing-good-readme-files)
+        - brief discussion
+        - [15 minutes for exercises](https://coderefinery.github.io/documentation/writing-readme-files/#exercises), choosing either 1, 2 or 3 (or do multiple of time allows)
+        - brief discussion
+    - 11:20 - 12:00 [Sphinx and markdown](https://coderefinery.github.io/documentation/sphinx/)
+        - discussion (5 min)
+        - [Exercise 1 as type along (10 min)](https://coderefinery.github.io/documentation/sphinx/#exercise-sphinx-basics)
+        - [Exercise 2, exercise 3 if time allows (20 min)](https://coderefinery.github.io/documentation/sphinx/#exercise-sphinx-content)
+        - Discussion, going over exercise (5 min)
+    - 12:00 - 12:10 Break
+    - 12:10 - 12:25 [Deploying Sphinx documentation to GitHub Pages](https://coderefinery.github.io/documentation/gh_workflow/#deploying-sphinx-documentation-to-github-pages)
+        - [Exercise 1 as demo](https://coderefinery.github.io/documentation/gh_workflow/#exercise-deploy-sphinx-documentation-to-github-pages)
+    - 12:25 - 12:30 [Summary](https://coderefinery.github.io/documentation/summary/)
+
+## Schedule Day 6
+
+**Day 6**
+* 8:50 - 9:00 Getting started
+* 9:00 - 10:45 [Software testing](https://coderefinery.github.io/testing/)
+  - 9:00-9:05 Short info about today's exercise sessions and possible questions from yesterday
+  - 9:05-9:10 [Motivation](https://coderefinery.github.io/testing/motivation/)
+  - 9:10-9:20 [Concepts](https://coderefinery.github.io/testing/concepts/)
+  - 9:20-9:45 [Testing locally](https://coderefinery.github.io/testing/pytest/)
+      - 5 minutes talking
+      - 15 minute exercises
+      - 5 going over exercises and discussion
+  - 9:45-9:55 Break
+  - 9:55-10:20 [Automated testing](https://coderefinery.github.io/testing/continuous-integration/)
+      - type-along session
+  - 10:20-10:45 [Test design](https://coderefinery.github.io/testing/test-design/)
+      - discussion: 5 minutes
+      - Exercises: 10 minutes.  Any of exercises Design-1 to Design-8 that learners want to do.
+      - discussion and type-along of advanced exercises: 10 minutes
+  - 10:45-11:00 Break
+* 11:00 - 12:15 [Modular coding](https://coderefinery.github.io/modular-type-along/)
+* 12:15 - 12:30 [Concluding remarks and where to go from here](https://github.com/coderefinery/workshop-outro/blob/master/README.md)
+
+- and more: https://coderefinery.github.io/2023-03-21-workshop/join/#accessibility
+
+
+## Lessons learned / new ideas
+- Add ideas here as they come and combine in a blog post after the workshop
