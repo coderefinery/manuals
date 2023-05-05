@@ -206,6 +206,7 @@ their responsibilities are followed-up and not forgotten.
 :::spoiler Checklist
   - [ ] Coordinate and make sure advertising is happening 
     - [ ] Help instructor coordinator and exercise & team leader coordinator with their outreach
+    - [ ] Focus first on getting Local Organisations aboard
   - [ ] Draft email templates
     - [ ] Registration confirmation email
     - [ ] Info to instructors (with [instructor coordinator](#Instructor-coordinator))
@@ -231,38 +232,46 @@ their responsibilities are followed-up and not forgotten.
 :::
 
 ##### Advertisement channels (outreach lead finds people to do take care of the different channels)
+
 - [ ] Newsletter
+  - https://tinyletter.com/coderefinery/archive
+  - draft: https://hackmd.io/@coderefinery/CRnewsletter_1_2023
 - [ ] Advertising texts on the workshop page
-- [ ] CodeRefinery Twitter and Mastodon
+  - https://coderefinery.github.io/2023-03-21-workshop/communication/
+  - https://github.com/coderefinery/2023-03-21-workshop/tree/main/content/communication
+- [ ] CodeRefinery Twitter
+  - https://coderefinery.zulipchat.com/#narrow/stream/119815-general/topic/tweet-toot-suggestions
+- [ ] CodeRefinery Mastodon
+  - https://coderefinery.zulipchat.com/#narrow/stream/119815-general/topic/tweet-toot-suggestions
+- [ ] CodeRefinery LinkedIn
+  - https://www.linkedin.com/events/coderefineryworkshopmarch21-23a7031623728480272384/comments/
+- [ ] CHCAA LinkedIn (Aarhus University)
 - [ ] Partner Twitter, retweet and own tweets
   - [ ] Aalto Scientific Computing
 - [ ] Partner newsletters
   - [ ] Sigma2
-  - [ ] SNIC
+  - [ ] SNIC/NAISS
   - [ ] ENCCS
   - [ ] CSC
 - [ ] Partner websites training calendars
   - [ ] CSC
   - [ ] ENCCS
   - [ ] UiB
+  - [ ] AU (Aarhus University)
 - [ ] Partner and other email lists
   - [ ] Aalto STEM students
   - [ ] Aalto triton users
   - [ ] Delta doctoral network
   - [ ] UiB researcher
   - [ ] UiB HPC
-  - [ ] NERSK Bergen
-  - [ ] Bjerknes
+  - [ ] NERSC Bergen
+  - [ ] Bjerknes Bergen
   - [ ] University of Oslo computational biology
-  - [ ] University of Oslo  Phd and Postdocs
+  - [ ] University of Oslo Phd and Postdocs
   - [ ] University of Oslo Dcince contact (?)
   - [ ] Research institutes in all countries
 - [ ] Partner posters
   - [ ] Aalto (CS,U,NBE,PHYS,VAARE)
-
-
-
-
 
 
 
