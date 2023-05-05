@@ -25,6 +25,7 @@ Let's keep this brief and copy-paste-able to HackMD/HedgeDoc for the actual plan
 - [HedgeDoc Q&A]()
 - [Twitch channel](https://www.twitch.tv/coderefinery/about)
 - [Emails and communication]()
+- [Zoom for onboarding and install help]()
 ```
 
 :::danger
