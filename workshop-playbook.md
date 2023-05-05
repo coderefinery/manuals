@@ -197,7 +197,6 @@ their responsibilities are followed-up and not forgotten.
 :::
 
 
-
 #### Instructor coordinator
 ([description](https://coderefinery.github.io/manuals/instructors/))
 - lead: 
@@ -205,6 +204,15 @@ their responsibilities are followed-up and not forgotten.
 
 :::spoiler Checklist
   - [ ] Confirm that each lesson and session has co-instructors
+  - [ ] Schedule calls with each instructor pair to distill most important questions and tasks to them
+    - [ ] Show where the detailed schedule is and recommend to move it to instructor guide
+    - [ ] Discuss that the detailed schedule can and should be improved
+    - [ ] Show where Q&A and feedback from past workshop can be found
+    - [ ] Discuss plans for exercises: try 3 exercises each half-day, each not shorter than 20 mins
+    - [ ] Ask them to check their lesson's exercise list
+    - [ ] Ask for any software requirements changes
+    - [ ] Inform about audience (at the time of writing half of registrants prefer to follow on their own) - adapt exercise expectations to audience
+    - [ ] Check/test for high-quality screen share 
   - [ ] Inform instructors that they need to register
   - [ ] Send email to Observers and save to website
   - [ ] Instructor briefing: make sure learners get a good experience (lesson material, issues, style, screen share)
@@ -213,6 +221,7 @@ their responsibilities are followed-up and not forgotten.
   - [ ] List instructors on the website (with [exercise coordinator](#Exercise-and-team-leader-coordinator))
   - [ ] Organize team leader On-boarding sessions (with [exercise coordinator](#Exercise-and-team-leader-coordinator))
 :::
+
 
 #### Exercise and team leader coordinator
 ([description](https://coderefinery.github.io/manuals/exercise-coordinator/))
