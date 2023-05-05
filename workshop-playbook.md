@@ -274,6 +274,26 @@ their responsibilities are followed-up and not forgotten.
   - [ ] Aalto (CS,U,NBE,PHYS,VAARE)
 
 
+### Certificate coordinator
+
+https://coderefinery.github.io/2023-03-21-workshop/certificates/
+- lead: 
+- backup: ASC team (the process can be run by anyone and we are now using a ticketing system to track requests)
+
+:::spoiler Checklist
+- [ ] Make sure that instructions on certificates are disseminated multiple times
+  - [ ] Workshop page, emails
+	```
+	- Learner sends materials to scip _at_ aalto.fi. This opens a ticket in Aalto "esupport" system
+	- The person who generates the certificate verifies quickly that the tasks were completed.
+	- We then work with https://github.com/coderefinery/generate-certificates to generate PDF certificates
+	- Certificate is sent to the person and ticket is closed
+	- Aalto specific:
+	    - The local version of that repository is at /scratch/rse/generate-certificates/. The commands were slighty modified so that the default working directory is not the home folder
+	    - Aalto students can also obtain directly the 1 ECTS credit. See internal process at ASC pages.
+	```
+:::
+
 
 ## Teacher's planning area
 
