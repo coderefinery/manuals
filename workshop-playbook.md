@@ -174,7 +174,7 @@ their responsibilities are followed-up and not forgotten.
 - **1 day before!**
   - [ ] Send a [reminder with links](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/links-2023-03-20.md)
 - **During the workshop**
-  - [ ] Send [daily summaries](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/summary-day1.md) (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
+  - [ ] Send [daily summaries](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/summary-day1.md) (with [exercise coordinator](#Exercise-and-team-leader-coordinator))
     - [Some of them have also preparation instructions!](https://github.com/coderefinery/2023-03-21-workshop/blob/main/content/communication/summary-day2%2Bprep-day3.md)
 - **After the workshop:**
   - [ ] Add viewing statistics to [CodeRefinery webpage](https://github.com/coderefinery/coderefinery.org/tree/main/content/about/statistics)
@@ -229,21 +229,44 @@ their responsibilities are followed-up and not forgotten.
 - backup:
 
 :::spoiler Checklist
+- **ca. 2 months before = When workshop details are set:**
   - [ ] Create and host exercise Zoom (with [instructor coordinator](#Instructor-coordinator))
     - [ ] Create exercise groups
-    - [ ] Inform those who we can't accommodate into groups that they can follow stream and need to somehow self-organize
-    - [ ] Communicate exercise Zoom to paricipants (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
     - [ ] Provide [practical instructions](https://github.com/coderefinery/template-workshop-webpage/issues/73) in the exercise zoom
-  - [ ] Makes sure exercise list is communicated (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
-  - [ ] List all team leads (who consent to being listed) on the website (with [instructor coordinator](#Instructor-coordinator))
-  - [ ] List expert helpers on the website (with [instructor coordinator](#Instructor-coordinator))
+  - [ ] Communicate exercise Zoom to paricipants (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
+  - [ ] Inform those who we can't accommodate into groups that they can follow stream and need to somehow self-organize
   - [ ] Create learner HackMD (create nice URL) with all relevant links 
     - [ ] Use [CodeRefinery HedgeDoc](https://notes.coderefinery.org) or [HackMD](https://hackmd.io/team/coderefinery)
-  - [ ] Makes sure that each workshop day has a learner HackMD editor who edits and archives at the end of the day
+  - [ ] Draft email templates
+    - [x] Registration confirmation email
+    - [ ] Info to instructors (with [instructor coordinator](#Instructor-coordinator))
+    - [ ] Info to observers (with [instructor coordinator](#Instructor-coordinator))
+    - [ ] Info to team leads (with [exercise coordinator](#Exercise-and-team-leader-coordinator))
+    - [ ] Info to participants (with [registration coordinator](#Registration-coordinator))
+  - [ ] Create/update [advertising texts](https://github.com/coderefinery/template-workshop-webpage/tree/main/content/communication) and relevant news on the workshop page
+- **ca. 1 month before:**
+  - [ ] Make sure exercise list is communicated (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
+  - [ ] List all team leads (who consent to being listed) on the website (with [instructor coordinator](#Instructor-coordinator))
+  - [ ] List expert helpers on the website (with [instructor coordinator](#Instructor-coordinator))
+- **ca. 2 weeks before**
+  - [ ] Make sure that each workshop day has a learner HackMD editor who edits and archives at the end of the day
   - [ ] Organize Staff & Helpers On-boarding sessions (with [instructor coordinator](#Instructor-coordinator))
     - [ ] Communicate to staff + helpers (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
   - [ ] Send team leader onboarding summary email + save it to the website (with [outreach and marketing coordinator](#Outreach-and-marketing-coordinator))
+- **After each workshop day**
+  - [ ] Draft "summary and preparation for next day" email to all (can be based on the website news and link there so that it can be
+    updated)
+    - [ ] [EXAMPLE: day 1 summary](https://github.com/coderefinery/2022-03-22-workshop/issues/33)
+    - [ ] [EXAMPLE: day 2 summary](https://github.com/coderefinery/2022-03-22-workshop/issues/41)
+    - [ ] [EXAMPLE: day 3 summary](https://github.com/coderefinery/2022-03-22-workshop/issues/43)
+    - [ ] [EXAMPLE: day 4 summary](https://github.com/coderefinery/2022-03-22-workshop/issues/49)
+    - [ ] [EXAMPLE: day 5 summary](https://github.com/coderefinery/2022-03-22-workshop/issues/51)
+    - [ ] [EXAMPLE: summary and thank you](https://github.com/coderefinery/2022-03-22-workshop/issues/56)
+    - [ ] [EXAMPLE: invitation to debriefing (feedback)](https://github.com/coderefinery/2022-03-22-workshop/issues/52)
+- **After the workshop**
+  - [ ] Help other roles in putting everybody who contributed and consents on the [website as credit](https://github.com/coderefinery/coderefinery.org/blob/main/content/about/contributors.md)
   - [ ] After the workshop remove the [exercise repositories](https://coderefinery.github.io/git-collaborative/guide/#preparing-exercises)
+  - [ ] Help event director with Post-Workshop survey
 :::
 
 #### Outreach and marketing coordinator
