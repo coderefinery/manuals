@@ -63,7 +63,8 @@ These are not needed if the teams are formed before the workshop starts and they
 #### Expert helpers
 ([description](https://coderefinery.github.io/manuals/expert-helpers/))
 
-Help in our learner zoom, circle around breakoutrooms; there will probably be 2 or 3 rooms where we need to provide the helper. At least two for each day
+If Zoom: Help in our learner zoom, circle around breakoutrooms; there will probably be 2 or 3 rooms where we need to provide the helper. At least two for each day
+  Else: Help answering questions in Collaborative Q&A document.
 
 - [ ] day 1 - git-intro:                ???, ???, ...
 - [ ] day 2 - git-intro:                ???, ???, ...
