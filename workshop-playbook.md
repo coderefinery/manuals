@@ -104,17 +104,21 @@ their responsibilities are followed-up and not forgotten.
 - backup:
 
 :::spoiler Checklist
-  - [ ] Create planning HackMD by copying this page to a new HackMD in [CodeRefinery HackMD](https://hackmd.io/team/coderefinery)
-  - [ ] Distribute roles using the planning HackMD
-    - [ ] Ask collaborators/stakeholders to pick roles
-  - [ ] Add all sessions to [CodeRefinery calendar](https://github.com/coderefinery/calendar) separately
-  - [ ] Send calendar invite to all organizers, instructors, expert helpers, with all relevant links
+- Before workshop
+  - [x] Create planning HackMD by copying this page to a new HackMD in [CodeRefinery HackMD](https://hackmd.io/team/coderefinery)
+  - [x] Distribute roles using the planning HackMD
+    - [x] Ask collaborators/stakeholders to pick roles
+  - [x] Add all sessions to [CodeRefinery calendar](https://github.com/coderefinery/calendar) separately
+  - [x] Send calendar invite to all organizers, instructors, expert helpers, with all relevant links
   - [ ] Decide if certificates will be possible and what is needed for getting a certificate/credits (ask from partner universities)
-  - After the workshop:
-    - [ ] Summarize lessons learned and make it a blog post in [coderefinery.org repo](https://github.com/coderefinery/coderefinery.org)
-    - [ ] Coordinate post-workshop survey eg. in Indico
-    - [ ] Port changes from workshop page to [template page](https://github.com/coderefinery/template-workshop-webpage)
-    - [ ] On CR website move from ["upcoming"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/upcoming.md) to ["past"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/past.md)
+  - [x] Remind co-organizers to register
+- After the workshop:
+  - [x] Summarize lessons learned and make it a blog post in [coderefinery.org repo](https://github.com/coderefinery/coderefinery.org)
+  - [ ] Coordinate post-workshop survey eg. in Indico
+  - [ ] :bulb: Merge new edits from here (no names ofc) to the [Playbook](https://github.com/coderefinery/manuals/blob/master/workshop-playbook.md)
+  - [ ] Port changes from workshop page to [template page](https://github.com/coderefinery/template-workshop-webpage)
+  - [ ] On CR website move from ["upcoming"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/upcoming.md) to ["past"](https://github.com/coderefinery/coderefinery.org/blob/main/content/workshops/past.md)
+  
 :::
 
 #### Registration coordinator
