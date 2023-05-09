@@ -360,7 +360,7 @@ https://coderefinery.github.io/2023-03-21-workshop/certificates/
 	- We then work with https://github.com/coderefinery/generate-certificates to generate PDF certificates
 	- Certificate is sent to the person and ticket is closed
 	- Aalto specific:
-	    - The local version of that repository is at /scratch/rse/generate-certificates/. The commands were slighty modified so that the default working directory is not the home folder
+	    - The local version of that repository is at /scratch/rse/generate-certificates/. The commands were slightly modified so that the default working directory is not the home folder
 	    - Aalto students can also obtain directly the 1 ECTS credit. See internal process at ASC pages.
 	```
 :::
@@ -426,7 +426,7 @@ https://coderefinery.github.io/2023-03-21-workshop/certificates/
     - 9:30 - 9:45 : Explain concepts.
     - 9:45 - 9:55 break
     - 9:55 - 10:00 Inform clearly what is expected outcome.
-    - 10:00 - 10:30 Excercise
+    - 10:00 - 10:30 Exercise
     - 10:30 - 10:50 Instructors go through the exercise
     - 10:50 - 11:00 - break
   - 11:00 - 12:10 Distributed version control and forking workflow + one breake
