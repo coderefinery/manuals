@@ -30,6 +30,8 @@ instructor-tech-online
 - Coordinate with co-instructor
 - Communicate software requirements to Instructor coordinator
 - Communicate timing adjustments to Instructor coordinator
+- After planning/editing the lesson: Do a dry run (prefereably with someone "new" to the topic)
+
 
 ## From team leader/helper to more
 
