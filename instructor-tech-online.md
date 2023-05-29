@@ -16,14 +16,17 @@ online.
 
 ## Audio
 
-Audio quality is one of the most important things for quality.
+Audio quality, and balance between instructors, is *absolutely
+critical* to good online work, especially teaching.  Consider the
+following:
 
 * Can you adjust your microphone volume from very low to
   higher-than-needed?  Make sure your dynamic range is larger than
   "barely working", so that you have some room to adjust for later.
-* Do you have a high-quality headset?  If you can get other
-  microphones that work without echo, but a headset is worth it for
-  back-up.
+* Do you have a high-quality headset?  A headset with microphone is
+  the most reliable, but if you can get a desktop setup working
+  well, that can be good too.  Always have a high-quality headset for
+  backup anyway.
 * If you have a bluetooth headset, consider:
 
   * Bluetooth headsets have significant latency compared to wired or
