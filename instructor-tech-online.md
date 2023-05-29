@@ -37,6 +37,12 @@ following:
   * Consider investing (or getting your work to invest in) some
     high-quality headset or desktop audio gear.
 
+* "Ducking" is when the first words are silenced/quieted by noise
+  cancellation, until it detects speaking.  To avoid this, don't use
+  "high" noise cancellation (as low as possible is better).  If you
+  need high cancellation because of background noise, switch to your
+  headset.
+
 
 
 ## Screen sharing
