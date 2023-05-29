@@ -27,6 +27,11 @@
 - (if online) have you practiced Zoom screensharing "Share a portion
   of the screen" in portrait-mode?  See
   {doc}`instructor-tech-online`.
+- (if online) have you checkd your audio settings?  Join a test
+  meeting with someone and understand your microphone sound
+  adjustments.  Can you control it for the full range from very quiet
+  to very loud, so that you can make whatever adjustments needed?  Is
+  your best microphone/headset ready?
 - Have you shown your setup to someone else for feedback?
 ```
 

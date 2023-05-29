@@ -8,6 +8,32 @@ This is online-specific instructor tech setup.  For general, see
 The information in this is currently specific to Zoom teaching and
 livestream teaching.
 
+```{admonition} Final checklist
+
+See the list in {doc}`instructor-tech-setup`, which includes points for
+online.
+```
+
+## Audio
+
+Audio quality is one of the most important things for quality.
+
+* Can you adjust your microphone volume from very low to
+  higher-than-needed?  Make sure your dynamic range is larger than
+  "barely working", so that you have some room to adjust for later.
+* Do you have a high-quality headset?  If you can get other
+  microphones that work without echo, but a headset is worth it for
+  back-up.
+* If you have a bluetooth headset, consider:
+
+  * Bluetooth headsets have significant latency compared to wired or
+    purpose-built wireless protocols like gaming headsets have.
+  * The microphone might not have enough bandwidth (if it's part of
+    the same headset).
+  * Bluetooth 5 is much better in both latency and quality.
+  * Consider investing (or getting your work to invest in) some
+    high-quality headset or desktop audio gear.
+
 
 
 ## Screen sharing
