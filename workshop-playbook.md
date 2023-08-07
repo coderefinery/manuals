@@ -8,6 +8,10 @@ Let's keep this brief and copy-paste-able to HackMD/HedgeDoc for the actual plan
 ---
 # CodeRefinery workshop YYYY-MM-DD
 
+---
+tags: Workshop-YYYY-Mmm
+---
+
 [toc]
 
 ## Links
