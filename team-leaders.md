@@ -49,10 +49,11 @@ join to share the effort and bring better courses to your community.
 
 ## ..and you?
 
-* Shortly introduce yourself in the collaborative document:
-    * Who are you?
-    * What do you do?
-    * Where are you connecting from?
+Shortly introduce yourself in the collaborative document:
+
+* Who are you?
+* What do you do?
+* Where are you connecting from?
 
 ## What is needed to be a team leader?
 
@@ -183,6 +184,7 @@ As a team leader, you have a crucial role during workshops:
   convenient, students will ask.  If you are sitting in the back, student's
   won't.  Students rarely try to get your attention from across the room if you
   don't look ready.
+  
 ### Strategies for leading a team
 
 There are several strategies you can use to run your team, no matter if you meet in a physical or virtual room (Physical room would need a larger screen for every one to see though):
