@@ -1,104 +1,129 @@
-# Team leaders
+# Team leaders / Helpers / Exercise leaders
 
 We use this page during team leader onboarding.
+
 **Thanks for being a team leader :heart:**!
 Without you, these large online workshops would not be possible.
 
+## TL;DR (Summary of this page)
 
-## Onboarding session: Introduction, icebreaker, and project chat
+- Everyone watches the CodeRefinery stream ({ref}`how to attend via livestream <attend-stream>`)
+- Communication happens via collaborative document ({ref}`Collaborative document mechanics <how-to-hackmd>`)
+- Exercises can be done individually, in a pre-formed or ad-hoc team online or in person
+- Team leads are between the instructors and learners, please
+  - Keep track of things like learner progress, instructions and time and report them via collaborative document
+  - Be available for learners to ask their questions and lead discussions
+  - If idle, check the collaborative document for open questions and answer them
 
-We usually offer two one-hour timeslots in the week before the workshop (check
-the schedule!) for team leader onboarding. You are encouraged to join one of
-these times. During this time, we will talk about the role of the team
-leader during the workshop and answer any open questions you may have. We will
-also go through the material below.
+If you want to contact us before the workshop you can send an email to our general email address <support@coderefinery.org> or you can join the
+{doc}`CodeRefinery chat <chat>` (we recommend the `#workshops` stream,
+and if you can't find it then `#general` is good). 
 
-* CodeRefinery: We teach all the essential tools which are usually skipped in
-  academic education so everyone can make full use of software, computing, and
-  data. We don't just give courses, but we are a training network that you can
-  join to share the effort and bring better courses to your community.
+If you have fun being a team leader for the workshop, please visit our
+{ref}`contributing page <volunteering>` page, to find out about further
+volunteering possibilities within CodeRefinery.
 
-* Get familiar with our collaborative document ({ref}`how-to-hackmd`)
+## Code of Conduct
 
-* Shortly introduce yourself
+We follow [a code of
+conduct](https://coderefinery.org/about/code-of-conduct/) for all our
+interactions before, during and after workshops, also for this session.
+
+We've designed the workshop so that it is very hard for one person to
+ruin it for everyone.  Within your team, you will need to take on the
+role of ensuring a good environment.
+
+If you see anything that is not supporting an positive learning
+environment, let us know!
+* If it's a general issue that can be mentioned publicly, write it
+  immediately in the collaborative document.
+* Send a message to <support@coderefinery.org> if it is private and can
+  be handled asynchronously.
+
+## CodeRefinery project
+
+We teach all the essential tools which are usually skipped in
+academic education so everyone can make full use of software, computing, and
+data. We don't just give courses, but we are a training network that you can
+join to share the effort and bring better courses to your community.
+
+## ..and you?
+
+* Shortly introduce yourself in the collaborative document:
     * Who are you?
     * What do you do?
     * Where are you connecting from?
 
-* If you want to, sign up for our [Zulip chat](https://coderefinery.zulipchat.com) to ask us anything, anytime. Use
-  `#tools-workshop` during the workshop itself (you need to join the stream, it is not default for new chat members).
+## What is needed to be a team leader?
 
+Most importantly, *you do not have to know everything* (we don't, either), but you are expected to:
 
-## Reviewing learners survey
+- Have been to a CodeRefinery before and used git some since then, OR have some general experience with git (branching,
+  pull requests) and command line work, OR be able to generally follow
+  the path of the exercises that we have laid out.
+- Be present in your teams physical/virtual room at least during exercise sessions of the workshop.
+- Show a positive, motivating attitude to learners.
+- Keep exercises going and let us know when there are difficult questions!
 
-We used to ask learners to fill out a pre-workshop survey. This is discontinued
-now but results of the surveys still apply.  Let's take a quick look at
-previous courses survey results:
-<https://github.com/coderefinery/pre-workshop-survey>
+> If you aren't sure if you can be a team leader: you probably can be one!
 
+## Who is joining this workshop?
+
+Be aware of the different 
+
+* career stages (students, postdoc, researcher, professor, industry), 
+* backgrounds (computer scientist, IT, domain scientist, coding beginners,...), 
+* infrastructure (operating system, access restrictions, preferences on graphical vs command line interfaces, ...) and 
+* preferred programming languages (Python, R, Matlab, Julia, Fortran, ...) of your learners. 
+
+There is also usually a great variety of pre- knowledge on the different topics of the workshop. 
+
+Overview from the [pre-workshop survey](<https://github.com/coderefinery/pre-workshop-survey>) 
 
 ## What will happen during workshop?
 
-Please review the workshop schedule on the main workshop page. It contains
-links to lesson material and also a separate page summarizing exercises.
+The workshop schedule on the main workshop page contains
+links to lesson material, including lists of exercises.
 
-The best analogy is like **watching a popular sporting event on TV**.
+The best analogy is **watching a popular sporting event on TV**.
 There are periods of lots of activity, and clear periods of breaks where you
 do your own thing.
 
 * **Everyone follows stream during lessons** - lessons, demos, exercise
   intros, going over solutions, etc.
-* **Exercises during the lessons are done individually or in teams**: many
+* **For questions and instructions we use a collaborative document** (more below).
+* **Exercises during the lessons are done individually or in teams** and there is many
   ways to do this:
   * Watch and work alone
   * Watch together and interact during exercises/breaks (in-person or
     online)
   * Reviewing/doing exercises later
-* **For questions use collaborative document** (more below), not hand signals
-  (but of course it is OK to ask live if you are part of an in-person exercise group).
-
-
-## Preparing for the workshop
-
-As a team leader, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/) but if you have time:
-
-- **Take a look at the exercises in advance** of each days (the exact
-  plan is on the workshop page.  Lessons
-  tend to have an "exercise list" page that shows everything).  We try to make each
-  exercise self-explanatory so that you can easily lead, but if you do one
-  thing, scan over the exercises and understand the general point of each of them.
-  We also summarize a list of exercises on the workshop page.
-- **Be ready to introduce yourself and why you are excited** to your
-  team and try to get your team talking.  Think about what you
-  would like to convey as team leader to your group. How did (or does)
-  CodeRefinery help you?  **More than anything, you should make people
-  excited to be here and want to work together - and that comes from
-  how your present your own motivation.**
-- If you are interested, also read through the **instructor guides** for the lessons (there should be
-  a link at the top or sidebar of each lesson).
-
 
 ## Exercise sessions
 
-Being a "live show", things can get interesting.  **But we try our
-best to be very explicit about what is going on.  However, your first
-goal should be to energize the learners and make sure they are engaged.**
+We try our best to be very explicit about what is going on.  
+Your first goal should be to make sure the learners are engaged and no one is left behind.
 
-The instructors should clearly tell which exercises and for how long;
-if anything is unclear you should ask via collaborative document.
+The instructors should clearly tell which exercises and for how long (minimum 10-15 min);
+if anything is unclear please ask via collaborative document, you are our safety net.
 
 **Make it easy for learners to ask for help**:
-* Make sure your group knows that you are their team lead.
+* Make sure your group knows your name and that you are their team lead.
+* Always start by greeting people and ask how the lesson is going; report back if there is something instructors should be aware of.
 * Encourage your team to also put answered questions in the collaborative document, someone else might be wondering the same thing.
 
 **Want extra help?**
 * It is OK to not know something!
-* Use the collaborative document if
-  there is questions that you cannot answer. Our instructors and expert helpers are watching it and try to answer every question.
+* Use the collaborative document if there is questions that you cannot answer. 
+  Our instructors and expert helpers are watching it and try to answer every question.
 
 **Major problems?**
-* It's just a course.  You can always defer figuring out a solution
-  for later when you have more time
+* Exercise time is limited, watch the time and keep things moving.
+* If some debugging takes to long, it's reasonable to describe the problem in the
+  collaborative document. An expert helper may have seen the problem
+  before.
+* If any one problem takes too long, it's OK to say "we don't have
+  time, let's come back"
 
 
 ```{figure} img/team_status.png
@@ -107,66 +132,43 @@ topics of the exercises.  b) team status.  c) as always,
 questions at the bottom.
 ```
 
+## What can I do to prepare for the workshop?
 
-## Your task during exercise sessions
+As a team leader, we do not expect you to know all our [CodeRefinery training material](https://coderefinery.org/lessons/core/), but if you have time:
 
-As a team leader, your main task is to **keep people talking
-and interacting, understand their difficulties, and encourage them to
-work on the exercises together**.
+- **Take a look at the exercises in advance** of each day (the exact
+  plan is on the workshop page.  Lessons have an "exercise list" page that shows everything), check that you understand the general point of each of them.
+- If you are interested, also read through the **instructor guides** for the lessons (there is a link at the top or sidebar of each lesson).
+- Use github issues on the lesson github page to point out issues with exercises and the materials
 
-To make this easier, we try to allocate enough time for exercise sessions
-during the workshop.
+## Any questions?
 
-- You can always start by **greeting** people and asking how the lesson is
-  going
-- If you meet virtually, encourage people to **turn on cameras**
-- There are several strategies below.  Combine as needed - **read the
-  room and see what they want**, but do **provide encouragement** to do
-  something.
-- **If you need extra help, ask for it in the collaborative document**, 
-we have expert helpers available that will be able to answer fast.
-- **Watch the time** and try to keep things moving.
-    - If some debugging takes to long, it's reasonable to describe the problem in the
-      collaborative document. An expert helper may have seen the problem
-      before.
-    - If any one problem takes too long, it's OK to say "we don't have
-      time, let's come back"
-- **You don't actually *have* to do the exercises**.  You could apply
-  lesson material to your own team's work, review what was just said,
-  have a free-form discussion, etc. - if those are more valuable.  You
-  can always come back to exercises later.
+* Send us an email to <support@coderefinery.org> 
+* If you want to, sign up for our [Zulip chat](https://coderefinery.zulipchat.com) to ask us anything, anytime. Use
+  `#tools-workshop` during the workshop itself (you need to join the stream, it is not default for new chat members).
+* During the workshop, please use the collaborative document.
 
+## Path ahead
 
-## Strategies for leading a team
+Would you like to
+* become an instructor?
+* help organizing a workshop?
+* contribute to lesson material?
+* have any other ideas to contribute?
+* community calls: see <https://coderefinery.org/organization/meetings/>
 
-There are several strategies you can use to run your team, no matter if you meet in a physical or virtual room (Physical room would need a larger screen for every one to see though):
+See our [website](https://coderefinery.org/get-involved/) and {ref}`volunteering`.
+Best way to get started is to join the [Zulip chat](https://coderefinery.zulipchat.com).
 
-Strategy 1:
-- **Team leader asks someone to share the screen and go through the exercise.**
-- You can encourage the others to guide the one who is sharing the
-  screen. Or let the person go on her/his own pace.
-  - If no one dares at first, you can also start sharing your screen and let the room tell you what to write.
-  - That way they see how it can go and the barrier shrinks.
-- Try to alternate who is sharing the screen for each session.
-- When someone has an issue, it is a good idea to switch screen share to them
-  and maybe even continue from there
+## Tipps and Tricks 
 
-Strategy 2:
-- **Everyone does the exercises themselves, and once someone has a
-  question, encourage them to share the screen and you discuss.**
-- If everyone is active, this can be good, but there is a risk that no
-  one starts off.
+This section provides some tipps and tricks for being a team leader. Be aware that there are different types of team leads and these tipps may not apply to evryone.
 
-Strategy 3:
-- **You can also share the screen if no one is willing to.**
-- It might be good to give learners some lead first, and use this only
-  if no one volunteers.
-
-
-## Create a positive learning environment
+### How to create a positive learning environment?
 
 As a team leader, you have a crucial role during workshops:
 
+- You are between the learners and the organizers and instructors, please use the collaborative document to communicate.
 - Encourage learners to learn from each other.
 - Acknowledge that some of the material can be difficult and that people in your team will
   learn more working together.
@@ -181,9 +183,37 @@ As a team leader, you have a crucial role during workshops:
   convenient, students will ask.  If you are sitting in the back, student's
   won't.  Students rarely try to get your attention from across the room if you
   don't look ready.
+### Strategies for leading a team
 
+There are several strategies you can use to run your team, no matter if you meet in a physical or virtual room (Physical room would need a larger screen for every one to see though):
 
-## Common problems in teams
+Strategy 1:
+- **Everyone does the exercises themselves until someone has a question**
+- Encourage learners to ask multiple times; if neccessary share your/learners screen and discuss.
+- If everyone is active, this can be good, but there is a risk that the barrier for distrurbing the silence is too big.
+
+Strategy 2:
+- **To start things off, team leader can share the screen.**
+- Do not try to hide mistakes (they make good learning opportunities, "can you spot my mistake?") and discuss your solutions.
+- It might be good to give learners some lead first, and use this only
+  if no one volunteers.
+
+Strategy 2:
+- **Team leader asks someone to share the screen and go through the exercise.**
+- You can encourage the others to guide the one who is sharing the
+  screen. Or let the person go on her/his own pace.
+  - If no one dares at first, you can also start sharing your screen and let the room tell you what to write.
+  - That way they see how it can go and the barrier shrinks.
+- Try to alternate who is sharing the screen for each session.
+- When someone has an issue, it is a good idea to switch screen share to them
+  and maybe even continue from there
+
+**You don't actually *have* to do the exercises**.  You could apply
+lesson material to your own team's work, review what was just said,
+have a free-form discussion, etc. - if those are more valuable.  You
+can always come back to exercises later, or let learners do them as homework.
+
+### How to solve common problems in teams?
 
 - **One learner asks very many questions**, ends up monopolizing all of
   the time.  Other learners are left without help, and the whole group
@@ -198,39 +228,13 @@ As a team leader, you have a crucial role during workshops:
     - Work on it for a minute or two.
     - Encourage to describe the problem in the collaborative document. Our expert helpers may be able to help.
       Nothing wrong with this, because there is no deadline or time limit.
+- No one asks any questions
+  - Make sure people know that you are there for them if they need help
+    - Some exercises are easier than others and people really may not need any help with some of them
+    - Remind that the recording can also be watched later, if people cannot keep up
+  - Use your time answering questions the collaborative document
+### Please do not ...
 
-
-## Code of Conduct
-
-Teaching isn't about helping those who are already "in", it is for
-those who aren't.  Thus, we follow [a code of
-conduct](https://coderefinery.org/about/code-of-conduct/) for all our
-interactions before, during and after workshops.
-
-We've designed the workshop so that it is very hard for one person to
-ruin it for everyone.  Within your team, you will need to take on the
-role of ensuring a good environment.
-
-If you see anything that is not supporting an positive learning
-environment, let us know!
-* If it's a general issue that can be mentioned publicly, write it
-  immediately in the collaborative document.
-* Send a message to <support@coderefinery.org> if it is private and can
-  be handled asynchronously.
-
-
-## Things to avoid
-
-**Shorter version**:
-* Take over learners keyboard, you can share commands via the collaborative document
-* Criticize certain programs, operating systems, or GUI applications, or learners who use them (Excel, Windows, etc.).
-* Talk contemptuously or with scorn about any tool. 
-* Dive into complex or detailed technical discussions.
-* Pretend to know more than you do. Better to put a question on the collaborative document then. Trust.
-* Use "just", "easy", "simply", "basic", "trivial" or other demotivating words. 
-* "I can’t believe you don’t know X" 
-
-**Longer version**:
 - Take over the learner's keyboard (neither physically nor remotely). It is rarely a good idea to type anything
   for your learners and it can be demotivating for the learner because it
   implies you don't think they can do it themselves or that you don't want to
@@ -259,20 +263,10 @@ environment, let us know!
   from asking questions in the future.
 
 
-## Path ahead
+## Background
 
-Would you like to
-* become an instructor?
-* help organizing a workshop?
-* contribute to lesson material?
-* have any other ideas to contribute?
-* community calls: see <https://coderefinery.org/organization/meetings/>
-
-See our [website](https://coderefinery.org/get-involved/) and {ref}`volunteering`.
-Best way to get started is to join the [Zulip chat](https://coderefinery.zulipchat.com).
-
-
-## Background: hierarchical workshops to scale
+The following section provides some background on our workshop setup.
+### Hierarchical workshops to scale
 
 Traditionally, a workshop has instructors and team leaders/helpers, but the
 capacity is limited by instructors, so we are limited to ~30-40 people
@@ -288,27 +282,7 @@ Instructors and expert helpers are always available via the collaborative docume
 likely that you'll grow as a mentor and learn how to be a more efficient
 teacher. 
 
-
-## What is needed to be a team leader?
-
-Most importantly, *you do not have to know everything* (we don't, either), but you are expected to:
-
-- Have been to a CodeRefinery before and used git some since then, OR have some general experience with git (branching,
-  pull requests) and command line work, OR be able to generally follow
-  the path of the exercises that we have laid out.
-
-- Be present in your teams physical/virtual room at least during exercise sessions of the workshop.
-
-- Show a positive, motivating attitude to learners.
-
-- Keep exercises going and let us know when there are difficult questions!
-
-- Come to a one-hour "team leader onboarding" (see below) before the workshop.
-
-> If you aren't sure if you can be a team leader: you probably can be one!
-
-
-## Background: Teams
+### Teams
 
 A team could be for example a
 group of colleagues/friends where one of the team members has a bit of knowledge
@@ -322,31 +296,6 @@ Being assigned a team as a learner allows people to form a bond and get the
 rooms started sooner.  We will try to keep you in the same team
 room as long as we can, but we give no promises and will rearrange as
 needed when people can't attend. 
-
-
-## Material for team leaders
-
-If you have been to a CodeRefinery workshop before, you will most likely know the following, but if unsure, also check these links: 
-
-- {ref}`Collaborative document mechanics <how-to-hackmd>`
-- {ref}`how to attend via livestream
-  <attend-stream>`
-
-If you have any doubts, questions, ideas or anything you want to tell
-us apart from these sessions, please let us know! We are here to help. 
-
-If you want to contact us before the workshop you can send an email to our general email address <support@coderefinery.org> or you can join the
-{doc}`CodeRefinery chat <chat>` (we recommend the `#workshops` stream,
-and if you can't find it then `#general` is good). During the
-workshop, we use a topic in `#workshop-chat` to coordinate (exercise
-leaders do *not* need to use this, use the collaborative document instead).
-
-During the workshop,  the collaborative document is our main communication channel, where you can ask questions or extra help in case of tricky technical questions or further discussion potential.
-
-If you had fun being a team leader for the workshop, please visit our
-{ref}`contributing page <volunteering>` page, to find out about further
-volunteering possibilities within CodeRefinery.
-
 
 ## See also
 
