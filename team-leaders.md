@@ -195,7 +195,7 @@ There are several strategies you can use to run your team, no matter if you meet
 
 Strategy 1:
 - **Everyone does the exercises themselves until someone has a question**
-- Encourage learners to ask multiple times; if neccessary share your/learners screen and discuss.
+- Encourage learners to ask multiple times; if necessary share your/learners screen and discuss.
 - If everyone is active, this can be good, but there is a risk that the barrier for distrurbing the silence is too big.
 
 Strategy 2:
