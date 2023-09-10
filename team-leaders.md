@@ -167,7 +167,7 @@ Best way to get started is to join the [Zulip chat](https://coderefinery.zulipch
 
 ## Tips and Tricks 
 
-This section provides some tips and tricks for being a team leader. Be aware that there are different types of team leads and these tipps may not apply to evryone.
+This section provides some tips and tricks for being a team leader. Be aware that there are **different types of team leads (online/in-person/team of colleagues/team of strangers)** and these tipps may not apply to evryone.
 
 ### How to create a positive learning environment?
 
