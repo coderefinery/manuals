@@ -169,27 +169,6 @@ As a team leader, we do not expect you to know all our [CodeRefinery training ma
 - Use GitHub issues on the lesson GitHub pages to point out issues with exercises and the materials.
 
 
-## Any questions?
-
-* Send us an email to <support@coderefinery.org>
-* If you want to, sign up for our [Zulip chat](https://coderefinery.zulipchat.com) to ask us anything, anytime. Use
-  `#tools-workshop` during the workshop itself (you need to join the stream, it is not default for new chat members).
-* During the workshop, please use the collaborative document.
-
-
-## Path ahead
-
-Would you like to
-* become an instructor?
-* help organizing a workshop?
-* contribute to lesson material?
-* have any other ideas to contribute?
-* community calls: see <https://coderefinery.org/organization/meetings/>
-
-See our [website](https://coderefinery.org/get-involved/) and {ref}`volunteering`.
-Best way to get started is to join the [Zulip chat](https://coderefinery.zulipchat.com).
-
-
 ## How to create a positive learning environment?
 
 As a team leader, you have a crucial role during workshops:
@@ -289,6 +268,27 @@ can always come back to exercises later, or let learners do them as homework.
     - Some exercises are easier than others and people really may not need any help with some of them
     - Remind that the recording can also be watched later, if people cannot keep up
   - Use your time answering questions the collaborative document
+
+
+## Any questions?
+
+* Send us an email to <support@coderefinery.org>
+* If you want to, sign up for our [Zulip chat](https://coderefinery.zulipchat.com) to ask us anything, anytime. Use
+  `#tools-workshop` during the workshop itself (you need to join the stream, it is not default for new chat members).
+* During the workshop, please use the collaborative document.
+
+
+## Path ahead
+
+Would you like to
+* become an instructor?
+* help organizing a workshop?
+* contribute to lesson material?
+* have any other ideas to contribute?
+* community calls: see <https://coderefinery.org/organization/meetings/>
+
+See our [website](https://coderefinery.org/get-involved/) and {ref}`volunteering`.
+Best way to get started is to join the [Zulip chat](https://coderefinery.zulipchat.com).
 
 
 ## More background about scaling workshops
