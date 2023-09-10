@@ -160,9 +160,9 @@ Would you like to
 See our [website](https://coderefinery.org/get-involved/) and {ref}`volunteering`.
 Best way to get started is to join the [Zulip chat](https://coderefinery.zulipchat.com).
 
-## Tipps and Tricks 
+## Tips and Tricks 
 
-This section provides some tipps and tricks for being a team leader. Be aware that there are different types of team leads and these tipps may not apply to evryone.
+This section provides some tips and tricks for being a team leader. Be aware that there are different types of team leads and these tipps may not apply to evryone.
 
 ### How to create a positive learning environment?
 
