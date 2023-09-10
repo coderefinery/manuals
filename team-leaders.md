@@ -17,7 +17,7 @@ Without you, these large online workshops would not be possible.
 
 If you want to contact us before the workshop you can send an email to our general email address <support@coderefinery.org> or you can join the
 {doc}`CodeRefinery chat <chat>` (we recommend the `#workshops` stream,
-and if you can't find it then `#general` is good). 
+and if you can't find it then `#general` is good).
 
 If you have fun being a team leader for the workshop, please visit our
 {ref}`contributing page <volunteering>` page, to find out about further
@@ -69,16 +69,16 @@ Most importantly, *you do not have to know everything* (we don't, either), but y
 
 ## Who is joining this workshop?
 
-Be aware of the different 
+Be aware of the different
 
-* career stages (students, postdoc, researcher, professor, industry), 
-* backgrounds (computer scientist, IT, domain scientist, coding beginners,...), 
-* infrastructure (operating system, access restrictions, preferences on graphical vs command line interfaces, ...) and 
-* preferred programming languages (Python, R, Matlab, Julia, Fortran, ...) of your learners. 
+* career stages (students, postdoc, researcher, professor, industry),
+* backgrounds (computer scientist, IT, domain scientist, coding beginners,...),
+* infrastructure (operating system, access restrictions, preferences on graphical vs command line interfaces, ...) and
+* preferred programming languages (Python, R, Matlab, Julia, Fortran, ...) of your learners.
 
-There is also usually a great variety of pre- knowledge on the different topics of the workshop. 
+There is also usually a great variety of pre- knowledge on the different topics of the workshop.
 
-Overview from the [pre-workshop survey](<https://github.com/coderefinery/pre-workshop-survey>) 
+Overview from the [pre-workshop survey](<https://github.com/coderefinery/pre-workshop-survey>)
 
 ## What will happen during workshop?
 
@@ -106,7 +106,7 @@ Overview of the different options of doing the exercises individually or in a te
 
 ## Exercise sessions
 
-We try our best to be very explicit about what is going on.  
+We try our best to be very explicit about what is going on.
 Your first goal should be to make sure the learners are engaged and no one is left behind.
 
 The instructors should clearly tell which exercises and for how long (minimum 10-15 min);
@@ -119,7 +119,7 @@ if anything is unclear please ask via collaborative document, you are our safety
 
 **Want extra help?**
 * It is OK to not know something!
-* Use the collaborative document if there is questions that you cannot answer. 
+* Use the collaborative document if there is questions that you cannot answer.
   Our instructors and expert helpers are watching it and try to answer every question.
 
 **Major problems?**
@@ -148,7 +148,7 @@ As a team leader, we do not expect you to know all our [CodeRefinery training ma
 
 ## Any questions?
 
-* Send us an email to <support@coderefinery.org> 
+* Send us an email to <support@coderefinery.org>
 * If you want to, sign up for our [Zulip chat](https://coderefinery.zulipchat.com) to ask us anything, anytime. Use
   `#tools-workshop` during the workshop itself (you need to join the stream, it is not default for new chat members).
 * During the workshop, please use the collaborative document.
@@ -165,7 +165,7 @@ Would you like to
 See our [website](https://coderefinery.org/get-involved/) and {ref}`volunteering`.
 Best way to get started is to join the [Zulip chat](https://coderefinery.zulipchat.com).
 
-## Tips and Tricks 
+## Tips and Tricks
 
 This section provides some tips and tricks for being a team leader. Be aware that there are **different types of team leads (online/in-person/team of colleagues/team of strangers)** and these tipps may not apply to evryone.
 
@@ -286,7 +286,7 @@ Team leaders will guide their team through the course, keep
 time, and let us know when more help/time is needed during the exercise sessions.
 Instructors and expert helpers are always available via the collaborative document. It is very
 likely that you'll grow as a mentor and learn how to be a more efficient
-teacher. 
+teacher.
 
 ### Teams
 
@@ -295,13 +295,13 @@ group of colleagues/friends where one of the team members has a bit of knowledge
 on the tools presented in the workhop. This person can act as team leader
 for the workshop, but may still learn a thing or two themselves. In that way
 you can work with people you know and the barrier for asking questions and
-discuss together may be a bit lower than in a group of strangers. 
+discuss together may be a bit lower than in a group of strangers.
 
-Sometimes we also allow learners to register as invidual learner with interest in being in a team. We then try to arrange those people in teams which stay together for all exercise sessions on all days and provide a zoom breakoutroom with a team/exercise leader. Since this is dependent on our team leader capacities, we cannot accept infinte amount of learners. 
+Sometimes we also allow learners to register as invidual learner with interest in being in a team. We then try to arrange those people in teams which stay together for all exercise sessions on all days and provide a zoom breakoutroom with a team/exercise leader. Since this is dependent on our team leader capacities, we cannot accept infinte amount of learners.
 Being assigned a team as a learner allows people to form a bond and get the
 rooms started sooner.  We will try to keep you in the same team
 room as long as we can, but we give no promises and will rearrange as
-needed when people can't attend. 
+needed when people can't attend.
 
 ## See also
 
