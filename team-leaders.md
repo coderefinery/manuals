@@ -177,6 +177,19 @@ As a team leader, we do not expect you to know all our [CodeRefinery training ma
 * During the workshop, please use the collaborative document.
 
 
+## Path ahead
+
+Would you like to
+* become an instructor?
+* help organizing a workshop?
+* contribute to lesson material?
+* have any other ideas to contribute?
+* community calls: see <https://coderefinery.org/organization/meetings/>
+
+See our [website](https://coderefinery.org/get-involved/) and {ref}`volunteering`.
+Best way to get started is to join the [Zulip chat](https://coderefinery.zulipchat.com).
+
+
 ## How to create a positive learning environment?
 
 As a team leader, you have a crucial role during workshops:
