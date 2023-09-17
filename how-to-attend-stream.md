@@ -7,12 +7,12 @@ advantage of the diverse ways to attend.
 
 Even though it's a one-to-many livestream, the course is still
 interactive.  In fact, it's more interactive, since everyone can Q&A
-at the same time via {doc}`HackMD <hackmd-mechanics>`.  Since we can
+at the same time via {doc}`Notes Doc <hackmd-mechanics>`.  Since we can
 record without privacy risk, you are better able to catch up and
 review.  Read on to learn more.
 
 - You might register to Zoom breakout rooms, which *are* interactive.
-- {doc}`HackMD <hackmd-mechanics>` allows you to ask questions anonymously -
+- {doc}`Notes <hackmd-mechanics>` allows you to ask questions anonymously -
   even better than a normal workshop!  Once we have a few tens of people in
   any workshop, people don't ask voice questions anyway.
 - In some workshops, you can register for breakout rooms to get
@@ -35,7 +35,7 @@ review.  Read on to learn more.
 - The livestream is a portrait screenshare, so that it will only take
   up half of your screen (and the other half is for you to work).  (If
   you are in a physical meeting room with a projector or second
-  monitor, it can be half the livestream and half the HackMD - this
+  monitor, it can be half the livestream and half the Notes - this
   will make sense when you see it).
 
 
@@ -155,13 +155,13 @@ to attend to make it the best for you:
 * We record videos and post the notes so you can review at your own
   pace later on. Videos don't include audience voice or video, so you
   don't have to be afraid to interact.
-* HackMD allows anyone to ask questions anonymously and
+* Notes Q&A allows anyone to ask questions anonymously and
   asynchronously, without interrupting others. On the other hand,
   there are a *lot* of questions, so don't watch too closely if it is
   distracting.  We continue answering questions for a little bit after
   each day ends, so you can ask even if you can't write the question
   on time.
-* Lesson websites/HackMD use standard web technologies, so that
+* Lesson websites/Notes use standard web technologies, so that
   browser accessibility plugins can be used (for example making the
   font more accessible, check browser extensions).
 * Twitch can be live-captioned using the Google Chrome browser.  Our
@@ -177,12 +177,12 @@ to attend to make it the best for you:
 
 ## Communication
 
-Most communication goes through [HackMD](hackmd-mechanics). Make sure
+Most communication goes through [Notes](hackmd-mechanics). Make sure
 that you open it and try it out during the icebreakers - it will
 become obvious then.  There will be an absolute flood of information
 there, so watch strategically and don't let yourself get overloaded.
 
-HackMD is much better than chat, since you can ask *anonymously*, you
+Notes is much better than chat, since you can ask *anonymously*, you
 can ask *at the same time as others*, and *multiple people can
 answer*, and *we fix it up and publish it at the end*.
 
