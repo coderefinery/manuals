@@ -39,9 +39,12 @@ following:
 
 * "Ducking" is when the first words are silenced/quieted by noise
   cancellation, until it detects speaking.  To avoid this, don't use
-  "high" noise cancellation (as low as possible is better).  If you
+  "high" noise cancellation (as low as possible is better, reduce
+  environmental noise / use headset mic instead).  If you
   need high cancellation because of background noise, switch to your
   headset.
+* Set your microphone's hardware volume to something relatively high -
+  and control via the software.
 
 
 
