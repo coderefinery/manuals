@@ -117,6 +117,7 @@ could be useful some days or as a second question.
 ## General questions
 
 - What’s a good icebreaker question?
+- Let's select a mascot for this workshop.  What should it be?
 - How is the weather where you live?
 - How are you doing?
 - Are you happy to continue this workshop for another week?
