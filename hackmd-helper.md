@@ -175,3 +175,46 @@ hours, to allow any remaining questions to be asked an answered.
   - Any names not tagged with `[name=]`
   - usernames in URLs
   - private links
+
+## Feedback template
+
+``````
+## Feedback, day N
+
+:::info
+### News for day N+1
+- .
+- .
+:::
+
+### Today was:
+- too fast: 
+- just right: 
+- too slow: 
+- too easy: 
+- right level: 
+- too advanced: 
+- I would recommend this course to others: 
+- Exercises were good: 
+- I would recommend today to others: 
+- I wouldn't recommend today: 
+
+### Do you see value in the [CodeRefinery video production (for youtube)](https://www.youtube.com/watch?v=QUAZELOioUY&list=PLpLblYHCzJADyLxv8GRyxFiRJBhQ-G0NQ):
+- yes, during the course: 
+- yes, for future reference: 
+- yes, for taking the course without watching live: 
+- a bit: 
+- not really, I wouldn't use: 
+
+### One good thing about today:
+- ...
+- ...
+
+### One thing to be improved for next time:
+- ...
+- ...
+
+### Any other comments:
+- ...
+- ...
+``````
