@@ -187,7 +187,7 @@ hours, to allow any remaining questions to be asked an answered.
 - .
 :::
 
-### Today was:
+### Today was (multi-answer):
 - too fast: 
 - just right: 
 - too slow: 
@@ -198,13 +198,6 @@ hours, to allow any remaining questions to be asked an answered.
 - Exercises were good: 
 - I would recommend today to others: 
 - I wouldn't recommend today: 
-
-### Do you see value in the [CodeRefinery video production (for youtube)](https://www.youtube.com/watch?v=QUAZELOioUY&list=PLpLblYHCzJADyLxv8GRyxFiRJBhQ-G0NQ):
-- yes, during the course: 
-- yes, for future reference: 
-- yes, for taking the course without watching live: 
-- a bit: 
-- not really, I wouldn't use: 
 
 ### One good thing about today:
 - ...
