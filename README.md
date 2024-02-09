@@ -72,6 +72,7 @@ Summary of the book "Teaching Teach Together" <teaching-tech-together.md>
 :caption: About CodeRefinery
 :maxdepth: 1
 
+Onboarding <onboarding.md>
 Chat <chat.md>
 Contributing <contributing.md>
 local-breakout-rooms
