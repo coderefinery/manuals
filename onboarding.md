@@ -4,36 +4,36 @@
 
 ### Connect
 
-- Community chat - Zulip: https://coderefinery.zulipchat.com 
+- Community chat - Zulip: [https://coderefinery.zulipchat.com](https://coderefinery.zulipchat.com)
     - in addition to default channels, join at least: #coderefinery and #tools-workshop
     - introduce yourself in #new-members
     - lots of optional channels, check them out!
-- CodeRefinery team meeting notes, agenda and connection details: https://hackmd.io/@coderefinery/team-meeting
+- CodeRefinery team meeting notes, agenda and connection details: [https://hackmd.io/@coderefinery/team-meeting](https://hackmd.io/@coderefinery/team-meeting)
     - Every Monday 14 CET in Zoom
     - Everybody welcome
 
 ### Events
 
-- Events calendar: https://coderefinery.org/calendars/
-- Workshops: https://coderefinery.org/workshops/
+- Events calendar: [https://coderefinery.org/calendars/](https://coderefinery.org/calendars/)
+- Workshops: [https://coderefinery.org/workshops/](https://coderefinery.org/workshops/)
 
 ### News 
 
-- Mastodon: https://fosstodon.org/@coderefinery
-- LinkedIn: https://www.linkedin.com/company/coderefinery-research-software-development/
-- X/Twitter: https://x.com/@coderefine
-- Blog: https://coderefinery.org/blog/
+- Mastodon: [https://fosstodon.org/@coderefinery](https://fosstodon.org/@coderefinery)
+- LinkedIn: [https://www.linkedin.com/company/coderefinery-research-software-development/](https://www.linkedin.com/company/coderefinery-research-software-development/)
+- X/Twitter: [https://x.com/@coderefine](https://x.com/@coderefine)
+- Blog: [https://coderefinery.org/blog/](https://coderefinery.org/blog/)
 
 ### Collections
 
 - Lesson materials: 
-    - Learning: https://coderefinery.org/lessons/
-    - Development: https://github.com/coderefinery/ + lesson title (NOT lessons!)
+    - Learning: [https://coderefinery.org/lessons/](https://coderefinery.org/lessons/)
+    - Development: [https://github.com/coderefinery/](https://github.com/coderefinery/) + lesson title (NOT lessons!)
 - Presentations: 
-    - All: https://coderefinery.org/about/presentations/
-    - Public with DOI: https://zenodo.org/communities/coderefinery
-    - Source: https://github.com/coderefinery/presentations
-- Reports, proposals, abstracts: https://github.com/coderefinery/reports-and-proposals
+    - All: [https://coderefinery.org/about/presentations/](https://coderefinery.org/about/presentations/)
+    - Public with DOI: [https://zenodo.org/communities/coderefinery](https://zenodo.org/communities/coderefinery)
+    - Source: [https://github.com/coderefinery/presentations](https://github.com/coderefinery/presentations)
+- Reports, proposals, abstracts: [https://github.com/coderefinery/reports-and-proposals](https://github.com/coderefinery/reports-and-proposals)
 
 ## Good to know
 
