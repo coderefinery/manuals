@@ -11,6 +11,17 @@ to start.
 {doc}`co-instructors` for an intro for starting co-instructors.
 ```
 
+## What's it like as an instructor?
+
+We teach online, livestream, and with *co-teaching*. That means the
+lesson is a conversation between two instructors, instead of one
+person alone and many students.  It's especially easy to get started
+this way: co teach with someone experienced!
+
+You can see a demo of what livestream co-teaching is like here:
+https://youtu.be/WjmttAniZX8?t=3 (15 min, many different scenes)
+
+
 ## How do you get started?
 
 That's what this page is about (well, and the [instructor
@@ -28,8 +39,8 @@ Reading here: the other pages in the section, see sidebar.
 * {doc}`instructor-tech-online`
 
 Also read the team leader information
-* {doc}`team-leaders` - general on motivation and how to prepare for 
-  breakout rooms 
+* {doc}`team-leaders` - general on motivation and how to prepare for
+  breakout rooms
 
 Reading elsewhere:
 * [CodeRefinery instructor
