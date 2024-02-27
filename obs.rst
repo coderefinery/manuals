@@ -231,20 +231,21 @@ File → Settings → Output
 
     If you use **Simple**, you pretty much can't go wrong.  If you are
     mainly screensharing and don't have much action video, you can
-    make the bitrate much lower, for example 2500 Kbps.  The slower
+    make the bitrate much lower, for example 1500 Kbps.  The slower
     "encoder preset" is, the more CPU power that will be spent to get
     that quality, so the less space it will use.  The better your CPU
     is, the slower you can make it; "fast" to "slow" are reasonable.
 
     If you use **advanced** you have more options:
 
-    Streaming: Rate control=CBR, 2500 Kbps, other options don't matter
+    Streaming: Rate control=CBR, 1500 Kbps, other options don't matter
     so much, defaults should be fine.  You can search for
     recommendations online, but realize that most others stream
     high-action games so their settings are much higher than you need.
 
-    Recording: Recording format, mp4 (mkv would be better, but we need
-    to check that it can be uploaded to common sites). Encoder=x264,
+    Recording: Recording format, mkv (mp4 is completely unusable if
+    the recording dies, mkv can be uploaded to youtube if it has a
+    supported coder inside of it). Encoder=x264,
     Rate control=CRF, CRF=22, Keyframe interval=auto, CPU
     preset=medium (or slower, for better CPUs)
     (slower=use more CPU to do better
@@ -252,9 +253,12 @@ File → Settings → Output
     is a good range),
     Profile=main, Tune=None
 
+    If you use the streaming encoder for the recording, then it will
+    only have to encode it once and it will save CPU power.
+
 File → Settings → Video
     Here, you set the base size of the picture you will be using.
-    You could do FullHD at 1920x1080, or HD at 1280x720.  For vertical
+    You could do FullHD at 1920x1080.  For vertical
     recording, we recommend you do 840x1080.  Use your chosen value
     for both Base and Output resolutions.  30 FPS.
 
@@ -343,7 +347,8 @@ volumes of these can be independently adjusted - you want typical
 volume to be in the yellow zone.  Advice for various operating systems
 include:
 
-* Linux using PulseAudio: ``pavucontrol``
+* Linux using PulseAudio: ``pavucontrol`` (GUI) or ``pulsemixer``
+  (terminal)
 * Windows: ???
 * MacOS: ???
 
@@ -360,22 +365,19 @@ the gear icon in the audio area) you have several more options.
   over the headphones and speakers for you to check.  Make sure you
   don't make any loops!
 
-Audio configuration is a big deal.  You can look at thees other
+Audio configuration is a big deal.  You can look at these other
 guides:
 
+* :doc:`instructor-tech-online`
 * ???
 
 High-quality audio is quite important.  I've spent far too long
 playing with it, and my conclusion is that I don't know enough to make
-it better than what I have now.  I could use a better microphone, but
-then I had to add noise reduction and the quality ended up the same as
-a "worse" headset microphone that was close to my mouth that seemed to
-have automatic noise reduction.  Your environment (noise, amount of
-echo) matters just as much as your microphone.
-
-I propose a central recommendation: *talk about audio quality*.  Start
-meetings early and test it.  Communicate about problems early, don't
-ignore and think it's "good enough for now".
+it better than what I have now.  What I know is in the "instructor
+tech setup, online" page linked above.  I propose a central
+recommendation: *talk about audio quality*.  Start meetings early and
+test it.  Communicate about problems early, don't ignore and think
+it's "good enough for now".
 
 
 
