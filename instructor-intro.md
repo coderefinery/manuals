@@ -6,10 +6,6 @@ room, and have to have an overview of more of the course.  In short,
 if you want to take the next step in CodeRefinery, this is the place
 to start.
 
-```{seealso}
-
-{doc}`co-instructors` for an intro for starting co-instructors.
-```
 
 ## What's it like as an instructor?
 
@@ -33,8 +29,10 @@ provide plenty of opportunities to do that.
 ## Starting materials
 
 Reading here: the other pages in the section, see sidebar.
-* {doc}`team-teaching`
-* {doc}`presenting`
+
+* {doc}`co-instructors` - Quick intro for a first-time co-instructor
+* {doc}`team-teaching` - Details on team-teaching
+* {doc}`presenting` - Generic presentation hints
 * {doc}`instructor-tech-setup`
 * {doc}`instructor-tech-online`
 
