@@ -75,6 +75,7 @@ Summary of the book "Teaching Teach Together" <teaching-tech-together.md>
 Onboarding <onboarding.md>
 Chat <chat.md>
 Contributing <contributing.md>
+lesson-credits
 local-breakout-rooms
 open-your-courses
 The project <the-project.md>
