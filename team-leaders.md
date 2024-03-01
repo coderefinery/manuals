@@ -9,7 +9,7 @@ The minimum to mention/read when preparing:
 - What we want to avoid
 ```
 
-**Thanks for being a team leader :heart:**!
+**Thanks for being a team leader**!
 Without you, these large online workshops would not be possible.
 
 
@@ -17,7 +17,7 @@ Without you, these large online workshops would not be possible.
 
 - Everyone watches the CodeRefinery stream ({ref}`how to attend via livestream <attend-stream>`)
 - All communication, questions, and feedback happen via collaborative document ({ref}`Collaborative document mechanics <how-to-hackmd>`)
-- Exercises can be done individually, in a pre-formed or ad-hoc team, online or in person
+- Exercises can be done individually or in a pre-formed team, online or in person
 - Team leaders are an important link between the instructors and learners. Please:
   - In the collaborative document let us know about progress of the team and any issues
   - Be available for learners to ask their questions and lead discussions
