@@ -15,7 +15,8 @@
   the beginning of the workshop?  The first sessions aren't the time
   for distractions.
 - Is your terminal
-  - Dark text on light background?
+  - Dark text on light background? (if not: create a profile so you
+    can switch now or in the future)
   - Do you know key-bindings to change the font size quickly?
 - Do you have command history set up?  If in doubt, use
   [prompt-log](https://github.com/rkdarst/prompt-log/) and `tail` the
