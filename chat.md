@@ -1,24 +1,22 @@
+
 (chat)=
 # CodeRefinery Zulipchat
 
 The [CodeRefinery zulipchat](https://coderefinery.zulipchat.com) is
 where our primary discussion, planning, and action takes place.  Many
-things are announced only via zulipchat.  This is a public chat and
+things are announced only via Zulipchat.  This is a public chat and
 everybody is welcome to join, no invitation needed, and we explicitly
-invite anyone to give ideas in any thread.
+invite anyone to give ideas in any stream or topic.
 
 The chat is a joint community of CodeRefinery (teaching), NordicHPC
 (infrastructure), and Nordic-RSE (usage and software), which are other
 Nordic projects about scientific computing which share some of the
-same people.  Together, we have a network of all aspects of modern
+same people. Together, we have a network of all aspects of modern
 scientific computing.
 
-Unlike Slack, zulipchat is very heavily threaded, and it is easy to
-follow along without being active all the time.  Respond within the
-topic (=thread) that is relevant, or make a new thread.  Sometimes you
-can find old threads to revive.  Don't worry, everything is flexible
-and you'll quickly learn by watching (and don't worry about going
-wrong).
+Unlike Slack, zulipchat is very heavily threaded, and one can follow along without being active all the time.  Respond within the
+topic (=thread) that is relevant, or make a new topic.  Sometimes you
+can find old topics to revive.  
 
 
 ## Streams
@@ -31,61 +29,94 @@ on that chat, then selecting what you are interested in.**
 
 ![Gear icon to join a stream](img/chat--join-stream.png)
 
+The easiest way to find streams of interest is to go through the list and join whichever sounds interesting. You can always leave a stream again too.
+
 If you **mute a stream**, you can see the contents if you click on it,
 but you won't get notifications.  If you **mute a topic**, it will be
 hidden from view but you can later unmute it in your personal
 settings.  Under stream settings, you can request email notifications
-for all messages in a certain stream (possibly useful for the announce
-streams).
+for all messages in a certain stream (possibly useful for the announce streams).
 
-CodeRefinery streams:
-* **#general**: Any topic and random chat (including for the other
-  projects below)
-* **#coderefinery**: About the project itself.  CodeRefinery members
-  should be in this channel.
-* **#carpentries**: About Carpentries or CodeRefinery as a Carpentries
-  lesson program.
-* **#lessons**: CodeRefinery lesson discussion, one for each lesson we
-  maintain.
-* **#workshops**: Organizing workshops and other events.  One topic
-  for each event.
-- One stream for coordinating each major workshop that requires a lot
-  of chat, for example **#tools-workshop** (the standard workshop),
-  **python-for-scicomp**, **kickstart-aalto**, etc.
-* **#workshop-chat**: High-volume staff chat during workshops.  You
-  typically join during a workshop, and leave when done to avoid the
-  flood.
-* **#help**: Ask questions and get advice from others.  Tell
-  interesting things you learned via "TIL"s
-* **#new members**: Feel free to introduce yourself here
-* **#announce**:
-* **#infrastructure**: [CodeRefinery
-  gitlab](https://coderefinery.org/repository/) talk.
+Default channels (everyone joining is automatically subscribed)
+
+| Name | Description    | Notes
+| -------- | --- | --- |
+| events | Share information about courses, workshops, seminars or other events; can also be used to look for collaborators | One topic for just announcing random events that you have learned about somewhere and thought others might find interesting too |
+| jobs | Share open job positions that others here might find interesting too | - |
+| greetings | New joiners are recommended to introduce themselves here, so we can welcome you. Other greetings/thanks also welcome! | One topic for all new members, one for monday morning hello? |
+| coderefinery | CodeRefinery organization: about the team, project, strategy, CodeRefinery Gitlab | - |
+| nordic-rse | Nordic Research Software Engineers: members and general discussion about research software. | - |
+| random | Memes, jokes, animal pictures, whatever makes you smile :) | - |
+| general | Ideas, TIL (today I learned), discussions, tech stuff that do not fit any other channel | - |
+| help | Community support. Ask questions related to anything about the topics on this chat (CodeRefinery, RSE, scientific software and data, HPC,...)  | - |
+| lessons |  Discussions about CodeRefinery and other lessons. There's usually one topic per lesson and other related things. | - | 
 
 
-Nordic research software engineer community:
-* **#nordic-rse**: Discussion about
-  [Nordic-RSE](https://nordic-rse.org)
+There are also multiple sub-communities related to a specific event, group, region: 
 
-Nordic HPC:
-* **#NordicHPC**: [NordicHPC](https://nordichpc.github.io).
-  Discussion about computing infrastructure (not just HPC)
+| Name                          | Description                                                                                                                                         | Notes                                   |
+| ----------------------------- | ------------------------------------- | --------------------------------------- |
+| aalto                         | Aalto University scientific computing community (+friends)                                                                                          | archive                      |
+| aaltoscicomp                  | Aalto scientific computing support personnel                                                                                                        | archive                           |
+| advent-of-code                | For chatting about the advent of code challenges                                                                                                    | - (keep as is)                          |
+| cr-retreat                    | Temporary private stream for CodeRefinery writing retreat related discussions                                                                       | (keep as is, archive next week)         |
+| finland                       | Discussion related to activities in Finland (CodeRefinery, RSE, HPC, SciComp, anything else)                                                        | **remove**, or add other countries too? |
+| hands-on-scicomp              | Work on the https://handsonscicomp.readthedocs.io/ training map                                                                                     | -                                       |
+| aalto-kickstart               | Aalto's twice-a-year kickstart courses (scicomp and HPC). Channel exists because the course is open to anyone and this is the coordination channel. | keep as is (RD: remove aalto from name to make it more broad?)                       |
+| nordic-rse_board              | Private stream for Nordic RSE board members                                                                                                         | keep as is                   |
+| nordic-rse-con_24             | Nordic RSE conference 2024 organization, 30-31 may 2024, Otaniemi, Finland, https://nordic-rse.org/events/2024-in-person-conference/                | keep as is                |
+| nordic-rse_conference_reviews | review of submissions for nordic-rse 2024 conference                                                                                                | (keep as is)                            |
+| aalto-python-scicomp          | Python for SciComp coordination: A big course each autumn, public to the world. We are happy for any help here.                                     | keep as is                  |
+| rshour                        | Research Software Hour community and coordination. It is a weekly livestream about research software.                                               | (keep as is)                            |
+| SWC DLN/ELIXIR/UiB Dlab       | ?                                                                                                                                                  | (keep as is)                            |
+| coderefinery-tools-workshop                | Where we organize the "standard" CodeRefinery workshop each spring and autumn.                                                                      | keep as is       |
+| workflows-course              | Real-life cluster computing workflows course, "Tuesday tools and techniques for HPC". A new course in 2024                                          | keep as is                |
+| hpc | Discussions around HPC in Nordics and beyond | -|
+| zulip-admin | Zulip default notifications | - |
 
-Misc streams in our sphere of influence:
-* **#RSHour**: [Research Software
-  Hour](https://researchsoftwarehour.github.io) planning
-* **#finland**: Finland stuff, we won't complain about others.
-* **#Aalto**: Aalto University community, you can reach [Aalto
-  Scientific Computing](https://scicomp.aalto.fi) staff there.
-* **#hands-on-scicomp**: Discussions about the [Hands-on scientific
-  computing course](https://handsonscicomp.readthedocs.io).
-* **#RSHour**: the [Research Software
-  Hour](https://researchsoftwarehour.github.io) web show.
+
+
 
 You can make topical private streams for groups that significantly
 overlap with our community.  Currently, Zulip admins can't add
 themselves or others to private streams.
 
+## Good practices and tips
+
+### Views
+
+**Recent conversations**
+
+To follow up on most recent conversations in chat, use `recent conversations`, which shows you all your streams, the number of unread messages per stream, starting with the most recent one.
+
+**Combined feed**
+
+To see all the latest messages in all your streams/topics, use `Combined feed` view.
+
+### Notifications
+
+You can set separate notifications settings for the full chat, streams and topics. 
+
+TODO: show/tell how to change all options
+
+### Topic vs private message
+
+Just want to share something with a small group of people -> Send a private message to multiple people instead of starting a new topic
+
+### Search before creating a new X
+
+Use the search function to search for some relevant keywords before creating a new topic.
+
+### Mark as resolved
+
+TODO: what does this do?
+
+
+## Chat digest
+
+If this chat is not your main "hang-out spot", but you would still like to stay up to date, you can sign up for the CodeRefinery chat digest, providing one e-mail per week with the latest updates from the chat.
+
+[Sign up for the chat digest e-mail list](https://postit.csc.fi/sympa/subscribe/coderefinery-team).
 
 ## Clients
 
@@ -100,12 +131,7 @@ apps, and even a terminal client installable using ``pip``.
 
 We want everyone to take part in chat and express their thoughts, but
 of course people don't want to give pointless agreeing replies (but
-you can always welcome to do that, too).  So, we encourage everyone to
-use reactions in cases they want to express agreement/disagreement but
-not so much they want to send a message.  Common reactions you might
-see are 👍, 👎 (thumbs up/down, agree with general sentiment), 🐙
-(`:octopus:`, awesome/amazing/ace), and well, plenty more that are
-obvious.
+you can always welcome to do that, too).  So, we encourage everyone to use reactions in cases they want to express agreement/disagreement but not so much they want to send a message.  Common reactions you might see are 👍, 👎 (thumbs up/down, agree with general sentiment), 🐙 (`:octopus:`, awesome/amazing/ace), and well, plenty more that are more obvious.
 
 We also use reactions to express some idea of a more concrete
 **vote**, to empower people to take an action (otherwise, it is
@@ -125,14 +151,10 @@ think you should do that" or not, let us know by the following:
 If you want to do something, ask for opinions, and a reasonable time
 later it seems the sentiment is positive, consider yourself empowered
 to do it.  If you are voting, feel free to be creative with emojis or
-numbers, but realize that other reactions may not be so explicit.  Note
-that if you are negative, you should explain why or alternatives,
-otherwise your opinion may not be weighted so much.  The person doing
-the thing decides what to do (and this is open source: we find a way
-for everyone to do what they need to do).
+numbers, but realize that other reactions may not be so explicit.  Note that if you are negative, you should explain why or alternatives, otherwise your opinion may not be weighted so much.  The person doing the thing decides what to do (and this is open source: we find a way for everyone to do what they need to do).
 
 Do you think you aren't important enough to vote?  That's wrong,
-because we are usually interested in the thoughts of outsiders.  We
+because we are usually interested in the thoughts of everyone.  We
 can see who voted and use that to weight our decision if needed.
 
 
