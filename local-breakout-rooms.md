@@ -3,8 +3,8 @@
 Some CodeRefinery courses are designed to be large scale, with
 distributed registration.  In short, this means there is a livestream
 that anyone in the world can watch.  Since we can't handle a
-registration and personal support for everyone in the world, *you* can
-open registration to attend the course.
+personal support for everyone in the world, *you* can
+open registration to attend the course and provide support.
 
 
 
@@ -14,17 +14,13 @@ open registration to attend the course.
   {doc}`coderefinery-mooc` strategy allows us to reach a huge audience
   in a decentralized manner.
 
-  - If courses don't have a livestream, we can still reach many people
-    because of HackMD and teams.  From the list below, steps 2b and 2c
-    work with this option.
-
   ```{figure} coderefinery-mooc/mooc-diagram.png
 
   Decentralized teaching allows us to reach many more people than
   we could otherwise.
   ```
 
-- Most attendees can ask from help through HackMD
+- Most attendees can ask from help through the Notes doc
   ({doc}`hackmd-mechanics`), which works very well
 - There are periodic exercise sessions, where learners and teams can
   work together.
@@ -40,7 +36,7 @@ open registration to attend the course.
   within your breakout rooms.  The end of the exercise sessions and
   breaks are clearly communicated as well - we support your breakout
   room scheduling as much as possible.
-- Attendees can ask general questions via {doc}`HackMD
+- Attendees can ask general questions via {doc}`the Notes
   <hackmd-mechanics>`
 - You can continue your local support even after the course.
 - You may want to run local "installation help" sessions.
@@ -51,8 +47,9 @@ open registration to attend the course.
 - If you have a broad audience, you may want to make your own
   registration form, completely separated from ours. That may help
   with reservations and catering if any.
-- Please have everyone to register in our form anyway 
-  to help us in reporting our impact.
+- Please let us know the total registrations and attendance, or have
+  everyone to register in our form in addition to yours.  This help us
+  in reporting our impact and secure support.
 - You may (but don't have to) create **teams**, where you have one
   team leader for 5-6 learners.  The team leader guides the
   team and supports collaboration and community - and lets us scale
@@ -64,23 +61,20 @@ open registration to attend the course.
   reaching as many people as possible, we'll adjust reporting to what works)
 
 
-## Step 2b: Joint registration
+## Step 3: Teaching
 
-- You can direct people to our registration form as a matter of
-  simplicity, but we add an option for your institution.
-- Learners join our Zoom session, and we create a breakout room for
-  your institution and direct all learners there.
-- Since you provide help to your own learners, we can more easily
-  scale than we could otherwise.
+- You support learners during the course
+- If you don't know everything, that is OK!  You can also relay
+  questions to our Notes doc where experts can answer
 
 
-## Step 2c: Joint registration, you provide team leaders for your teams
+## Step 4: Follow-up
 
-- A lot like "joint registration", but for workshops where we
-  centrally organize teams.
-- You locally recruit {doc}`team leaders <team-leaders>` for your
-  own learners.  This saves us the effort of recruiting exercise
-  leaders and allows us to scale more.
+- A course is good, but learning doesn't stop then.  Our materials
+  remain available indefinitely.
+- Since you know your local audience, you can continue to support them
+  for long-term impact (if you want).  This is probably why you value
+  the teaching anyway, right?
 
 
 ## Summary
