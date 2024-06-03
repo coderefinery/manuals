@@ -49,7 +49,7 @@ Default channels (everyone joining is automatically subscribed)
 | random | Memes, jokes, animal pictures, whatever makes you smile :) | - |
 | general | Ideas, TIL (today I learned), discussions, tech stuff that do not fit any other channel | - |
 | help | Community support. Ask questions related to anything about the topics on this chat (CodeRefinery, RSE, scientific software and data, HPC,...)  | - |
-| lessons |  Discussions about CodeRefinery and other lessons. There's usually one topic per lesson and other related things. | - | 
+| lessons |  Discussions about CodeRefinery (and other) lessons. There's usually one topic per lesson and other related things. | - | 
 
 
 There are also multiple sub-communities related to a specific event, group, region: 
