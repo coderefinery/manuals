@@ -37,47 +37,42 @@ hidden from view but you can later unmute it in your personal
 settings.  Under channel settings, you can request email notifications
 for all messages in a certain channel (possibly useful for the announce channels).
 
-Default channels (everyone joining is automatically subscribed)
+Default channels (everyone joining is automatically subscribed):
 
-| Name | Description    | Notes
-| -------- | --- | --- |
-| events | Share information about courses, workshops, seminars or other events; can also be used to look for collaborators | One topic for just announcing random events that you have learned about somewhere and thought others might find interesting too |
-| jobs | Share open job positions that others here might find interesting too | - |
-| greetings | New joiners are recommended to introduce themselves here, so we can welcome you. Other greetings/thanks also welcome! | One topic for all new members, one for monday morning hello? |
-| coderefinery | CodeRefinery organization: about the team, project, strategy, CodeRefinery Gitlab | - |
-| nordic-rse | Nordic Research Software Engineers: members and general discussion about research software. | - |
-| random | Memes, jokes, animal pictures, whatever makes you smile :) | - |
-| general | Ideas, TIL (today I learned), discussions, tech stuff that do not fit any other channel | - |
-| help | Community support. Ask questions related to anything about the topics on this chat (CodeRefinery, RSE, scientific software and data, HPC,...)  | - |
-| lessons |  Discussions about CodeRefinery (and other) lessons. There's usually one topic per lesson and other related things. | - | 
+
+- #events : Share information about courses, workshops, seminars or other events; can also be used to look for collaborators 
+- #jobs : Share open job positions that others here might find interesting too 
+- #greetings : New joiners are recommended to introduce themselves here, so we can welcome you. Other greetings/thanks also welcome! 
+- #coderefinery : CodeRefinery organization: about the team, project, strategy, CodeRefinery Gitlab 
+- #nordic-rse : Nordic Research Software Engineers: members and general discussion about research software.
+- #random : Memes, jokes, animal pictures, whatever makes you smile :) 
+- #general : Ideas, TIL (today I learned), discussions, tech stuff that do not fit any other channel 
+- #help : Community support. Ask questions related to anything about the topics on this chat (CodeRefinery, RSE, scientific software and data, HPC,...) 
+- #lessons :  Discussions about CodeRefinery (and other) lessons. There's usually one topic per lesson and other related things. 
 
 
 There are also multiple sub-communities related to a specific event, group, region: 
 
-| Name                          | Description                                                                                                                                         | Notes                                   |
-| ----------------------------- | ------------------------------------- | --------------------------------------- |
-| aalto                         | Aalto University scientific computing community (+friends)                                                                                          | archive                      |
-| aaltoscicomp                  | Aalto scientific computing support personnel                                                                                                        | archive                           |
-| advent-of-code                | For chatting about the advent of code challenges                                                                                                    | - (keep as is)                          |
-| cr-retreat                    | Temporary private channel for CodeRefinery writing retreat related discussions                                                                       | (keep as is, archive next week)         |
-| finland                       | Discussion related to activities in Finland (CodeRefinery, RSE, HPC, SciComp, anything else)                                                        | - |
-| hands-on-scicomp              | Work on the https://handsonscicomp.readthedocs.io/ training map                                                                                     | -                                       |
-| aalto-kickstart               | Aalto's twice-a-year kickstart courses (scicomp and HPC). Channel exists because the course is open to anyone and this is the coordination channel. | keep as is (RD: remove aalto from name to make it more broad?)                       |
-| nordic-rse_board              | Private channel for Nordic RSE board members                                                                                                         | keep as is                   |
-| nordic-rse-con_24             | Nordic RSE conference 2024 organization, 30-31 may 2024, Otaniemi, Finland, https://nordic-rse.org/events/2024-in-person-conference/                | keep as is                |
-| nordic-rse_conference_reviews | review of submissions for nordic-rse 2024 conference                                                                                                | (keep as is)                            |
-| aalto-python-scicomp          | Python for SciComp coordination: A big course each autumn, public to the world. We are happy for any help here.                                     | keep as is                  |
-| rshour                        | Research Software Hour community and coordination. It is a weekly livestream about research software.                                               | (keep as is)                            |
-| SWC DLN/ELIXIR/UiB Dlab       | ?                                                                                                                                                  | (keep as is)                            |
-| coderefinery-tools-workshop                | Where we organize the "standard" CodeRefinery workshop each spring and autumn.                                                                      | keep as is       |
-| workflows-course              | Real-life cluster computing workflows course, "Tuesday tools and techniques for HPC". A new course in 2024                                          | keep as is                |
-| hpc | Discussions around HPC in Nordics and beyond | -|
-| zulip-admin | Zulip default notifications | - |
+- #aalto : Aalto University scientific computing community (+friends)                                                                    
+- #aaltoscicomp : Aalto scientific computing support personnel                                                                                  
+- #advent-of-code : For chatting about the advent of code challenges                                                                              
+- #cr-retreat : Temporary private channel for CodeRefinery writing retreat related discussions                                                
+- #finland : Discussion related to activities in Finland (CodeRefinery, RSE, HPC, SciComp, anything else)                                  
+- #hands-on-scicomp : Work on the https://handsonscicomp.readthedocs.io/ training map                                                               
+- #hpc-kickstart : Aalto's twice-a-year kickstart courses (scicomp and HPC). Channel exists because the course is open to anyone and this is the coordination channel. 
+- #nordic-rse_board : Private channel for Nordic RSE board members                                                                                  
+- #nordic-rse-con_24 : Nordic RSE conference 2024 organization, 30-31 may 2024, Otaniemi, Finland, https://nordic-rse.org/events/2024-in-person-conference/     
+- #nordic-rse_conference_reviews : review of submissions for nordic-rse 2024 conference                                                                         
+- #aalto-python-scicomp : Python for SciComp coordination: A big course each autumn, public to the world. We are happy for any help here.               
+- #rshour : Research Software Hour community and coordination. It is a weekly livestream about research software.                         
+- #SWC DLN/ELIXIR/UiB Dlab : a sub-community                                                                                                                    
+- #coderefinery-tools-workshop : Where we organize the "standard" CodeRefinery workshop each spring and autumn.                                   
+- #workflows-course : Real-life cluster computing workflows course, "Tuesday tools and techniques for HPC". A new course in 2024                    
+- #hpc : Discussions around HPC in Nordics and beyond 
+- #zulip-admin : Zulip default notifications 
 
-
-
-
-You can make topical private channels for groups that significantly
+You are very welcome to create new channels, eg for regional subgroups, such as #finland. 
+You can also create topical private channels for groups that significantly
 overlap with our community.  Currently, Zulip admins can't add
 themselves or others to private channels.
 
