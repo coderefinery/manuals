@@ -6,7 +6,7 @@ The [CodeRefinery zulipchat](https://coderefinery.zulipchat.com) is
 where our primary discussion, planning, and action takes place.  Many
 things are announced only via Zulipchat.  This is a public chat and
 everybody is welcome to join, no invitation needed, and we explicitly
-invite anyone to give ideas in any stream or topic.
+invite anyone to give ideas in any channel or topic.
 
 The chat is a joint community of CodeRefinery (teaching), NordicHPC
 (infrastructure), and Nordic-RSE (usage and software), which are other
@@ -19,23 +19,23 @@ topic (=thread) that is relevant, or make a new topic.  Sometimes you
 can find old topics to revive.  
 
 
-## Streams
+## Channels
 
 Once you join the chat, you will be subscribed to some default
-streams (a stream is basically a channel).  **The first thing you
-should do is join some more streams, depending on your interest.  Join
-more streams by clicking gear icon by the steams list on the left side
+channels.  **The first thing you
+should do is join some more channels, depending on your interest.  Join
+more channels by clicking gear icon by the steams list on the left side
 on that chat, then selecting what you are interested in.**
 
-![Gear icon to join a stream](img/chat--join-stream.png)
+![Gear icon to join a channel](img/chat--join-stream.png)
 
-The easiest way to find streams of interest is to go through the list and join whichever sounds interesting. You can always leave a stream again too.
+The easiest way to find channels of interest is to go through the list and join whichever sounds interesting. You can always leave a channel again too.
 
-If you **mute a stream**, you can see the contents if you click on it,
+If you **mute a channel**, you can see the contents if you click on it,
 but you won't get notifications.  If you **mute a topic**, it will be
 hidden from view but you can later unmute it in your personal
-settings.  Under stream settings, you can request email notifications
-for all messages in a certain stream (possibly useful for the announce streams).
+settings.  Under channel settings, you can request email notifications
+for all messages in a certain channel (possibly useful for the announce channels).
 
 Default channels (everyone joining is automatically subscribed)
 
@@ -59,11 +59,11 @@ There are also multiple sub-communities related to a specific event, group, regi
 | aalto                         | Aalto University scientific computing community (+friends)                                                                                          | archive                      |
 | aaltoscicomp                  | Aalto scientific computing support personnel                                                                                                        | archive                           |
 | advent-of-code                | For chatting about the advent of code challenges                                                                                                    | - (keep as is)                          |
-| cr-retreat                    | Temporary private stream for CodeRefinery writing retreat related discussions                                                                       | (keep as is, archive next week)         |
+| cr-retreat                    | Temporary private channel for CodeRefinery writing retreat related discussions                                                                       | (keep as is, archive next week)         |
 | finland                       | Discussion related to activities in Finland (CodeRefinery, RSE, HPC, SciComp, anything else)                                                        | - |
 | hands-on-scicomp              | Work on the https://handsonscicomp.readthedocs.io/ training map                                                                                     | -                                       |
 | aalto-kickstart               | Aalto's twice-a-year kickstart courses (scicomp and HPC). Channel exists because the course is open to anyone and this is the coordination channel. | keep as is (RD: remove aalto from name to make it more broad?)                       |
-| nordic-rse_board              | Private stream for Nordic RSE board members                                                                                                         | keep as is                   |
+| nordic-rse_board              | Private channel for Nordic RSE board members                                                                                                         | keep as is                   |
 | nordic-rse-con_24             | Nordic RSE conference 2024 organization, 30-31 may 2024, Otaniemi, Finland, https://nordic-rse.org/events/2024-in-person-conference/                | keep as is                |
 | nordic-rse_conference_reviews | review of submissions for nordic-rse 2024 conference                                                                                                | (keep as is)                            |
 | aalto-python-scicomp          | Python for SciComp coordination: A big course each autumn, public to the world. We are happy for any help here.                                     | keep as is                  |
@@ -77,9 +77,9 @@ There are also multiple sub-communities related to a specific event, group, regi
 
 
 
-You can make topical private streams for groups that significantly
+You can make topical private channels for groups that significantly
 overlap with our community.  Currently, Zulip admins can't add
-themselves or others to private streams.
+themselves or others to private channels.
 
 ## Good practices and tips
 
@@ -87,15 +87,15 @@ themselves or others to private streams.
 
 **Recent conversations**
 
-To follow up on most recent conversations in chat, use `recent conversations`, which shows you all your streams, the number of unread messages per stream, starting with the most recent one.
+To follow up on most recent conversations in chat, use `recent conversations`, which shows you all your channels, the number of unread messages per channel, starting with the most recent one.
 
 **Combined feed**
 
-To see all the latest messages in all your streams/topics, use `Combined feed` view.
+To see all the latest messages in all your channels/topics, use `Combined feed` view.
 
 ### Notifications
 
-You can set separate notifications settings for the full chat, streams and topics. 
+You can set separate notifications settings for the full chat, channels and topics. 
 
 TODO: show/tell how to change all options
 
@@ -163,5 +163,5 @@ can see who voted and use that to weight our decision if needed.
 
 All activity (except private steams) should be considered public, and
 the data controller is zulipchat.com.  Zulip admins can't add
-themselves or others to private streams, but still: there is no
+themselves or others to private channels, but still: there is no
 contract guaranteeing confidentiality.
