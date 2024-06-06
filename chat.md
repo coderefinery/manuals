@@ -59,17 +59,17 @@ There are also multiple sub-communities related to a specific event, group, regi
 - #cr-retreat : Temporary private channel for CodeRefinery writing retreat related discussions                                                
 - #finland : Discussion related to activities in Finland (CodeRefinery, RSE, HPC, SciComp, anything else)                                  
 - #hands-on-scicomp : Work on the https://handsonscicomp.readthedocs.io/ training map                                                               
-- #hpc-kickstart : Aalto's twice-a-year kickstart courses (scicomp and HPC). Channel exists because the course is open to anyone and this is the coordination channel. 
-- #nordic-rse_board : Private channel for Nordic RSE board members                                                                                  
+- #hpc-kickstart : Aalto's twice-a-year kickstart courses (scicomp and HPC). Channel exists because the course is open to anyone and this is the coordination channel.                                                                             
 - #nordic-rse-con_24 : Nordic RSE conference 2024 organization, 30-31 may 2024, Otaniemi, Finland, https://nordic-rse.org/events/2024-in-person-conference/     
-- #nordic-rse_conference_reviews : review of submissions for nordic-rse 2024 conference                                                                         
-- #aalto-python-scicomp : Python for SciComp coordination: A big course each autumn, public to the world. We are happy for any help here.               
+- #python-for-scicomp : Python for SciComp coordination: A big course each autumn, public to the world. We are happy for any help here.               
 - #rshour : Research Software Hour community and coordination. It is a weekly livestream about research software.                         
 - #SWC DLN/ELIXIR/UiB Dlab : a sub-community                                                                                                                    
 - #coderefinery-tools-workshop : Where we organize the "standard" CodeRefinery workshop each spring and autumn.                                   
-- #workflows-course : Real-life cluster computing workflows course, "Tuesday tools and techniques for HPC". A new course in 2024                    
-- #hpc : Discussions around HPC in Nordics and beyond 
-- #zulip-admin : Zulip default notifications 
+- #workflows-course : Real-life cluster computing workflows course, "Tuesday tools and techniques for HPC". A new course started in 2024                    
+- #hpc : Discussions around HPC in Nordics and beyond
+- #zulip: Zulip notifications and disucssions around the chat platform
+
+New channel announcements will be visible in #general, Zulip updates can be followed in #zulip channel.
 
 You are very welcome to create new channels, eg for regional subgroups, such as #finland. 
 You can also create topical private channels for groups that significantly
