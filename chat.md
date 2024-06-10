@@ -67,7 +67,7 @@ There are also multiple sub-communities related to a specific event, group, regi
 - #coderefinery-tools-workshop : Where we organize the "standard" CodeRefinery workshop each spring and autumn.                                   
 - #workflows-course : Real-life cluster computing workflows course, "Tuesday tools and techniques for HPC". A new course started in 2024                    
 - #hpc : Discussions around HPC in Nordics and beyond
-- #zulip: Zulip notifications and disucssions around the chat platform
+- #zulip: Zulip notifications and discussions around the chat platform
 
 New channel announcements will be visible in #general, Zulip updates can be followed in #zulip channel.
 
