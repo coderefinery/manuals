@@ -104,8 +104,7 @@ Use the search function to search for some relevant keywords before creating a n
 
 ### Mark as resolved
 
-TODO: what does this do?
-
+To indicate that a topic is resolved, for example because an event happened or a help request got resolved. This does not make the topic vanish but a small checkmark is added to the topic.
 
 ## Chat digest
 
