@@ -23,6 +23,5 @@ for your own local audience.
   {doc}`volunteer <roles-overview>`, too.
 - Read all of the manuals here - we try to document everything we
   can, but they are always going to be a work in progress.
-- Attend our [community teaching
-  training](https://coderefinery.github.io/community-teaching/) to
+- Attend our [train-the-trainer course](https://coderefinery.github.io/train-the-trainer/) to
   network with others and learn from the experts.

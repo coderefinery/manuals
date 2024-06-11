@@ -45,8 +45,7 @@ to your other tasks, the CodeRefinery (online) teaching can help you
 avoid re-inventing good practices and prepare you for teaching
 together.
 
-Read more: [Community
-teaching training](https://coderefinery.github.io/community-teaching/)
+Read more: <https://coderefinery.github.io/train-the-trainer/>
 
 
 

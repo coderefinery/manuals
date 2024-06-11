@@ -18,14 +18,6 @@ You can see a demo of what livestream co-teaching is like here:
 https://youtu.be/WjmttAniZX8?t=3 (15 min, many different scenes)
 
 
-## How do you get started?
-
-That's what this page is about (well, and the [instructor
-training](https://coderefinery.github.io/instructor-training/)).  We
-believe that you best learn by working with others in practice, and
-provide plenty of opportunities to do that.
-
-
 ## Starting materials
 
 Reading here: the other pages in the section, see sidebar.
@@ -42,7 +34,7 @@ Also read the team leader information
 
 Reading elsewhere:
 * [CodeRefinery instructor
-  training](https://coderefinery.github.io/instructor-training/)
+  training](https://coderefinery.github.io/train-the-trainer/)
 * [Carpentries instructor training](https://carpentries.github.io/instructor-training/)
 
 
