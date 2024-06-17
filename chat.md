@@ -44,9 +44,9 @@ Default channels (everyone joining is automatically subscribed):
 - #jobs : Share open job positions that others here might find interesting too 
 - #greetings : New joiners are recommended to introduce themselves here, so we can welcome you. Other greetings/thanks also welcome! 
 - #coderefinery : CodeRefinery organization: about the team, project, strategy, CodeRefinery Gitlab 
-- #nordic-rse : Nordic Research Software Engineers: members and general discussion about research software.
-- #random : Memes, jokes, animal pictures, whatever makes you smile :) 
-- #general : Ideas, TIL (today I learned), discussions, tech stuff that do not fit any other channel 
+- #nordic-rse : Nordic Research Software Engineers: General discussion about research software and related topics.
+- #random : Memes, jokes, animal pictures, whatever makes you smile or does not fit any other channel :) 
+- #general : Ideas, TIL/W (today I learned/watched), general discussions, tech stuff, ...
 - #help : Community support. Ask questions related to anything about the topics on this chat (CodeRefinery, RSE, scientific software and data, HPC,...) 
 - #lessons :  Discussions about CodeRefinery (and other) lessons. There's usually one topic per lesson and other related things. 
 
@@ -91,8 +91,6 @@ To see all the latest messages in all your channels/topics, use `Combined feed` 
 ### Notifications
 
 You can set separate notifications settings for the full chat, channels and topics. 
-
-TODO: show/tell how to change all options
 
 ### Topic vs private message
 
