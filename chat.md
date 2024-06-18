@@ -39,7 +39,6 @@ for all messages in a certain channel (possibly useful for the announce channels
 
 Default channels (everyone joining is automatically subscribed):
 
-
 - #events : Share information about courses, workshops, seminars or other events; can also be used to look for collaborators
 - #jobs : Share open job positions that others here might find interesting too
 - #greetings : New joiners are recommended to introduce themselves here, so we can welcome you. Other greetings/thanks also welcome!
@@ -49,7 +48,6 @@ Default channels (everyone joining is automatically subscribed):
 - #general : Ideas, TIL/W (today I learned/watched), general discussions, tech stuff, ...
 - #help : Community support. Ask questions related to anything about the topics on this chat (CodeRefinery, RSE, scientific software and data, HPC,...)
 - #lessons :  Discussions about CodeRefinery (and other) lessons. There's usually one topic per lesson and other related things.
-
 
 There are also multiple sub-communities related to a specific event, group, region:
 
@@ -75,6 +73,7 @@ You are very welcome to create new channels, e.g. for regional subgroups, such a
 You can also create topical private channels for groups that significantly
 overlap with our community.  Currently, Zulip admins can't add
 themselves or others to private channels.
+
 
 ## Good practices and tips
 
@@ -104,11 +103,13 @@ Use the search function to search for some relevant keywords before creating a n
 
 To indicate that a topic is resolved, for example because an event happened or a help request got resolved. This does not make the topic vanish but a small checkmark is added to the topic.
 
+
 ## Chat digest
 
 If this chat is not your main "hang-out spot", but you would still like to stay up to date, you can sign up for the CodeRefinery chat digest, providing one e-mail per week with the latest updates from the chat.
 
 [Sign up for the chat digest e-mail list](https://postit.csc.fi/sympa/subscribe/coderefinery-team).
+
 
 ## Clients
 
