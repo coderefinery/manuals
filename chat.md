@@ -87,21 +87,40 @@ To follow up on most recent conversations in chat, use `recent conversations`, w
 
 To see all the latest messages in all your channels/topics, use `Combined feed` view.
 
+**Or read by channel or topic**
+
+Sometimes I see that I have many unread messages when I have been away for a while. Then I like
+to "zoom into" channels and read them by channel and topic. For this I start with the channel
+that I am most interested in. And I can return to the other channels later.
+
+
 ### Notifications
 
-You can set separate notifications settings for the full chat, channels and topics.
+You can set separate notifications settings for the full chat, channels, and topics.
+
 
 ### Topic vs private message
 
-Just want to share something with a small group of people -> Send a private message to multiple people instead of starting a new topic
+Just want to share something with a small group of people -> Send a private message to multiple people instead of starting a new topic.
+
 
 ### Search before creating a new X
 
-Use the search function to search for some relevant keywords before creating a new topic.
+Use the search function to search for some relevant keywords before creating a new topic. But also don't be afraid to create a new topic.
+We recommend the search first because it can nicely connect to a previous discussion and those who participated previously can be notified about
+the new question or comment.
+
 
 ### Mark as resolved
 
 To indicate that a topic is resolved, for example because an event happened or a help request got resolved. This does not make the topic vanish but a small checkmark is added to the topic.
+
+
+### Too many unread messages?
+
+Don't be afraid to mark all messages in a channel or topic as read if you have been away for few days or weeks.
+Sometimes it can be more useful to join the current conversation rather than feeling "guilty" about not having read
+everything that happend in the last weeks or days.
 
 
 ## Chat digest
