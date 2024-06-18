@@ -14,7 +14,7 @@ Nordic projects about scientific computing which share some of the
 same people. Together, we have a network of all aspects of modern
 scientific computing.
 
-Unlike Slack, zulipchat is very heavily threaded, and one can follow along without being active all the time.  Respond within the
+Unlike Slack, Zulipchat is very heavily threaded, and one can follow along without being active all the time.  Respond within the
 topic (=thread) that is relevant, or make a new topic.  Sometimes you
 can find old topics to revive.  
 
@@ -71,7 +71,7 @@ There are also multiple sub-communities related to a specific event, group, regi
 
 New channel announcements will be visible in #general, Zulip updates can be followed in #zulip channel.
 
-You are very welcome to create new channels, eg for regional subgroups, such as #finland. 
+You are very welcome to create new channels, e.g. for regional subgroups, such as #finland. 
 You can also create topical private channels for groups that significantly
 overlap with our community.  Currently, Zulip admins can't add
 themselves or others to private channels.
