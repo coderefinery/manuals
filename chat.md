@@ -120,7 +120,7 @@ To indicate that a topic is resolved, for example because an event happened or a
 
 Don't be afraid to mark all messages in a channel or topic as read if you have been away for few days or weeks.
 Sometimes it can be more useful to join the current conversation rather than feeling "guilty" about not having read
-everything that happend in the last weeks or days.
+everything that happened in the last weeks or days.
 
 
 ## Chat digest
