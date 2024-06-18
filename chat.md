@@ -16,7 +16,7 @@ scientific computing.
 
 Unlike Slack, Zulipchat is very heavily threaded, and one can follow along without being active all the time.  Respond within the
 topic (=thread) that is relevant, or make a new topic.  Sometimes you
-can find old topics to revive.  
+can find old topics to revive.
 
 
 ## Channels
@@ -40,38 +40,38 @@ for all messages in a certain channel (possibly useful for the announce channels
 Default channels (everyone joining is automatically subscribed):
 
 
-- #events : Share information about courses, workshops, seminars or other events; can also be used to look for collaborators 
-- #jobs : Share open job positions that others here might find interesting too 
-- #greetings : New joiners are recommended to introduce themselves here, so we can welcome you. Other greetings/thanks also welcome! 
-- #coderefinery : CodeRefinery organization: about the team, project, strategy, CodeRefinery Gitlab 
+- #events : Share information about courses, workshops, seminars or other events; can also be used to look for collaborators
+- #jobs : Share open job positions that others here might find interesting too
+- #greetings : New joiners are recommended to introduce themselves here, so we can welcome you. Other greetings/thanks also welcome!
+- #coderefinery : CodeRefinery organization: about the team, project, strategy, CodeRefinery Gitlab
 - #nordic-rse : Nordic Research Software Engineers: General discussion about research software and related topics.
-- #random : Memes, jokes, animal pictures, whatever makes you smile or does not fit any other channel :) 
+- #random : Memes, jokes, animal pictures, whatever makes you smile or does not fit any other channel :)
 - #general : Ideas, TIL/W (today I learned/watched), general discussions, tech stuff, ...
-- #help : Community support. Ask questions related to anything about the topics on this chat (CodeRefinery, RSE, scientific software and data, HPC,...) 
-- #lessons :  Discussions about CodeRefinery (and other) lessons. There's usually one topic per lesson and other related things. 
+- #help : Community support. Ask questions related to anything about the topics on this chat (CodeRefinery, RSE, scientific software and data, HPC,...)
+- #lessons :  Discussions about CodeRefinery (and other) lessons. There's usually one topic per lesson and other related things.
 
 
-There are also multiple sub-communities related to a specific event, group, region: 
+There are also multiple sub-communities related to a specific event, group, region:
 
-- #aalto : Aalto University scientific computing community (+friends)                                                                    
-- #aaltoscicomp : Aalto scientific computing support personnel                                                                                  
-- #advent-of-code : For chatting about the advent of code challenges                                                                              
-- #cr-retreat : Temporary private channel for CodeRefinery writing retreat related discussions                                                
-- #finland : Discussion related to activities in Finland (CodeRefinery, RSE, HPC, SciComp, anything else)                                  
-- #hands-on-scicomp : Work on the https://handsonscicomp.readthedocs.io/ training map                                                               
-- #hpc-kickstart : Aalto's twice-a-year kickstart courses (scicomp and HPC). Channel exists because the course is open to anyone and this is the coordination channel.                                                                             
-- #nordic-rse-con_24 : Nordic RSE conference 2024 organization, 30-31 may 2024, Otaniemi, Finland, https://nordic-rse.org/events/2024-in-person-conference/     
-- #python-for-scicomp : Python for SciComp coordination: A big course each autumn, public to the world. We are happy for any help here.               
-- #rshour : Research Software Hour community and coordination. It is a weekly livestream about research software.                         
-- #SWC DLN/ELIXIR/UiB Dlab : a sub-community                                                                                                                    
-- #coderefinery-tools-workshop : Where we organize the "standard" CodeRefinery workshop each spring and autumn.                                   
-- #workflows-course : Real-life cluster computing workflows course, "Tuesday tools and techniques for HPC". A new course started in 2024                    
+- #aalto : Aalto University scientific computing community (+friends)
+- #aaltoscicomp : Aalto scientific computing support personnel
+- #advent-of-code : For chatting about the advent of code challenges
+- #cr-retreat : Temporary private channel for CodeRefinery writing retreat related discussions
+- #finland : Discussion related to activities in Finland (CodeRefinery, RSE, HPC, SciComp, anything else)
+- #hands-on-scicomp : Work on the https://handsonscicomp.readthedocs.io/ training map
+- #hpc-kickstart : Aalto's twice-a-year kickstart courses (scicomp and HPC). Channel exists because the course is open to anyone and this is the coordination channel.
+- #nordic-rse-con_24 : Nordic RSE conference 2024 organization, 30-31 may 2024, Otaniemi, Finland, https://nordic-rse.org/events/2024-in-person-conference/
+- #python-for-scicomp : Python for SciComp coordination: A big course each autumn, public to the world. We are happy for any help here.
+- #rshour : Research Software Hour community and coordination. It is a weekly livestream about research software.
+- #SWC DLN/ELIXIR/UiB Dlab : a sub-community
+- #coderefinery-tools-workshop : Where we organize the "standard" CodeRefinery workshop each spring and autumn.
+- #workflows-course : Real-life cluster computing workflows course, "Tuesday tools and techniques for HPC". A new course started in 2024
 - #hpc : Discussions around HPC in Nordics and beyond
 - #zulip: Zulip notifications and discussions around the chat platform
 
 New channel announcements will be visible in #general, Zulip updates can be followed in #zulip channel.
 
-You are very welcome to create new channels, e.g. for regional subgroups, such as #finland. 
+You are very welcome to create new channels, e.g. for regional subgroups, such as #finland.
 You can also create topical private channels for groups that significantly
 overlap with our community.  Currently, Zulip admins can't add
 themselves or others to private channels.
@@ -90,7 +90,7 @@ To see all the latest messages in all your channels/topics, use `Combined feed` 
 
 ### Notifications
 
-You can set separate notifications settings for the full chat, channels and topics. 
+You can set separate notifications settings for the full chat, channels and topics.
 
 ### Topic vs private message
 
