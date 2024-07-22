@@ -57,21 +57,19 @@ of support and generally can focus on the teaching part.
 ### Expert helper
 
 Expert helpers are generalists who don't have other assigned roles.
-Thanks to HackMD and breakout rooms, they have plenty to do.
 
 * All-around generalist who assists wherever is needed
-* Answers questions in HackMD
-* Supports team leaders in breakout rooms: rotates between
-  breakout rooms and checks how things are going
+* Answers questions in notes document
+* Supports team leaders 
 * Identifies important issues and raises them to the instructors,
   "voice of the audience"
 * More info: {doc}`expert-helpers`
 
 ### Behind the scenes
 
-#### HackMD manager
+#### Notes manager
 
-The HackMD manager closely watches HackMD to keep it organized and by
+The notes manager closely watches notes document to keep it organized and by
 reading it in detail, can serve as the "voice of the audience" to the
 instructors.
 
@@ -80,10 +78,10 @@ instructors.
   * Can raise issues to instructors immediately if needed.
   * In general serves as the instructors' "ear on the ground"
 * Maintenance during the workshop
-  * Copies old information to archive HackMD if too much traffic
+  * Copies old information to archive notes document if too much traffic
   * Organizes sections and questions
   * Notes break and exercise times
-* Processes and archives HackMD after the course.
+* Processes and archives notes after the course.
 * More info: {doc}`hackmd-helper`
 
 #### Host
@@ -185,14 +183,14 @@ Roles that should *not* be combined:
   two together tend to form the "core team")
 * **Broadcaster**/**Director** and **Instructor** on the first sessions of each
   day.
-* **HackMD manager** and other roles (so *delegate* HackMD while you do
+* **Notes manager** and other roles (so *delegate* notes editing while you do
   something else!  this is OK.)
 * **Host** and any active teaching (in big workshops at least -
   learner management keeps you busy)
 
 Other notes:
 
-* **HackMD manager** can rotate between different people.
+* **Notes manager** can rotate between different people on different days.
 * **Expert helpers** can replace **team leaders** if they cannot join the
   full workshop
 * Coordinators delegate
