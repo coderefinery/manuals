@@ -6,7 +6,7 @@ with 300 or more participants but may be useful in organizing other workshops as
 Let's keep this brief and copy-paste-able to HackMD/HedgeDoc for the actual planning.
 
 ---
-# CodeRefinery workshop YYYY-MM-DD
+## CodeRefinery workshop YYYY-MM-DD
 
 [toc]
 
