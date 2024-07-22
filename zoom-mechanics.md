@@ -14,10 +14,6 @@
   * Chat OK for administrative questions.
 * When joining, please use the **name you used to register for the
   course**.
-* In **livestream workshops**, there is nothing in the main room: that
-  is broadcasted via livestream in a separate browser window, and you
-  switch as needed.
-
 
 
 ## Audio/video on or off?
