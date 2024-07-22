@@ -16,7 +16,7 @@ how-to-attend-stream.md
 how-to-attend-online.md
 how-to-attend-inperson.md
 Zoom mechanics and signals <zoom-mechanics.md>
-Hackmd mechanics <hackmd-mechanics.md>
+Notes mechanics <hackmd-mechanics.md>
 ```
 
 ```{toctree}
