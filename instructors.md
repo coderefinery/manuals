@@ -6,7 +6,7 @@ most notably team leaders and other helpers.
 
 This page links guides on various aspects of being an instructor.
 
-Join the `#workshops` stream in the [coderefinery Zulip chat](https://coderefinery.zulipchat.com) and see what workshops are planned.
+Join the `#coderefinery-tools-workshop` and `#events` channel in the [coderefinery Zulip chat](https://coderefinery.zulipchat.com) and see what workshops are planned.
 Below a few things that might be of interest if you want to teach with us:
 
 ```{toctree}
