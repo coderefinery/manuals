@@ -2,6 +2,14 @@
 
 ## Emailing people
 
+```{warning}
+Emailing registrants directly out of Indico risks that emails go into
+spam folders.
+
+Alternative is to export the list of addresses into a CSV file and
+to import the addresses into your institutional email system as BCC.
+```
+
 * Go to registration list
 * Filter people based on who you need
 * Select all (this selects only the visible people; you can confirm

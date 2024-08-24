@@ -8,7 +8,5 @@ routinely use.
 ```{toctree}
 
 setup
-in-person
-online
 hints
 ```
