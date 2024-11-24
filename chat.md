@@ -58,7 +58,7 @@ There are also multiple sub-communities related to a specific event, group, regi
 - #finland : Discussion related to activities in Finland (CodeRefinery, RSE, HPC, SciComp, anything else)
 - #hands-on-scicomp : Work on the https://handsonscicomp.readthedocs.io/ training map
 - #hpc-kickstart : Aalto's twice-a-year kickstart courses (scicomp and HPC). Channel exists because the course is open to anyone and this is the coordination channel.
-- #nordic-rse-con_24 : Nordic RSE conference 2024 organization, 30-31 may 2024, Otaniemi, Finland, https://nordic-rse.org/events/2024-in-person-conference/
+- #nordic-rse-2025 : Nordic RSE conference 2025 organization
 - #python-for-scicomp : Python for SciComp coordination: A big course each autumn, public to the world. We are happy for any help here.
 - #rshour : Research Software Hour community and coordination. It is a weekly livestream about research software.
 - #SWC DLN/ELIXIR/UiB Dlab : a sub-community

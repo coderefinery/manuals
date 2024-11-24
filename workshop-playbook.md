@@ -140,7 +140,7 @@ their responsibilities are followed-up and not forgotten.
       - Remember to add all the emails to workshop page
   - [ ] Open the registration 
 - **Every day:**
-  - Check [support email (Freshdesk)](https://coderefinery.zulipchat.com/#narrow/stream/215460-coderefinery/topic/freshdesk.20procedures) for requests/questions
+  - Check support email (Freshdesk) for requests/questions
 - **Every week:**
   - Check registrations for problems and read notes to organizers
     - Identify if need to do something – basically, "playing" with the registration data to not forget anybody and not to forget follow-up
@@ -248,11 +248,11 @@ their responsibilities are followed-up and not forgotten.
   - https://coderefinery.github.io/2023-03-21-workshop/communication/
   - https://github.com/coderefinery/2023-03-21-workshop/tree/main/content/communication
 - [ ] CodeRefinery Twitter
-  - https://coderefinery.zulipchat.com/#narrow/stream/119815-general/topic/tweet-toot-suggestions
+  - https://coderefinery.zulipchat.com/#narrow/channel/215460-coderefinery/topic/social.20media.20suggestions
 - [ ] CodeRefinery Mastodon
-  - https://coderefinery.zulipchat.com/#narrow/stream/119815-general/topic/tweet-toot-suggestions
+  - https://coderefinery.zulipchat.com/#narrow/channel/215460-coderefinery/topic/social.20media.20suggestions
 - [ ] CodeRefinery LinkedIn
-  - https://www.linkedin.com/events/coderefineryworkshopmarch21-23a7031623728480272384/comments/
+  - https://coderefinery.zulipchat.com/#narrow/channel/215460-coderefinery/topic/social.20media.20suggestions
 - [ ] CHCAA LinkedIn (Aarhus University)
 - [ ] Partner Twitter, retweet and own tweets
   - [ ] Aalto Scientific Computing

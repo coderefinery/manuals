@@ -25,7 +25,7 @@ As soon as meeting topic/time is decided
 * [Mailing list: not yet present, we are relying on the other options
   here.]
 
-* Make a post in #announce.  Don't be shy, just do it.
+* Make a post in #events channel.  Don't be shy, just do it.
   ``<time:``\ TAB will produce a time picker that adjusts for
   everyone's timezones.
 
@@ -35,7 +35,7 @@ As soon as meeting topic/time is decided
      include [a few highlights to let people know who should attend].
 
      HackMD (including connection details): <link>
-     More info: #[stream-name]
+     More info: #[channel-name]
 
      If you want a calendar invite, send [me] a private message (or
      react with :email: quickly if I know your email already).
@@ -79,7 +79,7 @@ As soon as meeting topic/time is decided
 
 Days before the meeting
 ------------------------
-* Send reminders to the #announcements streams.  You can find the old
+* Send reminders to the #events channel.  You can find the old
   topic and reply to it, quoting the whole text.
 
 
