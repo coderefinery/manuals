@@ -23,4 +23,5 @@ What we can offer:
 - Weekly community news
 - Support for organizing local events or other activities
 
-Join the [ambassador chat topic in our Zulip chat](https://coderefinery.zulipchat.com/#narrow/stream/119815-general/topic/CodeRefinery.20Ambassador) (#general > CodeRefinery Ambassador).
+Join the [ambassador chat stream in our Zulip chat](https://coderefinery.zulipchat.com/#narrow/channel/215460-coderefinery/topic/CodeRefinery.20ambassador.20program)
+(#coderefinery > CodeRefinery ambassador program).

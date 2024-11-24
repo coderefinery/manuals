@@ -25,7 +25,7 @@ Without you, these large online workshops would not be possible.
   - If idle, check the collaborative document for open questions and try to answer them
 
 If you have questions before the workshop, write to <support@coderefinery.org> or you can join the
-{doc}`CodeRefinery chat <chat>` (we recommend the `#tools-workshop` stream,
+{doc}`CodeRefinery chat <chat>` (we recommend the `#coderefinery-tools-workshop` channel,
 and if you can't find it then `#general` is good).
 
 If you have fun being a team leader for the workshop, please visit our
@@ -274,7 +274,7 @@ can always come back to exercises later, or let learners do them as homework.
 
 * Send us an email to <support@coderefinery.org>
 * If you want to, sign up for our [Zulip chat](https://coderefinery.zulipchat.com) to ask us anything, anytime. Use
-  `#tools-workshop` during the workshop itself (you need to join the stream, it is not default for new chat members).
+  `#coderefinery-tools-workshop` during the workshop itself (you need to join the stream, it is not default for new chat members).
 * During the workshop, please use the collaborative document.
 
 
