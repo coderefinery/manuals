@@ -1,3 +1,5 @@
+(instructor)=
+
 # Instructors
 
 Instructors are the ones who "lecture" in the workshops - but of

@@ -25,7 +25,7 @@ CodeRefinery is a training network around FAIR research software development. We
 
 - Mastodon: [https://fosstodon.org/@coderefinery](https://fosstodon.org/@coderefinery)
 - LinkedIn: [https://www.linkedin.com/company/coderefinery-research-software-development/](https://www.linkedin.com/company/coderefinery-research-software-development/)
-- X/Twitter: [https://x.com/@coderefine](https://x.com/@coderefine)
+- BlueSky: [https://bsky.app/profile/coderefinery.org](https://bsky.app/profile/coderefinery.org)
 - Blog: [https://coderefinery.org/blog/](https://coderefinery.org/blog/)
 
 ### Collections
@@ -36,8 +36,8 @@ CodeRefinery is a training network around FAIR research software development. We
 - Presentations: 
     - All: [https://coderefinery.org/about/presentations/](https://coderefinery.org/about/presentations/)
     - Public with DOI: [https://zenodo.org/communities/coderefinery](https://zenodo.org/communities/coderefinery)
-    - Source: [https://github.com/coderefinery/presentations](https://github.com/coderefinery/presentations)
-- Reports, proposals, abstracts: [https://github.com/coderefinery/reports-and-proposals](https://github.com/coderefinery/reports-and-proposals)
+    - Source and abstracts: [https://github.com/coderefinery/presentations](https://github.com/coderefinery/presentations)
+- Project reports and proposals [https://github.com/coderefinery/reports-and-proposals](https://github.com/coderefinery/reports-and-proposals)
 
 ## Become an instructor
 
@@ -60,3 +60,63 @@ figwidth: 100%
 As a thank you we can add your organizations logo to the workshop page. 
 
 Please contact: support@coderefinery.org
+
+## Find what you need
+
+````{grid} 2
+:gutter: 1
+
+```{grid-item-card} I want to support outreach of the project
+  :class-card: sd-border-1 sd-animate-grow100
+
+  {octicon}`stopwatch;2em;sd-text-info` Minimal
+
+  Become a CodeRefinery ambassador!
+
+  - {ref}`ambassador`
+  
+  Help us to spread the word, give us feedback and get in touch with others doing similar things!
+```
+
+```{grid-item-card} I would like to teach with CodeRefinery!
+  :class-card: sd-border-5 sd-animate-grow100
+
+  {octicon}`stopwatch;2em;sd-text-info` During workshop times
+
+  Become an instructor! 
+  
+  - {ref}`instructor`
+
+  Help us make the live workshops an educational experience for our learners!
+
+```
+
+```{grid-item-card} I would like to contribute to lesson materials!
+  :class-card: sd-border-1 sd-animate-grow100
+
+  {octicon}`stopwatch;2em;sd-text-info` Whatever you got
+
+  Become a contributor!
+  
+  - {ref}`contribute`
+
+  Help us make the lesson material more clear, expand on examples, add exercises or new sections!
+
+```
+
+```{grid-item-card} I would like to join everything you do!
+  :class-card: sd-border-1 sd-animate-grow100
+
+  {octicon}`stopwatch;2em;sd-text-info` Minimum 10-20% of worktime
+
+  Become a member of the project!
+
+  If your organization is in the Nordics, you can become a partner in the project. 
+  If your organziation is outside the Nordics, you can become an observer in the project. 
+
+  - Read about the [benefits for partner organizations](https://github.com/coderefinery/reports-and-proposals/blob/main/phase-4-proposal/info_for_new_organizations.md)
+
+
+```
+
+````
