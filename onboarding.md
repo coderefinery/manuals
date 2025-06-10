@@ -82,22 +82,23 @@ Please contact: support@coderefinery.org
 ````{grid} 2
 :gutter: 1
 
-```{grid-item-card} I want to support outreach of the project
+```{grid-item-card} I want to support my local community join a CodeRefinery workshop!
   :class-card: sd-border-1 sd-animate-grow100
 
   {octicon}`stopwatch;2em;sd-text-info` Minimal
 
-  Become a CodeRefinery ambassador!
+  Become a local classroom host or bring your own team to a workshop!
 
-  - {ref}`ambassador`
+  - {ref}`local-breakout-rooms`
   
-  Help us to spread the word, give us feedback and get in touch with others doing similar things!
+  Provide a more personal learning experience to your local community
+
 ```
 
 ```{grid-item-card} I would like to teach with CodeRefinery!
   :class-card: sd-border-5 sd-animate-grow100
 
-  {octicon}`stopwatch;2em;sd-text-info` During workshop times
+  {octicon}`stopwatch;2em;sd-text-info` During workshop times + preparation 
 
   Become an instructor! 
   
@@ -134,3 +135,5 @@ Please contact: support@coderefinery.org
 
 ```
 ````
+
+If none of above fit your profile or time, you can also support the project by helping us to spread the word, give us feedback and get in touch with others doing similar things! -> Become a CodeRefinery ambassador ({ref}`ambassador`)!
