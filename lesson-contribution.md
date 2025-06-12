@@ -32,6 +32,6 @@ Some more hints and explanations can be found in our [Sphinx-lesson contribution
 
 Preview lesson page by building it locally using Sphinx, see also [Sphinx-lesson build](https://coderefinery.github.io/sphinx-lesson/building/).
 
-## Creating a CodeRefinery lesson
+## Creating a new CodeRefinery lesson
 
 We have a self-explaining [Sphinx-lesson](https://coderefinery.github.io/sphinx-lesson/). 
