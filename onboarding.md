@@ -67,7 +67,7 @@ Read about the [benefits for partner organizations](https://github.com/coderefin
 ## Team responsibilities
 
 According to project plan: Engagement in project activities. 
-It is up to you, which activities you would like to join. Individuals time is not tracked. But organizations are tracked, if original person month promise has been fulfilled. 
+It is up to you, which activities you would like to join. Please let the project manager know if you are unavailable for multiple weeks/months. 
 
 ## CodeRefinery activities you may want to join
 
