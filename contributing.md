@@ -75,6 +75,11 @@ Soon, you will wonder why you ever bothered teaching alone.
 
 Read more: {doc}`open-your-courses`
 
+## Lesson contribution
+
+All our lessons are hosted on GitHub. You can find the link to the GitHub repositories from the respective lesson page ([lesson links on our webpage](https://coderefinery.org/lessons/#lessons-that-we-teach-in-our-tools-workshops)) on the top right corner -> "Edit on GitHub". 
+
+Please refer to our lesson contribution page for guides and support: {ref}`contribute` .
 
 
 ## Other types of contributions

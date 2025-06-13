@@ -1,3 +1,5 @@
+(design)=
+
 # Lesson design
 
 This is a checklist and hints when writing and designing a new lesson.

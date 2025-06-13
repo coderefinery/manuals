@@ -50,11 +50,12 @@ online-training
 ```
 
 ```{toctree}
-:caption: Lesson design
+:caption: Lesson contribution
 :maxdepth: 1
 
 Lesson design tutorial and reference <lesson-design.md>
 Lesson review checklist <lesson-review.md>
+Lesson contribution guide <lesson-contribution.md>
 ```
 
 ```{toctree}

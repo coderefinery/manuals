@@ -1,3 +1,5 @@
+(ambassador)=
+
 # Ambassadors
 
 Do you like what we do and would like to help spread the word to your community?
