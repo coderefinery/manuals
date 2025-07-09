@@ -193,7 +193,7 @@ Before each day
     * attendee hackmd: 
     * notes hackmd: 
     * live preview: 
-    * control panel: http://rkd.zgib.net/obs-tablet-remote/#!auto&host=HOST&port=PORT&password=PASSWORD&config=https://raw.githubusercontent.com/coderefinery/obs-config/master/obs-tablet-remote-config.json
+    * control panel:
 
 
 Before each broadcast

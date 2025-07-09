@@ -19,7 +19,7 @@ helper/Instructor) → (More specialized roles).  **Note that thanks to
 our {doc}`team teaching or "co-teaching" <team-teaching>`, it is really easy to join as
 an instructor!**
 
-You can also find the common tasks in checklist-format under each roles section in the {doc}`Workshop playbook <workshop-playbook>`.
+You can also find the common tasks in checklist-format under each roles section in the {doc}`Workshop playbook <workshop-checklist>`.
 
 ## Workshop roles
 
@@ -84,7 +84,7 @@ instructors.
   * Organizes sections and questions
   * Notes break and exercise times
 * Processes and archives notes after the course.
-* More info: {doc}`hackmd-helper`
+* More info: {doc}`notes-manager`
 
 #### Host
 
@@ -149,7 +149,7 @@ Oversees registration and generally everything on the participant side.
 #### Outreach and marketing coordinator
 
 * Makes sure workshop gets advertised in different places
-* You can find a list of commonly advertised places in the bottom of the {doc}`workshop-playbook`.
+* You can find a list of commonly advertised places in the bottom of the {doc}`workshop-checklist`.
 
 ### Team leader / Exercise coordinator
 

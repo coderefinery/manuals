@@ -1,6 +1,11 @@
-# Host
+# Zoom Host
 
-WARNING: page out of date, this is also split to the director.
+This role exists in Zoom workshops, where there is one person in
+charge of managing Zoom.  It is most important when there are teams in
+breakout rooms - those teams take a lot of time to manage.
+
+WARNING: page out of date, Zoom has been improved so that all co-hosts
+can do many things on this page.
 
 - Make all of other staff and expert helpers co-hosts.
 - Take attendance in spreadsheet, if we do that.
@@ -36,9 +41,9 @@ intend for workshop recordings to be useful to new people learning
 later, but they could be.
 
 - Record the workshop or give permission for others to record.
-  - If you are recording, you can't leave and go to other rooms.
+  - If you are recording, you can't go to other breakout rooms.
   - Perhaps a separate computer could record?
-- spotlight speaker
+- Spotlight the current speaker
 - dual monitor mode?
 - ensure that screen is always being shared?
 - stay in speaker view (not gallery view)
@@ -49,6 +54,9 @@ later, but they could be.
 
 
 ## Streaming
+
+(Zoom provided a way to do streaming directly from it, but we don't
+use it anymore.)
 
 All of the steps needed to record mean that you can stream, too.  In
 fact, you could look at streaming as a side-effect of recording (or a

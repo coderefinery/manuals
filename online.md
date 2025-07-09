@@ -67,7 +67,7 @@ Key aspects:
 * Be explicit on how to attend.  Plan for not only attention during
   the course but something that has a lasting usefulness.
 * Possibly use HackMD for discussions/questions
-  ({doc}`hackmd-mechanics`, {doc}`hackmd-helper`, need new info)
+  ({doc}`hackmd-mechanics`, {doc}`notes-manager`, need new info)
 
 
 ### (2a) Group teaching, in a meeting

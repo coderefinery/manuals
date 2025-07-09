@@ -1,13 +1,15 @@
 # Expert helpers
 
-We mainly have expert helpers for large workshops.
+We mainly have expert helpers for large workshops that have teams.
+Each team has a team leader, and "expert helper" is the name for a
+staff person who goes between rooms helping the team leaders.
 
 * As an expert helper, your main job is to move between different
   groups and make sure that groups are doing well.
 
 * You might be summoned to a group whose helper needs extra help, or
   take the place of a helper if a group doesn't have one.
-  * Watch HackMD/Zulip for this, though requests might come in from
+  * Watch Notes/Zulip for this, though requests might come in from
     other channels, too.
 
 * No one is expected to know everything, but an expert helper should be
@@ -20,7 +22,7 @@ We mainly have expert helpers for large workshops.
     then you can swap to any other room.
 
 * Report an overview of the pulse of the breakout rooms in zulipchat
-  (or hackmd).  Is everyone behind?  People finishing early?  Big
+  (or Notes).  Is everyone behind?  People finishing early?  Big
   differences between them?  Questions which we should bring up in the
   main room?
 
@@ -56,7 +58,7 @@ difficult problem.
   join and catch up with the same rooms (this promotes familiarity).
     - E.g. A rotates between rooms 1-3, B gets rooms 4-7, C gets rooms
       8-11.
-- **Make sure to watch the HackMD for expert helper requests**, this could help
+- **Make sure to watch the Notes for expert helper requests**, this could help
   you decide which room to jump to next.  Comment when you are heading
   there.
 
@@ -66,7 +68,7 @@ Concrete example for an expert helper's time:
   a minute since I am not needed (if there is a good break, I'll ask
   "everything OK?  good, see you around.").  If there are questions
   that I can help with, I answer them.  If they seem to be struggling,
-  then I will make a note in the HackMD and stay a while longer and
+  then I will make a note in the Notes and stay a while longer and
   watch/help.
 
 
@@ -89,5 +91,5 @@ Concrete example for an expert helper's time:
 Other reference:
 
 * {doc}`team-leaders`: important reference
-* {doc}`hackmd-helper`: You may spend a lot of time watching hackmd.
+* {doc}`notes-manager`: You may spend a lot of time watching the Notes.
 

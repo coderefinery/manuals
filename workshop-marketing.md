@@ -12,4 +12,4 @@ Some thoughts on target groups that should be tried to be reached:
 - Potential instructors (teach, etc.)
 - High-level management (provide us funding)
 
-You can find a list of commonly advertised places in the bottom of the {doc}`workshop-playbook`.
+You can find a list of commonly advertised places in the bottom of the {doc}`workshop-checklist`.

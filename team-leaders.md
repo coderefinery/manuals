@@ -1,4 +1,4 @@
-# Team leaders / Helpers / Exercise leaders
+# Team leaders (Helpers, Exercise leaders)
 
 ```{admonition} We use this page during team leader onboarding.
 

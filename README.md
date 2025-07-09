@@ -20,14 +20,13 @@ Notes mechanics <hackmd-mechanics.md>
 ```
 
 ```{toctree}
-:caption: Workshop playbook
+:caption: Workshop roles
 :maxdepth: 1
 
 roles-overview
 team-leaders
 instructors
-co-instructors
-hackmd-helper
+notes-manager
 expert-helpers
 host
 registration-coordinator
@@ -37,25 +36,45 @@ director
 broadcaster
 video-editor
 workshop-organizers
-workshop-playbook
 ```
 
 ```{toctree}
-:caption: Online teaching
+:caption: Instructor tools and practices
 :maxdepth: 1
+
+instructor-intro
+instructor-stream
+livestream-teaching
+team-teaching
+Lesson presentation hints/checklist <presenting.md>
+instructor-tech-setup
+instructor-tech-online
 online
 coderefinery-mooc
-obs
-online-training
 ```
 
 ```{toctree}
-:caption: Lesson contribution
+:caption: Lesson development
 :maxdepth: 1
 
 Lesson design tutorial and reference <lesson-design.md>
 Lesson review checklist <lesson-review.md>
 Lesson contribution guide <lesson-contribution.md>
+```
+
+```{toctree}
+:caption: Other tools and practices
+:maxdepth: 1
+
+obs
+workshop-checklist
+Workshop basic requirements checklist (in person) <workshop-requirements-inperson.md>
+Workshop administration (reference) <workshop-administration.md>
+indico/index
+Icebreaker question ideas <icebreakers.md>
+video-checking
+video-editing
+online-training
 ```
 
 ```{toctree}
@@ -66,7 +85,6 @@ Writing technical docs <tech-docs.md>
 meeting-checklist
 workshop-prep-call
 Summary of the book "Teaching Teach Together" <teaching-tech-together.md>
-
 ```
 
 ```{toctree}

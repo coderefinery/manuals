@@ -1,4 +1,6 @@
-# Co-instructors
+:orphan:
+
+# OLD: Co-instructors
 
 Since we focus on {doc}`team-teaching`, almost everyone is a
 co-instructor.  But this page is focused on *onboarding new
@@ -49,41 +51,6 @@ typing during the demonstrations.  So, for example:
 During other times, the demo-giver and guide ask each other questions
 when the other is talking.
 
-
-
-## Preparing for your first time
-
-```{figure} img/screenshare/s10-kickstart-prompt-log.png
----
-align: right
-figwidth: 50%
----
-
-An example of a beautiful screenshare.  Note the portrait orientation
-(you have half the screen free for notes and HackMD, learners have
-half the screen free to do their own work).  The terminal is
-dark-on-light, a minimal prompt, no other fancy shell distractions,
-there is a shell history visible, and slightly distinct colors between
-the web browser and the terminal.
-```
-
-- There is some generic technical setup for your own computer - make a
-  clean environment that matches learners, make a good prompt, and so
-  on.  See {doc}`instructor-tech-setup` and
-  {doc}`instructor-tech-online`.
-- Watch the [Demo of CodeRefinery livestream teaching
-  ](https://www.youtube.com/watch?v=WjmttAniZX8) (read the
-  description for an explanation).
-- Talk and plan with your co-instructors: decide which model of
-  co-teaching you will give.
-- Plan the material, try to go through all of the exercises and
-  type-along.
-- Do a run-through of the lesson, practicing what each person says.
-  This can be relatively quick (remember, most of the time in an
-  actual lesson is learners doing exercises alone).
-
-  - Also check the technical setup - make sure that it looks good on
-    screen.
 
 
 

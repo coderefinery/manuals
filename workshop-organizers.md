@@ -6,13 +6,9 @@ If you want to help 'in the background', join the `#workshops` and
 chat](https://coderefinery.zulipchat.com) and see what is planned.
 There is a lot of roles to fill already before the actual workshop, as well as after:
 
-```{toctree}
-:maxdepth: 1
+## See also
 
-Workshop basic requirements checklist (in person) <workshop-requirements-inperson.md>
-Workshop administration (reference) <workshop-administration.md>
-indico/index
-Icebreaker question ideas <icebreakers.md>
-video-checking
-video-editing
+* {doc}`Workshop basic requirements checklist (in person) <workshop-requirements-inperson>`
+* {doc}`Workshop administration (reference) <workshop-administration>`
+* {doc}`indico/index`
 ```

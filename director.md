@@ -6,13 +6,14 @@ courses, the director also manages the stream scene/audio selection.
 
 
 * Gives introductions and wrap-ups (to the days, sessions, and
-  instructors), or at least ensures they happen.
+  instructors), or at least ensures someone does them.
+  * Ensures the learenrs know all they need to know to take part.
 * Ensures good flow of the course overall
   * Is aware enough of the schedule so that they can decisively adjust
     it when needed.
   * Keeps time, ensures breaks
-  * Actively discusses with the instructors about these practical
-    arrangements (e.g. negotiating best break times)
+  * Actively discusses with and preps the instructors about these
+    practical arrangements (e.g. negotiating best break times)
 * (livestreaming) Flips the livestream scenes when necessary, cues
   instructors.
 
@@ -57,7 +58,7 @@ So, for example:
 - Start the course on the "title card"
 - Switch to gallery view for introduction
 - Switch to screenshare (and adjust PiP size) during teaching
-- Share HackMD during the break and then make PiP size zero
+- Share Notes during the break and then make PiP size zero
 - Repeat for next courses.
 
 The available controls include:
@@ -68,10 +69,13 @@ The available controls include:
     should not normally be adjusted.
 
 - Scene selection: there is a button to select among these scenes
-  - "Title card": graphics used before learners arrive
+  - "Title": graphics used before learners arrive
   - "Gallery": instructors
-  - "Screenshare": capture of the Zoom screenshare
-  - "Hackmd": just what it says
+  - "SS portrait": capture of a portrait
+  - "SS crop": capture of a landscape screenshare, but crop only a
+    portrait view out of it.
+  - "SS landscape": shrink a full landscape screenshare down to share it.
+  - "Notes": just what it says
 
 ```{sidebar} PiP example
 
@@ -88,20 +92,13 @@ overlaid on the HackMD screenshare.
       the Zoom display.
 
 
-## OBS remote control via obs-tablet-remote
+## OBS remote control
 
 The broadcaster will provide you with a URL to go to the remote
 control.  TODO: picture
 
-This is an example (note: it won't work, because you don't have OBS running):
-
-- coderefinery.github.io/obs-tablet-remote/#!auto&host=HOST&port=4444&password=PASSWORD&config=https://raw.githubusercontent.com/coderefinery/obs-config/master/obs-tablet-remote-config.json
-
-
-Go to this URL.  It will prompt you for a password (or the broadcaster
-might add the password to the URL already).  The OBS remote control
-will open with a pre-arranged configuration for your course, with
-buttons corresponding to the controls you see above.
+Go to the URL.  It will allow you to adjust the stream.  Getting
+trained to do this is not documented here yet.
 
 
 
