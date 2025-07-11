@@ -1,41 +1,4 @@
-# Instructor technical setup
-
-```{seealso}
-* {doc}`instructor-tech-online` for screen sharing layouts.
-```
-
-```{admonition} Final checklist
-- Have you moved your configurations away and done the course setup
-  instead (or left it unconfigured)?: `.bashrc` (or equivalent),
-  `.gitconfig`, `.ssh`, `.conda`, etc.
-- Are you using a software environment as described in the workshop
-  instructions (conda, virtualenv, etc).  Is it clean and without
-  extra stuff installed?
-- Is your setup as boring-looking as possible, if you are teaching at
-  the beginning of the workshop?  The first sessions aren't the time
-  for distractions.
-- Is your terminal
-  - Dark text on light background? (if not: create a profile so you
-    can switch now or in the future)
-  - Do you know key-bindings to change the font size quickly?
-- Do you have command history set up?  If in doubt, use
-  [prompt-log](https://github.com/rkdarst/prompt-log/) and `tail` the
-  output in a separate smaller window.
-- Do you have a clean web browser session (different profile for
-  demos)?
-- If you use an advanced shell, do you have a simpler shell (bash) set
-  up for the demos?
-- (if online) have you practiced Zoom screensharing "Share a portion
-  of the screen" in portrait-mode?  See
-  {doc}`instructor-tech-online`.
-- (if online) have you checked your audio settings?  Join a test
-  meeting with someone and understand your microphone sound
-  adjustments.  Can you control it for the full range from very quiet
-  to very loud, so that you can make whatever adjustments needed?  Is
-  your best microphone/headset ready? *Audio quality and balance is
-  critical.*
-- Have you shown your setup to someone else for feedback?
-```
+# Instructor computer setup
 
 Appearance matters.  When you look at other professionally made videos
 online, they look good.  As a presenter, you also need to work to make
@@ -62,14 +25,6 @@ what is extra.
 
 
 
-## Check with someone before you start teaching
-
-**Most importantly, get your setup done well in advance and show your
-co-teachers for feedback.  Feedback and time to improve is very
-important to make things beautiful.**
-
-
-
 ## Clean your environment
 
 Do you have fancy ``.bashrc``, ``.gitconfig``, etc files?  Move them
@@ -91,14 +46,14 @@ Relevant files that are sometimes a problem:
 
 ## Arrange your windows well
 
-This is mostly the topic of {doc}`instructor-tech-online` (our
+This is mostly the topic of {doc}`instructor-screenshare` (our
 recommendations for in-person window arrangements aren't so
 up-to-date, but the same principles apply but you have a widescreen
 view).
 
 - For online teaching, you will want to screenshare a portion of your
   screen: half the screen in "portrait mode" so that the other half is
-  available.  See {doc}`instructor-tech-online`.
+  available.  See {doc}`instructor-screenshare`.
 
 
 
@@ -226,91 +181,3 @@ windows and colors of the prompt and text.  The history is smaller and
 doesn't take up primary working space.  The working directory is
 in the window titlebar.
 ```
-
-
-
-``````{admonition} Other command line history tools
----
-class: dropdown
----
-
-We used to recommend these, and some are still recommended.  But, the
-long text is a distraction by now, so it is hidden by default.
-
-Also check the [shell exporter by
-sabryr](https://github.com/Sabryr/Teaching-aids), which copies recent
-history to a remote server.
-
-**Simple**: The simple way is `PROMPT_COMMAND="history -a"` and then
-`tail -f -n0 ~/.bash_history`, but this doesn't capture ssh,
-subshells, and only shows the command after it is completed.
-
-**Better yet still simple**: Many Software Carpentry instructors use
-[this script](https://github.com/rgaiacs/swc-shell-split-window),
-which sets the prompt, splits the terminal window using tmux and displays command history
-in the upper panel. Requirement: [tmux](https://github.com/tmux/tmux/wiki)
-
-**Better (bash)**: This prints the output before the command is run,
-instead of after.  Tail with `tail -f ~/demos.out`.
-
-```
-BASH_LOG=~/demos.out
-bash_log_commands () {
-    # https://superuser.com/questions/175799
-    [ -n "$COMP_LINE" ] && return  # do nothing if completing
-    [[ "$PROMPT_COMMAND" =~ "$BASH_COMMAND" ]] && return # don't cause a preexec for $PROMPT_COMMAND
-    local this_command=`HISTTIMEFORMAT= history 1 | sed -e "s/^[ ]*[0-9]*[ ]*//"`;
-    echo "$this_command" >> "$BASH_LOG"
-}
-trap 'bash_log_commands' DEBUG
-```
-
-**Better (zsh)**: This works like above, with zsh.  Tail with `tail -f
-~/demos.out`.
-
-```
-preexec() { echo $1 >> ~/demos.out }
-```
-
-**Better (fish)**: This works like above, but for fish.  Tail with
-`tail -f ~/demos.out`.
-
-```
-function cmd_log --on-event fish_preexec ; echo "$argv" >> ~/demos.out  ; end
-```
-
-**Better (tmuxp)**: This will save some typing. [TmuxP](https://tmuxp.git-pull.com/) is a Python program (`pip install tmuxp`) that gives you programmable `tmux` sessions. One configuration that works (in this case for `fish` shell):
-
-```yaml
-session_name: demo
-windows:
-  - window_name: demo
-    layout: main-horizontal
-    options:
-      main-pane-height: 7
-    panes:
-      - shell_command:
-          - touch /tmp/demo.history
-          - tail -f /tmp/demo.history
-      - shell_command:
-          - function cmd_log --on-event fish_preexec ; echo "$argv" >> /tmp/demo.history  ; end
-```
-
-**Windows PowerShell**: In [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/),
-a split can be made by pressing `CTRL+SHIFT+=`. Then, in one of the splits, the following
-PowerShell command will start tracking the shell history:
-```
-Get-Content (Get-PSReadlineOption).HistorySavePath -Wait
-```
-Unfortunately, this only shows commands after they have been executed.
-
-
-```
-# used for the fish shell (note: untested)
-tail -f -n 0 ~/fish_history | sed -u -e s'/- cmd:/ \>/'
-
-# used for zsh shell (put this into a script file)
-clear >$(tty)
-tail -n 0 -f ~/.zsh_history | awk -F\; 'NF!=1{printf("\n%s",$NF)}NF==1{printf("n %s ",$1)}'
-```
-``````

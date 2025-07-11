@@ -43,23 +43,25 @@ workshop-organizers
 :maxdepth: 1
 
 instructor-intro
+instructor-checklist
+instructor-computer
+instructor-screenshare
+instructor-audio
+team-teaching
+presenting
+presenting-inperson
+
 instructor-stream
 livestream-teaching
-team-teaching
-Lesson presentation hints/checklist <presenting.md>
-instructor-tech-setup
-instructor-tech-online
-online
-coderefinery-mooc
 ```
 
 ```{toctree}
 :caption: Lesson development
 :maxdepth: 1
 
-Lesson design tutorial and reference <lesson-design.md>
-Lesson review checklist <lesson-review.md>
-Lesson contribution guide <lesson-contribution.md>
+lesson-design
+lesson-review
+lesson-contribution
 ```
 
 ```{toctree}
@@ -81,6 +83,8 @@ online-training
 :caption: Misc
 :maxdepth: 1
 
+online
+coderefinery-mooc
 Writing technical docs <tech-docs.md>
 meeting-checklist
 workshop-prep-call

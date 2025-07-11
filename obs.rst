@@ -368,7 +368,7 @@ the gear icon in the audio area) you have several more options.
 Audio configuration is a big deal.  You can look at these other
 guides:
 
-* :doc:`instructor-tech-online`
+* :doc:`instructor-audio`
 * ???
 
 High-quality audio is quite important.  I've spent far too long

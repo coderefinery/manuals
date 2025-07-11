@@ -11,7 +11,7 @@ When it works well, it makes a lecture much more dynamic and
 engaging, and reduces the load for each person to plan everything
 because you can rely on two minds to do it live.
 The difficulty is that you need to coordinate and it is our nature to
-keep talking while teaching, making a conversation difficult.
+fill all silences, instead of yielding to make a conversation.
 
 .. seealso::
 
@@ -33,23 +33,26 @@ Basics
    is typing and giving the small point of view, and one is explaining
    the big point of view.
 
-
-We can't claim to know the best way to do this yet, but we have seen ways
-that work and don't work.
+The general idea is that you want to make your teaching event a
+conversation.  Pay attention to news broadcasts, game streams,
+podcasts, etc. to see this in action: it makes things much more
+interesting to listen to.  Usually, they try to do this by having two
+different roles that complement each other.
 
 The basic idea is that you want to keep a constant *conversation*
 going.  This can be a mutual discussion, one person explaining big
 concepts and one the details, one person asking
 questions and the other answering, or some other combination.  *This
-is different that two people teaching different sections.*
+is not simply two people taking turns in different sections.*
 
-There is less need for the instructors to prepare every single thing,
-since you can rely
-on the wisdom of the group to get you through areas you haven't
-perfectly prepared.  In fact, this is good, because then your learners will
-see things go slightly wrong and your live debugging.
-Still it can be useful to agree with your co-instructor on the choreography
-of your session (more about this below).
+With team teaching, there is less need for the instructors to prepare
+every single thing perfectly, since you can rely on two brains to get
+you through areas you haven't perfectly prepared.  In fact, this is
+good, because then your learners will see things go slightly wrong and
+your live debugging (it will look like you wanted something to go wrong to teach it).
+
+Still, you want to agree on a plan in advance, and know what the roles
+will be.
 
 .. pull-quote::
 
@@ -62,21 +65,36 @@ of your session (more about this below).
    Shiphandler's Guide, p. 8. Mark B. Templeton, via `wikipedia <https://en.wikipedia.org/wiki/Conn_(nautical)>`__
 
 As the quote says, in any large enough operation, multiple people are
-involved, but responsibilities should be clear.  At least, the team
-should know who is pushing things forward (even if, to make it seem
-live, they still discuss among each other anyway).
+involved, but responsibilities should be clear.  At least, one person
+should have the responsibilty for time-keeping and overall flow.  This
+should be integrated into your co-teaching plan.
 
-We propose two basic models, but of course there is a constant
-continuum.
-And in either model it can be good to switch roles every 20-30 minutes.
+We propose some basic models, but of course there is a continuum.  And
+you can (+should) switch up models, or roles within the model, in
+different sections.
+
+.. admonition:: Example of a teaching plan
+
+   R and S usually teach a HPC tutorial each year via co-teaching.  The
+   general plan is:
+   
+   * Day 1: "talker and typer" format.  R is the talker (primary) and
+     S is the typer (secondary).  R goes through the main points and
+     tells S what to do in the demos.  S pretends to be learning and
+     doesn't do anything until told.
+   * Day 2: swap roles but otherwise like day 1
+   * Day 1 and 2, sections without exercises (for example, "what is
+     slurm?"): "interviewer and expert" format.  Switch primary to
+     "interviewer" and secondary to "expert", and the primary
+     "interviews" the expert to explain what's going on.
 
 
 
-Model 1: Guide and demo-giver
------------------------------
+Model 1: Guide and demo-giver (talker and typer)
+------------------------------------------------
 
-One person serves the role of **guide**, explaining the big picture
-and possibly even the examples.  The **demo-giver** shows the typing
+One person serves the role of **guide (talker)**, explaining the big picture
+and possibly even the examples.  The **demo-giver (typer)** shows the typing
 and does the examples, and could take the role of a learner who is
 asking about what is going on, the person who actually explains the
 details, or an occasional commenter.  Anyway, the guide is the one
@@ -97,43 +115,63 @@ below).
    Introduces type-along      |
    Explains steps of type-along | Types during type-along
    Asks questions to Demo-giver during type-along | Explains details what they are typing and what happens
-   Looks at HackMD during type-along  |  Looks at HackMD during theory
+   Looks at Notes during type-along  |  Looks at Notes during theory
    Discusses during Q&A       | Discusses during Q&A
 
 
 
-Model 2: Presenter and interviewer
------------------------------------
+Model 2: Interviewer and expert
+-------------------------------
 
-In this case, it is the **presenter** who is mostly explaining *and*
-giving the demos, and generally trying to move the forward through the
-material.  The **interviewer** serves as a learner or spotter, fills
-in gaps by asking relevant questions, and tries to comment to the
-presenter when things are going off track.  The interviewer "has the
-conn".
+In this case, there is an **interviewer** who pretends to be a learner
+is asking questions to an **expert** who is mostly explaining.  The
+**interviewer** serves as a learner or spotter, fills in gaps by
+asking relevant questions, and tries to keep things on track.  The
+interviewer "has the conn".
 
-This is closer to normal teaching, so feels more natural to do.  The
-big disadvantage is that it's the tendency of the presenter to keep
-talking, and the tendency of the interviewer to be nice and not
-interrupt.  This negates most of the benefit you would hope to have,
-but is much better than solo teaching.
+Either person could type and do the demos.
 
-Here, the presenter would follow the outline and serve as the
-director (see below).
 
 .. csv-table::
    :delim: |
    :header-rows: 1
 
-   Presenter                  | Interviewer
-                              | Asks questions to presenter
-   Answers questions using their special knowledge | Follows up with learner questions
-                              | Pushes forward though the material
-                              | Asks questions that a learner may ask
-                              | Introduces type-along
-   Explains type-along and material | Explains type-along and material
-   Looks at HackMD when possible | Looks at HackMD most of the time
-   Discusses during Q&A       | Discusses during Q&A
+   Interviewer                       | Expert
+   Asks questions to expert          | 
+   Follows up with learner questions | Answers questions using their special knowledge
+   Pushes forward though the material |
+   Asks questions that a learner may ask |
+   Introduces type-along             |
+   Explains type-along and material  | Explains type-along and material
+   Looks at Notes most of the time   | Looks at Notes when possible
+   Discusses during Q&A              | Discusses during Q&A
+
+
+
+Model 3: Teacher and student
+----------------------------
+
+In this model, someone takes the role of the **teacher** and gives the
+lesson.  The **student** pretents to be the studend and asks relevant
+questions.
+
+This is closer to normal teaching, so feels more natural to do.  The
+big disadvantage is that it's the tendency of the presenter to keep
+talking, and the tendency of the interviewer to be nice and not
+interrupt.  This negates most of the benefit you would hope to have,
+but is much better than solo teaching.  The "Guide and demo-giver" is
+usually better when there are demos and "Interviewer and expert" when
+there aren't.  The teacher "has the conn".
+
+.. csv-table::
+   :delim: |
+   :header-rows: 1
+
+   Teacher                           | Student
+   Guides through the material
+   Gives demos                       | Asks questions a learner may ask
+                                     | Watches the Notes closely
+   Keeps time                        | Reminds about time
 
 
 
@@ -143,36 +181,33 @@ Hints
 With more than one person, there is a risk of seeming uncoordinated
 when the team doesn't know who is supposed to move the lesson forward.
 It's not bad to have short discussions to decide what to do next, it
-makes the show seem interactive.  But if it happens too
-much, it becomes noticeable.  As quoted above, you could adopt a
-principle which exists
-in many domains: at any time, only one person is
-in control.  Implemented in team teaching, it becomes: *you explicitly
-know who is in control* (the **director**).  *The director is
-responsible for understanding the current situation and checking with other
-instructors, but in when you just need to something and no one has
-strong opinions, you don't debate, the director decides.*  The main
-difference of Model 1 and Model 2 above is "is the director the one
-mainly explaining new material, or the one asking questions".  There
-are also multiple layers of director: there may be the director for
-the whole course, and the director/"conn" for the lesson.
+makes the show seem interactive and like it is responding to learner
+needs.  But if it happens too much, it becomes noticeable.
 
-We can't tell you what works best for you.  But the models above and
-thinking about who the director is should let you have an efficient
-discussion to decide your model.  The need for a director is why we
-don't recommend fully equal co-teachers.  Instead, divide the course
-into parts and use the two models for each part.
+As quoted above, you could adopt a principle which exists in many
+domains: at any time, only one person is in control (we call them the
+"primary").  *This person is responsible for understanding the
+current situation and checking with other instructors, but in when you
+just need to something and no one has strong opinions, you don't
+debate, the primary decides.*
+
+Note there can be "primary" for the whole lesson preparation, that is
+different than the "primary" for some sections.
+
+We can't tell you what works best for you.  But models 1 and 2 above
+tend to work very well and give a clear "primary".  The need for
+someone to "have the conn" is why we don't recommend fully equal
+co-teachers.  Instead, divide the course into parts and use the two
+models for each part.
 
 - Of course, there are other roles in a workshop.
 
-  - The **HackMD watcher** pays particular attention to the audience
+  - The **Notes manager** pays particular attention to the audience
     questions.  They might be a different person from the co-teachers
     and they can interrupt anytime.
-  - The **Meeting host** manages the meeting itself.
+  - The **director** manages the flow of the course itself.
   - The Director could be completely separate from the people on
     screen, and somehow sending signals to the teachers as needed.
-    But, unlike scripted media, the course reacts more to the audience
-    and it is better for the director to be in the lecture.
 
 - If you ever go off-plan, that's OK.  You can discuss during the
   lecture so the audience can know what you are doing and why.  You
@@ -186,7 +221,7 @@ into parts and use the two models for each part.
   You could have particular segments where different pairs of
   people adopt the main roles, and others speak up if they want.  Or,
   at that point, make it a panel discussion format (multiple
-  presenters and one interviewer)
+  experts and one interviewer)
 
 - Of course, it helps to have a good plan of what you are going to
   do.  But if only one person knows that plan, this strategy can still
@@ -206,23 +241,32 @@ Preparation
 This is one proposed model for preparing for team teaching:
 
 - Talk with your co-teacher.  These hints assume a two-person team.
+
 - Decide what material will be covered, overall timing, strategy, etc.
-- Divide up the material.  In each section, decide the model to use
-  and roles.  If in doubt, starting with the guide/demo-giver division
-  with the stronger instructor as guide works well.
-- Decide who will be the director for each part.  Perhaps a good idea
-  is to keep it consistent: the guide is always the director.
-- At least one person prepares the outline (the order of topics to be
-  presented, key questions to ask, etc.) - usually the guide or
-  interviewer.  The guide or interviewer
-  should be comfortable with it (and could even do it mostly alone),
-  everyone can give comments and make sure to read it at least once.
-- Run as above.
-- You don't need to plan every step in detail but it can be useful to prepare
-  the session together and step through the choreography (e.g. "now I will show
-  this and then give you the screen and then ask you to do this ... you will
-  lead this 20 minute block and then I will lead that 20 minute block and
-  please ask me questions while I present X").
+  Review the schedule from last time and make a schedule for this
+  time, with timings, breaks, etc.  Usually you don't need to get
+  creative - use what works.
+
+- Divide up the material.  For each episode, decide the model to use
+  and roles.  If in doubt, start with the guide/demo-giver model
+  with the more experienced instructor as the guide.
+
+- For each episode, one person prepares the outline (the order of
+  topics to be presented, key questions to ask, etc.) - usually the
+  guide or interviewer.
+
+  - You don't need to plan every step in detail but it can be useful
+    to prepare the session together and step through the choreography
+    (e.g. "now I will show this and then give you the screen and then
+    ask you to do this ... you will lead this 20 minute block and then
+    I will lead that 20 minute block and please ask me questions while
+    I present X").
+
+- Discuss the plan together and make any revisions as needed.
+
+- Do one run-through.
+
+- Teach as planned.
 
 Then, just go!  Don't worry if it's not perfect, if either person
 wonders what to do next, just pause some or ask the other.  This

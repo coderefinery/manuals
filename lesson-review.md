@@ -1,6 +1,6 @@
 (review)=
 
-# Lesson review
+# Lesson review checklist
 
 This presents a checklist for reviewing lessons that already exist.
 You should also read [lesson-design.md](lesson-design.md) as well -
@@ -91,6 +91,9 @@ Student reference guide:
 
 
 ## Major Refactorings
+
+Major restructrings should be rare and usually happen as agreed in a
+group.
 
 Always start with the big picture: does it make sense?  When
 refactoring, always start off with backwards lesson design again (see

@@ -1,10 +1,7 @@
 # Instructor introduction
 
-This page gives general instructor and expert helper introduction
-material.  These people are responsible for more than one breakout
-room, and have to have an overview of more of the course.  In short,
-if you want to take the next step in CodeRefinery, this is the place
-to start.
+This page gives general instructor information: the starting point on
+your journey.
 
 
 ## What's it like as an instructor?
@@ -15,22 +12,13 @@ person alone and many students.  It's especially easy to get started
 this way: co teach with someone experienced!
 
 You can see a demo of what livestream co-teaching is like here:
-https://youtu.be/WjmttAniZX8?t=3 (15 min, many different scenes)
+<https://youtu.be/WjmttAniZX8?t=3> (15 min, many different scenes).
+
 
 
 ## Starting materials
 
-Reading here: the other pages in the section, see sidebar.
-
-* {doc}`co-instructors` - Quick intro for a first-time co-instructor
-* {doc}`team-teaching` - Details on team-teaching
-* {doc}`presenting` - Generic presentation hints
-* {doc}`instructor-tech-setup`
-* {doc}`instructor-tech-online`
-
-Also read the team leader information
-* {doc}`team-leaders` - general on motivation and how to prepare for
-  breakout rooms
+Read the material in the left sidebar.
 
 Reading elsewhere:
 * [CodeRefinery instructor
@@ -39,45 +27,73 @@ Reading elsewhere:
 
 
 
-## As an instructor
+## The instructor experience
 
 Most of our workshops are very collaborative arrangements: you are
 rarely alone.  This is one way of looking at it:
 
-* Look at and revise the workshops before they teach, making small,
-  incremental improvements.  But, you don't have to (and in some
-  sense, it's good if they stabilize some more).
-
-* Especially go over the examples when preparing.
+* Divide up the lessons.  There is a primary (overall makes sure it
+  happens) and secondary (equally active, but not with "ultimate
+  responsibility") assigned to each lesson.  We try to have at least
+  one person experienced with the lesson.
 
 * Have a chat with someone else (probably another instructor or
   expert helper) before teaching.  We encourage this for
   everyone, even experienced instructors, to better transfer knowledge
   among each other and stay up to date with the latest developments.
 
-* Teach independently or co-teach.  Ideally, co-teach the first
-  time(s).  Really, we'd like to get to the point where we *always*
-  co-teach.  Co-teaching doesn't mean different people take different
-  lessons, but two people teach all parts of the same lesson by
-  turning it into a discussion between the two instructors.  TODO:
-  produce information on this.
+* Install the CodeRefinery software environment (so you can test the
+  same way as learners).
 
-### in the main session
+* Go over the lesson: read everything, and do all the examples.
+  Hopefully, this is relatively fast (remember, learners at at least
+  5x slower than you, so you can't teach that much).
 
-As an instructor, when preparing your lesson you first need to decide how to balance between the
-main room and breakout sessions.
+* Most importantly, update any examples that don't work with the
+  CodeRefinery environment.  Common problems include: Github or
+  software changing something.
 
-- **Clearly say when a learner watches, when they type along, when they should
-  work on something independently as an exercise.**
-- CodeRefinery is traditionally a hands-on workshop, so breakout-room sessions should be a large part of the workshop.
-- We usually keep the main room mostly for general discussions. Small exercises or polls can also be done in the main room, for all hands-on exercises we divide the learners into breakout-rooms each with one team leader.
-- To give you an idea about how the work in the breakout rooms is going, monitor the hackmd closely and if time allows try to visit a few breakout rooms to see how it is going and if needed adjust the timing.
+* Make anyy other changes that are needed.  See the hints in the
+  lesson development section, but in general want minimal changes:
+  most things exist for a reason.  It's a big try to try add in more
+  stuff that is missing: there is hardly time for everything in there
+  already, stuff is usually left out for a reason.
+
+* It usually helps to do one full run-through with your co-instructor.
+  (In fact, if you do one run-through, that's usually all you need!)
+
+* Do a livestream practice session, if this is new to you.
+
+* Teach together!  It won't be perfect, but that will help to keep the
+  attention and make it seem like a "thing".  Adapt as needed - we are
+  around.
+
+### Main vs breakout sessions
+
+As an instructor, when preparing your lesson you first need to decide
+how to balance between the main room and breakout sessions.
+
+- **Clearly say when a learner watches, when they type along, when
+  they should work on something independently as an exercise.**
+- CodeRefinery is traditionally a hands-on workshop, so exercise
+  sessions should be a large part of the workshop.  Usually, it's good
+  to try to minimize talking and let people get to the exercise
+  sessions as soon as possible.  The written material should support
+  this.
+- We usually keep the main room mostly for general discussions. Small
+  exercises or polls can also be done in the main room, for all
+  hands-on exercises we divide the learners into breakout-rooms each
+  with one team leader.
+- To give you an idea about how the work in the exercise sessions is
+  going, monitor the Notes closely and if time allows try to visit a
+  few breakout rooms to see how it is going and if needed adjust the
+  timing.
 
 
 ### Preparing for the breakouts (in the main room)
 
 **As an instructor, you need to clearly define what the tasks of each
-breakout session is (even if it is just "explore and discuss").**
+exercise session is (even if it is just "explore and discuss").**
 Online courses need more **"meta talk"** about how you expect things
 to go, since it's not as easy to read the room or fill in expectations
 later (distractions, hard to communicate to breakout rooms after
@@ -90,14 +106,17 @@ opened).
 - Clearly say if things in the future will depend on this exercise (is
   someone completely lost if they don't make it to the end.  Halfway?)
 - Try to make breakout sessions longer:
-    - imagine a 5 minute overhead for each session, getting people
-      there, deciding who does what, acquainted with what they need to
-      do, and debugging problems.
-    - 10 minutes is quite short, 20 minutes is best.
-    - **Can you say less and let people discover it for themselves?**
+  - imagine a 5 minute overhead for each session, getting people
+    there, deciding who does what, acquainted with what they need to
+    do, and debugging problems.
+  - 10 minutes is quite short (5 min figuring out what to do + 5 min
+    doing), so 20 minutes is best.
+  - **Can you say less and let people discover it for themselves?**
 
 As a team leader, if anything is unclear to you, it is very unclear to
 others. Comment/Ask in the HackMD or speak up and ask! 
+
+
 
 ## Top issues new instructors face
 

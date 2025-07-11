@@ -1,54 +1,4 @@
-# Instructor technical setup, online
-
-```{seealso}
-This is online-specific instructor tech setup.  For general, see
-{doc}`instructor-tech-setup` which also applies here.
-```
-
-The information in this is currently specific to Zoom teaching and
-livestream teaching.
-
-```{admonition} Final checklist
-
-See the list in {doc}`instructor-tech-setup`, which includes points for
-online.
-```
-
-## Audio
-
-Audio quality, and balance between instructors, is *absolutely
-critical* to good online work, especially teaching.  Consider the
-following:
-
-* Can you adjust your microphone volume from very low to
-  higher-than-needed?  Make sure your dynamic range is larger than
-  "barely working", so that you have some room to adjust for later.
-* Do you have a high-quality headset?  A headset with microphone is
-  the most reliable, but if you can get a desktop setup working
-  well, that can be good too.  Always have a high-quality headset for
-  backup anyway.
-* If you have a bluetooth headset, consider:
-
-  * Bluetooth headsets have significant latency compared to wired or
-    purpose-built wireless protocols like gaming headsets have.
-  * The microphone might not have enough bandwidth (if it's part of
-    the same headset).
-  * Bluetooth 5 is much better in both latency and quality.
-  * Consider investing (or getting your work to invest in) some
-    high-quality headset or desktop audio gear.
-
-* "Ducking" is when the first words are silenced/quieted by noise
-  cancellation, until it detects speaking.  To avoid this, don't use
-  "high" noise cancellation (as low as possible is better, reduce
-  environmental noise / use headset mic instead).  If you
-  need high cancellation because of background noise, switch to your
-  headset.
-* Set your microphone's hardware volume to something relatively high -
-  and control via the software.
-
-
-
-## Screen sharing
+# Instructor screenshare
 
 You have to assume the smallest screen from learners and plan for
 that.  You should share a **portrait** screen: either a portion of
@@ -76,7 +26,7 @@ learner privacy.
 
 
 
-### Screen share examples
+## Screen share examples
 
 These are layouts of the actual screen or portion of screen being
 shared:
@@ -138,7 +88,7 @@ in the window titlebar.
 ```
 
 
-### Screen layout: learners
+## Screen layout: learners
 
 This is how learners can arrange their screen:
 

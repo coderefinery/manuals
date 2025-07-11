@@ -97,8 +97,7 @@ the web browser and the terminal.
 
 - There is some generic technical setup for your own computer - make a
   clean environment that matches learners, make a good prompt, and so
-  on.  See {doc}`instructor-tech-setup` and
-  {doc}`instructor-tech-online`.
+  on.  See {doc}`instructor-computer`.
 - Watch the [Demo of CodeRefinery livestream teaching
   ](https://www.youtube.com/watch?v=WjmttAniZX8) (read the
   description for an explanation).

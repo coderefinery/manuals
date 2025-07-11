@@ -1,4 +1,5 @@
-# Being an instructor in livestreamed CodeRefinery workshop
+# TODO: Being an instructor in livestreamed CodeRefinery workshop
+
 
 ## Basic setup 
 
@@ -12,7 +13,7 @@ Following our team teaching strategy, your are never alone as an instructor. Whi
 ## I am teaching in a workshop, what do I need to know/do?
 
 * Attend the instructor onboarding session ({doc}`instructor-intro`) 
-* Make sure you have your tech setup for the course: {doc}`instructor-tech-online`
+* Make sure you have your tech setup for the course: see things in the sidebar.
 * Consider joining the learners Zoom to help in breakoutrooms and answer questions in HackMD
 * When your teaching time approaches, join the instructors Zoom.
   * Stay muted and turn your video off until it is your turn to teach 

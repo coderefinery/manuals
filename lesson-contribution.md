@@ -1,6 +1,6 @@
 (contribution)= 
 
-# Contributing to lesson development 
+# Lesson contribution guide
 
 Also read {ref}`design` and {ref}`review`. 
 
