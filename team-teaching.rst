@@ -66,7 +66,7 @@ will be.
 
 As the quote says, in any large enough operation, multiple people are
 involved, but responsibilities should be clear.  At least, one person
-should have the responsibilty for time-keeping and overall flow.  This
+should have the responsibility for time-keeping and overall flow.  This
 should be integrated into your co-teaching plan.
 
 We propose some basic models, but of course there is a continuum.  And
