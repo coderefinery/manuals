@@ -173,7 +173,7 @@ the web browser and the terminal.
 
 - Following the lesson as written at all costs.
 
-For {doc}`livestream courses <livestream-teaching>`:
+For {doc}`livestream courses <instructor-stream>`:
 
 - Worrying too much (forgetting that there is a co-teacher and break
   time where you can discuss and plan your next step).

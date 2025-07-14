@@ -242,7 +242,7 @@ See also
 --------
 
 * :doc:`how-to-attend-stream`
-* :doc:`livestream-teaching`
+* :doc:`instructor-stream`
 * Livestream teaching demo video:
   https://www.youtube.com/watch?v=WjmttAniZX8 (carefully read the
   video description to understand what is going on)

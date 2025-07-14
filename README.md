@@ -47,12 +47,10 @@ instructor-checklist
 instructor-computer
 instructor-screenshare
 instructor-audio
+instructor-stream
 team-teaching
 presenting
 presenting-inperson
-
-instructor-stream
-livestream-teaching
 ```
 
 ```{toctree}

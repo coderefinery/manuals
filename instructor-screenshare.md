@@ -19,10 +19,9 @@ your screen, or one window in portrait mode.  See the examples below.
   of your screen and the full height, for a standard FullHD screen.
 
 When streaming/recording: **Never stop sharing a screen, ask someone
-else to take it over**.
-There is a chance that the view goes to "gallery view" in the
-recording or stream, which makes video editing harder or disrupts
-learner privacy.
+else to take it over, or wait for the view to switch to Notes**.  When
+you stop screensharing, the window reverts to "gallery" or "active
+speaker" view which appears directly on stream, which isn't ideal.
 
 
 
