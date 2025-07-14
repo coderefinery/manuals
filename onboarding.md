@@ -54,15 +54,19 @@ Read about the [benefits for partner organizations](https://github.com/coderefin
 
 ### Other links
 
-- [CodeRefinery lesson template lesson](https://coderefinery.github.io/sphinx-lesson/)
+- [CodeRefinery lesson template lesson](https://coderefinery.github.io/sphinx-lesson/) and [Lesson template](https://github.com/coderefinery/sphinx-lesson-template)
 - Our website is on GitHub too, built with Zola -> [Website repository](https://github.com/coderefinery/coderefinery.org)
-- Registration management is done via [NeIC Indico](https://indico.neic.no)
+- Registration management is done via [NeIC Indico](https://indico.neic.no), only workshop organizers have admin access. 
 
 ## Accounts
+
+Please get yourself an account on the following platforms to use for CodeRefinery work: 
 
 - Zulip
 - GitHub
 - HackMD
+
+On GitHub we have an organization that you will be added to to have access to few private repositories and be able to merge pull requests etc. On HackMD we have a team that you will be added to to have write access to some team notes. 
 
 ## Team responsibilities
 
@@ -83,6 +87,8 @@ As an instructor you should bring or be willing to acquire the following tools a
 - Patience with supporting students and researchers without technical background about software tools and techniques
 - Persons who like working with others since the teaching always happens in collaboration with others
 - A decent camera and microphone for clear audio and video
+
+We generally recommend CodeRefinery instructors to also visit the [Carpentries instructor training](https://carpentries.org/instructor-training/) or similar to prepare for teaching tech with live coding etc. Contact project manager about possibilities. 
 
 Apart from instructors, our workshops also have a lot of other roles to fill: {ref}`roles`. 
 
