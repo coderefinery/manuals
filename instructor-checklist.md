@@ -10,7 +10,11 @@ important to make things beautiful.**
 
 ## Lesson revision checklist
 
-See the lesson development section.
+If your team also maintains the lesson material, see if there are any
+updates to be done.  You shouldn't do major revisions every time, but
+it's good to see if there is any minor maintenance. See the lesson
+development section, {doc}`lesson-review`.
+
 
 
 ## Final checklist
