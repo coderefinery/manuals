@@ -3,26 +3,58 @@
 # Lesson review checklist
 
 This presents a checklist for reviewing lessons that already exist.
-You should also read [lesson-design.md](lesson-design.md) as well -
-this is roughly a checklist to the things there.
+You might want to also read [lesson-design.md](lesson-design.md) as
+well - it shows the picture of big redesigns and making of new
+lessons.
 
-Remember to keep the *story* of the lesson in mind.  Many people are
-focusing on the small matters (during every change), but only
-occasionally do people look at the big pictures.  That's why a proper
-review starts with looking at the big picture, instead of adjusting
-small things and possibly derailing the story.
+When reviewing lessons before teaching, the main thing to keep in mind
+is: you don't need to change a lot!  The lessons mostly work, and need
+some updating.  But, you shouldn't look at it as too big a job.  Try
+to keep the working things and make the needed changes.  Save big
+changes for less frequent rounds of improvement.
 
 This is roughly sorted from highest priority for short review to
 lowest priority for big refactorings.
+
+## What you should focus on
+
+When reviewing/updating a lesson to teach, focus on:
+
+- Do exercises and demos still work?
+- Any small-scale clarifications to make things flow better?
+- Does the "big story" need more clarifications?
+- Using the plan from previous years, with improvements
+
+Try to avoid:
+
+- Changing the whole design of the lesson (unless you are doing a big
+  improvement round - discuss in a meeting to set the plan)
+- Removing stuff you won't teach (other people may use that in their
+  flows.  It may be taught later)
+- Changing text too much to optimize for only one path (it should be
+  reasonably modular, so that teachers can pick and choose)
+- Explicitly changing exercises to demos, or demos to exercises (it
+  can be taught both ways.  Try to make it suitable for both.)
+
+
+## Look at reports from previous years
+
+- These reports maybe in the instructor's guides or an issue.
+- They should hopefully say timings and what went well or not.
 
 
 ## Issues
 
 - Look through the issue tracker to see what is relevant, remember and
   follow up when going through the sections below.
+- Remember to add your own issues about how it went after you teach!
 
 
 ## Lesson guides
+
+Lessons should have some guides for instructors/maintainers.  They may
+be more or less up to date, but it's the first thing you should read.
+(Maybe you want to update these after teaching...)
 
 Instructor's guide:
 
@@ -48,18 +80,36 @@ Student reference guide:
 - Keep this in mind when you get to episode details.
 
 
-## Lesson overview
+## Run through the whole lesson
 
-- Is the introduction intrinsically motivating enough?  Does it
-  promote an emotional connection to existing problems?
-- Student's guide and framing: will a student know when this is
-  relevant to them and how it will benefit them?
-  - Doesn't need to include word-for-word learner personas, but should
-    convey this somehow.
-- Are the difficulty and prerequisites stated?
+- Run through the parts you will teach.  Do all the examples by
+  yourself.
+
+
+
+## Exercises and demos, episode details
+
+Most of your review time should be focused here.
+
+- Read through each exercise (with no other text in between).  Does it
+  make a logical progression?
+- Exercises labeled with difficulty, optional, etc.
+- Optional advanced exercises or material in places where advanced
+  users may get far ahead.
+- Each exercise is self-contained: a helper can read just the exercise
+  area and get an idea of what is supposed to happen and why.
+- Update the student's reference guide as you are going through the
+  details.
+- Remove duplicate or unnecessary information when possible.  Usually,
+  things are added and not removed.  This leads to a lot of excess
+  material.  Shorter is usually better.  If something shouldn't be
+  removed, perhaps mark it as advanced or optional.
 
 
 ## Episode overview
+
+Verify each individual episode has a overall motivating story (why,
+what, why, what's next):
 
 - Read the intro and conclusion to every section/episode.
   - Do they make sense when you read them in order, without reading
@@ -73,21 +123,30 @@ Student reference guide:
   people interested in growth?
 
 
-## Episode details
+## Lesson overview
 
-- Read through each exercise (with no other text in between).  Does it
-  make a logical progression?
-- Exercises labeled with difficulty, optional, etc.
-- Optional advanced exercises or material in places where advanced
-  users may get far ahead.
-- Each exercise is self-contained: a helper can read just the exercise
-  area and get an idea of what is supposed to happen and why.
-- Update the student's reference guide as you are going through the
-  details.
-- Remove duplicate or unnecessary information when possible.  Things
-  are always added, rarely removed.  Shorter is usually better.  If
-  something shouldn't be removed, perhaps mark it as advanced or
-  optional.
+Verify the lesson overall picture is motivating and forms a complete
+story (why, what, why, what's next):
+
+- Is the introduction intrinsically motivating enough?  Does it
+  promote an emotional connection to existing problems?
+- Student's guide and framing: will a student know when this is
+  relevant to them and how it will benefit them?
+  - Doesn't need to include word-for-word learner personas, but should
+    convey this somehow.
+- Are the difficulty and prerequisites stated?
+- Does the wrap-up tell what was learned?
+- Does it tell why it was learned?
+- Does it tell what learners should do next?
+
+
+## Installation instructions
+
+- Verify everything works with the standard CodeRefinery environment:
+  <https://coderefinery.github.io/installation/> (not your own
+  personal environments: learners won't use that)
+- Propose updates to the install instructions as needed.
+
 
 
 ## Major Refactorings
