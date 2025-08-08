@@ -176,8 +176,8 @@ OBS setup:
 
 
 
-Before each day
----------------
+Before each day checklist
+-------------------------
 
 * Set Twitch stream data: stream title, stream description, channel
   about page.
@@ -196,8 +196,8 @@ Before each day
     * control panel:
 
 
-Before each broadcast
----------------------
+Before each broadcast checklist
+-------------------------------
 
 * Ensure anything from the above is done (obs-tablet-remote
   connection, scene layout, etc).
@@ -215,6 +215,9 @@ Before each broadcast
 
 * Make other instructors co-hosts in the Zoom so that they can share
   screen without the other person stopping.
+
+* (rkdarst, with controller): synchronize button lights with
+  zoom/OBS controls
 
 * Start recording / start streaming ~20-30 minutes in advance, with
   audio muted and on the title card scene.  Start recording at the
