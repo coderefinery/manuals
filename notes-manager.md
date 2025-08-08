@@ -63,7 +63,9 @@ Keep it formatted well:
     level below the initial question?  It depends on the context, but
     if a conversation goes on too long, try not to let it go too
     deep.
-
+- If using numbered questions, leave a blank line between numbers (so
+  that pushing enter after a line doesn't increment following
+  numbers).
 
 Update with meta-talk, so that learners can follow along easily:
 
