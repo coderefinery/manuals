@@ -11,6 +11,12 @@ Latest prior to every workshop we go through the issues and implement and resolv
 
 All our lesson materials are written in Markdown using our own [Sphinx lesson template](https://github.com/coderefinery/sphinx-lesson-template).
 
+See the {doc}`lesson-contribution` page for hints on "normal" reviews.
+Remember than it's good to keep changes small, since lessons mostly
+work.  We would be happy for big refactorings and changes, but it
+should be planned with a team to make sure it uses all of our
+knowledge together.
+
 Improvements are done on branches either on the CodeRefinery repository or your own fork. The improvement suggestions are then submitted via Pull Requests.
 For easier and faster review, please keep the pull requests topically small. 
 
