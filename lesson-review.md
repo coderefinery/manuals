@@ -23,7 +23,7 @@ When reviewing/updating a lesson to teach, focus on:
 - Do exercises and demos still work?
 - Any small-scale clarifications to make things flow better?
 - Does the "big story" need more clarifications?
-- Using the plan from previous years, with improvements
+- Using the plan from previous years, with improvements.
 
 Try to avoid:
 
@@ -39,8 +39,10 @@ Try to avoid:
 
 ## Look at reports from previous years
 
-- These reports maybe in the instructor's guides or an issue.
-- They should hopefully say timings and what went well or not.
+- There are reports maybe in the instructor's guides or an issue.
+  - They should hopefully say timings and what went well or not.
+- Check the notes archive from previous workshop - the questions that
+  were asked for the session, and the feedback of the day.
 
 
 ## Issues
@@ -96,14 +98,23 @@ Most of your review time should be focused here.
 - Exercises labeled with difficulty, optional, etc.
 - Optional advanced exercises or material in places where advanced
   users may get far ahead.
-- Each exercise is self-contained: a helper can read just the exercise
-  area and get an idea of what is supposed to happen and why.
+- Each exercise is self-contained as much as possible (not every one
+  can be): a helper can read just the exercise area and get an idea of
+  what is supposed to happen and why.
 - Update the student's reference guide as you are going through the
   details.
 - Remove duplicate or unnecessary information when possible.  Usually,
   things are added and not removed.  This leads to a lot of excess
   material.  Shorter is usually better.  If something shouldn't be
   removed, perhaps mark it as advanced or optional.
+- Exercises vs demos
+  - Things should be marked "demo" if it would be hard for a learner to
+    do it themselves.
+  - Things should be marked "exercise" if it should have everything
+    necessary for a learner to do themselves.
+  - Exercises can always be done as demo if the teacher decides
+    (regardless of what the lesson says).
+
 
 
 ## Episode overview
@@ -118,9 +129,9 @@ what, why, what's next):
     but why it's cool?)
 - Do they have learning objectives at top and food for thought at the
   bottom?
-- Are optional or advanced episodes marked as such?
 - Does the episode (or lesson overall) say what is next, to keep
   people interested in growth?
+
 
 
 ## Lesson overview
