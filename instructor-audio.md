@@ -11,6 +11,10 @@ following:
   the most reliable, but if you can get a desktop setup working
   well, that can be good too.  Always have a high-quality headset for
   backup anyway.
+
+  * If you don't, and are employed to do CodeRefinery teaching, ask
+    your employer to provide you a headset meeting these criteria.
+
 * If you have a bluetooth headset, consider:
 
   * Bluetooth headsets have significant latency compared to wired or

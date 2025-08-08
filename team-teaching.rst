@@ -77,7 +77,7 @@ different sections.
 
    R and S usually teach a HPC tutorial each year via co-teaching.  The
    general plan is:
-   
+
    * Day 1: "talker and typer" format.  R is the talker (primary) and
      S is the typer (secondary).  R goes through the main points and
      tells S what to do in the demos.  S pretends to be learning and
@@ -152,7 +152,7 @@ Model 3: Teacher and student
 ----------------------------
 
 In this model, someone takes the role of the **teacher** and gives the
-lesson.  The **student** pretents to be the studend and asks relevant
+lesson.  The **student** pretends to be the student and asks relevant
 questions.
 
 This is closer to normal teaching, so feels more natural to do.  The

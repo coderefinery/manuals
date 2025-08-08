@@ -6,13 +6,15 @@ your screen look pleasing to the eye.  It also has to be similar to a
 learner's screen, so that they are not distracted with your different
 configuration or appearance.
 
+**You don't want a complex setup to distract from teaching.  Boring is
+better.  Set this up before the test session to get feedback.**
+
 
 
 ## Simple or fancy screen?
 
-As a teacher of tech, you also
-*need to make sure that your screen supports the learning process*:
-you have conflicting goals of:
+As a teacher of tech, you also *need to make sure that your screen
+supports the learning process*: you have conflicting goals of:
 
 * Making your screen look simple, to not distract from what you are
   trying to teach, and

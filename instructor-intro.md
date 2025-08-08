@@ -204,6 +204,6 @@ For {doc}`livestream courses <instructor-stream>`:
   still hear your voice, if they mute the stream it's hard to bring
   them back).
 
-- Sharing a fullscreen, not the 840x1080 portrait layout.
+- Not planning screenshare in advance.
 
 - Showing non-creative-commons material on the stream.
