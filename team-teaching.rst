@@ -88,6 +88,11 @@ different sections.
      "interviewer" and secondary to "expert", and the primary
      "interviews" the expert to explain what's going on.
 
+   This is implemented in the following teaching plan (see
+   :doc:`teaching-plan`).
+		
+   https://hackmd.io/@AaltoSciComp/2025kickstart-tritondemos
+
 
 
 Model 1: Guide and demo-giver (talker and typer)
@@ -104,6 +109,13 @@ order for the audience and "has the conn".
 Hands-on demos and exercises work especially well like this.  Here,
 the guide would follow the outline and serve as the director (see
 below).
+
+.. admonition:: Example of "guide and demo-giver"
+
+   In our HPC course, we use this for the main tutorials.  One of us
+   explains the material and says what to type, the other one types
+   the demos.  The instructors swap roles depending on interest.
+
 
 .. csv-table::
    :delim: |
@@ -130,6 +142,12 @@ asking relevant questions, and tries to keep things on track.  The
 interviewer "has the conn".
 
 Either person could type and do the demos.
+
+.. admonition:: Example of "interviewer and expert"
+
+   In our HPC course, we would use this for our intro to Slurm.  There
+   are no demos at that point, so one person prompts the other with
+   questions about Slurm.
 
 
 .. csv-table::
@@ -162,6 +180,16 @@ interrupt.  This negates most of the benefit you would hope to have,
 but is much better than solo teaching.  The "Guide and demo-giver" is
 usually better when there are demos and "Interviewer and expert" when
 there aren't.  The teacher "has the conn".
+
+.. admonition:: Example of "teacher and student"
+
+   In our HPC course, this isn't used so much.  I might use it if I
+   was co-teaching something like GPUs or MPI, which I don't know that
+   well.  I'm not confident in what to type, so I really am much more
+   like a student than a demo-giver and I don't expect to contribute
+   much to the content.  Of course it's close to "guide and
+   demo-giver" anyway.
+
 
 .. csv-table::
    :delim: |

@@ -49,6 +49,7 @@ instructor-screenshare
 instructor-audio
 instructor-stream
 team-teaching
+teaching-plan
 presenting
 presenting-inperson
 ```

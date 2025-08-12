@@ -11,7 +11,6 @@ This is assorted hints about actually presenting.
 - Why will this be useful?
 
 
-
 ## During the lessons
 
 - Take advantage of the mistakes/typos you make when teaching!
@@ -20,6 +19,7 @@ This is assorted hints about actually presenting.
 - Ask "do you do X?" where X is what you are teaching.  Instead, ask
   "how do you do Y?".  The first question implies something you are
   doing wrong, the second is open-ended.
+
 
 ## Exercise sessions
 

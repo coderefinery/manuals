@@ -52,6 +52,14 @@ Try to avoid:
 - Remember to add your own issues about how it went after you teach!
 
 
+## Your teaching plan
+
+This doesn't actually belong on your page, but somehow this
+preparation is related to making your own co-teaching plan for this
+one instance.  This is covered in {doc}`teaching-plan` (see the
+examples).
+
+
 ## Lesson guides
 
 Lessons should have some guides for instructors/maintainers.  They may
@@ -109,11 +117,28 @@ Most of your review time should be focused here.
   removed, perhaps mark it as advanced or optional.
 - Exercises vs demos
   - Things should be marked "demo" if it would be hard for a learner to
-    do it themselves.
+    do it themselves, based on what is written.
   - Things should be marked "exercise" if it should have everything
     necessary for a learner to do themselves.
   - Exercises can always be done as demo if the teacher decides
     (regardless of what the lesson says).
+- Verify for demos
+  - Clearly labeled as a demo
+  - Explains the purpose clearly (why you would do it)
+  - Explains the outcome clearly
+  - Has enough text/pictures so that a learner can see what you probably typed.
+  - Usually has the "solution" inline with the text of the demo.
+- Verify for exercises
+  - Clearly labeled as an exercise
+  - Labeled with expected duration
+  - Explains the purpose clearly (why you would do it)
+  - Explains the outcome clearly
+  - Shows every single command and thing that needs typing
+  - Common problems are anticipated and explained
+  - Where appropriate, recovery mechanisms: if someone got lost on the
+    previous exercise, what should they do?  Is there any solution?
+  - Has a detailed solution after the exercise steps (enough that it
+    can be followed as a demo if someone wants to)
 
 
 
