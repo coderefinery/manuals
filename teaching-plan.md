@@ -28,7 +28,9 @@ because:
   lesson page, we talk according to the plan.
 - It isn't *that* much work to prepare.
 - It forces us to test every command in advance.
+  - If a lesson has the exact command you run it it, it's not
+    necessary to make another copy.  Though it may not hurt.
 - We can still easily adapt the exact words we say to the need.
-- We don't read the lesson word-for-word very often.
+- We don't have read the lesson word-for-word.
 	
 TODO: more advice added here.
