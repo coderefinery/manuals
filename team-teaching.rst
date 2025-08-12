@@ -89,9 +89,7 @@ different sections.
      "interviews" the expert to explain what's going on.
 
    This is implemented in the following teaching plan (see
-   :doc:`teaching-plan`).
-		
-   https://hackmd.io/@AaltoSciComp/2025kickstart-tritondemos
+   :doc:`teaching-plan`): https://hackmd.io/@AaltoSciComp/2025kickstart-tritondemos
 
 
 

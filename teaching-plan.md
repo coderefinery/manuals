@@ -8,7 +8,7 @@ of the team-teaching (saying who does what at each time and all).
 
 ## Example plan
 
-https://hackmd.io/@AaltoSciComp/2025kickstart-tritondemos
+<https://hackmd.io/@AaltoSciComp/2025kickstart-tritondemos>
 
 This plan format has worked well in the past.  It worked very well,
 because:
