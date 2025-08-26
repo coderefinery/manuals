@@ -3,17 +3,18 @@
 Try to make a written teaching plan that goes over what you'll cover.
 This helps to keep on topic (not going off on tangents and running
 over time) and making sure you cover everything.  The plan is very
-related to {doc}`team-teaching`, since the plan is the implementation
-of the team-teaching (saying who does what at each time and all).
+related to {doc}`team-teaching`, since the plan is the written record
+of how you plan on team-teaching (who does what at each time).
 
 ## Example plan
 
+See this link, which includes description of how it works:
 <https://hackmd.io/@AaltoSciComp/2025kickstart-tritondemos>
 
 This plan format has worked well in the past.  It worked very well,
 because:
 
-- It has outline and timing - agreed with instrutors.
+- It has outline and timing - agreed with instructors.
 - Has everything that need to be said and typed - no surprises,
   nothing left out.
 - Allows us to avoid saying too much - we try very hard not say
@@ -32,5 +33,12 @@ because:
     necessary to make another copy.  Though it may not hurt.
 - We can still easily adapt the exact words we say to the need.
 - We don't have read the lesson word-for-word.
-	
-TODO: more advice added here.
+
+## Recommendations
+
+- Make a plan suitable for your needs - not too much, not too little.
+- In particular, it shouldn't be too much: spontaneous is good.
+- It doesn't need to have everything you need to say, just broad
+  bullet points, roles, and timing.
+- Exact commands may be useful if time is very limited, but if they
+  are in the lesson, you should just follow that.
