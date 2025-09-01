@@ -1,6 +1,6 @@
 # How to plan an "in-person watch the stream together" CodeRefinery event
 
-*This is a checklist based on practical experience by Enrico Glerean / Aalto Unviersity Otaniemi in person CodeRefinery events. Please let's improve it with other experiences.*
+*This is a checklist based on practical experience by Enrico Glerean / Aalto University Otaniemi in person CodeRefinery events. Please let's improve it with other experiences.*
 
 ## Background:
 CodeRefinery usually happens on TwitchTV. Everyone watches the streaming, like watching TV together. Those who register get access to a **notes document** where they can interact with the instructors  and other CodeRefinery helpers. People use their own computers, so some help is given regarding installations  and setup, usually a few days before the workshop starts.
