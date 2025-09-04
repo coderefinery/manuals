@@ -78,3 +78,7 @@ latex_documents = [
 
 # https://github.com/sphinx-contrib/emojicodes/pull/22/files
 latex_engine = 'xelatex'
+
+myst_enable_extensions = [
+    'colon_fence',   # ::: can be used instead of ``` for better rendering
+    ]
