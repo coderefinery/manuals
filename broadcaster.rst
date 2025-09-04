@@ -3,9 +3,9 @@ Broadcaster
 
 This page explains the setup and how-to guide for the OBS broadcaster.
 This person manages the technical setup of :doc:`OBS <obs>` and thus
-the streaming.  This person often is, but does not have to be, the OBS
-director [todo: link] who switches the scenes and manages the
-broadcast after it has started.
+the streaming.  This person often is, but does not have to be, the
+:doc:`director` who switches the scenes and manages the broadcast
+after it has started.
 
 
 
@@ -55,16 +55,13 @@ Prerequisites:
     without much `jitter
     <https://en.wikipedia.org/wiki/Jitter#Packet_jitter_in_computer_networks>`__.
     However, OBS settings can be tuned to have a larger buffer to
-    handle this.
+    handle this (but that introduces latency in the broadcast).
 
 
 Software installation:
 
 * `Install OBS <https://obsproject.com/>`__ (Linux, Mac, Windows -
   this is a mass market product so there is good support)
-* Install `obs-websocket
-  <https://github.com/obsproject/obs-websocket/>`__.  This is also
-  fairly widespread, but slightly less so than OBS.
 * Zoom (but you likely already have that)
 
 Zoom setup:
@@ -75,7 +72,9 @@ Zoom setup:
 
   * General → Use dual monitors → yes.  Despite the name, this gives
     Zoom two *windows*: one for the gallery view, one for the
-    screenshare (or active speaker if there is no screenshare).
+    screenshare (or active speaker if there is no screenshare).  You
+    need two monitors plugged in, though, otherwise the mode doesn't
+    work.
 
   * General → Enter full screen automatically when starting or joining
     a meeting → false
@@ -87,12 +86,12 @@ Zoom setup:
 
 OBS setup:
 
-* Clone the `obs-scenes repository
-  <https://github.com/coderefinery/obs-scenes>`__.  This contains some
+* Clone the `obs-config repository
+  <https://github.com/coderefinery/obs-config/>`__.  This contains some
   pre-made scenes which will set your OBS up for teaching nicely.
 
-* Import the TeachingStreaming profile
-  (Profile → Import → ``obs-scenes/profiles/Teaching_Streaming``).  This contains things
+* Import the latest TeachingStreaming profile
+  (Profile → Import → ``obs-config/profiles/TeachingStreaming-v*``).  This contains things
   like audio and encoder settings
 
   * TODO: this may need adjustment for your particular situation.  At
@@ -104,29 +103,21 @@ OBS setup:
 
 * Import the Teaching_Streaming_ZoomCapture scene collection (Scene
   Collection → Import →
-  ``obs-scenes/scenes/Teaching_Streaming_ZoomCapture``).
+  ``obs-scenes/scenes/TeachingStreaming-v*``).
 
 * You now need to configure some window captures, for example, you
   need to tell OBS which window has the gallery of all instructors in
   it.  From the "Scenes"
 
-  * Scene ``_GalleryCapture[hidden]`` → source ``ZoomMeeting-Gallery``
-    right click → Properties → Window → select the Zoom gallery view
-    (for me it is titled "Zoom meeting").  TODO: adjust the size of
-    this window until it fits the pre-made scene [it looks nice and
-    large]
+  * In one of the scenes like ``Screenshare``, change the sources
+    ``ZoomMeetingCapture`` to the window named ZoomMeeting, and the
+    source ``ZoomCapture`` to the window named Zoom.
 
-  * Scene ``_Screenshare-Zoom-Capture[hidden]`` → source
-    ``Zoom-SecondWindow`` right click → Properties → Window → select
-    the Zoom screenshare/active speaker window (for me it is titled
-    only "Zoom").  Adjust the size of this window until it nicely
-    fills the preview pane (the ideal size is 840×1080).
+  * In the scene scene ``Notes``, change the ``HackMDCapture``
+    source to the notes window you are capturing
 
-  * (optional) Scene ``_Hackmd-Capture[hidden]``: similar, select the
-    shared HackMD
-
-  * (optional) Scene ``_Broadcaster-Screen[hidden]``: configure your
-    local desktop capture.
+  * (optional) In the scene scene ``BroadcasterScreen``: configure
+    your local desktop capture.
 
 * Configure the audio
 
@@ -155,9 +146,15 @@ OBS setup:
 * Configure obs-websocket (set the listening socket + authentication).
 
   * Tools → Websocket server settings → {Enable websockets
-    server=true, Server port=(something), Enable authentication=true,
-    Password=something}.  Share your IP address, server port, and
-    password with your other instructors.
+    server=true, Server port=4455, Enable authentication=true,
+    Password=something}.
+
+* Begin the websocket proxy.  This accepts incoming connections with
+  SSL, filters to only allow known safe requests, and then forwards
+  the connection to OBS.  The password authentication is proxied to
+  OBS, so there isn't a separate password set here.  ``python3
+  obs_cr/websocket_proxy.py 127.0.0.1:4456 [other options]``
+
 
 * Allow outside connections.  On of these two:
 
@@ -173,6 +170,9 @@ OBS setup:
     address that you need to share with other instructors.
 
 * Verify the obs-tablet-remote connection (see TODO director-setup).
+
+* Share your IP address, server port, and
+  password with your other instructors.
 
 
 
@@ -193,7 +193,7 @@ Before each day checklist
     * attendee hackmd: 
     * notes hackmd: 
     * live preview: 
-    * control panel:
+    * control panel: 
 
 
 Before each broadcast checklist
@@ -276,6 +276,31 @@ Common problems
   one**.  OBS seems to go by window title.  Try this: Use a different
   browser, or run one of them in private mode (so that the title is
   different).
+
+
+
+Broadcaster practice
+--------------------
+
+1. Start OBS and import the scenes
+2. Start Zoom and configure OBS to capture the Zoom windows.
+3. Now we try to get the control panel working.
+
+   a. Clone obs-cr
+   a. Run obs_cr/websocket_proxy.py with the right arguments
+
+4. Get the local headless client working (this listens to signals and does
+   stuff like run the xdotool command to resize windows or scroll notes.)
+
+   a. obs_cr/headless.py
+
+5. Practice switching scenes
+6. Practice making scene presets and switching to them
+7. Practice scrolling the notes
+8. Use your headphones to monitor the sound (audio advanced settings)
+9. Include the music/jingle in the recorded video.  Now remove it from
+   the recorded video.  (I found it's better to leave it out because
+   it affects transcription.)
 
 
 

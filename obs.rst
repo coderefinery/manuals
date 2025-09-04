@@ -290,11 +290,11 @@ can make some uniform scripting tools):
 * **Gallery**, a gallery of the people presenting (or the one).  When
   presenting from a Zoom meeting, this is a capture of the gallery
   view in dual-monitor mode.
-* **Local** is a local screenshare, that you get by capturing your own
-  screen.
-* **Remote** is a screenshare by someone remote.  If you are capturing
+* **Screenshare** is a screenshare by someone remote.  If you are capturing
   from a Zoom meeting, it is the capture of the second window of the
   dual-monitor mode.
+* **BroadcasterScreen** is a local screenshare, that you get by capturing your own
+  screen.
 * **Notes** is some HackMD or other material you might want to show
   during discussion periods or breaks.
 
@@ -374,7 +374,7 @@ guides:
 High-quality audio is quite important.  I've spent far too long
 playing with it, and my conclusion is that I don't know enough to make
 it better than what I have now.  What I know is in the "instructor
-tech setup, online" page linked above.  I propose a central
+audio" page linked above.  I propose a central
 recommendation: *talk about audio quality*.  Start meetings early and
 test it.  Communicate about problems early, don't ignore and think
 it's "good enough for now".
@@ -409,7 +409,8 @@ monitor or window.
 
 * The **windowed projector** does similar, but makes a new window that
   can be moved and resized.  This can be captured as a single-window
-  screenshare in an online meeting.
+  screenshare in an online meeting.  Or it can be a smaller preview of
+  the scene if the main OBS window is too large for your space.
 
 
 The **loopback output** creates a **virtual camera device**.  This
@@ -432,7 +433,8 @@ Example configurations
 Recording your own demo
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Scenes: Title, Gallery, Local.  Variable bitrate.
+Scenes: Title, Gallery, BroadcasterScreen.  Variable bitrate
+recording.
 
 Online teaching event
 ~~~~~~~~~~~~~~~~~~~~~
@@ -441,9 +443,9 @@ Scenes:
 
 * Title
 * Gallery - contains galleryCapture
-* Local - capture of your screen, when you need to teach.  Has
+* BroadcasterScreen - capture of your screen, when you need to teach.  Has
   galleryCapture in top-right corner
-* Remote: capture of Zoom second window (which has been
+* Screenshare: capture of Zoom second window (which has been
   adjusted to be same resolution as your base canvas size).  Also has
   galleryCapture in top-right corner.
 * Notes: contains HackMD + galleryCapture
