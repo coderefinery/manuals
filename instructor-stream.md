@@ -181,7 +181,7 @@ control the stream, but you don't need to worry about that.
 
 The broadcaster will send the link to you in advance.
 
-:::{figure} img/instructor-livestream--controlpanel.png
+:::{figure} img/instructor-obs--controlpanel.png
 
 The instructor version of the control panel, running on a phone.
 Click the "Fullscreen & wakelock" to make it full screen and not
