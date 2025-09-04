@@ -172,6 +172,23 @@ What do you like about it?
 ```
 
 
+## Control panel
+
+The control panel allows non-verbal communication between instructors.
+It has indicator lights which can be pushed and light up for all
+instructors, and a timer.  It is also how the director and broadcaster
+control the stream, but you don't need to worry about that.
+
+The broadcaster will send the link to you in advance.
+
+:::{figure} img/instructor-livestream--controlpanel.png
+
+The instructor version of the control panel, running on a phone.
+Click the "Fullscreen & wakelock" to make it full screen and not
+powersave.
+:::
+
+
 
 ## See also
 
