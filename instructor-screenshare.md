@@ -23,6 +23,13 @@ else to take it over, or wait for the view to switch to Notes**.  When
 you stop screensharing, the window reverts to "gallery" or "active
 speaker" view which appears directly on stream, which isn't ideal.
 
+:::{figure} img/screenshare/screenshare-size-guide.png
+
+This image can be used as a desktop background to align "share portion
+of screen".  The lighter grey part is what can be shared at our
+portrait-mode ratio.  Beware and adjust if the title bar covers part
+of the light grey area.
+:::
 
 
 ## Screen share examples
