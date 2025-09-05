@@ -70,6 +70,7 @@ lesson-contribution
 obs
 workshop-checklist
 Workshop basic requirements checklist (in person) <workshop-requirements-inperson.md>
+Streamed workshop - classroom checklist <inpersonstream.md>
 Workshop administration (reference) <workshop-administration.md>
 indico/index
 Icebreaker question ideas <icebreakers.md>
