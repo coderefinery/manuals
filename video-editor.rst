@@ -128,7 +128,6 @@ In practice, if things are recorded this way, they are almost never
 released because it is too much work and it never gets done.
 
 
-
 Editing hints
 -------------
 
@@ -147,3 +146,12 @@ Editing hints
   - first with --check
   - then with no other
   - then --reencode
+
+
+Things to find and replace in transcripts
+-----------------------------------------
+These are ideas to search for that may give you ideas for what to
+edit, so you can avoid reading everything:
+
+- Any names
+- `dash`, `dollar`, `hyphen`, `minus`, `slash`
