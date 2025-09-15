@@ -104,7 +104,7 @@ The steps you should take:
       $ ffmpeg-editlist ~/git/2025-03-25-workshop/video-editlist.yaml $PWD -l day5 --srt --reencode
 
 
-4. Push the .yaml to git and push the new .srt file via git.
+5. Push the .yaml to git and push the new .srt file via git.
 
    - Tell the main video manager it's done and they will check,
      encode, and upload to the respective places.
@@ -120,6 +120,7 @@ preparation work and :doc:`video-editing` for the processing work.
 
 In practice, if things are recorded this way, they are almost never
 released because it is too much work and it never gets done.
+
 
 
 Editing hints
