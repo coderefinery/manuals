@@ -26,6 +26,12 @@ Overall priorities
 Modern: livestream method
 -------------------------
 
+.. seealso::
+
+   The train-the-trainer course has a `page giving a tutorial on video
+   processing
+   <https://coderefinery.github.io/train-the-trainer/video-editing/>`__.
+
 Modern livestream courses produce videos without any learners in
 them.  In this case, using
 https://github.com/coderefinery/ffmpeg-editlist is sufficient.  Look
