@@ -133,6 +133,7 @@ Editing hints
 -------------
 
 - https://mpv.io is a command-line video player.
+
   - Hotkey ``O`` (capital letter O) to turn on time display
     permanently
   - Seek with left/right (~10 sec) or up/down (~ 1 minute)
@@ -140,7 +141,9 @@ Editing hints
   - https://github.com/Kr4is/mpv-copy-time - mpv script that lets you copy
     video times with a hotkey.  You might want to edit the hotkey by
     editing the script.
+
 - How to run ffmpeg-editlist:
+
   - first with --check
   - then with no other
   - then --reencode
