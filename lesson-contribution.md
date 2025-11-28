@@ -1,4 +1,5 @@
 (contribution)= 
+(contribute)=
 
 # Lesson contribution guide
 
@@ -7,7 +8,7 @@ Thank you for taking the time to contribute to **CodeRefinery**! All types of co
 We use GitHub issues to communicate things that need to be updated, collect feedback and improvement suggestions. 
 Latest prior to every workshop we go through the issues and implement and resolve at least the urgent ones. 
 
-All our lesson materials are written in Markdown using our own [Sphinx lesson template](https://github.com/coderefinery/sphinx-lesson-template).
+All our lesson materials are written in Markdown using fairly normal Sphinx, like how we teach, with a few extras from our own [Sphinx lesson](https://github.com/coderefinery/sphinx-lesson/) extension.
 
 ## How you can contribute
 
@@ -27,11 +28,13 @@ If you are familiar with git version control and you spot a typo, broken link, o
 * Make your changes: edit or add the content. Please write in Markdown. If adding code or commands, format them properly (use code blocks) and test if applicable.
 * Submit a ***Pull Request***: Once your changes are ready, open a Pull Request (PR) to the main lesson repository. In the PR description, briefly explain your changes and why they improve the lesson. If your contribution closes an existing issue, mention it. CodeRefinery project members will review your PR, provide feedback if needed, and merge it when it’s ready. 
 
+Don't worry about getting the formatting just right.  If you let us know it's not perfect, we can usually quickly fix the synatx.
+
 Tip: If you’re new to this, check out [our lesson on collaborative version control](https://coderefinery.github.io/git-collaborative/).
 
 ### 3. Large edits
 
-You can also add substantial contribution to the lessons, like a new section, improve an explanation, or include an example related to a specific topic. For major new content creation, please open an issue first to discuss your idea with the community, so we can coordinate and avoid overlaps.
+You can also add substantial contribution to the lessons, like a new section, improve an explanation, or include an example related to a specific topic. For major new content creation, please open an issue first to discuss your idea with the community, so we can coordinate and avoid overlaps.  We can't often make big changes, but we accumulate all the ideas and periodically do big updates.  Please don't feel bad if there is a very long period until a reaction.  Our own ideas get collected the same way.
 
 ## Style and content guidelines
 
@@ -39,6 +42,8 @@ To keep the lessons consistent and accessible, please keep these guidelines in m
 
 - Clarity and Tone: Aim for a clear, concise writing style. Explain acronyms or technical terms in simple language so that readers from various backgrounds can follow. Our tone is professional, but not overly formal or technical: think of explaining concepts to a colleague who is not an expert in the topic of any CodeRefinery lesson.
 - Formatting: Write content in Markdown. Use headings and bullet points to organize information logically (as seen in our existing chapters). Keep paragraphs short (3-5 sentences) for readability. When adding code snippets, use code blocks and include comments if needed for explanation. 
+- Target teaching style: Try to keep in mind that different courses remix the materials in different ways.  Don't remove or rearrange lots of material to optimize for one path, instead instructors are expected to pick and choose the episodes (pages) they want to teach.  These bigger arrangements happen during the major development sessions.  (The threshold for adding a new episode isn't so large, if it's an optional episode.)
+- Length: beware of adding too much and increasing the length.  There is always more to add, but there is also a strict time limit.  Most lessons are designed to give learners a taste of the material and be able to do follow up reading.
 - Content Accuracy: Ensure any facts or claims are accurate, ideally with a peer reviewed citation. 
 - Originality and Licensing: Contribute only your own work and do not plagiarize from other texts. By submitting a contribution, you agree that you wrote the content (or have rights to it) and that it can be included under the project’s open license.
 - Privacy Considerations: Your name (or nickname) will be publicly visible and associated to the contribution. Due to the distributed nature of open source projects, you accept that it will be impossible to delete your contribution from the version control history.
