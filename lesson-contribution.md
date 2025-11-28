@@ -10,6 +10,12 @@ Latest prior to every workshop we go through the issues and implement and resolv
 
 All our lesson materials are written in Markdown using fairly normal Sphinx, like how we teach, with a few extras from our own [Sphinx lesson](https://github.com/coderefinery/sphinx-lesson/) extension.
 
+
+## The broad development process
+
+Our lessons are continually in use as a reference (and sometimes taught by others), but it's OK if they continually evolve.  A few times a year our self-hosted big courses happen: during these times, there is rapid development.  Usually, we try to limit to incremental changes during routine times.  Every so often, there is a period of big updates, where we'll look at all the accumulated bigger suggestions, the current state of the art, and what's needed, plan out a new lesson, and then implement it in time for the next course.  A few lessons each year may get this treatment at most.
+
+
 ## How you can contribute
 
 There are three ways to contribute, ordered from the easiest to the most demanding one:
