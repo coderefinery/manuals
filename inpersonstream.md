@@ -17,8 +17,8 @@ CodeRefinery online workshop is usually divided between "Week 1 (Part 1)" which 
 - Local organiser promotes the CR event and specifies there will be an option for doing it together at room xyz
 - People register to the main CR event
     - This is important because that is the main source of knowledge about pre-events (installation help) and other updates.
-- Local organizer (e.g. Enrico) receives list of registered participants that are affiliated with a certain organisation
-- Local organiser sends another registration form to affiliated participants to register to the in-person event (making sure there are enough seats / snacks available). This may also happen in parallel with the general registration. 
+- Optional: Local organizer (e.g. Enrico) receives list of registered participants that are affiliated with a certain organisation. Classroom registration may also run in parallel.
+- Local organiser OR CR team reminds affiliated participants about classrooms and asks to register to the in-person event separately (making sure there are enough seats / snacks available). This may also happen in parallel with the general registration. 
 - Local organiser emails reminder to in-person participants the friday before the coderefinery starts (and details on how to reach the room, accessibility, phone number etc). Local organiser reminds how important it is to pre-install things.
 - If needed: local organiser can offer "come to the room 1h before the streaming starts if you need help with installations"
 
