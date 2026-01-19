@@ -1,7 +1,7 @@
 (how-to-hackmd)=
 # Collaborative document mechanics and controls
 
-[Hackmd](https://hackmd.io) or  [HedgeDoc](https://hedgedoc.org/) are real-time text editor online.  We use it to:
+[Hackmd](https://hackmd.io) or  [HedgeDoc](https://hedgedoc.org/) are real-time text editors online.  We use it to:
 * As a threaded chat, to **answer questions and provide other information** without
   interrupting the main flow of the room.
 * provide everyone with a **more equal opportunity to ask questions**.
@@ -39,7 +39,7 @@ Questions and answers in bullet points
 
 Since we plan to publish the questions and answers later as part
 of the workshop page, we recommend to not use any names. You can indicate
-your own name to make it easier to discuss more during the workshop but
+your own name to make it easier to discuss more during the workshop, but
 then always use this form: `[name=Myname]`. This makes it easier for
 us to automatically remove all names before publishing the notes.
 
@@ -72,10 +72,10 @@ important to keep checking it.
   need to put your name there**.
 
 - The collaborative document will be **published on the website afterwards**.  We will
-  remove all non-instructors names, but it's easier if you don't add
+  remove all non-instructors' names, but it's easier if you don't add
   it there in the first place.
 
-- Please keep the link private during the workshop, since since
+- Please keep the link private during the workshop, since
   security is "editable by those who have the link".
 
 - You can use `[name=YOURNAME]`, to name yourself.  We *will* remove
