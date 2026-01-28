@@ -148,10 +148,15 @@ Editing hints
   - then --reencode
 
 
-Things to find and replace in transcripts
------------------------------------------
-These are ideas to search for that may give you ideas for what to
-edit, so you can avoid reading everything:
+
+Tips for transcript editing
+---------------------------
+
+The transcript doesn't have to be perfect, just useful.  Gramatical
+errors don't really matter much, but things like command line commands
+that are off might be useful to fix.  These are ideas to search for
+that may give you ideas for what to edit, so you can avoid reading
+everything:
 
 - Any names
 - `dash`, `dollar`, `hyphen`, `minus`, `slash`
