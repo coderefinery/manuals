@@ -3,7 +3,7 @@
 
 # Lesson contribution guide
 
-Thank you for taking the time to contribute to **CodeRefinery**! All types of contributions are encouraged and valued. We welcome contributions from everyone (technical experts, legal experts, and newcomers alike).
+Thank you for taking the time to contribute to **CodeRefinery**! All types of contributions are encouraged and valued. We welcome contributions from everyone (technical experts, legal experts, and newcomers alike). In this document we explain how to contribute to CodeRefinery lessons. The most important takeaways are that i) the barrier for contributiong is low and ii) you can always discuss your proposed small (or huge!) changes with the developers of CodeRefinery lessons.
 
 We use GitHub issues to communicate things that need to be updated, collect feedback and improvement suggestions. 
 Latest prior to every workshop we go through the issues and implement and resolve at least the urgent ones. 
