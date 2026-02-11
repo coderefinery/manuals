@@ -18,13 +18,16 @@ You can see a demo of what livestream co-teaching is like here:
 
 ## Starting materials
 
-Read the material in the left sidebar.
+Read the material in the left sidebar, especially under "Instructor
+tools and practices".
 
 Reading elsewhere:
 * [CodeRefinery instructor
   training](https://coderefinery.github.io/train-the-trainer/)
 * [Carpentries instructor training](https://carpentries.github.io/instructor-training/)
 
+Practice session:
+* [CodeRefinery train-the-trainer, streaming practice 1](https://coderefinery.github.io/train-the-trainer/streaming-practice-1/)
 
 
 ## The instructor experience

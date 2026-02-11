@@ -43,6 +43,7 @@ workshop-organizers
 :maxdepth: 1
 
 instructor-intro
+instructor-kickstart
 instructor-checklist
 instructor-computer
 instructor-screenshare

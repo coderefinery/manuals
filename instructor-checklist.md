@@ -27,6 +27,7 @@ See {doc}`team-teaching`
 - Choose a primary for each episode
 - Primary does major lesson review and prepares for teaching
 - Secondary also reviews material and prepares for teaching
+- Make a {doc}`teaching-plan` to an appropriate level of detail.
 - One run-through before the course
 
 
