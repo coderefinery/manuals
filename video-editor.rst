@@ -48,8 +48,14 @@ quality to make it happen quickly than wait a while to get it perfect
 The steps you should take:
 
 1. Decide the total amount of time you will spend.  Probably no more
-   than 2hr per half-day of teaching.
-2. Open the .srt file. (it's a text file, but using a subtitle editor
+   than 2hr per half-day of teaching, and even 1hr or 30 min is enough.
+2. Acquire the raw video files.  These aren't usually made public,
+   even though there's not supposed to be anything private in it.  The
+   brodcaster will tell you how to access it.  You can put the raw
+   video file next to the .srt file to play the video along with the
+   captions.
+
+3. Open the .srt file. (it's a text file, but using a subtitle editor
    is probably worth it)
 
    - It is usually in the `video-processing repository
@@ -66,10 +72,14 @@ The steps you should take:
      you can check.
    - Push it to git.
 
-3. Create the editlist in the .yaml file.
+4. Create the editlist in the .yaml file.
 
    - The .yaml file should be pre-created and is usually in the course
      website repository or video-processing repository.
+   - If it's not pre-created, see
+     [ffmpeg-editlist](https://github.com/coderefinery/ffmpeg-editlist/)
+     and [this example editlist.yaml
+     file](https://github.com/coderefinery/video-processing/blob/master/python-for-scicomp-2024/python-for-scicomp-2024.yaml).
    - Make sure the session is there and has proper descriptions
    - Set the overall cut points for each session, break, and exercise
      (these are relatively easy to find)
@@ -78,7 +88,7 @@ The steps you should take:
      quickly find (important configuration, introducing exercises,
      etc.)
 
-4. If you want, you can try generating the final videos yourself.  But
+5. If you want, you can try generating the final videos yourself.  But
    the video uploader is likely to do this themselves anyway.  Some
    commands below:
 
