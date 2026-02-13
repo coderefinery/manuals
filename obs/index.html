@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Open Broadcaster Software theory &mdash; CodeRefinery manuals  documentation</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/sphinx_rtd_theme_ext_color_contrast.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+
+  
+    <link rel="shortcut icon" href="../_static/coderefinery.ico"/>
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../_static/doctools.js"></script>
+        <script src="../_static/sphinx_highlight.js"></script>
+        <script>let toggleHintShow = 'Click to show';</script>
+        <script>let toggleHintHide = 'Click to hide';</script>
+        <script>let toggleOpenOnPrint = 'true';</script>
+        <script src="../_static/togglebutton.js"></script>
+        <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+        <script data-domain="coderefinery.github.io" defer="defer" src="https://plausible.cs.aalto.fi/js/script.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex/" />
+    <link rel="search" title="Search" href="../search/" />
+    <link rel="next" title="Workshop checklist template" href="../workshop-checklist/" />
+    <link rel="prev" title="Lesson contribution guide" href="../lesson-contribution/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../" class="icon icon-home">
+            CodeRefinery manuals
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Learners</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-stream/">Attending an livestream workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-online/">Attending a Zoom workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-inperson/">Attending an in-person workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../zoom-mechanics/">Zoom mechanics and signals</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../hackmd-mechanics/">Notes mechanics</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Workshop roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../roles-overview/">Roles overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../team-leaders/">Team leaders (Helpers, Exercise leaders)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructors/">(Co-)Instructors</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../notes-manager/">Notes manager</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../expert-helpers/">Expert helpers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../host/">Zoom Host</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../registration-coordinator/">Registration coordinator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../exercise-coordinator/">Exercise coordinator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-marketing/">Workshop marketing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../director/">Director</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../broadcaster/">Broadcaster</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-editor/">Video editor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-organizers/">Workshop organizers</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Instructor tools and practices</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-intro/">Instructor introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-kickstart/">Instructor kickstart program</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-checklist/">Instructor checklists</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-computer/">Instructor computer setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-screenshare/">Instructor screenshare</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-audio/">Instructor audio</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-stream/">Teaching via livestream</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../team-teaching/">Team teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching-plan/">Teaching plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../presenting/">Presentation hints</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../presenting-inperson/">Presentation hints - in person</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Lesson development</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-design/">Lesson design</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-review/">Lesson review checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-contribution/">Lesson contribution guide</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other tools and practices</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Open Broadcaster Software theory</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#vision">Vision</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#basics">Basics</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#user-interface-basics">User interface basics</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#configuration">Configuration</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#basic-configuration">Basic configuration</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#scene-configuration">Scene configuration</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#audio-configuration">Audio configuration</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#recording-and-streaming">Recording and streaming</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#projector-and-loopback-output">Projector and loopback output</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#example-configurations">Example configurations</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#recording-your-own-demo">Recording your own demo</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#online-teaching-event">Online teaching event</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-checklist/">Workshop checklist template</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-requirements-inperson/">Workshop basic requirements checklist (in person)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../inpersonstream/">Streamed workshop - classroom checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-administration/">Workshop administration (reference)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../indico/">Indico registration system</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../icebreakers/">Icebreaker question ideas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-checking/">Video checking OLD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-editing/">Video editing OLD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../online-training/">Online training manual OLD</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Misc</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../online/">Online teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../coderefinery-mooc/">CodeRefinery MOOC strategy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tech-docs/">Writing technical docs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../meeting-checklist/">Meeting checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-prep-call/">Workshop preparation meeting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching-tech-together/">Summary of the book &quot;Teaching Teach Together&quot;</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">About CodeRefinery</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../onboarding/">Onboarding</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../chat/">Chat</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ambassadors/">Ambassadors</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributing/">Contributing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-credits/">Lesson credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../local-breakout-rooms/">Local breakout rooms</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../open-your-courses/">Open your courses to others</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../the-project/">The project</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../governance/">CodeRefinery governance</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../outreach/">Outreach plan</a></li>
+<li class="toctree-l1"><a class="reference external" href="https://github.com/coderefinery/coderefinery-artwork">Logo and artwork</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../">CodeRefinery manuals</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Open Broadcaster Software theory</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/coderefinery/manuals/blob/master/obs.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <div class="section" id="open-broadcaster-software-theory">
+<h1>Open Broadcaster Software theory<a class="headerlink" href="#open-broadcaster-software-theory" title="Permalink to this heading"></a></h1>
+<p>This page describes the theory around OBS.  For practical steps to
+run a course, see <a class="reference internal" href="../broadcaster/"><span class="doc">Broadcaster</span></a>.</p>
+<p>Open Broadcaster Software is an amazing open-source audio/video
+production tool.  It’s probably not professional grade, but is used in
+serious events and will make a non-professional feel professional.
+The main point is that, instead of being limited to what your meeting
+software can do, you can:</p>
+<ul class="simple">
+<li><p>create more advanced mixes of screens/video/etc, without having to
+do post-processing.</p></li>
+<li><p>do more with the (local recording, streaming)</p></li>
+<li><p>do this all better, for example, exclude the audience speaking from
+the recording.</p></li>
+</ul>
+<p>It is a GUI application, so is not that hard to figure out, but there are a
+lot of initial concepts.  This page isn’t a comprehensive tutorial,
+but will introduce the basic concepts and what you can get out of it,
+and you can either figure out the rest or read other tutorials.</p>
+<div class="section" id="vision">
+<h2>Vision<a class="headerlink" href="#vision" title="Permalink to this heading"></a></h2>
+<p>When teaching online, we are usually limited by our online meeting
+software.  This forces us to make certain trade-offs to fit the
+limitations of the software, so that we can’t reach our full
+potential.  By using more advanced technology, we can do more: have
+interactive sessions while also recording and preserving privacy.  For
+more information, see the <a class="reference internal" href="../online/"><span class="doc">online teaching guide</span></a>.</p>
+</div>
+<div class="section" id="basics">
+<h2>Basics<a class="headerlink" href="#basics" title="Permalink to this heading"></a></h2>
+<div class="dropdown admonition">
+<p class="admonition-title">Basic audio/video glossary</p>
+<dl>
+<dt>Open Broadcasting Software (OBS)</dt><dd><p>OBS, whose current implementation is known OBS Studio.  It is a
+multi-platform audio/video mixer, recorder, and streamer.  It
+doesn’t do any editing, but you can flexibly mix stuff when
+producing for a one-shot product.</p>
+</dd>
+<dt>streaming</dt><dd><p>Media which is delivered to the user continuously.  The term
+implies over the Internet.</p>
+</dd>
+<dt>livestreaming</dt><dd><p>Streaming of source that is live, delivered in near real-time.
+Lately, it is popularized by livestreaming games and other
+activities, which provides us a lot of accessible tools to use.</p>
+<p>Livestreaming tools have opened a significant way for anyone to
+be able to interact in real-time with a large audience online.</p>
+</dd>
+<dt>recording</dt><dd><p>Saving the streaming data locally for later use.  And other
+stuff, you probably know this.</p>
+</dd>
+<dt>Twitch</dt><dd><p>A popular livestreaming site.  Popular with gamers, but has all
+kinds of live-streaming events.</p>
+</dd>
+<dt>codec</dt><dd><p>COding and DECoding.  As a noun, the algorithm used to encode
+and decode sound or video.  There are many different codecs,
+with different properties of
+compression, CPU usage, etc.  The codec is independent of the
+program actually used to encode/decode, and also (somewhat, not
+entirely) independent of the container format.</p>
+</dd>
+<dt>container format</dt><dd><p>File format that contains the audio/video data.  There are
+different formats, and the container format is independent of
+the codec of the material inside (but not all codecs work in all
+containers).  There are containers for both streaming and
+recorded media.</p>
+</dd>
+<dt>encoder</dt><dd><p>The program that compresses raw video to the codec for
+distribution.  Of course, there are also decoders.  You need the
+right decoder for each codec, but most things you would use
+these days are widespread.</p>
+</dd>
+<dt>bitrate</dt><dd><p>Amount of data of the media stream over time.  Usually measured in
+Megabits (not bytes, also note the actual unit is
+Megabit/second).  As an example,
+Netflix on mainstream “high” quality is about 5 Mbit, and Twitch
+recommends ~6 Mbit at most.  Netflix on low quality is about .7
+Mbit, but of course all these are for movies, not relatively
+static screenshares.</p>
+<p>The more movement in a scene, the more bitrate required to
+encode that at a constant quality.</p>
+</dd>
+<dt>constant bitrate (CBR)</dt><dd><p>Encoding method where the bitrate does not vary over time.
+There is only a small encoding buffer to handle times with a
+large amount of movement.</p>
+<p>Twitch and other live streaming sites recommend CBR because of
+the way the Internet works.  With a live stream, a constant
+stream of data is needed.  Internet congestion
+control protocols can keep a constant stream going when the
+stream is constant.  If
+there is a sudden increase in instantaneous bitrate (with VBR
+and a section with lots of movement), congestion control
+not be able to keep up and buffers empty, causing lag.</p>
+<p>Similar considerations apply to other playback modes, such as
+embedded devices with limited CPU power, thus the idea of
+encoding “targets” (profiles optimized for certain classes of
+devices).  Mainstream personal computers tend to have enough
+power to decode anything, so this isn’t a major consideration.</p>
+</dd>
+<dt>variable bitrate (VBR)</dt><dd><p>Encoding method where instantaneous bitrate varies depending on
+how much information is needed at each instantaneous point of
+time, to encode the complexity of the current scene.  In x264,
+this is usually done as “CRF”.</p>
+</dd>
+<dt>latency</dt><dd><p>Time delay between two events.  In a livestream, time delay
+between the performer’s actions and the audience seeing it.
+This is caused by countless buffers: encoding buffer, network
+buffers, network transmission time, decoding buffer, etc.  Lower
+latency increases performance demands on the hardware and
+network, so you need to strike a balance.</p>
+<p>On Twitch, “low latency mode” gives you 10-15 seconds of latency.</p>
+</dd>
+<dt>x264</dt><dd><p>A common open-source encoder.  Used as an internal encodign
+backend for many different programs.</p>
+</dd>
+<dt>x264 → crf</dt><dd><p>In x264, a variable bitrate encoding mode (constant rate
+factor).  Values are between 0 and 51, but reasonable values are
+low 20s.  For example, 23 is the default and looks good for all
+practical purposes.</p>
+</dd>
+<dt>Real-time messaging protocol (RTMP)</dt><dd><p>A common protocol for live
+streaming.  It is proprietary, but was later opened and is now
+one of the main standards.</p>
+</dd>
+<dt>HTTP Live Streaming (HLS)</dt><dd><p>The other common streaming protocol.</p>
+</dd>
+</dl>
+</div>
+<div class="section" id="user-interface-basics">
+<h3>User interface basics<a class="headerlink" href="#user-interface-basics" title="Permalink to this heading"></a></h3>
+<p>OBS is a graphical program.  Once you start it up, you see various
+user interface features:</p>
+<div class="figure align-default" id="id1">
+<img alt="../_images/obs--controls.png" src="../_images/obs--controls.png" />
+<p class="caption"><span class="caption-text">Basic OBS control layout</span><a class="headerlink" href="#id1" title="Permalink to this image"></a></p>
+</div>
+<p>Of primary note are the following concepts:</p>
+<dl>
+<dt>Preview area</dt><dd><p>Shows what is currently being broadcasted or recorded, or will be
+if you turn it on.  There is also a separate “Studio mode” with a
+preview area, and live area.  The preview area is used to prepare
+the stream, you can make it live when you want.</p>
+</dd>
+<dt>Scenes</dt><dd><p>A certain layout that can be broadcasted.  On the lower left is
+your scene collection, and you can add, delete, reorder, and rename
+scenes.  By clicking on a scene, you switch to it and it begins
+broadcasting/recording.</p>
+</dd>
+<dt>Sources</dt><dd><p>An image source which can be composed together in a scene.  Scenes
+can be added, deleted, recorded.  Via the preview area, sources can
+be graphically moved around to your liking.  There is a
+comprehensive set of positional and image effect transforms you can
+make.</p>
+<p>Sources can have <strong>filters</strong> applied to them, which do some sort of
+video transformation (for example, background removal).  There are
+also <strong>transformations</strong>, which affect the position in the scene.
+Put together, you can do almost anything you would like.</p>
+</dd>
+<dt>Audio sources</dt><dd><p>You can take audio input from various sources: mainly, microphones
+or as a monitor of a computer audio device (to, for example, play
+sound).  Audio sources are configured in settings, but can be
+muted/have volume adjusted in the respective area of the screen.</p>
+<p>Audio sources also have <strong>filters</strong>.</p>
+</dd>
+<dt>Control buttons</dt><dd><p>There are buttons to start/stop recording/streaming.  The output
+locations are configured in the settings.</p>
+</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="configuration">
+<h2>Configuration<a class="headerlink" href="#configuration" title="Permalink to this heading"></a></h2>
+<p>Here, we will go over the main parts of configuration.  We won’t say
+everything, since this is graphical program and you can mostly click
+around and find your own customization you would like.</p>
+<p>Because of the popularity of streaming, it is easy to find more
+tutorials and recommendations for anything here.  Add “streaming” or
+“OBS” to your search.</p>
+<div class="section" id="basic-configuration">
+<h3>Basic configuration<a class="headerlink" href="#basic-configuration" title="Permalink to this heading"></a></h3>
+<p>These options are found in the “Settings” dialog.  These are just
+generally suggested defaults and when you might want to tone them.</p>
+<dl>
+<dt>File → Settings → Stream</dt><dd><p>Here, you would configure the streaming service, if any.</p>
+</dd>
+<dt>File → Settings → Output</dt><dd><p>Here, you configure streaming/recording output parameters.</p>
+<p>If you use <strong>Simple</strong>, you pretty much can’t go wrong.  If you are
+mainly screensharing and don’t have much action video, you can
+make the bitrate much lower, for example 1500 Kbps.  The slower
+“encoder preset” is, the more CPU power that will be spent to get
+that quality, so the less space it will use.  The better your CPU
+is, the slower you can make it; “fast” to “slow” are reasonable.</p>
+<p>If you use <strong>advanced</strong> you have more options:</p>
+<p>Streaming: Rate control=CBR, 1500 Kbps, other options don’t matter
+so much, defaults should be fine.  You can search for
+recommendations online, but realize that most others stream
+high-action games so their settings are much higher than you need.</p>
+<p>Recording: Recording format, mkv (mp4 is completely unusable if
+the recording dies, mkv can be uploaded to youtube if it has a
+supported coder inside of it). Encoder=x264,
+Rate control=CRF, CRF=22, Keyframe interval=auto, CPU
+preset=medium (or slower, for better CPUs)
+(slower=use more CPU to do better
+encoding, either higher quality or lower bitrate.  Veryfast–Slow
+is a good range),
+Profile=main, Tune=None</p>
+<p>If you use the streaming encoder for the recording, then it will
+only have to encode it once and it will save CPU power.</p>
+</dd>
+<dt>File → Settings → Video</dt><dd><p>Here, you set the base size of the picture you will be using.
+You could do FullHD at 1920x1080.  For vertical
+recording, we recommend you do 840x1080.  Use your chosen value
+for both Base and Output resolutions.  30 FPS.</p>
+<p>When setting your video size, traditionally people tell you to be
+as large as possible (to attract viewers).  However, this guide is
+focused on teaching
+and learning, and for that a) we want our content to be as
+accessible as possible.  There is no need for as many pixels as
+possible, as we often say “present from your smallest screen”, and
+you can do that by artificially restricting yourself.  b) We have
+found a vertical screen works well: a learner can have the
+video/stream taking up half of their screen, and the other half
+available for doing their own work.</p>
+</dd>
+</dl>
+<p>Click around through the other menus in settings and see if there is
+anything to configure to your own needs.</p>
+</div>
+<div class="section" id="scene-configuration">
+<h3>Scene configuration<a class="headerlink" href="#scene-configuration" title="Permalink to this heading"></a></h3>
+<p>After the above, you can set up scenes basically however you would
+like.  However, as a starting point I propose these scenes to get you
+started (and I propose we standardize on these names, so that we
+can make some uniform scripting tools):</p>
+<ul class="simple">
+<li><p><strong>Title</strong>, the logos and titles of the event.</p></li>
+<li><p><strong>Gallery</strong>, a gallery of the people presenting (or the one).  When
+presenting from a Zoom meeting, this is a capture of the gallery
+view in dual-monitor mode.</p></li>
+<li><p><strong>Screenshare</strong> is a screenshare by someone remote.  If you are capturing
+from a Zoom meeting, it is the capture of the second window of the
+dual-monitor mode.</p></li>
+<li><p><strong>BroadcasterScreen</strong> is a local screenshare, that you get by capturing your own
+screen.</p></li>
+<li><p><strong>Notes</strong> is some HackMD or other material you might want to show
+during discussion periods or breaks.</p></li>
+</ul>
+<p>Common types of sources (scene elements) include:</p>
+<ul class="simple">
+<li><p>Static image (e.g. logo or background)</p></li>
+<li><p>Desktop capture, for your local desktop.  You can crop it (in the
+source config) to share only a portion of your desktop.</p></li>
+<li><p>Single-window capture.  Note that this is smarter than Zoom,
+since it can capture the full window even if is not on top.</p></li>
+<li><p>Text (which works, but is not very powerful)</p></li>
+<li><p>Solid colors</p></li>
+<li><p>Other scenes.  You can make one scene, then insert it into other
+scenes to avoid duplication of scene elements scene elements.</p></li>
+</ul>
+<p>The sources themselves can be moved around graphically, which is good for
+setting things up.  When there are more demanding needs, the source
+transformation can be edited for more precise control (right click on
+source in preview → edit transformation).  There are
+source <em>filters</em>, which can do video effects such as removing a color.
+Some sources can be cropped in the source-specific config as well.</p>
+</div>
+<div class="section" id="audio-configuration">
+<h3>Audio configuration<a class="headerlink" href="#audio-configuration" title="Permalink to this heading"></a></h3>
+<p>Audio configuration is simpler than video configuration, since there
+are fewer different sources.  On the other hand, it is harder to
+see what is going on (no preview) so it is harder to adjust it
+perfectly, and easier to cause problems like loops.</p>
+<p>The main concept is that your computer may have different input and
+output sound devices (“cards”).  For example, I can output sound from
+some application on my monitor’s speakers, while sound from other
+applications on the headphones at the same time.  Find your computer’s
+way to see and configure what is going on under the hood.</p>
+<p>There are two types of audio inputs:</p>
+<ul class="simple">
+<li><p><strong>Microphones</strong>, obviously recording from a microphone.</p></li>
+<li><p><strong>Monitors</strong> (as in, monitor a sound card), recording what is
+currently being played on another
+sound card.  This is what is used to capture audio from a remote
+meeting, such as Zoom.</p></li>
+</ul>
+<p>You set the active audio input in the application settings.  The
+volumes of these can be independently adjusted - you want typical
+volume to be in the yellow zone.  Advice for various operating systems
+include:</p>
+<ul class="simple">
+<li><p>Linux using PulseAudio: <code class="docutils literal notranslate"><span class="pre">pavucontrol</span></code> (GUI) or <code class="docutils literal notranslate"><span class="pre">pulsemixer</span></code>
+(terminal)</p></li>
+<li><p>Windows: ???</p></li>
+<li><p>MacOS: ???</p></li>
+</ul>
+<p>Under “advanced audio properties” (a menu item, also available from
+the gear icon in the audio area) you have several more options.</p>
+<ul class="simple">
+<li><p>You can add various filters, such as noise reduction.</p></li>
+<li><p>You can group audio sources into various <strong>audio tracks</strong>, and the
+stream/recordings can use different tracks.  For example, a person
+may stream with music but leave that out of the recorded video.  Or,
+you might record a video with two different audio tracks, one just
+the presenter and one with presenter + audience.</p></li>
+<li><p>You can monitor the audio, which plays what is being recorded back
+over the headphones and speakers for you to check.  Make sure you
+don’t make any loops!</p></li>
+</ul>
+<p>Audio configuration is a big deal.  You can look at these other
+guides:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="../instructor-audio/"><span class="doc">Instructor audio</span></a></p></li>
+<li><p>???</p></li>
+</ul>
+<p>High-quality audio is quite important.  I’ve spent far too long
+playing with it, and my conclusion is that I don’t know enough to make
+it better than what I have now.  What I know is in the “instructor
+audio” page linked above.  I propose a central
+recommendation: <em>talk about audio quality</em>.  Start meetings early and
+test it.  Communicate about problems early, don’t ignore and think
+it’s “good enough for now”.</p>
+</div>
+<div class="section" id="recording-and-streaming">
+<h3>Recording and streaming<a class="headerlink" href="#recording-and-streaming" title="Permalink to this heading"></a></h3>
+<p>Once you have done the above, you can record and stream by clicking
+the buttons.</p>
+<p>One piece of advice: always keep the recording going, and then
+stop/restart it when you need to cut.  It’s easier to delete the
+unnecessary segments than realize you forgot to push “record”.</p>
+</div>
+<div class="section" id="projector-and-loopback-output">
+<h3>Projector and loopback output<a class="headerlink" href="#projector-and-loopback-output" title="Permalink to this heading"></a></h3>
+<p>Beyond recording and streaming, there are several more ways to use the
+output that can feed into other applications.</p>
+<p>With <strong>projectors</strong> you can display the scene locally on another
+monitor or window.</p>
+<ul class="simple">
+<li><p>The <strong>fullscreen projector</strong> displays the scene to a monitor.  As
+the name says, this could be used to send it to an external
+projector or capture card via HDMI.  Or even preview locally, or
+screenshared in an online meeting.</p></li>
+<li><p>The <strong>windowed projector</strong> does similar, but makes a new window that
+can be moved and resized.  This can be captured as a single-window
+screenshare in an online meeting.  Or it can be a smaller preview of
+the scene if the main OBS window is too large for your space.</p></li>
+</ul>
+<p>The <strong>loopback output</strong> creates a <strong>virtual camera device</strong>.  This
+appears to other applications as a camera, just like the camera that
+captures your video.
+Other applications can use this as the input just like another
+webcam.  So, you could make a fancy scene that is used instead of your
+normal camera’s picture.
+Or, in Zoom you can share screen from “second camera” -
+which would use this scene.  (Note in Zoom it will interpret it as a
+landscape picture, regardless of what aspect ration you actually use.
+Thus, this isn’t very suitable for vertical screen sharing.)</p>
+</div>
+</div>
+<div class="section" id="example-configurations">
+<h2>Example configurations<a class="headerlink" href="#example-configurations" title="Permalink to this heading"></a></h2>
+<div class="section" id="recording-your-own-demo">
+<h3>Recording your own demo<a class="headerlink" href="#recording-your-own-demo" title="Permalink to this heading"></a></h3>
+<p>Scenes: Title, Gallery, BroadcasterScreen.  Variable bitrate
+recording.</p>
+</div>
+<div class="section" id="online-teaching-event">
+<h3>Online teaching event<a class="headerlink" href="#online-teaching-event" title="Permalink to this heading"></a></h3>
+<p>Scenes:</p>
+<ul class="simple">
+<li><p>Title</p></li>
+<li><p>Gallery - contains galleryCapture</p></li>
+<li><p>BroadcasterScreen - capture of your screen, when you need to teach.  Has
+galleryCapture in top-right corner</p></li>
+<li><p>Screenshare: capture of Zoom second window (which has been
+adjusted to be same resolution as your base canvas size).  Also has
+galleryCapture in top-right corner.</p></li>
+<li><p>Notes: contains HackMD + galleryCapture</p></li>
+<li><p>galleryCapture - contains the Zoom gallery capture.  This gets
+inserted into the other scenes above.</p></li>
+</ul>
+<p>Audio:</p>
+<ul class="simple">
+<li><p>Microphone capture</p></li>
+<li><p>Monitor of sound card which has the Zoom output</p></li>
+</ul>
+<p>Outputs:</p>
+<ul class="simple">
+<li><p>Recorded locally.  Start and restart recording after every
+transition that you would want to publish separately. (Better to cut
+more than less, to have logically organized shorter segments.  Also,
+always keep it recording, in case you forget to turn it back on!).</p></li>
+<li><p>Stream to your preferred site.</p></li>
+<li><p>Use windowed projector or Zoom capture to send the output directly
+to a Zoom meeting.  But, that requires careful audio routing.</p></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../lesson-contribution/" class="btn btn-neutral float-left" title="Lesson contribution guide" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../workshop-checklist/" class="btn btn-neutral float-right" title="Workshop checklist template" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2018-2023, The CodeRefinery team.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

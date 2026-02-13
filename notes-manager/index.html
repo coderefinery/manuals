@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Notes manager &mdash; CodeRefinery manuals  documentation</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/sphinx_rtd_theme_ext_color_contrast.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+
+  
+    <link rel="shortcut icon" href="../_static/coderefinery.ico"/>
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../_static/doctools.js"></script>
+        <script src="../_static/sphinx_highlight.js"></script>
+        <script>let toggleHintShow = 'Click to show';</script>
+        <script>let toggleHintHide = 'Click to hide';</script>
+        <script>let toggleOpenOnPrint = 'true';</script>
+        <script src="../_static/togglebutton.js"></script>
+        <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+        <script data-domain="coderefinery.github.io" defer="defer" src="https://plausible.cs.aalto.fi/js/script.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex/" />
+    <link rel="search" title="Search" href="../search/" />
+    <link rel="next" title="Expert helpers" href="../expert-helpers/" />
+    <link rel="prev" title="(Co-)Instructors" href="../instructors/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../" class="icon icon-home">
+            CodeRefinery manuals
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Learners</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-stream/">Attending an livestream workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-online/">Attending a Zoom workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-inperson/">Attending an in-person workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../zoom-mechanics/">Zoom mechanics and signals</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../hackmd-mechanics/">Notes mechanics</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Workshop roles</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../roles-overview/">Roles overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../team-leaders/">Team leaders (Helpers, Exercise leaders)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructors/">(Co-)Instructors</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Notes manager</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#before-the-workshop">Before the workshop</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#general-practices-for-everyone">General practices (for everyone)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#notes-format-example">Notes format example</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#posting-notes-to-website">Posting Notes to website</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#feedback-template">Feedback template</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../expert-helpers/">Expert helpers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../host/">Zoom Host</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../registration-coordinator/">Registration coordinator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../exercise-coordinator/">Exercise coordinator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-marketing/">Workshop marketing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../director/">Director</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../broadcaster/">Broadcaster</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-editor/">Video editor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-organizers/">Workshop organizers</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Instructor tools and practices</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-intro/">Instructor introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-kickstart/">Instructor kickstart program</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-checklist/">Instructor checklists</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-computer/">Instructor computer setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-screenshare/">Instructor screenshare</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-audio/">Instructor audio</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-stream/">Teaching via livestream</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../team-teaching/">Team teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching-plan/">Teaching plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../presenting/">Presentation hints</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../presenting-inperson/">Presentation hints - in person</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Lesson development</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-design/">Lesson design</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-review/">Lesson review checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-contribution/">Lesson contribution guide</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other tools and practices</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../obs/">Open Broadcaster Software theory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-checklist/">Workshop checklist template</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-requirements-inperson/">Workshop basic requirements checklist (in person)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../inpersonstream/">Streamed workshop - classroom checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-administration/">Workshop administration (reference)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../indico/">Indico registration system</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../icebreakers/">Icebreaker question ideas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-checking/">Video checking OLD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-editing/">Video editing OLD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../online-training/">Online training manual OLD</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Misc</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../online/">Online teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../coderefinery-mooc/">CodeRefinery MOOC strategy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tech-docs/">Writing technical docs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../meeting-checklist/">Meeting checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-prep-call/">Workshop preparation meeting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching-tech-together/">Summary of the book &quot;Teaching Teach Together&quot;</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">About CodeRefinery</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../onboarding/">Onboarding</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../chat/">Chat</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ambassadors/">Ambassadors</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributing/">Contributing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-credits/">Lesson credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../local-breakout-rooms/">Local breakout rooms</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../open-your-courses/">Open your courses to others</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../the-project/">The project</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../governance/">CodeRefinery governance</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../outreach/">Outreach plan</a></li>
+<li class="toctree-l1"><a class="reference external" href="https://github.com/coderefinery/coderefinery-artwork">Logo and artwork</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../">CodeRefinery manuals</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Notes manager</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/coderefinery/manuals/blob/master/notes-manager.md" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <div class="section" id="notes-manager">
+<h1>Notes manager<a class="headerlink" href="#notes-manager" title="Permalink to this heading"></a></h1>
+<p>The “Notes” are the way we communicate in the workshop.  We have a
+manager for them.  This isn’t the only person that should edit and
+answer, but hopefully one person can focus on it each day of the
+workshop.  They make sure it stays up to date when others may be too
+busy managing other things.</p>
+<p>“Notes” used to be called “HackMD” (or “collaborative document”).  To
+be consistent, please call it “Notes”.</p>
+<p>Below, (*) = important.</p>
+<div class="section" id="before-the-workshop">
+<h2>Before the workshop<a class="headerlink" href="#before-the-workshop" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Create a blank notes document and fill it with the template.</p></li>
+<li><p>Create a archive place on HackMD to store the overflow.  This should
+be writeable only by owners.</p></li>
+<li><p>Make sure that <strong>editing is enabled for anyone without login</strong></p></li>
+<li><p>Add workshop information, links to the workshop page and material
+and an example question and answer to the top of the hackmd (see below)</p></li>
+</ul>
+</div>
+<div class="section" id="general-practices-for-everyone">
+<h2>General practices (for everyone)<a class="headerlink" href="#general-practices-for-everyone" title="Permalink to this heading"></a></h2>
+<div class="figure align-right" id="id1">
+<img alt="../_images/hackmd--full-demo.png" src="../_images/hackmd--full-demo.png" />
+<p class="caption"><span class="caption-text">A live demo of Notes during a Q&amp;A time.  The two instructors are
+discussing some of the import answers.  Multiple learners have asked
+questions, multiple answers, and some remaining to be answered</span><a class="headerlink" href="#id1" title="Permalink to this image"></a></p>
+</div>
+<p>Keep it looking good so that it’s easy to post after the course and
+consistent:</p>
+<ul class="simple">
+<li><p>Remove all names or at least tag them with <code class="docutils literal notranslate"><span class="pre">[name=XXX]</span></code> (so they can
+be found and removed later), and remove other personal data.</p></li>
+<li><p>Add in information on exercises, breaks, etc (new section for them, link, end
+time, what to accomplish)</p></li>
+<li><p>Make a logical section structure (<code class="docutils literal notranslate"><span class="pre">#</span></code> for title, <code class="docutils literal notranslate"><span class="pre">##</span></code> for lessons,
+<code class="docutils literal notranslate"><span class="pre">###</span></code> for episodes, etc. - or what makes sense)</p></li>
+</ul>
+<p>Keep it formatted well:</p>
+<ul class="simple">
+<li><p>(*) Tag names you see with <code class="docutils literal notranslate"><span class="pre">[name=XXX]</span></code> so that we can remove it
+later.</p></li>
+<li><p>Heading level <code class="docutils literal notranslate"><span class="pre">#</span></code> is only the page title</p></li>
+<li><p>Add a new <code class="docutils literal notranslate"><span class="pre">##</span></code> heading when a new <em>lesson</em> or similar thing is
+started (introduction, icebreaker, break between lessons, etc)</p></li>
+<li><p>Add a new <code class="docutils literal notranslate"><span class="pre">###</span></code> heading when a new <em>episode</em>, <em>exercise</em>, <em>break</em>
+(within exercise session)</p></li>
+<li><p>Ensure people are asking questions at the bottom, direct them there
+if they aren’t.</p></li>
+<li><p>(*) Ensure each question is a bullet point.  Each answer or follow-up
+should be a bullet point below.</p>
+<ul>
+<li><p>Should you use more deeply nested bullet points, or have only one
+level below the initial question?  It depends on the context, but
+if a conversation goes on too long, try not to let it go too
+deep.</p></li>
+</ul>
+</li>
+<li><p>If using numbered questions, leave a blank line between numbers (so
+that pushing enter after a line doesn’t increment following
+numbers).</p></li>
+</ul>
+<p>Update with meta-talk, so that learners can follow along easily:</p>
+<ul class="simple">
+<li><p>Add Icebreaker and introductory material of the day.  Try to talk to
+people as they joined to get them to open the Notes and answer.</p></li>
+<li><p>Anything important for following along should not be only said via
+voice.  It needs to be in the Notes, too.</p></li>
+<li><p>New lessons or episodes, with links to them.</p></li>
+<li><p>For exercises, link to exercise and add the duration, end time,
+goals.  If these are unclear, bring it up to the instructor by voice.</p></li>
+<li><p>Add a status display about breaks.</p></li>
+</ul>
+<p>Screenshare it when necessary:</p>
+<ul class="simple">
+<li><p>During breaks and other times, share the Notes (including the
+notification about break, and when it ends).</p></li>
+<li><p>It is nice if the arrangement allows some of the latest questions to
+be seen, so people are reminded to ask there.</p></li>
+<li><p>Someone else may do this, but should make sure it happens.</p></li>
+</ul>
+<p>Answer questions:</p>
+<ul class="simple">
+<li><p>If there is an question that should be answered by the instructor by
+voice, bring it up (by voice) to the instructor immediately.</p></li>
+<li><p>During breakout sessions, watch for Notes notifications about
+breakout rooms that need help
+and direct someone to that room.</p></li>
+<li><p>How soon do you answer questions? Two points of view:</p>
+<ul>
+<li><p>Answer questions right away: can be really intense to follow.</p></li>
+<li><p>Wait some so that we don’t overload learners: reduces the info
+flow.  But then do people need to check back more often.</p></li>
+<li><p>You need to find your own balance.  Maybe a quick answer right
+away, and more detailed later.  Or delay answers during the most
+important parts of the lecture.</p></li>
+</ul>
+</li>
+<li><p>Avoid wall-of-text answers.  If reading an answer takes too long, it
+puts the person (and other people who even try to read it) behind
+even more by taking up valuable mental energy.  If an answer needs a
+wall of text, consider these alternatives:</p>
+<ul>
+<li><p>Progressive bullet points getting more detailed (first ones
+useful alone for basic cases)</p></li>
+<li><p>Don’t be worried to say “don’t worry about this now, let’s talk
+later.”</p></li>
+<li><p>Figure out the root problem instead of answering every possible
+interpretation</p></li>
+<li><p>Declare it advanced and that you will come back later.</p></li>
+</ul>
+</li>
+</ul>
+<p>Archive if it gets too long:</p>
+<ul class="simple">
+<li><p>If it gets too long, the interaction starts lagging.  In this case,
+copy old material (generally everything before the current
+episode/lesson and possibly the previous one) to the archive
+document.  Make sure it’s linked at the top.</p></li>
+</ul>
+<p>Ensure it can be posted quickly:</p>
+<ul class="simple">
+<li><p>Notes gets posted to the workshop webpage.  For this, it needs some
+minimal amount of formatting (it doesn’t need to be perfect, just
+not horrible).</p></li>
+<li><p>All names and private information needs to be stripped.  This is why
+you should rigorously remove or tag all names with <code class="docutils literal notranslate"><span class="pre">[name=XXX]</span></code> so
+they can be removed (see above).</p>
+<ul>
+<li><p>Learner names can be completely removed.  CR staff names can be
+<code class="docutils literal notranslate"><span class="pre">[name=CR]</span></code> or something similar.</p></li>
+<li><p>There may be other private URLs (e.g. Github repo links).</p></li>
+</ul>
+</li>
+<li><p>If possible, send the PR adding the Notes to the workshop webpage
+(though others can do this, too).</p></li>
+</ul>
+</div>
+<div class="section" id="notes-format-example">
+<h2>Notes format example<a class="headerlink" href="#notes-format-example" title="Permalink to this heading"></a></h2>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="c1"># Workshop, day 1</span>
+
+
+<span class="c1">## Lesson name</span>
+<span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">coderefinery</span><span class="o">.</span><span class="n">github</span><span class="o">.</span><span class="n">io</span><span class="o">/</span><span class="n">lesson</span><span class="o">/</span>
+
+<span class="c1">### Episode name</span>
+<span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">coderefinery</span><span class="o">.</span><span class="n">github</span><span class="o">.</span><span class="n">io</span><span class="o">/</span><span class="mi">01</span><span class="o">-</span><span class="n">episode</span><span class="o">/</span>
+
+<span class="o">-</span> <span class="n">This</span> <span class="ow">is</span> <span class="n">a</span> <span class="n">question</span>
+  <span class="o">-</span> <span class="n">Anwser</span>
+  <span class="o">-</span> <span class="n">More</span> <span class="n">detailed</span> <span class="n">answer</span>
+<span class="o">-</span> <span class="n">question</span>
+  <span class="o">-</span> <span class="n">answer</span>
+
+<span class="c1">### Exercises:</span>
+<span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">link</span><span class="o">-</span><span class="n">to</span><span class="o">-</span><span class="n">exercise</span><span class="o">/.../.../</span><span class="c1">#section</span>
+<span class="mi">20</span> <span class="n">minutes</span><span class="p">,</span> <span class="n">until</span> <span class="n">xx</span><span class="p">:</span><span class="mi">45</span>
+<span class="n">Try</span> <span class="n">to</span> <span class="n">accomplish</span> <span class="nb">all</span> <span class="n">of</span> <span class="n">points</span> <span class="mi">1</span><span class="o">-</span><span class="mf">3.</span>  <span class="n">Parts</span> <span class="mi">4</span><span class="o">-</span><span class="mi">5</span> <span class="n">are</span> <span class="n">optional</span><span class="o">.</span>
+
+<span class="n">Breakout</span> <span class="n">room</span> <span class="n">status</span><span class="p">:</span>
+<span class="o">-</span> <span class="n">room</span> <span class="mi">2</span><span class="p">,</span> <span class="n">need</span> <span class="n">help</span> <span class="k">with</span> <span class="n">Linux</span> <span class="n">permissions</span>
+<span class="o">-</span> <span class="n">room</span> <span class="mi">5</span><span class="p">,</span> <span class="n">done</span>
+
+<span class="c1">### Break</span>
+<span class="p">:::</span><span class="n">danger</span>
+<span class="n">We</span> <span class="n">are</span> <span class="n">on</span> <span class="n">a</span> <span class="mi">10</span> <span class="n">minute</span> <span class="k">break</span> <span class="n">until</span> <span class="n">xx</span><span class="p">:</span><span class="mi">10</span>
+<span class="p">:::</span>
+
+
+<span class="c1">## Lesson 2</span>
+<span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">coderefinery</span><span class="o">.</span><span class="n">github</span><span class="o">.</span><span class="n">io</span><span class="o">/</span><span class="n">lesson</span><span class="o">-</span><span class="mi">2</span><span class="o">/</span>
+
+</pre></div>
+</div>
+</div>
+<div class="section" id="posting-notes-to-website">
+<h2>Posting Notes to website<a class="headerlink" href="#posting-notes-to-website" title="Permalink to this heading"></a></h2>
+<p>Notes should be posted sooner rather than later, and hopefully the
+steps above will make it easy to do so quickly.  You could wait a few
+hours, to allow any remaining questions to be asked an answered.</p>
+<ul class="simple">
+<li><p>Download as markdown</p></li>
+<li><p>Remove any private links at the top</p></li>
+<li><p>Adjust headings so that they are reasonable</p></li>
+<li><p>Look for private info and remove it</p>
+<ul>
+<li><p>Search document for <code class="docutils literal notranslate"><span class="pre">[name=???]</span></code>  (change to <code class="docutils literal notranslate"><span class="pre">[name=staff]</span></code> or
+<code class="docutils literal notranslate"><span class="pre">[name=learner]</span></code>)</p></li>
+<li><p>Any names not tagged with <code class="docutils literal notranslate"><span class="pre">[name=]</span></code></p></li>
+<li><p>usernames in URLs</p></li>
+<li><p>private links</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="feedback-template">
+<h2>Feedback template<a class="headerlink" href="#feedback-template" title="Permalink to this heading"></a></h2>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="c1">## Feedback, day N</span>
+
+<span class="p">:::</span><span class="n">info</span>
+<span class="c1">### News for day N+1</span>
+<span class="o">-</span> <span class="o">.</span>
+<span class="o">-</span> <span class="o">.</span>
+<span class="p">:::</span>
+
+<span class="c1">### Today was (multi-answer):</span>
+<span class="o">-</span> <span class="n">too</span> <span class="n">fast</span><span class="p">:</span> 
+<span class="o">-</span> <span class="n">just</span> <span class="n">right</span><span class="p">:</span> 
+<span class="o">-</span> <span class="n">too</span> <span class="n">slow</span><span class="p">:</span> 
+<span class="o">-</span> <span class="n">too</span> <span class="n">easy</span><span class="p">:</span> 
+<span class="o">-</span> <span class="n">right</span> <span class="n">level</span><span class="p">:</span> 
+<span class="o">-</span> <span class="n">too</span> <span class="n">advanced</span><span class="p">:</span> 
+<span class="o">-</span> <span class="n">I</span> <span class="n">would</span> <span class="n">recommend</span> <span class="n">this</span> <span class="n">course</span> <span class="n">to</span> <span class="n">others</span><span class="p">:</span> 
+<span class="o">-</span> <span class="n">Exercises</span> <span class="n">were</span> <span class="n">good</span><span class="p">:</span> 
+<span class="o">-</span> <span class="n">I</span> <span class="n">would</span> <span class="n">recommend</span> <span class="n">today</span> <span class="n">to</span> <span class="n">others</span><span class="p">:</span> 
+<span class="o">-</span> <span class="n">I</span> <span class="n">wouldn</span><span class="s1">&#39;t recommend today: </span>
+
+<span class="c1">### One good thing about today:</span>
+<span class="o">-</span> <span class="o">...</span>
+<span class="o">-</span> <span class="o">...</span>
+
+<span class="c1">### One thing to be improved for next time:</span>
+<span class="o">-</span> <span class="o">...</span>
+<span class="o">-</span> <span class="o">...</span>
+
+<span class="c1">### Any other comments:</span>
+<span class="o">-</span> <span class="o">...</span>
+<span class="o">-</span> <span class="o">...</span>
+</pre></div>
+</div>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../instructors/" class="btn btn-neutral float-left" title="(Co-)Instructors" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../expert-helpers/" class="btn btn-neutral float-right" title="Expert helpers" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2018-2023, The CodeRefinery team.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

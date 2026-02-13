@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Team teaching &mdash; CodeRefinery manuals  documentation</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/sphinx_rtd_theme_ext_color_contrast.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+
+  
+    <link rel="shortcut icon" href="../_static/coderefinery.ico"/>
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../_static/doctools.js"></script>
+        <script src="../_static/sphinx_highlight.js"></script>
+        <script>let toggleHintShow = 'Click to show';</script>
+        <script>let toggleHintHide = 'Click to hide';</script>
+        <script>let toggleOpenOnPrint = 'true';</script>
+        <script src="../_static/togglebutton.js"></script>
+        <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+        <script data-domain="coderefinery.github.io" defer="defer" src="https://plausible.cs.aalto.fi/js/script.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex/" />
+    <link rel="search" title="Search" href="../search/" />
+    <link rel="next" title="Teaching plan" href="../teaching-plan/" />
+    <link rel="prev" title="Teaching via livestream" href="../instructor-stream/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../" class="icon icon-home">
+            CodeRefinery manuals
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Learners</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-stream/">Attending an livestream workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-online/">Attending a Zoom workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-inperson/">Attending an in-person workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../zoom-mechanics/">Zoom mechanics and signals</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../hackmd-mechanics/">Notes mechanics</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Workshop roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../roles-overview/">Roles overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../team-leaders/">Team leaders (Helpers, Exercise leaders)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructors/">(Co-)Instructors</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../notes-manager/">Notes manager</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../expert-helpers/">Expert helpers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../host/">Zoom Host</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../registration-coordinator/">Registration coordinator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../exercise-coordinator/">Exercise coordinator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-marketing/">Workshop marketing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../director/">Director</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../broadcaster/">Broadcaster</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-editor/">Video editor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-organizers/">Workshop organizers</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Instructor tools and practices</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../instructor-intro/">Instructor introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-kickstart/">Instructor kickstart program</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-checklist/">Instructor checklists</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-computer/">Instructor computer setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-screenshare/">Instructor screenshare</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-audio/">Instructor audio</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-stream/">Teaching via livestream</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Team teaching</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#basics">Basics</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#model-1-guide-and-demo-giver-talker-and-typer">Model 1: Guide and demo-giver (talker and typer)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#model-2-interviewer-and-expert">Model 2: Interviewer and expert</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#model-3-teacher-and-student">Model 3: Teacher and student</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#hints">Hints</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#preparation">Preparation</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching-plan/">Teaching plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../presenting/">Presentation hints</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../presenting-inperson/">Presentation hints - in person</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Lesson development</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-design/">Lesson design</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-review/">Lesson review checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-contribution/">Lesson contribution guide</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other tools and practices</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../obs/">Open Broadcaster Software theory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-checklist/">Workshop checklist template</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-requirements-inperson/">Workshop basic requirements checklist (in person)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../inpersonstream/">Streamed workshop - classroom checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-administration/">Workshop administration (reference)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../indico/">Indico registration system</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../icebreakers/">Icebreaker question ideas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-checking/">Video checking OLD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-editing/">Video editing OLD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../online-training/">Online training manual OLD</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Misc</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../online/">Online teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../coderefinery-mooc/">CodeRefinery MOOC strategy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tech-docs/">Writing technical docs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../meeting-checklist/">Meeting checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-prep-call/">Workshop preparation meeting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching-tech-together/">Summary of the book &quot;Teaching Teach Together&quot;</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">About CodeRefinery</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../onboarding/">Onboarding</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../chat/">Chat</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ambassadors/">Ambassadors</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributing/">Contributing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-credits/">Lesson credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../local-breakout-rooms/">Local breakout rooms</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../open-your-courses/">Open your courses to others</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../the-project/">The project</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../governance/">CodeRefinery governance</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../outreach/">Outreach plan</a></li>
+<li class="toctree-l1"><a class="reference external" href="https://github.com/coderefinery/coderefinery-artwork">Logo and artwork</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../">CodeRefinery manuals</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Team teaching</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/coderefinery/manuals/blob/master/team-teaching.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <div class="section" id="team-teaching">
+<h1>Team teaching<a class="headerlink" href="#team-teaching" title="Permalink to this heading"></a></h1>
+<p>Listening to only one person talk can be boring.  Listening to a discussion is
+much less so.  “Team teaching” can mean many things, but in this case we
+are referring to <strong>two instructors are both actively
+involved in lecturing at the same time</strong>, as some sort of conversation
+between them.  It is a form of co-teaching.</p>
+<p>When it works well, it makes a lecture much more dynamic and
+engaging, and reduces the load for each person to plan everything
+because you can rely on two minds to do it live.
+The difficulty is that you need to coordinate and it is our nature to
+fill all silences, instead of yielding to make a conversation.</p>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<p><a class="reference external" href="https://www.youtube.com/watch?v=WjmttAniZX8">Demo of CodeRefinery livestream teaching</a>.  This shows a
+demo of many parts of team teaching on a livestream - read the
+video description for details.</p>
+</div>
+<div class="section" id="basics">
+<h2>Basics<a class="headerlink" href="#basics" title="Permalink to this heading"></a></h2>
+<div class="figure align-right" id="id1" style="width: 50%">
+<img alt="../_images/teach-teaching--screenshot.png" src="../_images/teach-teaching--screenshot.png" />
+<p class="caption"><span class="caption-text">Demo of team teaching.  Two people are speaking, in this case one
+is typing and giving the small point of view, and one is explaining
+the big point of view.</span><a class="headerlink" href="#id1" title="Permalink to this image"></a></p>
+</div>
+<p>The general idea is that you want to make your teaching event a
+conversation.  Pay attention to news broadcasts, game streams,
+podcasts, etc. to see this in action: it makes things much more
+interesting to listen to.  Usually, they try to do this by having two
+different roles that complement each other.</p>
+<p>The basic idea is that you want to keep a constant <em>conversation</em>
+going.  This can be a mutual discussion, one person explaining big
+concepts and one the details, one person asking
+questions and the other answering, or some other combination.  <em>This
+is not simply two people taking turns in different sections.</em></p>
+<p>With team teaching, there is less need for the instructors to prepare
+every single thing perfectly, since you can rely on two brains to get
+you through areas you haven’t perfectly prepared.  In fact, this is
+good, because then your learners will see things go slightly wrong and
+your live debugging (it will look like you wanted something to go wrong to teach it).</p>
+<p>Still, you want to agree on a plan in advance, and know what the roles
+will be.</p>
+<blockquote class="pull-quote">
+<div><p>One of the most important principles of ship handling is that there
+be no ambiguity as to who is controlling the movements of the
+ship. One person gives orders to the ship’s engine, rudder, lines,
+and ground tackle. This person is said to have the “conn.”</p>
+<p class="attribution">— James Alden Barber, 2005, “Introduction”, The Naval
+Shiphandler’s Guide, p. 8. Mark B. Templeton, via <a class="reference external" href="https://en.wikipedia.org/wiki/Conn_(nautical)">wikipedia</a></p>
+</div></blockquote>
+<p>As the quote says, in any large enough operation, multiple people are
+involved, but responsibilities should be clear.  At least, one person
+should have the responsibility for time-keeping and overall flow.  This
+should be integrated into your co-teaching plan.</p>
+<p>We propose some basic models, but of course there is a continuum.  And
+you can (+should) switch up models, or roles within the model, in
+different sections.</p>
+<div class="admonition-example-of-a-teaching-plan admonition">
+<p class="admonition-title">Example of a teaching plan</p>
+<p>R and S usually teach a HPC tutorial each year via co-teaching.  The
+general plan is:</p>
+<ul class="simple">
+<li><p>Day 1: “talker and typer” format.  R is the talker (primary) and
+S is the typer (secondary).  R goes through the main points and
+tells S what to do in the demos.  S pretends to be learning and
+doesn’t do anything until told.</p></li>
+<li><p>Day 2: swap roles but otherwise like day 1</p></li>
+<li><p>Day 1 and 2, sections without exercises (for example, “what is
+slurm?”): “interviewer and expert” format.  Switch primary to
+“interviewer” and secondary to “expert”, and the primary
+“interviews” the expert to explain what’s going on.</p></li>
+</ul>
+<p>This is implemented in the following teaching plan (see
+<a class="reference internal" href="../teaching-plan/"><span class="doc">Teaching plan</span></a>): <a class="reference external" href="https://hackmd.io/&#64;AaltoSciComp/2025kickstart-tritondemos">https://hackmd.io/&#64;AaltoSciComp/2025kickstart-tritondemos</a></p>
+</div>
+</div>
+<div class="section" id="model-1-guide-and-demo-giver-talker-and-typer">
+<h2>Model 1: Guide and demo-giver (talker and typer)<a class="headerlink" href="#model-1-guide-and-demo-giver-talker-and-typer" title="Permalink to this heading"></a></h2>
+<p>One person serves the role of <strong>guide (talker)</strong>, explaining the big picture
+and possibly even the examples.  The <strong>demo-giver (typer)</strong> shows the typing
+and does the examples, and could take the role of a learner who is
+asking about what is going on, the person who actually explains the
+details, or an occasional commenter.  Anyway, the guide is the one
+navigating through the course and bringing up material in a logical
+order for the audience and “has the conn”.</p>
+<p>Hands-on demos and exercises work especially well like this.  Here,
+the guide would follow the outline and serve as the director (see
+below).</p>
+<div class="admonition-example-of-guide-and-demo-giver admonition">
+<p class="admonition-title">Example of “guide and demo-giver”</p>
+<p>In our HPC course, we use this for the main tutorials.  One of us
+explains the material and says what to type, the other one types
+the demos.  The instructors swap roles depending on interest.</p>
+</div>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Guide</p></th>
+<th class="head"><p>Demo-giver</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Introduces most material</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Goes through theory</p></td>
+<td><p>Asks questions that a learner may ask</p></td>
+</tr>
+<tr class="row-even"><td><p>Introduces type-along</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Explains steps of type-along</p></td>
+<td><p>Types during type-along</p></td>
+</tr>
+<tr class="row-even"><td><p>Asks questions to Demo-giver during type-along</p></td>
+<td><p>Explains details what they are typing and what happens</p></td>
+</tr>
+<tr class="row-odd"><td><p>Looks at Notes during type-along</p></td>
+<td><p>Looks at Notes during theory</p></td>
+</tr>
+<tr class="row-even"><td><p>Discusses during Q&amp;A</p></td>
+<td><p>Discusses during Q&amp;A</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="model-2-interviewer-and-expert">
+<h2>Model 2: Interviewer and expert<a class="headerlink" href="#model-2-interviewer-and-expert" title="Permalink to this heading"></a></h2>
+<p>In this case, there is an <strong>interviewer</strong> who pretends to be a learner
+is asking questions to an <strong>expert</strong> who is mostly explaining.  The
+<strong>interviewer</strong> serves as a learner or spotter, fills in gaps by
+asking relevant questions, and tries to keep things on track.  The
+interviewer “has the conn”.</p>
+<p>Either person could type and do the demos.</p>
+<div class="admonition-example-of-interviewer-and-expert admonition">
+<p class="admonition-title">Example of “interviewer and expert”</p>
+<p>In our HPC course, we would use this for our intro to Slurm.  There
+are no demos at that point, so one person prompts the other with
+questions about Slurm.</p>
+</div>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Interviewer</p></th>
+<th class="head"><p>Expert</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Asks questions to expert</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Follows up with learner questions</p></td>
+<td><p>Answers questions using their special knowledge</p></td>
+</tr>
+<tr class="row-even"><td><p>Pushes forward though the material</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Asks questions that a learner may ask</p></td>
+<td></td>
+</tr>
+<tr class="row-even"><td><p>Introduces type-along</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Explains type-along and material</p></td>
+<td><p>Explains type-along and material</p></td>
+</tr>
+<tr class="row-even"><td><p>Looks at Notes most of the time</p></td>
+<td><p>Looks at Notes when possible</p></td>
+</tr>
+<tr class="row-odd"><td><p>Discusses during Q&amp;A</p></td>
+<td><p>Discusses during Q&amp;A</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="model-3-teacher-and-student">
+<h2>Model 3: Teacher and student<a class="headerlink" href="#model-3-teacher-and-student" title="Permalink to this heading"></a></h2>
+<p>In this model, someone takes the role of the <strong>teacher</strong> and gives the
+lesson.  The <strong>student</strong> pretends to be the student and asks relevant
+questions.</p>
+<p>This is closer to normal teaching, so feels more natural to do.  The
+big disadvantage is that it’s the tendency of the presenter to keep
+talking, and the tendency of the interviewer to be nice and not
+interrupt.  This negates most of the benefit you would hope to have,
+but is much better than solo teaching.  The “Guide and demo-giver” is
+usually better when there are demos and “Interviewer and expert” when
+there aren’t.  The teacher “has the conn”.</p>
+<div class="admonition-example-of-teacher-and-student admonition">
+<p class="admonition-title">Example of “teacher and student”</p>
+<p>In our HPC course, this isn’t used so much.  I might use it if I
+was co-teaching something like GPUs or MPI, which I don’t know that
+well.  I’m not confident in what to type, so I really am much more
+like a student than a demo-giver and I don’t expect to contribute
+much to the content.  Of course it’s close to “guide and
+demo-giver” anyway.</p>
+</div>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="row-odd"><th class="head"><p>Teacher</p></th>
+<th class="head"><p>Student</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Guides through the material</p></td>
+<td></td>
+</tr>
+<tr class="row-odd"><td><p>Gives demos</p></td>
+<td><p>Asks questions a learner may ask</p></td>
+</tr>
+<tr class="row-even"><td></td>
+<td><p>Watches the Notes closely</p></td>
+</tr>
+<tr class="row-odd"><td><p>Keeps time</p></td>
+<td><p>Reminds about time</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="hints">
+<h2>Hints<a class="headerlink" href="#hints" title="Permalink to this heading"></a></h2>
+<p>With more than one person, there is a risk of seeming uncoordinated
+when the team doesn’t know who is supposed to move the lesson forward.
+It’s not bad to have short discussions to decide what to do next, it
+makes the show seem interactive and like it is responding to learner
+needs.  But if it happens too much, it becomes noticeable.</p>
+<p>As quoted above, you could adopt a principle which exists in many
+domains: at any time, only one person is in control (we call them the
+“primary”).  <em>This person is responsible for understanding the
+current situation and checking with other instructors, but in when you
+just need to something and no one has strong opinions, you don’t
+debate, the primary decides.</em></p>
+<p>Note there can be “primary” for the whole lesson preparation, that is
+different than the “primary” for some sections.</p>
+<p>We can’t tell you what works best for you.  But models 1 and 2 above
+tend to work very well and give a clear “primary”.  The need for
+someone to “have the conn” is why we don’t recommend fully equal
+co-teachers.  Instead, divide the course into parts and use the two
+models for each part.</p>
+<ul class="simple">
+<li><p>Of course, there are other roles in a workshop.</p>
+<ul>
+<li><p>The <strong>Notes manager</strong> pays particular attention to the audience
+questions.  They might be a different person from the co-teachers
+and they can interrupt anytime.</p></li>
+<li><p>The <strong>director</strong> manages the flow of the course itself.</p></li>
+<li><p>The Director could be completely separate from the people on
+screen, and somehow sending signals to the teachers as needed.</p></li>
+</ul>
+</li>
+<li><p>If you ever go off-plan, that’s OK.  You can discuss during the
+lecture so the audience can know what you are doing and why.  You
+<em>want</em> to adjust to the audience more than you would in a solo
+course.  But at the same time, be wary of deviating too much from
+the material that the watchers have, since it will be disorienting.</p></li>
+<li><p>Two people works well.  With three, it’s hard to allow everyone to
+speak equally and people tend to jump on top of each other in the
+gaps - or no one talks, to give others a chance to say something.
+You could have particular segments where different pairs of
+people adopt the main roles, and others speak up if they want.  Or,
+at that point, make it a panel discussion format (multiple
+experts and one interviewer)</p></li>
+<li><p>Of course, it helps to have a good plan of what you are going to
+do.  But if only one person knows that plan, this strategy can still
+work, especially if that person is the presenter in model 2.</p></li>
+<li><p>The less preparation you have, the more useful it is to strictly
+define the roles of each person (to ensure someone is in charge of
+moving it forward).</p></li>
+</ul>
+<p>Please send us more suggestions to add to this list.</p>
+</div>
+<div class="section" id="preparation">
+<h2>Preparation<a class="headerlink" href="#preparation" title="Permalink to this heading"></a></h2>
+<p>This is one proposed model for preparing for team teaching:</p>
+<ul class="simple">
+<li><p>Talk with your co-teacher.  These hints assume a two-person team.</p></li>
+<li><p>Decide what material will be covered, overall timing, strategy, etc.
+Review the schedule from last time and make a schedule for this
+time, with timings, breaks, etc.  Usually you don’t need to get
+creative - use what works.</p></li>
+<li><p>Divide up the material.  For each episode, decide the model to use
+and roles.  If in doubt, start with the guide/demo-giver model
+with the more experienced instructor as the guide.</p></li>
+<li><p>For each episode, one person prepares the outline (the order of
+topics to be presented, key questions to ask, etc.) - usually the
+guide or interviewer.</p>
+<ul>
+<li><p>You don’t need to plan every step in detail but it can be useful
+to prepare the session together and step through the choreography
+(e.g. “now I will show this and then give you the screen and then
+ask you to do this … you will lead this 20 minute block and then
+I will lead that 20 minute block and please ask me questions while
+I present X”).</p></li>
+</ul>
+</li>
+<li><p>Discuss the plan together and make any revisions as needed.</p></li>
+<li><p>Do one run-through.</p></li>
+<li><p>Teach as planned.</p></li>
+</ul>
+<p>Then, just go!  Don’t worry if it’s not perfect, if either person
+wonders what to do next, just pause some or ask the other.  This
+imperfection is what makes it more dynamic and exciting, and in almost
+all cases the audience has been impressed with the co-teaching
+strategy, even if it’s not perfect.</p>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../instructor-stream/" class="btn btn-neutral float-left" title="Teaching via livestream" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../teaching-plan/" class="btn btn-neutral float-right" title="Teaching plan" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2018-2023, The CodeRefinery team.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

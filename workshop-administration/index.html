@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Organizing a CodeRefinery workshop &mdash; CodeRefinery manuals  documentation</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/sphinx_rtd_theme_ext_color_contrast.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+
+  
+    <link rel="shortcut icon" href="../_static/coderefinery.ico"/>
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../_static/doctools.js"></script>
+        <script src="../_static/sphinx_highlight.js"></script>
+        <script>let toggleHintShow = 'Click to show';</script>
+        <script>let toggleHintHide = 'Click to hide';</script>
+        <script>let toggleOpenOnPrint = 'true';</script>
+        <script src="../_static/togglebutton.js"></script>
+        <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+        <script data-domain="coderefinery.github.io" defer="defer" src="https://plausible.cs.aalto.fi/js/script.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex/" />
+    <link rel="search" title="Search" href="../search/" />
+    <link rel="next" title="Advertising workshop" href="../templates/advertising-workshop/" />
+    <link rel="prev" title="How to plan an “in-person watch the stream together” CodeRefinery event" href="../inpersonstream/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../" class="icon icon-home">
+            CodeRefinery manuals
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Learners</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-stream/">Attending an livestream workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-online/">Attending a Zoom workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-inperson/">Attending an in-person workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../zoom-mechanics/">Zoom mechanics and signals</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../hackmd-mechanics/">Notes mechanics</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Workshop roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../roles-overview/">Roles overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../team-leaders/">Team leaders (Helpers, Exercise leaders)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructors/">(Co-)Instructors</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../notes-manager/">Notes manager</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../expert-helpers/">Expert helpers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../host/">Zoom Host</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../registration-coordinator/">Registration coordinator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../exercise-coordinator/">Exercise coordinator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-marketing/">Workshop marketing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../director/">Director</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../broadcaster/">Broadcaster</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-editor/">Video editor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-organizers/">Workshop organizers</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Instructor tools and practices</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-intro/">Instructor introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-kickstart/">Instructor kickstart program</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-checklist/">Instructor checklists</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-computer/">Instructor computer setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-screenshare/">Instructor screenshare</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-audio/">Instructor audio</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-stream/">Teaching via livestream</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../team-teaching/">Team teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching-plan/">Teaching plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../presenting/">Presentation hints</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../presenting-inperson/">Presentation hints - in person</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Lesson development</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-design/">Lesson design</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-review/">Lesson review checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-contribution/">Lesson contribution guide</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other tools and practices</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../obs/">Open Broadcaster Software theory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-checklist/">Workshop checklist template</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-requirements-inperson/">Workshop basic requirements checklist (in person)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../inpersonstream/">Streamed workshop - classroom checklist</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Workshop administration (reference)</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#email-templates">Email templates</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="../templates/advertising-workshop/">Advertising workshop</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../templates/looking-for-helpers/">Looking for helpers</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../templates/notify-me-announcement/">Notify-me announcement</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../templates/post-workshop-survey/">Post-workshop survey</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../templates/practical-info-to-online-participants/">Practical info (online)</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../templates/practical-info-to-participants/">Practical info, in-person</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../templates/waitin-list-notification/">Waiting list</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#select-a-workshop-coordinator">Select a workshop coordinator</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#other-documents-and-references">Other documents and references</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#before-the-workshop">Before the workshop</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#first-steps">First steps</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#lecture-room">Lecture room</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#set-up-workshop-page">Set up workshop page</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#announcing-the-workshop">Announcing the workshop</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#distribute-the-work">Distribute the work</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#preparing-lessons">Preparing lessons</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#prepare-practicals">Prepare practicals</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#communication-with-participants">Communication with participants</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#weeks-before-the-workshop">1-2 weeks before the workshop</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#right-before-the-workshop-starts">Right before the workshop starts</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#create-exercise-repositories">Create exercise repositories</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#workshop-preparation-checklist">Workshop preparation checklist</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#as-participants-arrive">As participants arrive</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#introduction-talk">Introduction talk</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#during-workshop">During workshop</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#at-the-end-of-workshop">At the end of workshop</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#post-workshop">Post-workshop</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#post-workshop-survey">Post-workshop survey</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../indico/">Indico registration system</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../icebreakers/">Icebreaker question ideas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-checking/">Video checking OLD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-editing/">Video editing OLD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../online-training/">Online training manual OLD</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Misc</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../online/">Online teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../coderefinery-mooc/">CodeRefinery MOOC strategy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tech-docs/">Writing technical docs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../meeting-checklist/">Meeting checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-prep-call/">Workshop preparation meeting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching-tech-together/">Summary of the book &quot;Teaching Teach Together&quot;</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">About CodeRefinery</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../onboarding/">Onboarding</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../chat/">Chat</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ambassadors/">Ambassadors</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributing/">Contributing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-credits/">Lesson credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../local-breakout-rooms/">Local breakout rooms</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../open-your-courses/">Open your courses to others</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../the-project/">The project</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../governance/">CodeRefinery governance</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../outreach/">Outreach plan</a></li>
+<li class="toctree-l1"><a class="reference external" href="https://github.com/coderefinery/coderefinery-artwork">Logo and artwork</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../">CodeRefinery manuals</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Organizing a CodeRefinery workshop</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/coderefinery/manuals/blob/master/workshop-administration.md" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <div class="section" id="organizing-a-coderefinery-workshop">
+<h1>Organizing a CodeRefinery workshop<a class="headerlink" href="#organizing-a-coderefinery-workshop" title="Permalink to this heading"></a></h1>
+<p>Anyone can organize a CodeRefinery workshop and teach the CodeRefinery lessons which are
+licensed under <a class="reference external" href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a>.
+However, making it a successful workshop requires careful planning and preparation. Here we will go
+through practical aspects of organizing a workshop.</p>
+<div class="section" id="email-templates">
+<h2>Email templates<a class="headerlink" href="#email-templates" title="Permalink to this heading"></a></h2>
+<p>A collection of email templates:</p>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../templates/advertising-workshop/">Advertising workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../templates/looking-for-helpers/">Looking for helpers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../templates/notify-me-announcement/">Notify-me announcement</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../templates/post-workshop-survey/">Post-workshop survey</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../templates/practical-info-to-online-participants/">Practical info (online)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../templates/practical-info-to-participants/">Practical info, in-person</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../templates/waitin-list-notification/">Waiting list</a></li>
+</ul>
+</div>
+<p>When adding new ones, add to an existing page (make a new section)
+or.  Try to avoid too much markdown formatting, so that a rendered
+version can be copied to plain text email easily still.</p>
+</div>
+<div class="section" id="select-a-workshop-coordinator">
+<h2>Select a workshop coordinator<a class="headerlink" href="#select-a-workshop-coordinator" title="Permalink to this heading"></a></h2>
+<p>One or two persons coordinate the workshop preparation and debrief. This does
+not mean that they do all the work - they are encouraged to delegate tasks -
+but they make sure that nothing gets forgotten.</p>
+</div>
+<div class="section" id="other-documents-and-references">
+<h2>Other documents and references<a class="headerlink" href="#other-documents-and-references" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Workshop organization overview: <a class="reference external" href="https://github.com/orgs/coderefinery/projects/4">https://github.com/orgs/coderefinery/projects/4</a></p></li>
+<li><p>Instructions on how to set up a registration page in Indico (for NeIC affiliated staff):
+<a class="reference internal" href="../indico/"><span class="doc">Indico registration system</span></a></p></li>
+<li><p>Email templates for workshop communication:</p>
+<ul>
+<li><p><a class="reference internal" href="../templates/practical-info-to-participants/"><span class="doc std std-doc">1-2 weeks before workshop starts</span></a></p></li>
+<li><p><a class="reference internal" href="../templates/advertising-workshop/"><span class="doc std std-doc">advertising workshop via private communication</span></a></p></li>
+<li><p><a class="reference internal" href="../templates/looking-for-helpers/"><span class="doc std std-doc">looking for helpers</span></a></p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="before-the-workshop">
+<h2>Before the workshop<a class="headerlink" href="#before-the-workshop" title="Permalink to this heading"></a></h2>
+<div class="section" id="first-steps">
+<h3>First steps<a class="headerlink" href="#first-steps" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>Recruit instructors - having at least 3 instructors is highly recommended.</p></li>
+<li><p>Find 1-2 workshop helpers <a class="reference internal" href="../workshop-requirements-inperson/"><span class="std std-doc">with an appropriate background</span></a>.</p></li>
+<li><p>Reserve dates (coordinate this with the instructors)</p></li>
+<li><p>Reserve room</p></li>
+<li><p>Select a workshop coordinator</p></li>
+<li><p>Workshop coordinator creates a ticket with a checklist on <a class="reference external" href="https://github.com/orgs/coderefinery/projects/4">https://github.com/orgs/coderefinery/projects/4</a> and takes it (self-assigns)</p></li>
+</ul>
+</div>
+<div class="section" id="lecture-room">
+<h3>Lecture room<a class="headerlink" href="#lecture-room" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>Start looking for an appropriate lecture room early.</p></li>
+<li><p>See this <a class="reference internal" href="../workshop-requirements-inperson/"><span class="std std-doc">list of requirements</span></a> for
+the lecture room.</p></li>
+</ul>
+</div>
+<div class="section" id="set-up-workshop-page">
+<h3>Set up workshop page<a class="headerlink" href="#set-up-workshop-page" title="Permalink to this heading"></a></h3>
+<ul>
+<li><p>Import the template at <a class="reference external" href="https://github.com/coderefinery/template-workshop-webpage">https://github.com/coderefinery/template-workshop-webpage</a> to your username
+or the coderefinery organization, and name it like “2019-10-16-somecity”.</p></li>
+<li><p>Update the required fields in <code class="docutils literal notranslate"><span class="pre">index.md</span></code> and push the commits.
+The page should now be served at <em>username.github.io/2019-10-16-somecity/</em>.</p></li>
+<li><p>If the workshop will be customized to the needs of a particular audience, modify the schedule accordingly.</p></li>
+<li><p>If the workshop should be listed on <a class="reference external" href="https://coderefinery.org">https://coderefinery.org</a>:</p>
+<ul>
+<li><p>(Fork and) clone <a class="reference external" href="https://github.com/coderefinery/coderefinery.org">https://github.com/coderefinery/coderefinery.org</a></p></li>
+<li><p>Under <code class="docutils literal notranslate"><span class="pre">coderefinery.org/_workshops/</span></code>, add a file named like <code class="docutils literal notranslate"><span class="pre">2019-10-16-somecity.md</span></code> which contains
+the fields permalink, city and dates. For example:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">---</span>
+<span class="n">permalink</span><span class="p">:</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">username</span><span class="o">.</span><span class="n">github</span><span class="o">.</span><span class="n">io</span><span class="o">/</span><span class="mi">2019</span><span class="o">-</span><span class="mi">10</span><span class="o">-</span><span class="mi">16</span><span class="o">-</span><span class="n">city</span><span class="o">/</span>
+<span class="n">city</span><span class="p">:</span> <span class="n">Somecity</span>
+<span class="n">dates</span><span class="p">:</span> <span class="n">October</span> <span class="mi">16</span><span class="o">-</span><span class="mi">18</span><span class="p">,</span> <span class="mi">2019</span>
+<span class="o">---</span>
+</pre></div>
+</div>
+</li>
+<li><p>send a pull request with your new file.</p></li>
+</ul>
+</li>
+<li><p>Create a registration form following <a class="reference internal" href="../indico/setup/"><span class="doc">Indico event setup</span></a>.</p></li>
+<li><p>Open and test registration</p></li>
+</ul>
+</div>
+<div class="section" id="announcing-the-workshop">
+<h3>Announcing the workshop<a class="headerlink" href="#announcing-the-workshop" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>Twitter</p></li>
+<li><p>Email persons who registered to notify-me form</p></li>
+<li><p>Use local mailing lists and all channels possible</p></li>
+</ul>
+<p>For self-organized workshops:</p>
+<ul class="simple">
+<li><p>Write an email to support&#64;coderefinery.org to get a pre-workshop survey link and registration form on
+<a class="reference external" href="https://indico.neic.no">https://indico.neic.no</a></p></li>
+</ul>
+</div>
+<div class="section" id="distribute-the-work">
+<h3>Distribute the work<a class="headerlink" href="#distribute-the-work" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>Make sure lessons are distributed</p></li>
+</ul>
+</div>
+<div class="section" id="preparing-lessons">
+<h3>Preparing lessons<a class="headerlink" href="#preparing-lessons" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>Go through the lesson material you will be teaching and think about how you
+intend to teach it, and how much time you will be spending on each episode.</p></li>
+<li><p>Are there any unsolved issues that you can fix?</p></li>
+<li><p>Go through the instructor guides of the lessons you will be teaching.</p>
+<ul>
+<li><p>Review the intended learning outcomes, and try to keep these in mind while teaching.</p></li>
+<li><p>Try to memorize the typical pitfalls and common questions.</p></li>
+</ul>
+</li>
+<li><p>Go through the <a class="reference external" href="https://github.com/coderefinery/manuals/blob/master/presenting.md">lesson presentation hints</a>.</p></li>
+<li><p>Go through the <a class="reference external" href="https://github.com/coderefinery/manuals/blob/master/helping-and-teaching.md">helping and teaching guide</a>,
+and request all helpers to go through it too.</p></li>
+</ul>
+</div>
+<div class="section" id="prepare-practicals">
+<h3>Prepare practicals<a class="headerlink" href="#prepare-practicals" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>Order catering (coffee, tea, water, fruit, something sweet, etc.)</p></li>
+<li><p>Organize sticky notes</p></li>
+<li><p>Organize extension cables if needed</p></li>
+<li><p>Organize alternative wireless for those without Eduroam (if any)</p></li>
+</ul>
+</div>
+<div class="section" id="communication-with-participants">
+<h3>Communication with participants<a class="headerlink" href="#communication-with-participants" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>Send out practical information, including installation instructions, around 2 weeks ahead.
+<a class="reference internal" href="../templates/practical-info-to-participants/"><span class="doc std std-doc">Here is a template</span></a>.</p></li>
+<li><p>Emphasize that all software should be installed before the workshop starts, and point out
+the <a class="reference external" href="https://coderefinery.github.io/installation/troubleshooting/">configuration problems and solutions</a>.</p></li>
+<li><p>Remind registered participants that they are either expected to show up or to cancel participation</p></li>
+<li><p>Also ask those without Eduroam to speak up.</p></li>
+<li><p>Maintain waiting list if needed</p></li>
+<li><p>Make sure we have enough pre-survey answers</p></li>
+<li><p>Close registration on the workshop page</p></li>
+</ul>
+</div>
+<div class="section" id="weeks-before-the-workshop">
+<h3>1-2 weeks before the workshop<a class="headerlink" href="#weeks-before-the-workshop" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>Workshop coordinator organizes a call with all instructors and helpers to discuss the schedule to leave no doubts about timing. Also
+discuss the survey results.</p></li>
+<li><p>Point helpers (and instructors) to the <a class="reference internal" href="../team-leaders/"><span class="std std-doc">tips for helpers</span></a>.</p></li>
+</ul>
+</div>
+<div class="section" id="right-before-the-workshop-starts">
+<h3>Right before the workshop starts<a class="headerlink" href="#right-before-the-workshop-starts" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>Prepare a shared Google doc or <a class="reference external" href="https://hackmd.io">https://hackmd.io</a> with global write permissions,
+consider creating a memorable short-link (e.g. bit.ly)</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="create-exercise-repositories">
+<h2>Create exercise repositories<a class="headerlink" href="#create-exercise-repositories" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>The collaborative Git lesson requires exercise repositories to
+be set up. For this follow the instructor guide in the lesson material.</p></li>
+</ul>
+</div>
+<div class="section" id="workshop-preparation-checklist">
+<h2>Workshop preparation checklist<a class="headerlink" href="#workshop-preparation-checklist" title="Permalink to this heading"></a></h2>
+<ul>
+<li><p>This checklist can be set up as an issue under
+<a class="reference external" href="https://github.com/coderefinery/coderefinery.org/">https://github.com/coderefinery/coderefinery.org/</a> or on another
+repository to keep track of the progress</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">reserve</span> <span class="n">dates</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">decide</span> <span class="n">workshop</span> <span class="n">organizer</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="p">(</span><span class="n">online</span><span class="p">)</span> <span class="n">prepare</span> <span class="n">Zoom</span> <span class="n">link</span> <span class="ow">or</span> <span class="p">(</span><span class="ow">in</span><span class="o">-</span><span class="n">person</span><span class="p">)</span> <span class="n">book</span> <span class="n">lecture</span> <span class="n">room</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">announce</span> <span class="p">(</span><span class="n">twitter</span><span class="p">,</span> <span class="n">notify</span><span class="o">-</span><span class="n">me</span><span class="p">,</span> <span class="n">mailing</span> <span class="n">lists</span><span class="p">)</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">team</span> <span class="n">of</span> <span class="n">instructors</span> <span class="n">complete</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">workshop</span> <span class="n">website</span> <span class="n">up</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">lessons</span> <span class="n">distributed</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">prepare</span> <span class="n">lessons</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">create</span> <span class="n">exercise</span> <span class="n">repositories</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="p">(</span><span class="ow">in</span><span class="o">-</span><span class="n">person</span><span class="p">)</span> <span class="n">prepare</span> <span class="n">practicals</span> <span class="p">(</span><span class="n">coffee</span><span class="o">/</span><span class="n">tea</span><span class="p">,</span> <span class="n">sticky</span> <span class="n">notes</span><span class="p">,</span> <span class="n">extension</span> <span class="n">cacles</span><span class="p">)</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="p">(</span><span class="n">online</span><span class="p">)</span> <span class="n">Zoom</span> <span class="n">roles</span> <span class="n">distributed</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">registration</span> <span class="nb">open</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">team</span> <span class="n">of</span> <span class="n">helpers</span> <span class="n">complete</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">registration</span> <span class="n">closed</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">enough</span> <span class="n">pre</span><span class="o">-</span><span class="n">survey</span> <span class="n">answers</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">install</span> <span class="n">instructions</span> <span class="n">sent</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">pre</span><span class="o">-</span><span class="n">workshop</span> <span class="n">briefing</span> <span class="n">held</span><span class="p">,</span> <span class="n">helper</span> <span class="n">training</span>
+<span class="o">-</span> <span class="p">[</span> <span class="p">]</span> <span class="n">survey</span> <span class="n">results</span> <span class="n">shared</span> <span class="k">with</span> <span class="n">co</span><span class="o">-</span><span class="n">instructors</span><span class="o">/</span><span class="n">helpers</span>
+</pre></div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section" id="as-participants-arrive">
+<h2>As participants arrive<a class="headerlink" href="#as-participants-arrive" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Emphasize to participants that you need to sit with someone - don’t work alone.</p></li>
+<li><p>Try to have participants sit next to someone with a similar operating
+system if they have no preference, since they will face similar
+problems.</p></li>
+</ul>
+</div>
+<div class="section" id="introduction-talk">
+<h2>Introduction talk<a class="headerlink" href="#introduction-talk" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>See <a class="reference external" href="https://github.com/coderefinery/workshop-intro">https://github.com/coderefinery/workshop-intro</a></p></li>
+<li><p>Have a 10 minute ice-breaker session where participants and instructors introduce themselves
+and either describe their research in 2-3 sentences or what they hope to get out of the workshop.</p></li>
+</ul>
+</div>
+<div class="section" id="during-workshop">
+<h2>During workshop<a class="headerlink" href="#during-workshop" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>While teaching, keep <a class="reference external" href="https://github.com/coderefinery/manuals/blob/master/workshop-administration.md#during-workshop">these tips</a> in mind</p></li>
+<li><p>Don’t start off with tech details, say why this is important.</p></li>
+<li><p>Try to <a class="reference external" href="https://github.com/coderefinery/manuals/blob/master/presenting.md#try-to-stick-to-the-material">stick to the material</a>,
+although some excursions are useful.</p></li>
+<li><p>Keep up interactive feel by encouraging and asking questions</p></li>
+<li><p>Keep time</p></li>
+<li><p>For presentations which have shell commands, create a
+cheatsheet/reference on the board in real time.</p></li>
+<li><p>Remind participants about sticky notes.</p></li>
+<li><p>Make sure we take regular breaks (at least a short break each hour)</p></li>
+<li><p>Give participants some time to also experiment (do not rush the classroom through exercises)</p></li>
+<li><p>Encourage optional feedback at the end of each day or end of each lesson
+on sticky notes. Process the feedback immediately and adjust your teaching
+(pace etc) accordingly</p></li>
+<li><p>Create GitHub issues for points which are confusing or problematic</p></li>
+<li><p>Take active part even in the lessons you’re not teaching, e.g. by asking
+questions and (politely) interject with clarifications when you think
+something is confusing to the learners</p></li>
+<li><p><a class="reference external" href="https://github.com/coderefinery/manuals/blob/master/presenting.md#wrap-up">Wrap up</a>,
+say what you taught and why, and what comes next.</p></li>
+</ul>
+</div>
+<div class="section" id="at-the-end-of-workshop">
+<h2>At the end of workshop<a class="headerlink" href="#at-the-end-of-workshop" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Give credit to those who contributed and helped</p></li>
+<li><p>Use <a class="reference external" href="https://github.com/coderefinery/workshop-outro">https://github.com/coderefinery/workshop-outro</a></p></li>
+</ul>
+</div>
+<div class="section" id="post-workshop">
+<h2>Post-workshop<a class="headerlink" href="#post-workshop" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Process and distribute feedback to co-instructors and others (e.g. type up in shared document)</p></li>
+<li><p>Debrief with instructors</p></li>
+<li><p>Process certificate requests</p></li>
+</ul>
+</div>
+<div class="section" id="post-workshop-survey">
+<h2><a class="reference external" href="https://github.com/coderefinery/post-workshop-survey">Post-workshop survey</a><a class="headerlink" href="#post-workshop-survey" title="Permalink to this heading"></a></h2>
+<p>To measure the long-term impact of CodeRefinery workshops it’s useful to send out a
+post-workshop survey. This survey can identify which topics taught in workshops are
+particularly useful and which have less benefits for the participants.</p>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../inpersonstream/" class="btn btn-neutral float-left" title="How to plan an “in-person watch the stream together” CodeRefinery event" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../templates/advertising-workshop/" class="btn btn-neutral float-right" title="Advertising workshop" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2018-2023, The CodeRefinery team.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Instructor computer setup &mdash; CodeRefinery manuals  documentation</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/sphinx_rtd_theme_ext_color_contrast.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+
+  
+    <link rel="shortcut icon" href="../_static/coderefinery.ico"/>
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../_static/doctools.js"></script>
+        <script src="../_static/sphinx_highlight.js"></script>
+        <script>let toggleHintShow = 'Click to show';</script>
+        <script>let toggleHintHide = 'Click to hide';</script>
+        <script>let toggleOpenOnPrint = 'true';</script>
+        <script src="../_static/togglebutton.js"></script>
+        <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+        <script data-domain="coderefinery.github.io" defer="defer" src="https://plausible.cs.aalto.fi/js/script.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex/" />
+    <link rel="search" title="Search" href="../search/" />
+    <link rel="next" title="Instructor screenshare" href="../instructor-screenshare/" />
+    <link rel="prev" title="Instructor checklists" href="../instructor-checklist/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../" class="icon icon-home">
+            CodeRefinery manuals
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Learners</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-stream/">Attending an livestream workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-online/">Attending a Zoom workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-inperson/">Attending an in-person workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../zoom-mechanics/">Zoom mechanics and signals</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../hackmd-mechanics/">Notes mechanics</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Workshop roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../roles-overview/">Roles overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../team-leaders/">Team leaders (Helpers, Exercise leaders)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructors/">(Co-)Instructors</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../notes-manager/">Notes manager</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../expert-helpers/">Expert helpers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../host/">Zoom Host</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../registration-coordinator/">Registration coordinator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../exercise-coordinator/">Exercise coordinator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-marketing/">Workshop marketing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../director/">Director</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../broadcaster/">Broadcaster</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-editor/">Video editor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-organizers/">Workshop organizers</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Instructor tools and practices</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../instructor-intro/">Instructor introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-kickstart/">Instructor kickstart program</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-checklist/">Instructor checklists</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Instructor computer setup</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#simple-or-fancy-screen">Simple or fancy screen?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#clean-your-environment">Clean your environment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#arrange-your-windows-well">Arrange your windows well</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#desktop-environment">Desktop environment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#web-browser">Web browser</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#terminal">Terminal</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#terminal-color-schemes">Terminal color schemes</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#clearing-the-terminal">Clearing the terminal</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#terminal-size">Terminal size</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#prompt">Prompt</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#command-line-history">Command line history</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-screenshare/">Instructor screenshare</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-audio/">Instructor audio</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-stream/">Teaching via livestream</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../team-teaching/">Team teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching-plan/">Teaching plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../presenting/">Presentation hints</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../presenting-inperson/">Presentation hints - in person</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Lesson development</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-design/">Lesson design</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-review/">Lesson review checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-contribution/">Lesson contribution guide</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other tools and practices</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../obs/">Open Broadcaster Software theory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-checklist/">Workshop checklist template</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-requirements-inperson/">Workshop basic requirements checklist (in person)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../inpersonstream/">Streamed workshop - classroom checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-administration/">Workshop administration (reference)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../indico/">Indico registration system</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../icebreakers/">Icebreaker question ideas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-checking/">Video checking OLD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-editing/">Video editing OLD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../online-training/">Online training manual OLD</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Misc</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../online/">Online teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../coderefinery-mooc/">CodeRefinery MOOC strategy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tech-docs/">Writing technical docs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../meeting-checklist/">Meeting checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-prep-call/">Workshop preparation meeting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching-tech-together/">Summary of the book &quot;Teaching Teach Together&quot;</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">About CodeRefinery</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../onboarding/">Onboarding</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../chat/">Chat</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ambassadors/">Ambassadors</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributing/">Contributing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-credits/">Lesson credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../local-breakout-rooms/">Local breakout rooms</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../open-your-courses/">Open your courses to others</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../the-project/">The project</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../governance/">CodeRefinery governance</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../outreach/">Outreach plan</a></li>
+<li class="toctree-l1"><a class="reference external" href="https://github.com/coderefinery/coderefinery-artwork">Logo and artwork</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../">CodeRefinery manuals</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Instructor computer setup</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/coderefinery/manuals/blob/master/instructor-computer.md" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <div class="section" id="instructor-computer-setup">
+<h1>Instructor computer setup<a class="headerlink" href="#instructor-computer-setup" title="Permalink to this heading"></a></h1>
+<p>Appearance matters.  When you look at other professionally made videos
+online, they look good.  As a presenter, you also need to work to make
+your screen look pleasing to the eye.  It also has to be similar to a
+learner’s screen, so that they are not distracted with your different
+configuration or appearance.</p>
+<p><strong>You don’t want a complex setup to distract from teaching.  Boring is
+better.  Set this up before the test session to get feedback.</strong></p>
+<div class="section" id="simple-or-fancy-screen">
+<h2>Simple or fancy screen?<a class="headerlink" href="#simple-or-fancy-screen" title="Permalink to this heading"></a></h2>
+<p>As a teacher of tech, you also <em>need to make sure that your screen
+supports the learning process</em>: you have conflicting goals of:</p>
+<ul class="simple">
+<li><p>Making your screen look simple, to not distract from what you are
+trying to teach, and</p></li>
+<li><p>Showing more advanced setups, so that others can learn and improve.</p></li>
+</ul>
+<p>In general, try to use a simpler arrangement at the beginning of
+workshops.  You, or other teachers, can begin showing more advanced
+screen layouts once learners are able to see what is important and
+what is extra.</p>
+</div>
+<div class="section" id="clean-your-environment">
+<h2>Clean your environment<a class="headerlink" href="#clean-your-environment" title="Permalink to this heading"></a></h2>
+<p>Do you have fancy <code class="docutils literal notranslate"><span class="pre">.bashrc</span></code>, <code class="docutils literal notranslate"><span class="pre">.gitconfig</span></code>, etc files?  Move them
+away so that you are as plain and normal as possible - beyond
+appearances, you don’t want to use any shortcuts that every learner
+won’t have access to (telling learners to add some configuration won’t
+work - some will miss it and be lost, or worse their system may have a
+weird behavior in the future).</p>
+<p>Relevant files that are sometimes a problem:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">.bashrc</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">.gitconfig</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">.ssh/config</span></code>, <code class="docutils literal notranslate"><span class="pre">.ssh/authorized_keys</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">.conda/*</span></code></p></li>
+<li><p>Any config for any program you will be demonstrating</p></li>
+</ul>
+</div>
+<div class="section" id="arrange-your-windows-well">
+<h2>Arrange your windows well<a class="headerlink" href="#arrange-your-windows-well" title="Permalink to this heading"></a></h2>
+<p>This is mostly the topic of <a class="reference internal" href="../instructor-screenshare/"><span class="doc">Instructor screenshare</span></a> (our
+recommendations for in-person window arrangements aren’t so
+up-to-date, but the same principles apply but you have a widescreen
+view).</p>
+<ul class="simple">
+<li><p>For online teaching, you will want to screenshare a portion of your
+screen: half the screen in “portrait mode” so that the other half is
+available.  See <a class="reference internal" href="../instructor-screenshare/"><span class="doc">Instructor screenshare</span></a>.</p></li>
+</ul>
+</div>
+<div class="section" id="desktop-environment">
+<h2>Desktop environment<a class="headerlink" href="#desktop-environment" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Is your overall desktop environment “normal”-looking?</p></li>
+<li><p>Do your window title bars take up lots of space?  Is it possible to
+reduce their size for the teaching - you want as much space for
+large fonts as possible.</p>
+<ul>
+<li><p>Since you will only be sharing a portion of the screen, or have a
+lower-resolution projector, these title bars take up more space
+relative to the content.</p></li>
+</ul>
+</li>
+<li><p>Same for desktop menu bars, etc.</p></li>
+<li><p>Do you need to go into light-mode theme?  Dark text on light
+background is much better than dark mode, so it is strongly
+recommended to do this.</p></li>
+<li><p>Can you easily resize your windows for adjusting during teaching?</p></li>
+</ul>
+</div>
+<div class="section" id="web-browser">
+<h2>Web browser<a class="headerlink" href="#web-browser" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Are you doing a lot in a web browser?  Consider making a separate
+profile that is just for demos.</p></li>
+<li><p>Install whatever basic safety extensions / ad blockers are most
+relevant, but keep it simple otherwise.</p></li>
+<li><p>Can you turn off unneeded menu- and toolbars?</p></li>
+<li><p>Does your web browser have a way to reduce its menu bars and other
+decoration size?</p>
+<ul>
+<li><p>Firefox-based browsers: go to <code class="docutils literal notranslate"><span class="pre">about:config</span></code> and set
+<code class="docutils literal notranslate"><span class="pre">layout.css.devPixelsPerPx</span></code> to a value slightly smaller than one,
+like <code class="docutils literal notranslate"><span class="pre">0.75</span></code>.  Be careful you don’t set it too small or large since
+it might be hard to recover!  When you set it to something smaller
+than 1, all window decorations become smaller, and you compensate
+by zooming in on the website more (you can set the default zoom to
+be greater than 100% to compensate).  Overall, you get more
+information and less distraction.</p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="terminal">
+<h2>Terminal<a class="headerlink" href="#terminal" title="Permalink to this heading"></a></h2>
+<div class="section" id="terminal-color-schemes">
+<h3>Terminal color schemes<a class="headerlink" href="#terminal-color-schemes" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>Dark text on light background, <em>not</em> dark theme.  Research and our
+experience says that dark-text-on-light is better in some cases and
+similar in others.</p></li>
+<li><p>Make a dedicated “demos” profile in your terminal emulator, if
+relevant.  Or use a different terminal emulator just for demos.</p></li>
+<li><p>You might want to make the background light grey, to avoid
+over-saturating people’s eyes and provide some contrast to the pure
+white web browser.  (this was an accessibility recommendation when
+looking for ideal color schemes)</p></li>
+<li><p>Do you have any yellows or reds in your prompt or program outputs?
+Adjust colors if possible.</p></li>
+<li><p>Eliminate menu bars and any other decoration that uses valuable
+screen space.</p></li>
+</ul>
+</div>
+<div class="section" id="clearing-the-terminal">
+<h3>Clearing the terminal<a class="headerlink" href="#clearing-the-terminal" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>Don’t clear terminal often (or ever - un-learn CTRL-L if possible).
+Learner’s can follow as fast as you!  More people will wonder what
+just got lost than are helped by seeing a blank screen.  Push
+<code class="docutils literal notranslate"><span class="pre">ENTER</span></code> a few times instead to add some white space.</p></li>
+</ul>
+</div>
+<div class="section" id="terminal-size">
+<h3>Terminal size<a class="headerlink" href="#terminal-size" title="Permalink to this heading"></a></h3>
+<ul class="simple">
+<li><p>Font should be large (a separate history terminal can have a smaller
+font).</p></li>
+<li><p>Be prepared to resize the terminal and font as needed.  Know and use
+keyboard shortcuts for changing the font size when you need to show
+more columns (it’s also OK if the terminal is wider than your screen
+if most of the right side is not that important to see).  You can
+have a larger font normally, and make it smaller and the terminal
+wider when you have long lines that learners need to see.</p></li>
+</ul>
+</div>
+<div class="section" id="prompt">
+<h3>Prompt<a class="headerlink" href="#prompt" title="Permalink to this heading"></a></h3>
+<p>Your prompt should be minimal: few distractions, and not take up many
+columns of text.</p>
+<p>Learners have to read your prompt quickly, understand what you
+entered, copy it, all the while not being distracted by everything
+else or your screen.  Day 1 git-intro is not the time to have your
+fancy git-bash prompt, instead show them how to use git to get that
+information.  Set an easily-viewable prompt.</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">prompt-log</span></code> (see the next section on command line history) does
+this for you.</p></li>
+<li><p>The minimum to do is is <code class="docutils literal notranslate"><span class="pre">export</span> <span class="pre">PS1='\$</span> <span class="pre">'</span></code>.</p></li>
+<li><p>Blank line between entries: <code class="docutils literal notranslate"><span class="pre">export</span> <span class="pre">PS1='\n\$</span> <span class="pre">'</span></code>.</p></li>
+<li><p>Have a space after the <code class="docutils literal notranslate"><span class="pre">$</span></code> or <code class="docutils literal notranslate"><span class="pre">%</span></code> or whatever prompt character you
+use.</p></li>
+<li><p>Strongly consider the bash shell.  This is what most new people will
+use, and bash will be less confusing to them.  (Later in workshops,
+using other shells and being more adventurous is OK - learners will
+know what is essential to the terminal and what is extra for your
+environment).</p></li>
+</ul>
+</div>
+<div class="section" id="command-line-history">
+<h3>Command line history<a class="headerlink" href="#command-line-history" title="Permalink to this heading"></a></h3>
+<p>You need to find a way to show the recent commands you have entered,
+outside of your main window, so that learners can see the recent
+commands.</p>
+<p>Consider prompt-log by rkdarst
+(<a class="reference external" href="https://github.com/rkdarst/prompt-log/">https://github.com/rkdarst/prompt-log/</a>).  It adds a interesting idea
+that <em>the command you enter is also in color</em> and also provides
+terminal history <em>before the command returns</em> (see below).</p>
+<p>Arrange two terminals, so that there is the main work window and the
+history window with a font smaller size - the history can be off to
+the side.</p>
+<p>See the following screenshot for an ideal arrangement:</p>
+<div class="figure align-default" id="id1">
+<a class="reference internal image-reference" href="../_images/s10-kickstart-prompt-log.png"><img alt="../_images/s10-kickstart-prompt-log.png" src="../_images/s10-kickstart-prompt-log.png" style="width: 50%;" /></a>
+<p class="caption"><span class="caption-text"><strong>S10</strong>: HPC Kickstart course.  Note the colors contrast of the
+windows and colors of the prompt and text.  The history is smaller and
+doesn’t take up primary working space.  The working directory is
+in the window titlebar.</span><a class="headerlink" href="#id1" title="Permalink to this image"></a></p>
+</div>
+</div>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../instructor-checklist/" class="btn btn-neutral float-left" title="Instructor checklists" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../instructor-screenshare/" class="btn btn-neutral float-right" title="Instructor screenshare" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2018-2023, The CodeRefinery team.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
