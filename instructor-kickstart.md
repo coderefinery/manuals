@@ -51,6 +51,13 @@ Follow-up:
 This happens a few weeks before the course.  This is focused on
 getting used to team teaching.
 
+Preparation:
+
+* Read {doc}`team-teaching` (important)
+* Read {doc}`teaching-plan` (less important)
+* More optionally, read {doc}`instructor-stream` and
+  {doc}`instructor-screenshare`.
+
 We will:
 * Go through the [team teaching practice
   exercises](https://coderefinery.github.io/train-the-trainer/streaming-practice-1/).
