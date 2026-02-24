@@ -62,6 +62,12 @@ but it's good if they can stay hands-on with the teaching some.
 
 ## Qualifications
 
+Don't take these qualifications too seriously.  Basically, we'd like
+whoever has the most experience with the lesson and who can give
+long-term advice.  If we don't have anyone available with a lot of
+lesson experience, that just means we'll have more rapid evolution.
+Lessons need that sometimes.
+
 * Ideally, has taught the lesson a few times so understands the flow
   and what usually goes right and wrong.  Also ideally they've taught
   a few other lessons for a broader perspective.
@@ -74,3 +80,7 @@ but it's good if they can stay hands-on with the teaching some.
 # Resources
 
 * Everything under "lesson development" in the left sidebar.
+* Carpentries, `lesson maintainers handbook
+  <https://docs.carpentries.org/handbooks/maintainers.html>`__
+* Carpentries, `lesson developer handbook
+  <https://docs.carpentries.org/handbooks/lesson_developers.html>`__
