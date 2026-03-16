@@ -88,6 +88,8 @@ Preparation: Make sure all the instructor technical setup is done
 your exact setup.  All the [final checklist](instructor-checklist) stuff.
 
 We will:
+* Go through the [livestream mechanics teaching practice
+  exercises](https://coderefinery.github.io/train-the-trainer/streaming-practice-2/).
 * Do a whole test with your computer + practice the livestream.
 * You may practice the first 5 minutes of your lesson, going to a
   break, last 5 minutes, maybe a Q&A.  Whatever we have time for.
