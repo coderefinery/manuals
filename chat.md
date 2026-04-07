@@ -8,8 +8,8 @@ things are announced only via Zulipchat.  This is a public chat and
 everybody is welcome to join, no invitation needed, and we explicitly
 invite anyone to give ideas in any channel or topic.
 
-The chat is a joint community of CodeRefinery (teaching), NordicHPC
-(infrastructure), and Nordic-RSE (usage and software), which are other
+The chat is a joint community of CodeRefinery (teaching), scientific
+computing teams (infrastructure and support), and Nordic-RSE (usage and software), which are other
 Nordic projects about scientific computing which share some of the
 same people. Together, we have a network of all aspects of modern
 scientific computing.
@@ -61,6 +61,7 @@ There are also multiple sub-communities related to a specific event, group, regi
 - #nordic-rse-2025 : Nordic RSE conference 2025 organization
 - #python-for-scicomp : Python for SciComp coordination: A big course each autumn, public to the world. We are happy for any help here.
 - #rshour : Research Software Hour community and coordination. It is a weekly livestream about research software.
+- #scicomp-teams: Teams related to scientific computing, especially about running of the teams themselves. For example, HPC teams, RSE teams, data manager teams, etc.
 - #SWC DLN/ELIXIR/UiB Dlab : a sub-community
 - #coderefinery-tools-workshop : Where we organize the "standard" CodeRefinery workshop each spring and autumn.
 - #workflows-course : Real-life cluster computing workflows course, "Tuesday tools and techniques for HPC". A new course started in 2024
