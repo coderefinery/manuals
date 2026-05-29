@@ -53,7 +53,8 @@ To keep the lessons consistent and accessible, please keep these guidelines in m
 - Content Accuracy: Ensure any facts or claims are accurate, ideally with a peer reviewed citation. 
 - Originality and Licensing: Contribute only your own work and do not plagiarize from other texts. By submitting a contribution, you agree that you wrote the content (or have rights to it) and that it can be included under the project’s open license.
 - Privacy Considerations: Your name (or nickname) will be publicly visible and associated to the contribution. Due to the distributed nature of open source projects, you accept that it will be impossible to delete your contribution from the version control history.
-- Use of generative AI: the undisclosed use of generative AI is accepted only for basic checks of grammar, spelling, and punctuation. If you use generative AI you must declare it in your contribution and describe how it was used. 
+- Use of generative AI: the undisclosed use of generative AI is accepted only for basic checks of grammar, spelling, and punctuation. If you use generative AI, you must declare it in your contribution and describe how it was used.
+- Because of the previous point, we reject automated contributions that are clearly coming from AI agents or other automated systems with close to zero human intervention. As a human you can present the work you did with an agent to improve a lesson and we can then discuss on how to integrate it in the existing materials.
 - Images: only original images can be submitted. Image files for new images should be submitted as editable format using SVG as open standard for vector graphics. Photographs can only be used if released with a compatible creative common license. 
 - For any contribtion larger than fixing a typo: Do not forget to add yourself as a contributor in the lesson repositories citation.cff file. 
 
