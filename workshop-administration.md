@@ -143,6 +143,9 @@ For self-organized workshops:
 
 ## Workshop preparation checklist
 
+- [Workshop organizer plan / cheatsheet (google
+  sheet)](https://docs.google.com/spreadsheets/d/1gUUaPprOYZ33X2a6b0GnEdkk4YKZrRf47ExzUWKxWSU/edit)
+  (make a copy for each workshop)
 - This checklist can be set up as an issue under 
   <https://github.com/coderefinery/coderefinery.org/> or on another
   repository to keep track of the progress

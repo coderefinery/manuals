@@ -5,6 +5,12 @@ with 300 or more participants but may be useful in organizing other workshops as
 
 Let's keep this brief and copy-paste-able to HackMD/HedgeDoc for the actual planning.
 
+.. seealso::
+
+	[Workshop organizer plan / cheatsheet (google
+	sheet)](https://docs.google.com/spreadsheets/d/1gUUaPprOYZ33X2a6b0GnEdkk4YKZrRf47ExzUWKxWSU/edit)
+	that we have been using lately.
+
 ---
 ## CodeRefinery workshop YYYY-MM-DD
 
