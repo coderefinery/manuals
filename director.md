@@ -8,6 +8,10 @@ courses, the director also manages the stream scene/audio selection.
 * Gives introductions and wrap-ups (to the days, sessions, and
   instructors), or at least ensures someone does them.
   * Ensures the learenrs know all they need to know to take part.
+* Thinks and presents all the other "extra things", like other
+  relevant courses and organizations, reminders to follow-up by asking
+  us for help, and so on.  (things that instructors could do, but are
+  too busy to do).
 * Ensures good flow of the course overall
   * Is aware enough of the schedule so that they can decisively adjust
     it when needed.
