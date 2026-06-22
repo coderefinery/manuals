@@ -26,7 +26,7 @@ Notes mechanics <hackmd-mechanics.md>
 roles-overview
 team-leaders
 instructors
-lesson-editor
+lesson-maintainer
 notes-manager
 expert-helpers
 host

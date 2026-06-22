@@ -1,11 +1,11 @@
-# Lesson curating editor
+# Lesson maintainer
 
-Many people contribute to lesson and thus are "editors"  *The* lesson
-editor refers to the person managing all the contributions, like the
+Many people contribute to lesson and thus are "maintainers"  *The* lesson
+maintainer refers to the person managing all the contributions, like the
 editor of a [edited
 volume](https://en.wikipedia.org/wiki/Edited_volume).
 
-*Everyone* may "edit lessons", including merging pull requests and
+*Everyone* may "maintain lessons", including merging pull requests and
 pushing directly, when it's appropriate.  There are plenty of simple
 improvements that can be done without some "permission".  See the left
 sidebar, especially :doc:`lesson-review`.
@@ -21,7 +21,7 @@ to software/Github/etc. that has changed.
   taught.
 * Github Issues with bigger ideas accumulate over time.  Sometimes
   these are done quickly, but often they pile up.
-* Through this time, the lesson editor keeps an eye on things and can
+* Through this time, the lesson maintainer keeps an eye on things and can
   advise on contributions.
 
 * Every so often, there is a time for a big update.  This might
@@ -43,7 +43,7 @@ but it's good if they can stay hands-on with the teaching some.
 * Be very aware of the main trade-offs of CodeRefinery lessons: we
   have to teach something that's achievable for the common learner,
   not necessarily what we would do ourselves.  This is a delicate
-  balance, and lesson editors are on the front line.
+  balance, and lesson maintainers are on the front line.
 * Avoid too much feature creep or thing becoming too complex.
   Instead, it's OK to have sections with advanced material that aren't
   usually taught.
@@ -51,7 +51,7 @@ but it's good if they can stay hands-on with the teaching some.
   time, and at some point there are bigger changes.  The curator
   should managing this process.  (Or maybe, when it's time for a big
   change, a new curator comes in manages the
-  rearrangement/restructuring/rewrite, and takes over as the editor)
+  rearrangement/restructuring/rewrite, and takes over as the maintainer)
 * Talking with new instructors of the lesson and briefing them on the
   spirit of the lesson and common pitfalls.  (You aren't expected to
   always be the instructor, but if you can sometimes, great)
