@@ -1,4 +1,4 @@
-docutils==0.16    # bugfix, remove in sphinx>3.5.3
+docutils
 sphinx
 sphinx_rtd_theme
 sphinx-togglebutton
