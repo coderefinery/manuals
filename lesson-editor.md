@@ -59,7 +59,6 @@ but it's good if they can stay hands-on with the teaching some.
 * Can be around for at least a few years.
 
 
-
 ## Qualifications
 
 Don't take these qualifications too seriously.  Basically, we'd like
@@ -76,11 +75,10 @@ Lessons need that sometimes.
 * Any pedagogy experience is good, but it's OK to read our guidelines.
 
 
-
 # Resources
 
 * Everything under "lesson development" in the left sidebar.
-* Carpentries, `lesson maintainers handbook
-  <https://docs.carpentries.org/handbooks/maintainers.html>`__
-* Carpentries, `lesson developer handbook
-  <https://docs.carpentries.org/handbooks/lesson_developers.html>`__
+* Carpentries, [lesson maintainers
+  handbook](https://docs.carpentries.org/handbooks/maintainers.html)
+* Carpentries, [lesson developer
+  handbook](https://docs.carpentries.org/handbooks/lesson_developers.html)
