@@ -16,7 +16,12 @@ has the basic sessions that new instructors should do to prepare.
 
 ## Session 1: General motivation (1hr + 2-3 day follow-up)
 
-This happens well before the course, as early as practical.
+This happens well before the course, as early as practical.  It's the
+broad introduction to the instructor experience and motivate you for
+the rest, and will start you off with steps to prepare
+
+Who should attend: brand new teachers who haven't taught before, and
+anyone who wants to come support them.  Attendance not mandatory.
 
 Preparation: Generally have an idea about the CodeRefinery teaching
 style (have watched a course before, or maybe seen [this 15-minute
@@ -49,7 +54,17 @@ Follow-up:
 ## Meeting 2: Team teaching practice (2hr + 2-3 day follow-up)
 
 This happens a few weeks before the course.  This is focused on
-getting used to team teaching.
+introducing exact team teaching mechanics, getting used to team
+teaching, and preparing a lesson for teaching (teaching plan, lesson
+maintenance).  There will be some roleplay about the teaching, which
+will make the teaching smooth and remove your stress.
+
+Who should attend: Anyone new to CodeRefinery teaching (and I'd
+recommend each instructor attend this multiple times, if nothing else
+to help practice with new teachers).  **New instructors** really
+should come ("mandatory") for your first two workshops: **Experienced
+instructors**: optional but you will help mentor new instructors if
+you come.
 
 Preparation:
 
@@ -61,11 +76,13 @@ Preparation:
 We will:
 * Go through the [team teaching practice
   exercises](https://coderefinery.github.io/train-the-trainer/streaming-practice-1/).
-* The purpose is to practice with a co-instructor eand go through the
+* The purpose is to practice with a co-instructor and go through the
   basic mechanics.
 * Most practice is with very simple toy problems (e.g. "make a git
   repo"), so extensive lesson preparation isn't needed.
 * It may or may not include some livestream practice (usually not).
+* Discuss, now that things are coming close, how to divide up a lesson
+  for co-teaching.
 * Talk about how the prep is going in general.
 
 
@@ -81,13 +98,24 @@ Follow-up:
 
 ## Meeting 3: Livestream practice and final check (1-2hr)
 
-This happens a few days before the teaching.
+This is the "final check" for livestreaming, and answering any final
+questions about procedures.
+
+Who should attend: All instructors should attend one of the "final
+prep" events, unless you are beyond sure that you and your
+co-instructor are ready and you discuss with the instructor
+coordinators.  Attendance to one of the options is mandatory for all
+instructors (but ask and we can arrange an alternative time for you).
+
+This happens a few days before the teaching, usually one before week
+one and one before week two.
 
 Preparation: Make sure all the instructor technical setup is done
 (computer setup, audio, screenshare), so you can get final feedback on
 your exact setup.  All the [final checklist](instructor-checklist) stuff.
 
 We will:
+* Final check of tech setup (screenshare, audio, etc.)
 * Go through the [livestream mechanics teaching practice
   exercises](https://coderefinery.github.io/train-the-trainer/streaming-practice-2/).
 * Do a whole test with your computer + practice the livestream.
