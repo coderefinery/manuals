@@ -60,6 +60,7 @@ presenting-inperson
 :caption: Lesson development
 :maxdepth: 1
 
+lesson-philosophy
 lesson-design
 lesson-review
 lesson-contribution

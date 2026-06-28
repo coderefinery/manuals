@@ -2,20 +2,32 @@
 
 # Lesson design
 
-This is a checklist and hints when writing and designing a new lesson.
-The master material is in Teaching Tech Together, primarily chapters 6
-and 12 for practicalities and 2 and 4 for big picture considerations.
-But really, all the book.  See [the summary we
-made](teaching-tech-together.md) or [the actual
-book](http://teachtogether.tech/).  The article [Ten quick tips for creating an
-effective lesson](https://doi.org/10.1371/journal.pcbi.1006915) is
-also a good summary of the main points.
-Finally, the [Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/) gives practical information on how to design a new lesson and covers the entire lesson life-cycle with a good overview of the lesson release timeline.
+This is a checklist and hints when designing and writing a new lesson.
+It is more actionable than {doc}`lesson-philosophy`.
+CodeRefinery can't claim to reproduce all the other good material out
+there, but this short crash course for what we have seen.
 
-This doesn't replace your own knowledge in doing the actual teaching
+This page doesn't replace your own knowledge in doing the actual teaching
 part.  Instead, the first half gives pointers on making sure your
 audience can connect to the material, and the last half gives hints
 to help you come up with good exercises and examples.
+
+
+## See also
+
+* The primary material is in Teaching Tech Together, primarily
+  chapters 6 and 12 for practicalities and 2 and 4 for big picture
+  considerations (note this was back in 2019, it's changed since
+  then).  But really, all the book.  See [the summary we
+  made](teaching-tech-together.md) or [the actual
+  book](http://teachtogether.tech/).
+* The article [Ten quick tips for creating an effective
+  lesson](https://doi.org/10.1371/journal.pcbi.1006915) is also a good
+  summary of the main points.
+* Finally, the [Carpentries Curriculum Development
+  Handbook](https://cdh.carpentries.org/) gives practical information
+  on how to design a new lesson and covers the entire lesson
+  life-cycle with a good overview of the lesson release timeline.
 
 
 ## Backwards lesson design
@@ -23,27 +35,62 @@ to help you come up with good exercises and examples.
 Think test-driven development: decide what you want students to be able
 to do, design exercises to measure it, then fill in the gaps with
 teaching.  You can see [their
-summary](http://teachtogether.tech/en/template/).  The steps are:
+summary](http://teachtogether.tech/en/index.html#s:checklists-design).
+The steps are:
 
 1. Brainstorm what you want to cover.
 2. Create or reuse learner personas - understand who you want to
    teach.  What do they care about?  Perhaps as important is what they
    don't care about: make sure that you don't go too in depth too
    early and turn people off.
+
+   - We generally know we teach to early-career researchers, but at
+     what level do they want to interact with the tools?  How much
+     time do they have?  What do they not need to know?
+
 3. Create some summative assessments, that show what learners should
    learn by the end.  Try to connect these to the learner personas.
+
+   - In our case, we don't give a final test, or even a final exercise
+     to test knowledge.
+   - Instead, this is more like "something that learners can do
+     themselves, in their work, shortly after the course".
+   - Don't be over-ambitious!  When I (rkdarst) plan a lesson, I try
+     to think of ~three points someone might remember, one or two
+     might be an action and one or two might be knowledge of something
+     they can learn later.
+
 4. Create formative assessments (exercises) that let the learners
    practice what you want them to learn.  See below for hints on coming
    up with good exercises.  These should also connect to things the
    learners will actually do, but can also be more of checkpoints.
+
+   - Basically, interesting exercises at the end of or during each
+     exercise.  Think interactive but *simple*.
+   - I (rkdarst) once heard instructors can do exams ten times faster
+     than students.  Think on that level.
+
 5. Put exercises in a logical order, and fill in any gaps.  Ideally
-   there should be 15-20 min of teaching between each exercise.  Perhaps
-   most are short (a few longer examples as needed), to identify a
-   certain learning goal and misconception.
+   there should be a cycle of ~30-50 minutes of teaching+exercise (not
+   including 10 min break every hour).  Perhaps most are short (a few
+   longer examples as needed), to identify a certain learning goal and
+   misconception.
+
+   - I (rkdarst) these days think that it is best to have exercises as
+     long as possible (group many small into one large), since more
+     time than you expect is lost with context switching.
+   - Also, if you can make it work, it's best to minimze talking to
+     introduction and discussion, if you can make the exercise
+     material self-explanatory.  In other words, tell the students
+     what and why, let the exercise text explain "how".
+
 6. Write just enough material to get from one exercise to the other.
 
 The most important point here is to start from learner's needs and how
-they can feel connected, not from the tech details.
+they can feel connected, not from the tech details.  **It is very easy
+for us to start with what we would do, and over time every one of
+these lessons migrates towards a learner-centric design.  Make a
+shortcut and start learner-centric.**
 
 When advertising the course, connect it to your learner personas so
 that you get the right audience and they know why they should come.
@@ -54,6 +101,8 @@ that you get the right audience and they know why they should come.
 You can think of why people should feel emotionally connected to your
 material - maybe it's too much to expect people to get emotionally
 invested, but if you try for that, you'll end somewhere better.
+**Most people don't attend our courses to learn a skill.  They attend
+because they think it will help their other work.**
 
 Try to design around tasks and exercises which your audience will care
 about.  For example, don't say "here are some shell commands", but
@@ -67,7 +116,7 @@ are some typical things you might do.".  Intrinsic motivators include
 A manual is reference, a tutorial builds a cognitive model.  If you
 can build the cognitive model and tell them the "why", students may be
 able to refer to the manuals themselves and become self-sufficient.
-Thus, teaching should be more of a
+Thus, our teaching is usually more of a
 tutorial, with good links to manuals (it can also explicitly teach
 how to use the manuals).
 
@@ -76,7 +125,10 @@ Perhaps a related point is inclusiveness: make sure there's not some
 that some people are missing something, but that others have had the
 fortune of learning it earlier.  This may not matter in a purely
 factual lesson design, but if you are trying to make things
-intrinsically or emotionally appealing, it is essential.
+intrinsically or emotionally appealing, it is essential.  (Example:
+git lessons use to have Star Wars references about "force pushing".
+They are mostly gone now, since it's not clear why force pushing is
+interesting nor does everyone like Star Wars).
 
 
 ## Who is the audience?
@@ -84,20 +136,26 @@ intrinsically or emotionally appealing, it is essential.
 Making the **learner personas** are essential to making a good lesson,
 even if you think you know who you are teaching to.  This is because
 it grounds you into what your audience already knows (or doesn't know)
-and what they are interested in.
+and what they are interested in.  Think:
+
+- Different types of work they do
+- Different ways they do their work (and thus future needs)
+- Different levels of background (shell proficiency, etc.)
 
 You also have different ways people can refer to the material:
 - In a class, with an instructor guiding them
 - Reading along by themselves
 - In a class, being much more advanced than others, so that they skip
   ahead and do advanced material themselves.
+- In a class and lacking some prerequisites, so may struggle with some
+  parts.
 
 
 ## Planning
 
 - Do some planning, and *document it* - the design process helps
-  others to teach and modify.  At least put it in the README.  (this
-  is the **designer/maintainer's guide**)
+  others to teach and modify.  At least put it in the instructor guide
+  (`guide.md`).  (this is the **designer/maintainer's guide**)
   - Put the main points from the "backwards lesson design process" in
     here, enough that it is easier for someone to improve your lesson
     than to redo it.
@@ -120,11 +178,11 @@ You also have different ways people can refer to the material:
 
 ## Writing
 
-There is not much here yet, mostly just follow the "backwards lesson design"
-above.  The hardest part is coming up with good exercises, so our
-practical advice is to mix and match from the two taxonomies at the
-bottom and the exercise types.  Try to think of diverse types of
-exercises.
+There is not much here yet, mostly just follow the "backwards lesson
+design" above.  The hardest part is coming up with good exercises, so
+our practical advice is to leave plenty of time for this and talk with
+others.  There is inspiration at the bottom of this page.  Try to
+think of diverse types of exercises.
 
 Exercise design is the time it is most useful to be with others to do
 brainstorming, so we highly recommend discussing with others at this
@@ -178,14 +236,30 @@ with smaller, more conceptual things to reduce the cognitive load and
 be able to have more frequent exercises.
 
 One of your other primary goals should be to make your exercises
-*relevant*.  Abstract will lead to disconnection. Connect the exercises
-to the real world.  Also, can you tell a complete story with
-exercises?  (Remember, in backwards lesson design, the exercises
-form the story of the lesson.)
+*relevant*.  Abstract will lead to disconnection.  Most lesson
+designers work at a higher level of abstraction than their students.
+Connect the exercises to the real world.  Also, can you tell a
+complete story with exercises?  (Remember, in backwards lesson design,
+the exercises form the story of the lesson.)
 
-Remember that not every exercise has to be long.  Try to have
-frequent short exercises to get immediate feedback, with some long
-ones.
+There are three types of "action":
+* **Exercise**: Learners do these themselves during a quite time.
+  They can focus, read, and figure things out.  These are good but
+  make them long.  These should be in as long sessions as possible,
+  so learners have time to focus.  A five or even ten minute exercise
+  is almost zero time to think.
+  * Subtype: **Questions** which you ask the learner and they answer
+    via the Notes.  These can be short and during your talking.
+* **Demos**: The instructor do something and explain it why doing.
+  These can be good, but you need to remember to go slow enough for
+  learners to follow, and they aren't very interactive.
+* **Type-along** is where instructors do something and learners are
+  expected to follow along at the same time.  This sounds like a good
+  idea, but there are just so many things that can go wrong, and if
+  someone gets behind, the lose it all.  They can work if you give an
+  exercise doing the same things right after, and make it clear "what
+  I am typing is the next exercise, so you don't need to follow
+  along".
 
 Good exercises are the most important factor in a good lesson.  Even
 if you are preparing the rest of the lesson mostly alone, consider a
@@ -196,6 +270,9 @@ When you are stuck thinking "how can I make an exercise that covers
 X", think of the lists below inspiration.  Not every exercise has to be an
 sophisticated hands-on thing, so don't be afraid to use different
 types:
+
+
+## Exercise inspiration
 
 Basic types:
 - Multiple choice (easy to get feedback via a classroom tool - try to
