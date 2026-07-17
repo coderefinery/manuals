@@ -78,7 +78,7 @@ document.
 
 
 ### Managing collaborative document
-([description](https://coderefinery.github.io/manuals/hackmd-helper/#hackmd-manager))
+([description](https://coderefinery.github.io/manuals/notes-manager/))
 
 Keep the document organized, check for unanswered questions, and archive notes each day.
 
