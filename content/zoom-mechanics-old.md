@@ -129,5 +129,5 @@ one for the people.  It might be useful even with only one screen.
 
 ---
 
-This is licensed under [CC-BY](https://github.com/coderefinery/manuals/blob/master/LICENSE)
+This is licensed under [CC-BY](https://github.com/coderefinery/manuals/blob/master/LICENSE.md)
 and we encourage and appreciate reuse, modifications, and contributions.

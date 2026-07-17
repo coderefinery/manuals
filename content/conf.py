@@ -20,6 +20,7 @@
 project = 'CodeRefinery manuals'
 copyright = '2018-2023, The CodeRefinery team'
 author = 'The CodeRefinery team'
+html_title = project
 
 
 # -- General configuration ---------------------------------------------------
