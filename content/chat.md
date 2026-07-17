@@ -18,6 +18,10 @@ Unlike Slack, Zulipchat is very heavily threaded, and one can follow along witho
 topic (=thread) that is relevant, or make a new topic.  Sometimes you
 can find old topics to revive.
 
+The [CodeRefinery Code of
+Conduct](https://coderefinery.org/about/code-of-conduct/) applies to
+the chat.
+
 
 ## Channels
 
