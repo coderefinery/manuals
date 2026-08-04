@@ -1,28 +1,12 @@
 # Lesson credits
 
-```{admonition} Page status
+To acknowledge all contributors to our material we have implemented `CITATION.cff` files to all our lesson repositories in 2025. See [lesson metadata](lesson-metadata.md) for the full reference on what's in these files and when they get updated.
 
-This is a draft/proposal as of 2024.
-```
+We've decided not to distinguish different levels of contribution: everyone who contributed more than a typo fix is listed as an author, if they wish so. 
 
-We hope to acknowledge all contributors to our material, but there are
-many different sizes of contributions to something as wide-ranging as
-CodeRefinery.  We have these levels of credit:
+In 2026 we also added bioschemas.yml, which in addition to author, also introduces a contributor field. We keep everyone as author in both files rather than splitting across the two.
 
-* **Editors** take an overall, long-term view, set the overall
-  strategy, and manage the fit of the various sections.  They merge
-  pull requests (but so can others).
-* **Contributors/Authors** have made contributions which are locally
-  significant to one part of the lesson, and take responsibility for
-  what they have added (along with the team).
-* **Acknowledgees** have made other contributions.
-
-Editors and contributors are listed in the `CITATION.cff` file within
-each repository and are includes as authors in the archived DOI in
-Zenodo.  Editors are usually mentioned in the README file itself.
-Acknowledgees are listed on the Github contributors pages (or
-READMEs if it's not via Github).
-
+In 2026 we also started with a more formal role of lesson maintainer. The current maintainer(s) are recorded in the `contact` field of `CITATION.cff`, and are also named in the README. See [lesson metadata](lesson-metadata.md#lesson-maintainer-metadata) for how this carries through to bioschemas.yml and Zenodo.
 
 ## Adding an author
 
@@ -34,27 +18,39 @@ consider:
   permanent
 - You will be included in future releases as well, unless you ask to be removed
 - Please send us: family-names, given-names, and if you want ORCID
-  ((reference of valid
-  keys)[https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md#definitionsperson]).
+  ([reference of valid
+  keys](https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md#definitionsperson)).
 
-Editors should be proactive reach out to people when they contribute,
+The preferred way is to open a pull request adding yourself directly to
+`CITATION.cff`, under the `authors:` list, for example:
+
+```yaml
+authors:
+  - family-names: Doe
+    given-names: Jane
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+```
+
+New authors are usually appended at the end of the list; there is no
+strict ordering requirement. If you'd rather not deal with git/YAML,
+send us the same information and a [lesson maintainer](lesson-maintainer.md)
+will add it for you.
+
+Maintainers should be proactive reach out to people when they contribute,
 but everyone should also send a pull request to be included in
-CITATION.cff if you desire.  Note that nothing of the above is defined
-as only "git or in-writing contributions".
+CITATION.cff if you desire.  Note that not all contributions may be visible from the Git history. Often, multiple people are involved in change discussions. Those should at least be asked if they want to be named as author.
+
+Regenerating `bioschemas.yml` from `CITATION.cff` happens as part of
+[releasing a new version](lesson-version.md), so it doesn't need to be
+done manually when adding an author.
 
 
+## Adding an acknowledgee
 
-## Adding an acknowldegee
-
-There are very many, so we try to leave the Github contributions page
-as the main source of them.  They can also be added to the lesson
-README page if it's not a Github interaction (or if it's desired for
+There are very many, so we try to add them to the lesson
+README page if it's not based on a Github interaction (or if it's desired for
 some other reason).
 
 
 
-## Adding an editor
 
-Anyone is welcome to take a long-term view of the lesson to become a
-future editor.  Be active in Github/chat/our meetings/etc. and we will
-be happy to distribute the work and credit more.
