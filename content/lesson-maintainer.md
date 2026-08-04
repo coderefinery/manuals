@@ -1,5 +1,11 @@
 # Lesson maintainer
 
+```{admonition} Status: initial suggestion
+
+We do not currently have lesson maintainers. This page is an initial
+suggestion for the role, not yet an adopted practice.
+```
+
 Many people contribute to lesson and thus are "maintainers"  *The* lesson
 maintainer refers to the person managing all the contributions, like the
 editor of a [edited

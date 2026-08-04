@@ -44,7 +44,7 @@ We generally welcome contributions, especially from people teaching the lessons 
 
 ### 10. Keep materials up to date
 
-We generally update the lesson materials before every workshop together with instructors. We also have [lesson maintainers](lesson-maintainer.md) who keep an eye on each lesson between these updates.
+We generally update the lesson materials before every workshop together with instructors. We're also considering [lesson maintainers](lesson-maintainer.md) who would keep an eye on each lesson between these updates — currently just an initial suggestion, not an adopted role.
 
 ### Additional things we do for our workshop
 

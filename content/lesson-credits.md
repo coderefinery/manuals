@@ -1,12 +1,12 @@
 # Lesson credits
 
-To acknowledge all contributors to our material we have implemented `CITATION.cff` files to all our lesson repositories in 2025. See [lesson metadata](lesson-metadata.md) for the full reference on what's in these files and when they get updated.
+To acknowledge all contributors to our material, every lesson repository has a `metadata.yml` file listing authors, from which `CITATION.cff`, `bioschemas.yml`, and the Zenodo record are all generated automatically. See [lesson metadata](lesson-metadata.md) for the full reference on how this works.
 
-We've decided not to distinguish different levels of contribution: everyone who contributed more than a typo fix is listed as an author, if they wish so. 
+We've decided not to distinguish different levels of contribution: everyone who contributed more than a typo fix is listed as an author, if they wish so.
 
-In 2026 we also added bioschemas.yml, which in addition to author, also introduces a contributor field. We keep everyone as author in both files rather than splitting across the two.
+Bioschemas' schema.org vocabulary also has a separate `contributor` concept, distinct from `author`. We keep everyone as an author rather than splitting across the two.
 
-In 2026 we also started with a more formal role of lesson maintainer. The current maintainer(s) are recorded in the `contact` field of `CITATION.cff`, and are also named in the README. See [lesson metadata](lesson-metadata.md#lesson-maintainer-metadata) for how this carries through to bioschemas.yml and Zenodo.
+We're considering a more formal role of [lesson maintainer](lesson-maintainer.md) — currently just an initial suggestion, not an adopted role. `metadata.yml` already has an (optional, not yet actively used) `maintainers` field for this. See [lesson metadata](lesson-metadata.md#lesson-maintainer-metadata) for exactly what recording a maintainer there would and wouldn't carry through to `CITATION.cff`, bioschemas, and Zenodo.
 
 ## Adding an author
 
@@ -22,7 +22,7 @@ consider:
   keys](https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md#definitionsperson)).
 
 The preferred way is to open a pull request adding yourself directly to
-`CITATION.cff`, under the `authors:` list, for example:
+`metadata.yml`, under the `authors:` list, for example:
 
 ```yaml
 authors:
@@ -33,16 +33,18 @@ authors:
 
 New authors are usually appended at the end of the list; there is no
 strict ordering requirement. If you'd rather not deal with git/YAML,
-send us the same information and a [lesson maintainer](lesson-maintainer.md)
-will add it for you.
+send us the same information and someone from the CodeRefinery team
+will add it for you (once the [lesson maintainer](lesson-maintainer.md)
+role is adopted, maintainers would be expected to proactively reach
+out to people when they contribute).
 
-Maintainers should be proactive reach out to people when they contribute,
-but everyone should also send a pull request to be included in
-CITATION.cff if you desire.  Note that not all contributions may be visible from the Git history. Often, multiple people are involved in change discussions. Those should at least be asked if they want to be named as author.
+Everyone should send a pull request to be included in
+`metadata.yml` if you desire.  Note that not all contributions may be visible from the Git history. Often, multiple people are involved in change discussions. Those should at least be asked if they want to be named as author.
 
-Regenerating `bioschemas.yml` from `CITATION.cff` happens as part of
-[releasing a new version](lesson-version.md), so it doesn't need to be
-done manually when adding an author.
+Merging that pull request to `main` regenerates `CITATION.cff` and
+`bioschemas.yml` automatically (see [lesson
+metadata](lesson-metadata.md)) — there's nothing else to update by
+hand when adding an author.
 
 
 ## Adding an acknowledgee
