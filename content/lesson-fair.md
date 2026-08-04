@@ -18,7 +18,7 @@ All our lessons have been published on Zenodo in our CodeRefinery community. Eve
 
 ### 4. Register online
 
-We're still looking into which formal training registry would be a good fit (e.g. TeSS, OpenAIRE) — this is an open item. In the meantime, crawlers and catalogs can already discover and index our lessons through the `bioschemas.yml` metadata (see [lesson metadata](lesson-metadata.md)), and all our workshop lessons are linked from our website and the workshop event pages.
+Every lesson is already indexed in [OpenAIRE](https://support.zenodo.org/help/en-gb/18-general/169-what-is-openaire) automatically, since Zenodo harvests to OpenAIRE and every lesson release is published on Zenodo (see point 3). Crawlers and catalogs can also discover our lessons directly through the `bioschemas.yml` metadata (see [lesson metadata](lesson-metadata.md)), and all our workshop lessons are linked from our website and the workshop event pages. 
 
 ### 5. Define access rules
 
