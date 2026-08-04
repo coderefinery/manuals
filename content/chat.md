@@ -187,9 +187,6 @@ contract guaranteeing confidentiality.
 
 Since June 2026 our welcome message to the chat is the following: 
 
-Maybe as some page on chat management not mixed with chat usage. Could add some thoughts on why this looks like it looks. 
-
-The current message is:
 
 ```
 # Hei, Hej, Moi, Halló - and welcome!
@@ -230,5 +227,5 @@ Getting into a new community can feel a bit daunting, but don’t worry; we have
 
 Looking forward to seeing you around, and have fun exploring! :)
 
--  Samantha (a community building, RSE and training enthusiast currently project manager for CodeRefinery and chair of the Nordic-RSE association)
+-  (Name of person sending the message with some explanation of who they are)
 ```
