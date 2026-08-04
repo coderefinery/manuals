@@ -162,8 +162,7 @@ repo. It:
 2. Finds the latest existing Zenodo version under `ZENODO_CONCEPT_ID`
    and creates a new draft version under the same concept.
 3. Uploads the tagged GitHub release's source archive and the lesson
-   PDF built onto the `gh-pages` branch, then orders them so the PDF
-   is Zenodo's preview file.
+   PDF built onto the `gh-pages` branch.
 4. Publishes the draft, producing a new version DOI under the same
    concept DOI — see the verification step in [releasing a new
    version](lesson-version.md).
