@@ -76,6 +76,9 @@ lesson-philosophy
 lesson-design
 lesson-review
 lesson-contribution
+lesson-fair
+lesson-metadata
+lesson-version
 ```
 
 Information on writing, reviewing, and maintaining our actual lesson materials.
