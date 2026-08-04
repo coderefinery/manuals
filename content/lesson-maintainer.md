@@ -48,10 +48,11 @@ but it's good if they can stay hands-on with the teaching some.
   Instead, it's OK to have sections with advanced material that aren't
   usually taught.
 * Manage cycles of major development.  Many ideas may pile up over
-  time, and at some point there are bigger changes.  The curator
+  time, and at some point there are bigger changes.  The maintainer
   should managing this process.  (Or maybe, when it's time for a big
-  change, a new curator comes in manages the
+  change, a new maintainer comes in manages the
   rearrangement/restructuring/rewrite, and takes over as the maintainer)
+* Create a new release when appropriate, see :doc:`lesson-version`
 * Talking with new instructors of the lesson and briefing them on the
   spirit of the lesson and common pitfalls.  (You aren't expected to
   always be the instructor, but if you can sometimes, great)
