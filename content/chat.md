@@ -182,3 +182,50 @@ All activity (except private steams) should be considered public, and
 the data controller is zulipchat.com.  Zulip admins can't add
 themselves or others to private channels, but still: there is no
 contract guaranteeing confidentiality.
+
+## Welcome message
+
+Since June 2026 our welcome message to the chat is the following: 
+
+
+```markdown
+# Hei, Hej, Moi, Halló - and welcome!
+
+This is the Zulip chat for the CodeRefinery and Nordic-Research Software Engineering community. We’re glad you’re here!
+
+## TL;DR: In short - how to get started
+
+1. Explore our [Zulip chat guide](https://coderefinery.github.io/manuals/chat/)
+1. Add a profile picture and say hello in the #**greetings>Introductions**  topic
+1. Follow topics/channels that match your interests and join the conversation or start your own, unfollow or mute others
+1. Ask anything - no question is too small, for example in our #**help**  channel
+
+## The slightly longer version 
+
+### Who we are
+
+* [CodeRefinery](https://coderefinery.org/) is a collaboration between nine Nordic organizations teaching researchers practical research software engineering skills. Our workshops and community are open to everyone. If you’re interested, you can also contribute by teaching or helping develop lessons.
+  
+* [Nordic-RSE](https://nordic-rse.org/) is a community and association for research software engineering enthusiasts across the Nordics and Baltics. Anyone can join discussions and attend the annual conference; and if you’d like, you can also get involved in organizing events or contributing to the association. 
+
+* A new community that has naturally grown from the two groups above are the HPC/Scientific Computing service teams. Those are the people interested in supporting others with Scientific computing, The #**scicomp-teams**  channel provides an opportunity to connect, share experiences and ask questions.
+
+
+### What’s this chat?
+
+We use this Zulip chat as our main communication platform. If you don’t know Zulip yet, It may feel a bit different from other chats at first, but it’s great for keeping discussions organized by topic. To help you get started, here’s a quick guide: https://coderefinery.github.io/manuals/chat/
+
+Upon joining, you’ve already been subscribed to a few channels, but there’s plenty more to explore. Feel free to browse, join, or start conversations! Best place to ask any question to the community or also just "work out loud" is our #**help**  channel. To limit the noise, you can unsubscribe and mute channels or also mute specific topics.
+
+### A good place to start
+
+We’d love to get to know you; if you want to, please add a picture to your profile and introduce yourself in the [#greetings>introductions](https://coderefinery.zulipchat.com/#narrow/channel/119816-greetings/topic/Introductions/with/594840612) topic. You’ll also find others’ introductions in that topic and get a sense of the community.
+
+### Questions?
+
+Getting into a new community can feel a bit daunting, but don’t worry; we have all been there and are happy you made it here and want to support you. If you have any questions or need help finding your way, feel free to reach out to me.
+
+Looking forward to seeing you around, and have fun exploring! :)
+
+-  (Name of person sending the message with some explanation of who they are)
+```
