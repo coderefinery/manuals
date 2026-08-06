@@ -188,7 +188,7 @@ contract guaranteeing confidentiality.
 Since June 2026 our welcome message to the chat is the following: 
 
 
-```
+```markdown
 # Hei, Hej, Moi, Halló - and welcome!
 
 This is the Zulip chat for the CodeRefinery and Nordic-Research Software Engineering community. We’re glad you’re here!
