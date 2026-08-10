@@ -6,7 +6,7 @@ We've decided not to distinguish different levels of contribution: everyone who 
 
 In 2026 we also added bioschemas.yml, which in addition to author, also introduces a contributor field. We keep everyone as author in both files rather than splitting across the two.
 
-In 2026 we also started with a more formal role of lesson maintainer. The current maintainer(s) are recorded in the `contact` field of `CITATION.cff`, and are also named in the README. See [lesson metadata](lesson-metadata.md#lesson-maintainer-metadata) for how this carries through to bioschemas.yml and Zenodo.
+In 2026 we will also start with a more formal role of lesson maintainer. The current maintainer(s) will be recorded in the `contact` field of `CITATION.cff`, and are also named in the README. See [lesson metadata](lesson-metadata.md#lesson-maintainer-metadata) for how this carries through to bioschemas.yml and Zenodo.
 
 ## Adding an author
 
