@@ -1,5 +1,8 @@
 # Lesson maintainer
 
+This page is a suggestion. We will update in 2026 as we start implementing the maintainer 
+role for our lessons.
+
 Many people contribute to lesson and thus are "maintainers"  *The* lesson
 maintainer refers to the person managing all the contributions, like the
 editor of a [edited
