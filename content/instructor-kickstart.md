@@ -14,7 +14,7 @@ concrete practice.  You don't need to read this right now.  This page
 has the basic sessions that new instructors should do to prepare.
 
 
-## Session 1: General motivation (1hr + 2-3 day follow-up)
+## Session 1: Instructor intro (about CR teaching) (1hr + 2-3 day follow-up)
 
 This happens well before the course, as early as practical.  It's the
 broad introduction to the instructor experience and motivate you for
@@ -51,7 +51,7 @@ Follow-up:
   and to mentor you.
 
 
-## Meeting 2: Team teaching practice (2hr + 2-3 day follow-up)
+## Session 2: Instructor training (team teaching practice) (2hr + 2-3 day follow-up)
 
 This happens a few weeks before the course.  This is focused on
 introducing exact team teaching mechanics, getting used to team
@@ -96,7 +96,7 @@ Follow-up:
 * Ask the instructor trainer (or anyone else) advice on the lessons.
 
 
-## Meeting 3: Livestream practice and final check (1-2hr)
+## Session 3: Instructor Final check (1-2hr)
 
 This is the "final check" for livestreaming, and answering any final
 questions about procedures.
