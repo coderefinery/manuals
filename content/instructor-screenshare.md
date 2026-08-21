@@ -103,7 +103,7 @@ This is how learners can arrange their screen:
 
 **L1**: Learner with a large screen, Zoom in dual-monitor mode so that the
 instructur pictures are not shown.  Screenshare is on the left side,
-HackMD at bottom left, terminal and web browser on the right.
+Notes at bottom left, terminal and web browser on the right.
 ```
 
 ```{figure} img/instructor-tech-online/learner-normal.png
@@ -128,6 +128,6 @@ This is what the instructor sees on their screen:
 :width: 75%
 
 **I1**: Vertical instructor setup.  Zoom is sharing a portion of the left
-side, the right side is free for following HackMD, chat, etc (but
+side, the right side is free for following the Notes, chat, etc (but
 don't overload yourself).
 ```

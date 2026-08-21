@@ -70,7 +70,7 @@ completely outside of this pathway.
 * Eventually, you get confident enough to teach yourself (though
   really we should always be co-teaching...)
 * Somewhere in there (before or after instructor, depending on your
-  interests), you may want to try to be a HackMD helper or Zoom host.
+  interests), you may want to try to be a Notes helper or Zoom host.
   These are more about coordinating all the other people involved in
   the workshop.
 
@@ -88,7 +88,7 @@ figwidth: 50%
 ---
 
 An example of a beautiful screenshare.  Note the portrait orientation
-(you have half the screen free for notes and HackMD, learners have
+(you have half the screen free for Notes, learners have
 half the screen free to do their own work).  The terminal is
 dark-on-light, a minimal prompt, no other fancy shell distractions,
 there is a shell history visible, and slightly distinct colors between

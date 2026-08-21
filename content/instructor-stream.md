@@ -49,9 +49,9 @@ had all of:
   partners, sometimes not)
 - Groups of people watching online, but in a Zoom session for doing
   exercises together.
-- We centrally organize a Zoom session for exercises, providing
-  CodeRefinery helpers and organized breakout rooms with teams that
-  CodeRefinery organized.
+- Somitemies, we centrally organize a Zoom session for exercises,
+  providing CodeRefinery helpers and organized breakout rooms with
+  teams that CodeRefinery organized.
 
 
 
@@ -159,7 +159,7 @@ For example, below you see a poll (people add `o` to make a bar
 graph), and a free response:
 
 ```
-Have you used HackMD before?
+Have you attended a livestream course before?
 yes: oooooooo
 no:  oooo
 

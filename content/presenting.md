@@ -40,6 +40,56 @@ This is assorted hints about actually presenting.
   only very few participants may relate to.
 
 
+### Main vs exercises sessions
+
+As an instructor, when preparing your lesson you first need to decide
+how to balance between the main room and breakout sessions.
+
+- **Clearly say when a learner watches, when they type along, when
+  they should work on something independently as an exercise.**
+- CodeRefinery is traditionally a hands-on workshop, so exercise
+  sessions should be a large part of the workshop.  Usually, it's good
+  to try to minimize talking and let people get to the exercise
+  sessions as soon as possible.  The written material should support
+  this.
+- We usually keep the main room mostly for general discussions. Small
+  exercises or polls can also be done in the main room, for all
+  hands-on exercises we divide the learners into breakout-rooms each
+  with one team leader.
+- To give you an idea about how the work in the exercise sessions is
+  going, monitor the Notes closely and if time allows try to visit a
+  few breakout rooms to see how it is going and if needed adjust the
+  timing.
+
+
+### Preparing for the exercises
+
+**As an instructor, you need to clearly define what the tasks of each
+exercise session is (even if it is just "explore and discuss").**
+Online courses need more **"meta talk"** about how you expect things
+to go, since it's not as easy to read the room or fill in expectations
+later (distractions, hard to communicate to breakout rooms after
+opened).
+
+- Clearly say what the tasks of the breakout session will be.
+- Put that task and a link to the part of the lesson in the Notes.
+- Clearly say how long each breakout session will be (make sure it's
+  long enough and adjust during the exercise session if needed).
+- Clearly say if things in the future will depend on this exercise (is
+  someone completely lost if they don't make it to the end.  Halfway?)
+- Try to make breakout sessions longer:
+  - imagine a 5 minute overhead for each session, getting people
+    there, deciding who does what, acquainted with what they need to
+    do, and debugging problems.
+  - 10 minutes is quite short (5 min figuring out what to do + 5 min
+    doing), so 20 minutes is best.
+  - **Can you say less and let people discover it for themselves?**
+
+As a helper or team leader, if anything is unclear to you, it is very
+unclear to others. Comment/ask in the Notes or speak up and ask!
+
+
+
 ## Wrap up
 
 - Say what you taught and why.

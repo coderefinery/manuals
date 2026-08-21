@@ -53,6 +53,7 @@ onboarding and preparation.
 
 instructor-intro
 instructor-kickstart
+instructor-topissues
 instructor-checklist
 instructor-computer
 instructor-screenshare

@@ -21,14 +21,15 @@ development section, {doc}`lesson-review`.
 
 See {doc}`team-teaching`
 
-- Write down the episodes you will teach
+- Think of the episodes you will teach (don't be too creative -
+  default to what works).
 - Choose a model (guide/demo-giver, interviewer/expert,
-  teacher/student) for each episode
-- Choose a primary for each episode
-- Primary does major lesson review and prepares for teaching
-- Secondary also reviews material and prepares for teaching
+  teacher/student) and "primary" for each episode
+  ({doc}`team-teaching`).
+- For each episode, the primary does the main lesson review and
+  prepares for teaching (assisted by the secondary of course).
 - Make a {doc}`teaching-plan` to an appropriate level of detail.
-- One run-through before the course
+- One run-through before the course.
 
 
 
