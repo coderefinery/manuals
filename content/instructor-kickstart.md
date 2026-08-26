@@ -35,6 +35,29 @@ We will:
 * Q&A and discussion about what happens on your path to being an
   instructor.
 
+:::{instructor-note} Topics
+---
+class: dropdown
+---
+
+- Quick history, from in-person to livestream
+- What makes CodeRefinery unique
+  - Co-teaching
+  - Notes doc and continual Q&A
+  - Livestream (including having much more support)
+  - Local classrooms
+  - Lesson format
+- Questions?
+- What comes next if you are teaching at the upcoming CR
+  - About the next two sessions.
+  - What reading you should do.
+  - Small group meeting for each lesson with new instructors
+    (coordinator, two instructors).  We will work on a custom teaching
+    plan.
+  - Lesson preparation: practicalities - See {doc}`lesson-review`.
+:::
+
+
 Follow-up:
 * Read everything in the instructor section of the manuals (left
   sidebar of this site).
