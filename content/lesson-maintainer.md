@@ -14,7 +14,7 @@ volume](https://en.wikipedia.org/wiki/Edited_volume).
 *Everyone* may "maintain lessons", including merging pull requests and
 pushing directly, when it's appropriate.  There are plenty of simple
 improvements that can be done without some "permission".  See the left
-sidebar, especially :doc:`lesson-review`.
+sidebar, especially {doc}`lesson-review`.
 
 
 ## How lesson development and maintenance usually works
@@ -58,7 +58,7 @@ but it's good if they can stay hands-on with the teaching some.
   should managing this process.  (Or maybe, when it's time for a big
   change, a new maintainer comes in manages the
   rearrangement/restructuring/rewrite, and takes over as the maintainer)
-* Create a new release when appropriate, see :doc:`lesson-version`
+* Create a new release when appropriate, see {doc}`lesson-version`
 * Talking with new instructors of the lesson and briefing them on the
   spirit of the lesson and common pitfalls.  (You aren't expected to
   always be the instructor, but if you can sometimes, great)
