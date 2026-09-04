@@ -1,0 +1,552 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lesson metadata &mdash; CodeRefinery manuals</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css?v=9edc463e" />
+      <link rel="stylesheet" type="text/css" href="../_static/sphinx_rtd_theme_ext_color_contrast.css?v=8e8ea19f" />
+      <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=9c3e77be" />
+      <link rel="stylesheet" type="text/css" href="../_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+      <link rel="stylesheet" type="text/css" href="../_static/sphinx_lesson.css?v=e9df6548" />
+      <link rel="stylesheet" type="text/css" href="../_static/term_role_formatting.css?v=4194e21c" />
+      <link rel="stylesheet" type="text/css" href="../_static/theme_overrides.css?v=45045ad3" />
+
+  
+    <link rel="shortcut icon" href="../_static/coderefinery.ico"/>
+      <script src="../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../_static/documentation_options.js?v=187304be"></script>
+      <script src="../_static/doctools.js?v=9bcbadda"></script>
+      <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="../_static/copybutton.js?v=f281be69"></script>
+      <script src="../_static/minipres.js?v=a0d29692"></script>
+      <script>let toggleHintShow = 'Click to show';</script>
+      <script>let toggleHintHide = 'Click to hide';</script>
+      <script>let toggleOpenOnPrint = 'true';</script>
+      <script src="../_static/togglebutton.js?v=b8b12719"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+      <script data-domain="coderefinery.github.io" defer="defer" src="https://plausible.cs.aalto.fi/js/script.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex/" />
+    <link rel="search" title="Search" href="../search/" />
+    <link rel="next" title="Releasing a new version of a lesson" href="../lesson-version/" />
+    <link rel="prev" title="Making CodeRefinery lessons FAIR" href="../lesson-fair/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../" class="icon icon-home">
+            CodeRefinery manuals
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Learners</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-stream/">Attending an livestream workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-online/">Attending a Zoom workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../how-to-attend-inperson/">Attending an in-person workshop</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../zoom-mechanics/">Zoom mechanics and signals</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../hackmd-mechanics/">Notes mechanics</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Workshop roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../roles-overview/">Roles overview</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../team-leaders/">Team leaders (Helpers, Exercise leaders)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructors/">(Co-)Instructors</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-maintainer/">Lesson maintainer</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../notes-manager/">Notes manager</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../expert-helpers/">Expert helpers</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../host/">Zoom Host</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../registration-coordinator/">Registration coordinator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../exercise-coordinator/">Exercise coordinator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-marketing/">Workshop marketing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../director/">Director</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../broadcaster/">Broadcaster</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-editor/">Video editor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-organizers/">Workshop organizers</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Instructor tools and practices</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-intro/">Instructor introduction</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-kickstart/">Instructor kickstart program</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-topissues/">Top issues new instructors face</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-checklist/">Instructor checklists</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-computer/">Instructor computer setup</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-screenshare/">Instructor screenshare</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-audio/">Instructor audio</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../instructor-stream/">Teaching via livestream</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../team-teaching/">Team teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching-plan/">Teaching plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../presenting/">Presentation hints</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../presenting-inperson/">Presentation hints - in person</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Lesson development</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../lesson-philosophy/">Lesson philosophy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-design/">Lesson design</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-review/">Lesson review checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-contribution/">Lesson contribution guide</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-fair/">Making CodeRefinery lessons FAIR</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Lesson metadata</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#overview">Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#metadata-yml"><code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#generating-citation-cff-and-bioschemas-yml">Generating <code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code> and <code class="docutils literal notranslate"><span class="pre">bioschemas.yml</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#publishing-to-zenodo">Publishing to Zenodo</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#displaying-metadata-in-the-lesson-itself">Displaying metadata in the lesson itself</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#lesson-maintainer-metadata">Lesson maintainer metadata</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#setting-up-metadata-for-a-new-lesson">Setting up metadata for a new lesson</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#when-things-get-updated-at-a-glance">When things get updated, at a glance</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-version/">Releasing a new version of a lesson</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other tools and practices</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../obs/">Open Broadcaster Software theory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-checklist/">Workshop checklist template</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-requirements-inperson/">Workshop basic requirements checklist (in person)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../inpersonstream/">Streamed workshop - classroom checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-administration/">Workshop administration (reference)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../indico/">Indico registration system</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../icebreakers/">Icebreaker question ideas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-checking/">Video checking OLD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../video-editing/">Video editing OLD</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../online-training/">Online training manual OLD</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Misc</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../online/">Online teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../coderefinery-mooc/">CodeRefinery MOOC strategy</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tech-docs/">Writing technical docs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../meeting-checklist/">Meeting checklist</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../workshop-prep-call/">Workshop preparation meeting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../teaching-tech-together/">Summary of the book &quot;Teaching Teach Together&quot;</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">About CodeRefinery</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../onboarding/">Onboarding</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../chat/">Chat</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ambassadors/">Ambassadors</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../contributing/">Contributing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lesson-credits/">Lesson credits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../local-breakout-rooms/">Local breakout rooms</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../open-your-courses/">Open your courses to others</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../the-project/">The project</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../governance/">CodeRefinery governance</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../outreach/">Outreach plan</a></li>
+<li class="toctree-l1"><a class="reference external" href="https://github.com/coderefinery/coderefinery-artwork">Logo and artwork</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../">CodeRefinery manuals</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Lesson metadata</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/coderefinery/manuals/blob/master/lesson-metadata.md" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="lesson-metadata">
+<h1>Lesson metadata<a class="headerlink" href="#lesson-metadata" title="Link to this heading"></a></h1>
+<p>To make our lessons citable, findable, and machine-readable (see
+<a class="reference internal" href="../lesson-fair/"><span class="std std-doc">making lessons FAIR</span></a>), each lesson repository carries
+a single master metadata file, <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code>. Everything else —
+<code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code>, <code class="docutils literal notranslate"><span class="pre">bioschemas.yml</span></code>, and the Zenodo deposit created at
+release time — is generated from it automatically. <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> is
+the only file maintainers ever hand-edit; the rest should never be
+edited by hand, since those edits would just be overwritten.</p>
+<p>This page is the reference for what <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> contains, how the
+other three are generated from it, and when things get updated —
+including a field-by-field guide for <a class="reference internal" href="#setting-up-metadata-for-a-new-lesson"><span class="xref myst">setting up metadata on a new
+lesson</span></a>. For the human side of
+“who gets listed”, see <a class="reference internal" href="../lesson-credits/"><span class="std std-doc">lesson credits</span></a>; for the
+step-by-step release process, see <a class="reference internal" href="../lesson-version/"><span class="std std-doc">releasing a new
+version</span></a>.</p>
+<section id="overview">
+<h2>Overview<a class="headerlink" href="#overview" title="Link to this heading"></a></h2>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>File / target</p></th>
+<th class="head"><p>Location</p></th>
+<th class="head"><p>Hand-edited?</p></th>
+<th class="head"><p>Generated by</p></th>
+<th class="head"><p>Read by</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code></p></td>
+<td><p>root of each lesson repo</p></td>
+<td><p><strong>Yes</strong> — the only file to edit</p></td>
+<td><p>—</p></td>
+<td><p>the two generators below, and the <code class="docutils literal notranslate"><span class="pre">lesson-metadata</span></code> directive</p></td>
+</tr>
+<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code></p></td>
+<td><p>root of each lesson repo</p></td>
+<td><p>No — generated</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">generate_metadata_files.py</span></code>, on push to <code class="docutils literal notranslate"><span class="pre">main</span></code></p></td>
+<td><p>GitHub’s “Cite this repository” button</p></td>
+</tr>
+<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">bioschemas.yml</span></code></p></td>
+<td><p>root of each lesson repo</p></td>
+<td><p>No — generated</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">generate_metadata_files.py</span></code>, on push to <code class="docutils literal notranslate"><span class="pre">main</span></code></p></td>
+<td><p>Bioschemas/schema.org crawlers and catalogs</p></td>
+</tr>
+<tr class="row-odd"><td><p>Zenodo deposit</p></td>
+<td><p>zenodo.org</p></td>
+<td><p>No — built at release time</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">publish_to_zenodo.py</span></code>, on GitHub release publish</p></td>
+<td><p>Zenodo record page, OpenAIRE</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="metadata-yml">
+<h2><code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code><a class="headerlink" href="#metadata-yml" title="Link to this heading"></a></h2>
+<p>Example, based on our documentation lesson:</p>
+<div class="highlight-yaml notranslate"><div class="highlight"><pre><span></span><span class="nt">title</span><span class="p">:</span><span class="w"> </span><span class="s">"How</span><span class="nv"> </span><span class="s">to</span><span class="nv"> </span><span class="s">document</span><span class="nv"> </span><span class="s">your</span><span class="nv"> </span><span class="s">research</span><span class="nv"> </span><span class="s">software"</span>
+<span class="nt">abstract</span><span class="p">:</span><span class="w"> </span><span class="s">"The</span><span class="nv"> </span><span class="s">lesson</span><span class="nv"> </span><span class="s">'How</span><span class="nv"> </span><span class="s">to</span><span class="nv"> </span><span class="s">document</span><span class="nv"> </span><span class="s">your</span><span class="nv"> </span><span class="s">research</span><span class="nv"> </span><span class="s">software'</span><span class="nv"> </span><span class="s">gives</span><span class="nv"> </span><span class="s">an</span><span class="nv"> </span><span class="s">overview</span><span class="nv"> </span><span class="s">of</span><span class="nv"> </span><span class="s">the</span><span class="nv"> </span><span class="s">different</span><span class="nv"> </span><span class="s">ways</span><span class="nv"> </span><span class="s">how</span><span class="nv"> </span><span class="s">a</span><span class="nv"> </span><span class="s">code</span><span class="nv"> </span><span class="s">project</span><span class="nv"> </span><span class="s">can</span><span class="nv"> </span><span class="s">be</span><span class="nv"> </span><span class="s">documented:</span><span class="nv"> </span><span class="s">from</span><span class="nv"> </span><span class="s">small</span><span class="nv"> </span><span class="s">projects</span><span class="nv"> </span><span class="s">to</span><span class="nv"> </span><span class="s">larger</span><span class="nv"> </span><span class="s">projects.</span><span class="nv"> </span><span class="s">Markdown</span><span class="nv"> </span><span class="s">and</span><span class="nv"> </span><span class="s">Sphinx</span><span class="nv"> </span><span class="s">are</span><span class="nv"> </span><span class="s">central</span><span class="nv"> </span><span class="s">tools</span><span class="nv"> </span><span class="s">in</span><span class="nv"> </span><span class="s">this</span><span class="nv"> </span><span class="s">lesson."</span>
+<span class="nt">version</span><span class="p">:</span><span class="w"> </span><span class="s">"2026-08-03"</span>
+<span class="nt">doi</span><span class="p">:</span><span class="w"> </span><span class="s">"10.5281/zenodo.8280234"</span>
+<span class="nt">url</span><span class="p">:</span><span class="w"> </span><span class="s">"https://coderefinery.github.io/documentation/"</span>
+<span class="nt">license</span><span class="p">:</span><span class="w"> </span><span class="s">"CC-BY-4.0"</span>
+<span class="nt">repository-code</span><span class="p">:</span><span class="w"> </span><span class="s">"https://github.com/coderefinery/documentation"</span>
+<span class="nt">keywords</span><span class="p">:</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="s">"Documentation"</span>
+<span class="w">  </span><span class="p p-Indicator">-</span><span class="w"> </span><span class="s">"Sphinx"</span>
+<span class="nt">educationalLevel</span><span class="p">:</span><span class="w"> </span><span class="s">"Beginner"</span>
+<span class="nt">inLanguage</span><span class="p">:</span><span class="w"> </span><span class="s">"en-UK"</span>
+<span class="nt">teaches</span><span class="p">:</span><span class="w"> </span><span class="s">"Understand</span><span class="nv"> </span><span class="s">the</span><span class="nv"> </span><span class="s">importance</span><span class="nv"> </span><span class="s">of</span><span class="nv"> </span><span class="s">writing</span><span class="nv"> </span><span class="s">code</span><span class="nv"> </span><span class="s">documentation</span><span class="nv"> </span><span class="s">together</span><span class="nv"> </span><span class="s">with</span><span class="nv"> </span><span class="s">the</span><span class="nv"> </span><span class="s">source</span><span class="nv"> </span><span class="s">code,</span><span class="nv"> </span><span class="s">Know</span><span class="nv"> </span><span class="s">what</span><span class="nv"> </span><span class="s">makes</span><span class="nv"> </span><span class="s">a</span><span class="nv"> </span><span class="s">good</span><span class="nv"> </span><span class="s">documentation,</span><span class="nv"> </span><span class="s">Learn</span><span class="nv"> </span><span class="s">what</span><span class="nv"> </span><span class="s">tools</span><span class="nv"> </span><span class="s">can</span><span class="nv"> </span><span class="s">be</span><span class="nv"> </span><span class="s">used</span><span class="nv"> </span><span class="s">for</span><span class="nv"> </span><span class="s">writing</span><span class="nv"> </span><span class="s">documentation,</span><span class="nv"> </span><span class="s">Be</span><span class="nv"> </span><span class="s">able</span><span class="nv"> </span><span class="s">to</span><span class="nv"> </span><span class="s">motivate</span><span class="nv"> </span><span class="s">a</span><span class="nv"> </span><span class="s">balanced</span><span class="nv"> </span><span class="s">decision:</span><span class="nv"> </span><span class="s">sometimes</span><span class="nv"> </span><span class="s">READMEs</span><span class="nv"> </span><span class="s">are</span><span class="nv"> </span><span class="s">absolutely</span><span class="nv"> </span><span class="s">enough"</span>
+<span class="nt">isPartOf</span><span class="p">:</span><span class="w"> </span><span class="s">"https://coderefinery.org"</span>
+<span class="nt">audience</span><span class="p">:</span><span class="w"> </span><span class="s">""</span>
+<span class="nt">competencyRequired</span><span class="p">:</span><span class="w"> </span><span class="s">""</span>
+<span class="nt">accessibilitySummary</span><span class="p">:</span><span class="w"> </span><span class="s">""</span>
+<span class="nt">learningResourceType</span><span class="p">:</span><span class="w"> </span><span class="s">"lesson"</span>
+<span class="nt">authors</span><span class="p">:</span>
+<span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="s">"CodeRefinery"</span>
+<span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">family-names</span><span class="p">:</span><span class="w"> </span><span class="s">"Doe"</span>
+<span class="w">  </span><span class="nt">given-names</span><span class="p">:</span><span class="w"> </span><span class="s">"Jane"</span>
+<span class="p p-Indicator">-</span><span class="w"> </span><span class="nt">family-names</span><span class="p">:</span><span class="w"> </span><span class="s">"Foe"</span>
+<span class="w">  </span><span class="nt">given-names</span><span class="p">:</span><span class="w"> </span><span class="s">"John"</span>
+<span class="c1"># Optional, currently unset for this lesson. Same shape as `authors`.</span>
+<span class="c1"># maintainers:</span>
+<span class="c1"># - family-names: "Doe"</span>
+<span class="c1">#   given-names: "Jane"</span>
+</pre></div>
+</div>
+<p>All values are deliberately quoted, so they always load as plain
+strings rather than YAML dates/numbers — this matters especially for
+<code class="docutils literal notranslate"><span class="pre">version</span></code>, which is a date.</p>
+<p>Field reference, with where each one ends up:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">title</span></code> — the <strong>base</strong> title, without the “ - CodeRefinery lesson”
+suffix: that’s appended automatically wherever it’s needed
+(<code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code>’s <code class="docutils literal notranslate"><span class="pre">title</span></code>, bioschemas’ <code class="docutils literal notranslate"><span class="pre">name</span></code>, Zenodo’s <code class="docutils literal notranslate"><span class="pre">title</span></code>).</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">abstract</span></code> — becomes <code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code>’s <code class="docutils literal notranslate"><span class="pre">abstract</span></code>, bioschemas’
+<code class="docutils literal notranslate"><span class="pre">description</span></code>/<code class="docutils literal notranslate"><span class="pre">about</span></code>, and the start of the Zenodo description
+(which also gets links to <code class="docutils literal notranslate"><span class="pre">repository-code</span></code>, <code class="docutils literal notranslate"><span class="pre">url</span></code>, and
+coderefinery.org appended automatically).</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">version</span></code> — quoted date string <code class="docutils literal notranslate"><span class="pre">&quot;YYYY-MM-DD&quot;</span></code>. Feeds <code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code>’s
+<code class="docutils literal notranslate"><span class="pre">version</span></code> <strong>and</strong> <code class="docutils literal notranslate"><span class="pre">date-released</span></code> (one field covers both now, since
+for a lesson they’re always the same date), bioschemas’ <code class="docutils literal notranslate"><span class="pre">version</span></code>,
+and Zenodo’s <code class="docutils literal notranslate"><span class="pre">version</span></code>.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">doi</span></code> — the Zenodo <em>concept</em> DOI; left as-is once set. Feeds
+bioschemas’ <code class="docutils literal notranslate"><span class="pre">identifier</span></code> (as <code class="docutils literal notranslate"><span class="pre">https://doi.org/&lt;doi&gt;</span></code>); not sent to
+Zenodo directly, since Zenodo assigns/records the version-specific
+DOI itself.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">url</span></code> — the lesson’s rendered site. Feeds bioschemas’ <code class="docutils literal notranslate"><span class="pre">&#64;id</span></code>/<code class="docutils literal notranslate"><span class="pre">url</span></code>
+and is linked in the Zenodo description.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">license</span></code> — an SPDX identifier, e.g. <code class="docutils literal notranslate"><span class="pre">CC-BY-4.0</span></code>. Passed through
+as-is to <code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code> and Zenodo; converted to a full license URL
+for bioschemas via a lookup table (<code class="docutils literal notranslate"><span class="pre">SPDX_LICENSE_URLS</span></code>) in the
+generator script.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">repository-code</span></code> — the source repo URL. Included in <code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code>
+and linked in the Zenodo description.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">keywords</span></code> — a list. <strong>Not</strong> used in <code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code> at all;
+comma-joined into bioschemas’ <code class="docutils literal notranslate"><span class="pre">keywords</span></code> string; sent as-is (a list)
+to Zenodo’s <code class="docutils literal notranslate"><span class="pre">keywords</span></code>.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">educationalLevel</span></code>, <code class="docutils literal notranslate"><span class="pre">inLanguage</span></code>, <code class="docutils literal notranslate"><span class="pre">teaches</span></code>, <code class="docutils literal notranslate"><span class="pre">isPartOf</span></code>, <code class="docutils literal notranslate"><span class="pre">audience</span></code>,
+<code class="docutils literal notranslate"><span class="pre">competencyRequired</span></code>, <code class="docutils literal notranslate"><span class="pre">accessibilitySummary</span></code>, <code class="docutils literal notranslate"><span class="pre">learningResourceType</span></code>
+— bioschemas-only, no <code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code> or Zenodo equivalent.
+<code class="docutils literal notranslate"><span class="pre">inLanguage</span></code> uses a BCP47 tag (e.g. <code class="docutils literal notranslate"><span class="pre">en-UK</span></code>), deliberately not
+reused for Zenodo, which expects a different language code format.
+<code class="docutils literal notranslate"><span class="pre">audience</span></code> is schema.org’s structured <code class="docutils literal notranslate"><span class="pre">Audience</span></code> type, but is
+currently stored and emitted as a plain string — a known
+simplification.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">authors</span></code> — one entry per contributor: organizations via <code class="docutils literal notranslate"><span class="pre">name:</span></code>,
+people via <code class="docutils literal notranslate"><span class="pre">family-names</span></code>/<code class="docutils literal notranslate"><span class="pre">given-names</span></code> (and optionally <code class="docutils literal notranslate"><span class="pre">orcid</span></code>,
+given as the full <code class="docutils literal notranslate"><span class="pre">https://orcid.org/...</span></code> URL). Feeds
+<code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code>’s <code class="docutils literal notranslate"><span class="pre">authors</span></code> directly, bioschemas’ <code class="docutils literal notranslate"><span class="pre">author</span></code> list
+(mapped to <code class="docutils literal notranslate"><span class="pre">Person</span></code>/<code class="docutils literal notranslate"><span class="pre">Organization</span></code>, as a single name string, without
+<code class="docutils literal notranslate"><span class="pre">orcid</span></code>), and Zenodo’s <code class="docutils literal notranslate"><span class="pre">creators</span></code> (name joined as <code class="docutils literal notranslate"><span class="pre">&quot;Family,</span> <span class="pre">Given&quot;</span></code>,
+<code class="docutils literal notranslate"><span class="pre">orcid</span></code> included, stripped to its bare form, if present). See
+<a class="reference internal" href="../lesson-credits/"><span class="std std-doc">lesson credits</span></a> for how someone gets added. We
+don’t distinguish smaller “contributor”-level credit — anyone listed
+here is an author.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">maintainers</span></code> — optional, same list shape as <code class="docutils literal notranslate"><span class="pre">authors</span></code>. Meant to
+record <a class="reference internal" href="../lesson-maintainer/"><span class="std std-doc">lesson maintainer(s)</span></a> — work in
+progress, since we don’t currently have lesson maintainers (that
+page is only an initial suggestion for the role, not an adopted
+practice). Feeds <code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code>’s <code class="docutils literal notranslate"><span class="pre">contact</span></code> and a Zenodo
+<code class="docutils literal notranslate"><span class="pre">contributors</span></code> entry (per maintainer, with type <code class="docutils literal notranslate"><span class="pre">ContactPerson</span></code>) —
+both are live already, conditional on this field being set. The
+bioschemas mapping (a <code class="docutils literal notranslate"><span class="pre">maintainer</span></code> property) exists in the generator
+too but is currently commented out, so it won’t appear in
+<code class="docutils literal notranslate"><span class="pre">bioschemas.yml</span></code> yet even once <code class="docutils literal notranslate"><span class="pre">maintainers</span></code> is filled in. No lesson
+has this field populated yet — see <a class="reference internal" href="#lesson-maintainer-metadata"><span class="xref myst">lesson maintainer
+metadata</span></a> below.</p></li>
+</ul>
+<p><code class="docutils literal notranslate"><span class="pre">cff-version</span></code>, <code class="docutils literal notranslate"><span class="pre">message</span></code>, and <code class="docutils literal notranslate"><span class="pre">type</span></code> (the CFF schema/citation-message
+boilerplate) aren’t in <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> at all — they’re hardcoded
+constants in the generator script, since they never change between
+lessons.</p>
+</section>
+<section id="generating-citation-cff-and-bioschemas-yml">
+<h2>Generating <code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code> and <code class="docutils literal notranslate"><span class="pre">bioschemas.yml</span></code><a class="headerlink" href="#generating-citation-cff-and-bioschemas-yml" title="Link to this heading"></a></h2>
+<p><code class="docutils literal notranslate"><span class="pre">generate_metadata_files.py</span></code>
+reads <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> and (re)writes both <code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code> and
+<code class="docutils literal notranslate"><span class="pre">bioschemas.yml</span></code> from it. The
+<code class="docutils literal notranslate"><span class="pre">generate-metadata.yml</span></code>
+GitHub Actions workflow runs this automatically whenever <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code>
+changes on <code class="docutils literal notranslate"><span class="pre">main</span></code>, and commits the regenerated files back with a bot
+commit.</p>
+<p>In practice: edit <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code>, open a pull request, merge it — the
+two generated files update themselves. There’s nothing to run locally
+and nothing else to edit.</p>
+</section>
+<section id="publishing-to-zenodo">
+<h2>Publishing to Zenodo<a class="headerlink" href="#publishing-to-zenodo" title="Link to this heading"></a></h2>
+<p>Every GitHub release triggers a new version in our <a class="reference external" href="https://zenodo.org/communities/coderefinery">CodeRefinery
+Zenodo community</a>, under
+the same concept DOI as previous releases (the concept DOI is the one
+kept as <code class="docutils literal notranslate"><span class="pre">doi</span></code> in <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code>).</p>
+<p>Publishing is driven by
+<code class="docutils literal notranslate"><span class="pre">publish_to_zenodo.py</span></code>,
+run by each lesson’s <code class="docutils literal notranslate"><span class="pre">zenodo.yml</span></code> GitHub Actions workflow whenever a
+GitHub release is published. It reads <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> directly. Like the two scripts above, it isn’t part of the
+shared lesson template yet — it’s currently copied into each lesson
+repository individually, so a fix or improvement has to be applied per
+repo. It:</p>
+<ol class="arabic simple">
+<li><p>Reads <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> and builds a Zenodo metadata payload from it
+(see field mapping below).</p></li>
+<li><p>Finds the latest existing Zenodo version under <code class="docutils literal notranslate"><span class="pre">ZENODO_CONCEPT_ID</span></code>
+and creates a new draft version under the same concept.</p></li>
+<li><p>Uploads the tagged GitHub release’s source archive and the lesson
+PDF built onto the <code class="docutils literal notranslate"><span class="pre">gh-pages</span></code> branch.</p></li>
+<li><p>Publishes the draft, producing a new version DOI under the same
+concept DOI — see the verification step in <a class="reference internal" href="../lesson-version/"><span class="std std-doc">releasing a new
+version</span></a>.</p></li>
+</ol>
+<p>Field mapping from <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> to Zenodo:</p>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Zenodo field</p></th>
+<th class="head"><p>From <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code></p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">title</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">title</span></code></p></td>
+<td><p>the “ - CodeRefinery lesson” suffix is appended by the script</p></td>
+</tr>
+<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">upload_type</span></code></p></td>
+<td><p>—</p></td>
+<td><p>hardcoded to <code class="docutils literal notranslate"><span class="pre">&quot;lesson&quot;</span></code> in the script</p></td>
+</tr>
+<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">description</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">abstract</span></code></p></td>
+<td><p>plus auto-appended links to <code class="docutils literal notranslate"><span class="pre">repository-code</span></code>, <code class="docutils literal notranslate"><span class="pre">url</span></code>, and a fixed link to coderefinery.org</p></td>
+</tr>
+<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">creators</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">authors</span></code></p></td>
+<td><p>organizational entries pass through as-is; person entries become a single <code class="docutils literal notranslate"><span class="pre">&quot;Family,</span> <span class="pre">Given&quot;</span></code> string; <code class="docutils literal notranslate"><span class="pre">orcid</span></code>, if present, is included with its <code class="docutils literal notranslate"><span class="pre">https://orcid.org/</span></code> prefix stripped</p></td>
+</tr>
+<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">keywords</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">keywords</span></code></p></td>
+<td><p>sent as the list, as-is</p></td>
+</tr>
+<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">version</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">version</span></code></p></td>
+<td><p>sent as-is</p></td>
+</tr>
+<tr class="row-even"><td><p><code class="docutils literal notranslate"><span class="pre">license</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">license</span></code></p></td>
+<td><p>sent as the raw SPDX identifier (e.g. <code class="docutils literal notranslate"><span class="pre">CC-BY-4.0</span></code>), unlike <code class="docutils literal notranslate"><span class="pre">bioschemas.yml</span></code> which converts it to a full URL</p></td>
+</tr>
+<tr class="row-odd"><td><p><code class="docutils literal notranslate"><span class="pre">contributors</span></code></p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">maintainers</span></code></p></td>
+<td><p>one entry per maintainer, each with <code class="docutils literal notranslate"><span class="pre">type:</span> <span class="pre">ContactPerson</span></code>; omitted entirely if <code class="docutils literal notranslate"><span class="pre">maintainers</span></code> isn’t set</p></td>
+</tr>
+<tr class="row-even"><td><p>—</p></td>
+<td><p><code class="docutils literal notranslate"><span class="pre">doi</span></code></p></td>
+<td><p>not part of the payload — Zenodo assigns/records the version DOI itself</p></td>
+</tr>
+</tbody>
+</table>
+<p>All <code class="docutils literal notranslate"><span class="pre">authors</span></code> — including the <code class="docutils literal notranslate"><span class="pre">CodeRefinery</span></code> organizational entry —
+stay in <code class="docutils literal notranslate"><span class="pre">creators</span></code>, never in <code class="docutils literal notranslate"><span class="pre">contributors</span></code>: Zenodo only includes
+<code class="docutils literal notranslate"><span class="pre">creators</span></code> in the actual citation text, so moving individual people to
+<code class="docutils literal notranslate"><span class="pre">contributors</span></code> would drop them from the permanent citation.
+<code class="docutils literal notranslate"><span class="pre">contributors</span></code> is reserved for people who aren’t already counted as an
+author, which is exactly the <code class="docutils literal notranslate"><span class="pre">maintainers</span></code> field’s role above.</p>
+</section>
+<section id="displaying-metadata-in-the-lesson-itself">
+<h2>Displaying metadata in the lesson itself<a class="headerlink" href="#displaying-metadata-in-the-lesson-itself" title="Link to this heading"></a></h2>
+<p>A Sphinx directive, <code class="docutils literal notranslate"><span class="pre">{lesson-metadata}</span></code>, is available (from
+<code class="docutils literal notranslate"><span class="pre">content/lesson_metadata.py</span></code>,
+registered as a Sphinx extension in <code class="docutils literal notranslate"><span class="pre">conf.py</span></code>). Dropped onto any
+content page, it renders the repository’s <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> as an HTML
+table — useful for an about/credits page, for example. It’s available
+tooling, not required on any particular page.</p>
+</section>
+<section id="lesson-maintainer-metadata">
+<h2>Lesson maintainer metadata<a class="headerlink" href="#lesson-maintainer-metadata" title="Link to this heading"></a></h2>
+<div class="admonition-work-in-progress admonition">
+<p class="admonition-title">Work in progress</p>
+<p>We don’t currently have lesson maintainers — <a class="reference internal" href="../lesson-maintainer/"><span class="std std-doc">lesson
+maintainer</span></a> is only an initial suggestion for the
+role, not an adopted practice. Everything below describes plumbing
+that exists in case/once it is adopted.</p>
+</div>
+<p>Recording a lesson maintainer in <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code>’s <code class="docutils literal notranslate"><span class="pre">maintainers</span></code> field
+is possible but not yet in active use — no lesson has it filled in
+today. The plumbing that exists so far:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code>’s <code class="docutils literal notranslate"><span class="pre">contact</span></code> and Zenodo’s <code class="docutils literal notranslate"><span class="pre">contributors</span></code>
+(<code class="docutils literal notranslate"><span class="pre">type:</span> <span class="pre">ContactPerson</span></code>) are already wired up in the generator/publish
+scripts — filling in <code class="docutils literal notranslate"><span class="pre">maintainers</span></code> in <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> and pushing
+would immediately start populating both.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">bioschemas.yml</span></code>’s <code class="docutils literal notranslate"><span class="pre">maintainer</span></code> property is <strong>not</strong> wired up yet:
+the mapping exists as commented-out code in
+<code class="docutils literal notranslate"><span class="pre">generate_metadata_files.py</span></code>, so it needs that line uncommented
+before it would take effect, even with <code class="docutils literal notranslate"><span class="pre">maintainers</span></code> filled in.</p></li>
+</ul>
+</section>
+<section id="setting-up-metadata-for-a-new-lesson">
+<h2>Setting up metadata for a new lesson<a class="headerlink" href="#setting-up-metadata-for-a-new-lesson" title="Link to this heading"></a></h2>
+<p>This <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> setup isn’t part of the <a class="reference external" href="https://github.com/coderefinery/sphinx-lesson-template">Sphinx lesson
+template</a> yet
+— that centralization is planned but not done. Until then, new lessons
+should copy <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> and the two generator scripts/workflows
+above from an existing lesson that already uses this pattern (e.g. our
+documentation lesson), then fill in <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> field by field:</p>
+<p>Fill in now:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">title</span></code> — the lesson’s title, without the “ - CodeRefinery lesson”
+suffix (added automatically)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">abstract</span></code> — a short (1-3 sentence) description of what the lesson
+covers</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">authors</span></code> — start with the <code class="docutils literal notranslate"><span class="pre">CodeRefinery</span></code> organizational entry, plus
+whoever is creating the lesson; more are added as people contribute</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">maintainers</span></code> — optional; the initial <a class="reference internal" href="../lesson-maintainer/"><span class="std std-doc">lesson
+maintainer(s)</span></a>, if one has already been
+assigned (see the caveats in <a class="reference internal" href="#lesson-maintainer-metadata"><span class="xref myst">lesson maintainer
+metadata</span></a> about what this currently
+does and doesn’t reach)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">url</span></code> — the lesson’s future GitHub Pages URL, i.e.
+<code class="docutils literal notranslate"><span class="pre">https://coderefinery.github.io/&lt;repo-name&gt;/</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">repository-code</span></code> — the new GitHub repository’s URL</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">license</span></code> — <code class="docutils literal notranslate"><span class="pre">CC-BY-4.0</span></code> for all our lessons</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">keywords</span></code>, <code class="docutils literal notranslate"><span class="pre">educationalLevel</span></code>, <code class="docutils literal notranslate"><span class="pre">inLanguage</span></code>, <code class="docutils literal notranslate"><span class="pre">teaches</span></code>, <code class="docutils literal notranslate"><span class="pre">isPartOf</span></code>,
+<code class="docutils literal notranslate"><span class="pre">audience</span></code>, <code class="docutils literal notranslate"><span class="pre">competencyRequired</span></code>, <code class="docutils literal notranslate"><span class="pre">accessibilitySummary</span></code>,
+<code class="docutils literal notranslate"><span class="pre">learningResourceType</span></code> — the Bioschemas-specific descriptive fields</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">version</span></code> — today’s date, format <code class="docutils literal notranslate"><span class="pre">YYYY-MM-DD</span></code></p></li>
+</ul>
+<p>Leave blank until the first release:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">doi</span></code> — there’s no concept DOI yet. Follow the prerequisites in
+<a class="reference internal" href="../lesson-version/"><span class="std std-doc">releasing a new version</span></a> to set up the Zenodo
+entry, then fill this in with the resulting concept DOI. Once set,
+it never changes again.</p></li>
+</ul>
+<p>Once <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> is filled in and merged to <code class="docutils literal notranslate"><span class="pre">main</span></code>, <code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code>
+and <code class="docutils literal notranslate"><span class="pre">bioschemas.yml</span></code> generate themselves — there’s nothing to set up
+in those two files directly.</p>
+</section>
+<section id="when-things-get-updated-at-a-glance">
+<h2>When things get updated, at a glance<a class="headerlink" href="#when-things-get-updated-at-a-glance" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p><strong>As people contribute:</strong> the <code class="docutils literal notranslate"><span class="pre">authors</span></code> list in <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code>.</p></li>
+<li><p><strong>When the maintainer changes:</strong> the <code class="docutils literal notranslate"><span class="pre">maintainers</span></code> field in
+<code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code>, once it’s in active use (see <a class="reference internal" href="#lesson-maintainer-metadata"><span class="xref myst">lesson maintainer
+metadata</span></a>).</p></li>
+<li><p><strong>When the lesson’s scope changes materially:</strong> <code class="docutils literal notranslate"><span class="pre">title</span></code>, <code class="docutils literal notranslate"><span class="pre">abstract</span></code>,
+and the Bioschemas-specific descriptive fields.</p></li>
+<li><p><strong>At release time:</strong> <code class="docutils literal notranslate"><span class="pre">version</span></code> in <code class="docutils literal notranslate"><span class="pre">metadata.yml</span></code> (this alone also
+covers <code class="docutils literal notranslate"><span class="pre">date-released</span></code>); pushing it to <code class="docutils literal notranslate"><span class="pre">main</span></code> regenerates
+<code class="docutils literal notranslate"><span class="pre">CITATION.cff</span></code>/<code class="docutils literal notranslate"><span class="pre">bioschemas.yml</span></code> automatically; tagging a release
+triggers the Zenodo publish.</p></li>
+<li><p><strong>Rarely/manually:</strong> <code class="docutils literal notranslate"><span class="pre">doi</span></code> (never, once set), <code class="docutils literal notranslate"><span class="pre">license</span></code>, <code class="docutils literal notranslate"><span class="pre">url</span></code>,
+<code class="docutils literal notranslate"><span class="pre">repository-code</span></code>.</p></li>
+</ul>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="../lesson-fair/" class="btn btn-neutral float-left" title="Making CodeRefinery lessons FAIR" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="../lesson-version/" class="btn btn-neutral float-right" title="Releasing a new version of a lesson" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2018-2023, The CodeRefinery team.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
