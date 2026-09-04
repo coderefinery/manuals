@@ -24,7 +24,7 @@ require major edits.  At most, there may be minor updates with respect
 to software/Github/etc. that has changed.
 
 * Minor updates are done as needed, usually right before the lesson is
-  taught.
+  taught (often led by instructors).
 * Github Issues with bigger ideas accumulate over time.  Sometimes
   these are done quickly, but often they pile up.
 * Through this time, the lesson maintainer keeps an eye on things and can
@@ -45,7 +45,8 @@ do changes all the time.  They are *not* expected to always teach it,
 but it's good if they can stay hands-on with the teaching some.
 
 * Keep the long-term vision of the lesson and ensure the different
-  contributions remain consistent with this.
+  contributions remain consistent with this.  Maintain "editorial
+  control" of the content.
 * Be very aware of the main trade-offs of CodeRefinery lessons: we
   have to teach something that's achievable for the common learner,
   not necessarily what we would do ourselves.  This is a delicate
@@ -63,7 +64,7 @@ but it's good if they can stay hands-on with the teaching some.
   spirit of the lesson and common pitfalls.  (You aren't expected to
   always be the instructor, but if you can sometimes, great)
 * Keeping the instructor guide up to date.
-* Can be around for at least a few years.
+* Ideally can be around for at least a few years, but it's flexible.
 
 
 ## Qualifications
@@ -82,7 +83,29 @@ Lessons need that sometimes.
 * Any pedagogy experience is good, but it's OK to read our guidelines.
 
 
-# Resources
+## Things that may come up
+
+* **An outside contributor submits something which doesn't fit the
+  lesson vision.**  This is unfortunate, and we try to keep our
+  {doc}`lesson-contribution` guidelines to make it clear we can't
+  promise to accept everything.
+
+* **Old issues pile up and can't be used immediately.**  This is
+  almost guaranteed to happen.  We can perhaps label them with "idea"
+  and/or tell contributors that they will be considered during the
+  next big re-working of the lesson.
+
+* **Disagreements of content.**  As the maintainer, we trust you to
+  overall guide things.  We have the CodeRefinery team meetings to
+  get a broader opinion and help coming to something
+
+* **Disagreement can't be resolved.**  In an extreme case, maybe there
+  are actually two different lessons to be given and a lesson can be
+  forked.  This is fine, but before that, consider if having different
+  episodes, hidden boxes, or tabs can help make it work.
+
+
+## Resources
 
 * Everything under "lesson development" in the left sidebar.
 * Carpentries, [lesson maintainers
