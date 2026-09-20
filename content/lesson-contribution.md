@@ -15,6 +15,19 @@ All our lesson materials are written in Markdown using fairly normal Sphinx, lik
 
 Our lessons are continually in use as a reference (and sometimes taught by others), but it's OK if they continually evolve.  A few times a year our self-hosted big courses happen: during these times, there is rapid development.  Usually, we try to limit to incremental changes during routine times.  Every so often, there is a period of big updates, where we'll look at all the accumulated bigger suggestions, the current state of the art, and what's needed, plan out a new lesson, and then implement it in time for the next course.  A few lessons each year may get this treatment at most.
 
+It's important to keep in mind that our lessons are designed as a
+complete package (both within a lesson and between lessons) that is
+curated towards a specific goal.  This is different than a collection
+of facts or code, where contributions can have a clear accept/reject
+criteria.  This shouldn't discourage you from contributing, but you
+should realize there is a lot more human discussion that goes on
+behind the scenes.
+
+You can always give suggestions, and the overall collection of
+suggestions *does* help with future versions.  Given that, the larger
+the change, the more you should be involved in the human discussion to
+see it through.  Join [our chat](chat) or meetings and get involved.
+
 
 ## How you can contribute
 
@@ -24,9 +37,16 @@ There are three ways to contribute, ordered from the easiest to the most demandi
 
 If you find a typo or have a quick suggestion, but cannot edit it yourself using git, you can open an issue describing the problem or proposal. Maintainers will review your suggestion and address it. 
 
+These will usually be checked at earliest before the next CodeRefinery
+workshop, when lesson maintenance happens.  Bigger changes are likely
+to happen during the next large revision round that happens every few
+years.
+
 ### 2. Small fixes and suggestions with git
 
-If you are familiar with git version control and you spot a typo, broken link, or error, you can submit a quick fix with git. Even small improvements like clarifying text or adding references are valuable. Usually the process works like this:
+If you are familiar with git version control and you spot a typo, broken link, or error, you can submit a quick fix with git. Even small improvements like clarifying text or adding references are valuable.  Because of the planning needed for larger changes, we'd recommend you just use this for small, obvious changes.
+
+Usually the process works like this:
 
 * If you do not have one, get a GitHub account. 
 * Fork Repository: This creates your own copy where you can freely edit.
@@ -34,13 +54,39 @@ If you are familiar with git version control and you spot a typo, broken link, o
 * Make your changes: edit or add the content. Please write in Markdown. If adding code or commands, format them properly (use code blocks) and test if applicable.
 * Submit a ***Pull Request***: Once your changes are ready, open a Pull Request (PR) to the main lesson repository. In the PR description, briefly explain your changes and why they improve the lesson. If your contribution closes an existing issue, mention it. CodeRefinery project members will review your PR, provide feedback if needed, and merge it when it’s ready. 
 
-Don't worry about getting the formatting just right.  If you let us know it's not perfect, we can usually quickly fix the synatx.
+Don't worry about getting the formatting just right, we can usually quickly fix the syntax.
 
 Tip: If you’re new to this, check out [our lesson on collaborative version control](https://coderefinery.github.io/git-collaborative/).
 
 ### 3. Large edits
 
+Large edits are great, but realistically, most of our lessons are
+rather mature and can't change that much between our big update
+cycles - which involve the feedback from many instructors.  You should
+work with the maintainers (Github issues, chat, coming to CodeRefinery
+team meetings, etc.) to get these through.  Most of our major updates
+come during periodic refreshes.
+
+If you have an idea for a large change, we'd recommend you document it
+in the Github issues, and these are always read before a lesson is
+re-worked (and also before each maintenance round before a workshop,
+but big changes aren't usually done then).  Collecting these ideas for
+improvements lets us improve the next version of the lesson, even if
+we can't use every one.
+
+There are some smaller things you can do for bigger updates, even if
+the main flow isn't updated:
+
+* Tabs for new programming languages.
+* Collapsible boxes for advanced info.
+* New optional episodes after the "main flow", which are not taught in
+  every lesson but can provide useful advanced information.
+
+Even for these, it might be good to check in first.
+
+<!--
 You can also add substantial contribution to the lessons, like a new section, improve an explanation, or include an example related to a specific topic. For major new content creation, please open an issue first to discuss your idea with the community, so we can coordinate and avoid overlaps.  We can't often make big changes, but we accumulate all the ideas and periodically do big updates.  Please don't feel bad if there is a very long period until a reaction.  Our own ideas get collected the same way.
+-->
 
 ## Style and content guidelines
 
@@ -49,9 +95,9 @@ To keep the lessons consistent and accessible, please keep these guidelines in m
 - Clarity and Tone: Aim for a clear, concise writing style. Explain acronyms or technical terms in simple language so that readers from various backgrounds can follow. Our tone is professional, but not overly formal or technical: think of explaining concepts to a colleague who is not an expert in the topic of any CodeRefinery lesson.
 - Formatting: Write content in Markdown. Use headings and bullet points to organize information logically (as seen in our existing chapters). Keep paragraphs short (3-5 sentences) for readability. When adding code snippets, use code blocks and include comments if needed for explanation. 
 - Target teaching style: Try to keep in mind that different courses remix the materials in different ways.  Don't remove or rearrange lots of material to optimize for one path, instead instructors are expected to pick and choose the episodes (pages) they want to teach.  These bigger arrangements happen during the major development sessions.  (The threshold for adding a new episode isn't so large, if it's an optional episode.)
-- Length: beware of adding too much and increasing the length.  There is always more to add, but there is also a strict time limit.  Most lessons are designed to give learners a taste of the material and be able to do follow up reading.
+- Length: beware of adding too much and increasing the length.  There is always more to add, but there is also a strict time limit.  Most lessons are designed to give learners a taste of the material and be able to do follow up reading.  (drop-down boxes and optional episodes get around most of this problem)
 - Content Accuracy: Ensure any facts or claims are accurate, ideally with a peer reviewed citation. 
-- Originality and Licensing: Contribute only your own work and do not plagiarize from other texts. By submitting a contribution, you agree that you wrote the content (or have rights to it) and that it can be included under the project’s open license.
+- Originality and Licensing: Contribute only your own work and do not plagiarize from other texts. By submitting a contribution, you agree that you wrote the content (or have rights to it and have declared the source) and that it can be included under the project’s open license.
 - Privacy Considerations: Your name (or nickname) will be publicly visible and associated to the contribution. Due to the distributed nature of open source projects, you accept that it will be impossible to delete your contribution from the version control history.
 - Use of generative AI: the undisclosed use of generative AI is accepted only for basic checks of grammar, spelling, and punctuation. If you use generative AI, you must declare it in your contribution and describe how it was used.
 - Because of the previous point, we reject automated contributions that are clearly coming from AI agents or other automated systems with close to zero human intervention. As a human you can present the work you did with an agent to improve a lesson and we can then discuss on how to integrate it in the existing materials.
