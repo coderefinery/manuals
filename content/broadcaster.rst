@@ -282,6 +282,8 @@ Common problems
 Broadcaster practice
 --------------------
 
+Setup
+
 1. Start OBS and import the scenes
 2. Start Zoom and configure OBS to capture the Zoom windows.
 3. Now we try to get the control panel working.
@@ -294,14 +296,28 @@ Broadcaster practice
 
    a. obs_cr/headless.py
 
+Basics
+
 5. Practice switching scenes
 6. Practice making scene presets and switching to them
 7. Practice scrolling the notes
 8. Use your headphones to monitor the sound (audio advanced settings)
-9. Include the music/jingle in the recorded video.  Now remove it from
-   the recorded video.  (I found it's better to leave it out because
-   it affects transcription.)
 
+Recovery from unusual situations (A broadcaster trainer will simulate
+these for you to recover from)
+
+9. The gallery view while screensharing also shows a screenshare.
+10. You have accidentally started a long jingle.
+11. There are black bars in a screenshare, despite being on the
+    correct preset.
+12. Notes are not scrolling.
+13. The gallery seems to have wrong cropping
+14. Instructors can not be heard on stream, but can on your computer.
+15. An instructor shows up with a screenshare that is only full-size.
+16. You hear the beeps from the indicators/coming back on stream.
+17. You can't seem to enable dual monitor mode.
+18. All control and communication is lost and you need to tell
+    something to attendees.
 
 
 See also

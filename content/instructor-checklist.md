@@ -32,6 +32,7 @@ See {doc}`team-teaching`
 - One run-through before the course.
 
 
+(instructor-final-checklist)=
 
 ## Final checklist
 

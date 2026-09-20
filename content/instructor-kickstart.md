@@ -137,14 +137,24 @@ Preparation: Make sure all the instructor technical setup is done
 (computer setup, audio, screenshare), so you can get final feedback on
 your exact setup.  All the [final checklist](instructor-checklist) stuff.
 
-We will:
-* Final check of tech setup (screenshare, audio, etc.)
+Agenda:
+* Final check of individual tech setup (screenshare, audio, etc.)
+
+  * Instructors divide into breakout rooms and cross-checks each
+    instructor the following things (quickly - there is too much to
+    do, so start at the top).  Give feedback to each other on how to
+    improve the setup.
+  * {doc}`instructor-screenshare`
+  * {doc}`instructor-audio`
+  * {ref}`instructor-final-checklist`
 * Go through the [livestream mechanics teaching practice
   exercises](https://coderefinery.github.io/train-the-trainer/streaming-practice-2/).
-* Do a whole test with your computer + practice the livestream.
-* You may practice the first 5 minutes of your lesson, going to a
-  break, last 5 minutes, maybe a Q&A.  Whatever we have time for.
+  * Practice the actual starting and stopping.
+  * You may practice the first 5 minutes of your lesson, going to a
+    break, last 5 minutes, maybe a Q&A.  Whatever we have time for.
 * Answer any final questions and give people confidence to present.
+* Free time
+  * You can use this time for anything else you'd like to get ready.
 
 Follow-up:
 * Improve any problems with your technical setup (screenshare, audio,
