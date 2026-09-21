@@ -45,7 +45,8 @@ class: dropdown
   - Co-teaching
   - Notes doc and continual Q&A
   - Livestream (including having much more support)
-  - Local classrooms
+  - Portrait screenshare
+  - Local classrooms and follow-up, global instructors.
   - Lesson format
 - Questions?
 - What comes next if you are teaching at the upcoming CR
