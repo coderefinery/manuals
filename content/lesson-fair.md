@@ -54,4 +54,4 @@ We generally update the lesson materials before every workshop together with ins
 
 ## Resources
 
-- Wiegers, L., & van Gelder, C. W. G. (2019). Illustration for "Ten simple rules for making training materials FAIR" (1.0). Zenodo. https://doi.org/10.5281/zenodo.3593258]
+- Garcia L, Batut B, Burke ML, Kuzak M, Psomopoulos F, Arcila R, et al. (2020) Ten simple rules for making training materials FAIR. PLoS Comput Biol 16(5): e1007854. https://doi.org/10.1371/journal.pcbi.1007854
