@@ -10,7 +10,7 @@ All our lesson materials live on GitHub in public repositories. All lessons use 
 
 ### 2. Describe properly
 
-All our lesson repositories include a `CITATION.cff` and a `bioschemas.yml` with the lesson metadata. Some fields are still a work in progress. The CITATION.cff file automatically registers in GitHub and provides option for citation information. The bioschemas file is built into the lesson html website without being visible on the page, it can be read by special crawlers and catalogs. See [lesson metadata](lesson-metadata.md) for the full reference on these files.
+All our lesson repositories include a `CITATION.cff` and a `bioschemas.yml` with the lesson metadata. Some fields are still a work in progress. The CITATION.cff file automatically registers in GitHub and provides option for citation information. The bioschemas file will be built into the lesson html website without being visible on the page, it will be read by special crawlers and catalogs. See [lesson metadata](lesson-metadata.md) for the full reference on these files.
 
 ### 3. Give unique identity
 
