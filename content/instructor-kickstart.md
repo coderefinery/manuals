@@ -47,7 +47,7 @@ class: dropdown
   - Livestream (including having much more support)
   - Portrait screenshare
   - Local classrooms and follow-up, global instructors.
-  - Lesson format
+  - Lesson material format
 - Questions?
 - What comes next if you are teaching at the upcoming CR
   - About the next two sessions.
